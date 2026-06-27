@@ -1,0 +1,14 @@
+title: デイリー・ニュース＆経済ブリーフィング
+description: 日本・世界・アメリカ・ヨーロッパのニュースと、世界／米国／日本の経済動向を毎朝まとめてお届けします。
+theme: minima
+lang: ja
+author:
+  name: achu-news
+show_excerpts: true
+minima:
+  date_format: "%Y年%-m月%-d日"
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
