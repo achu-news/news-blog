@@ -6,9 +6,8 @@ timezone: Asia/Tokyo
 show_excerpts: true
 minima:
   date_format: "%Y年%-m月%-d日 %H:%M"
-header_pages:
-  - about.md
-  - privacy.md
+# フッター（ページ最下部）にリンクを表示するため、上部メニューには出さない
+header_pages: []
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
