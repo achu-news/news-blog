@@ -15,6 +15,7 @@
   <meta name="twitter:card" content="summary">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.svg" | relative_url }}">
   {%- feed_meta -%}
 
   <!-- Google tag (gtag.js) -->
@@ -62,13 +63,34 @@
       z-index: 50;
       min-height: 66px;
     }
-    .site-title,
-    .site-title:visited {
-      font-family: "Noto Serif JP", serif;
-      font-weight: 700 !important;
+    .site-header .wrapper { display: flex; align-items: center; }
+    .site-title.brand,
+    .site-title.brand:visited {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.6rem;
+      line-height: 1.25;
+      padding: 0.55rem 0;
+      margin: 0;
       color: var(--text) !important;
-      letter-spacing: 0.5px;
     }
+    .brand-mark { width: 36px; height: 36px; flex: none; }
+    .brand-text { display: flex; flex-direction: column; }
+    .brand-name {
+      font-family: "Noto Serif JP", serif;
+      font-weight: 700;
+      font-size: 1.3rem;
+      letter-spacing: 0.5px;
+      color: var(--text);
+    }
+    .brand-tagline {
+      font-size: 0.7rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      letter-spacing: 0.3px;
+      margin-top: 1px;
+    }
+    .site-title.brand:hover .brand-name { color: var(--accent); }
 
     /* ===== Typography ===== */
     h1, h2, h3, h4, h5, h6 {
