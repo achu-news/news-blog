@@ -9,3 +9,27 @@
     </a>
   </div>
 </header>
+
+<!-- TradingView ライブ株価ティッカー -->
+<div class="market-ticker">
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+    {
+    "symbols": [
+      { "proName": "TVC:NI225", "title": "日経225" },
+      { "proName": "FX_IDC:USDJPY", "title": "ドル円" },
+      { "proName": "FOREXCOM:SPXUSD", "title": "S&P500" },
+      { "proName": "FOREXCOM:DJI", "title": "ダウ平均" },
+      { "proName": "NASDAQ:IXIC", "title": "ナスダック" },
+      { "proName": "TVC:USOIL", "title": "WTI原油" }
+    ],
+    "showSymbolLogo": true,
+    "isTransparent": true,
+    "displayMode": "adaptive",
+    "colorTheme": "light",
+    "locale": "ja"
+    }
+    </script>
+  </div>
+</div>
