@@ -158,10 +158,14 @@
       border-color: #d9d6cf;
       box-shadow: 0 12px 28px -14px rgba(16,24,40,0.22);
     }
-    /* カードを3色（薄ピンク・薄イエロー・薄ブルー）で順番に */
-    .post-list > li:nth-child(3n+1) { background: #fdecef; border-color: #f6d6dd; }
-    .post-list > li:nth-child(3n+2) { background: #fdf8e4; border-color: #f0e6bf; }
-    .post-list > li:nth-child(3n)   { background: #eaf3fb; border-color: #cfe3f3; }
+    /* カードを淡いパステル7色で循環（ランダム風） */
+    .post-list > li:nth-child(7n+1) { background: #fdecef; border-color: #f6d6dd; } /* ピンク */
+    .post-list > li:nth-child(7n+2) { background: #fdf8e4; border-color: #f0e6bf; } /* イエロー */
+    .post-list > li:nth-child(7n+3) { background: #eaf3fb; border-color: #cfe3f3; } /* ブルー */
+    .post-list > li:nth-child(7n+4) { background: #eaf6ec; border-color: #cfe8d4; } /* グリーン */
+    .post-list > li:nth-child(7n+5) { background: #f2ecfb; border-color: #ddd2f0; } /* ラベンダー */
+    .post-list > li:nth-child(7n+6) { background: #fdeede; border-color: #f5dcc2; } /* ピーチ */
+    .post-list > li:nth-child(7n)   { background: #e8f6f4; border-color: #c9e8e3; } /* ミント */
     .post-list .post-link {
       font-family: "Noto Serif JP", serif;
       font-size: 1.4rem;
