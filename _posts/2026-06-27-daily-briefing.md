@@ -77,4 +77,13 @@ categories: [ニュース, 経済]
 
 ---
 
-*出典：NHK、時事通信、Fox News、NPR、CNN、Euronews、Trading Economics、野村證券、三井住友信託銀行レポート（2026年6月）など。市場データは2026年6月26〜27日の公表値・報道に基づく。*
+**出典：**
+
+- ベネズエラ地震：[CNN（6/26 速報）](https://www.cnn.com/2026/06/26/world/live-news/venezuela-earthquake-hnk)
+- 中東・原油・ホルムズ海峡：[Al Jazeera（イラン制裁一部解除）](https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks) ／ [NPR（米、イラン港湾封鎖を解除）](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz)
+- EU・米関税：[Euronews（EU議会が対米関税合意を支持）](https://www.euronews.com/my-europe/2026/06/02/trade-meps-back-euus-deal-despite-watered-down-safeguards)
+- W杯2026：[ESPN（試合スケジュール）](https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket)
+- 日銀・円相場：[CNBC（日銀1%へ利上げ）](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html)
+- 市場データ（6/26終値）：[日本経済新聞（日経平均）](https://www.nikkei.com/article/DGXZQOFL261RUTW6A620C2000000/) ／ [TheStreet（米株式）](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026) ／ [frankfurter API（為替）](https://api.frankfurter.app/)
+
+*本記事は公開情報をもとに作成しています。*
