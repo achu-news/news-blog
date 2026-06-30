@@ -78,6 +78,8 @@ headline: "ダブル台風が日本列島を直撃、ベネズエラ大地震と
 
 ---
 
+<div class="post-sources" markdown="1">
+
 **出典：**
 
 - ベネズエラ地震：[CNN（6/26 速報）](https://www.cnn.com/2026/06/26/world/live-news/venezuela-earthquake-hnk)
@@ -88,3 +90,5 @@ headline: "ダブル台風が日本列島を直撃、ベネズエラ大地震と
 - 市場データ（6/26終値）：[日本経済新聞（日経平均）](https://www.nikkei.com/article/DGXZQOFL261RUTW6A620C2000000/) ／ [TheStreet（米株式）](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026) ／ [frankfurter API（為替）](https://api.frankfurter.app/)
 
 *本記事は公開情報をもとに作成しています。*
+
+</div>
