@@ -75,4 +75,13 @@ categories: [ニュース, 経済]
 
 ---
 
-*出典：NHK、時事ドットコム、NPR、TheStreet、Fox News、Euronews、Trading Economics、野村証券、日本経済新聞（各記事のURLは本文内リンク参照）*
+**出典：**
+
+- W杯（日本2-1ブラジル惜敗）：[Olympics.com](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates) ／ [Yahoo Sports（ラウンド32結果）](https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html)
+- ベネズエラ地震（死者1,700人超）：[Al Jazeera](https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts)
+- 米・イラン外交・原油：[CNBC（イラン制裁一時免除）](https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html) ／ [NPR（港湾封鎖解除）](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz)
+- 日銀・円相場：[ジャパンタイムズ（日銀の利上げ姿勢）](https://www.japantimes.co.jp/business/2026/06/24/economy/boj-summary-rate-hikes/) ／ [CNBC（日銀利上げ）](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html)
+- EU・米関税：[欧州理事会（最終承認）](https://www.consilium.europa.eu/en/press/press-releases/2026/06/25/eu-us-trade-council-gives-final-approval-for-the-tariff-commitments-under-joint-statement/)
+- 為替・市場：[frankfurter API（USD/JPY）](https://api.frankfurter.app/) ／ [TheStreet（米株式 6/26）](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026)
+
+*本記事は公開情報をもとに作成しています。*
