@@ -76,6 +76,8 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 
 ---
 
+<div class="post-sources" markdown="1">
+
 **出典：**
 
 - W杯（日本2-1ブラジル惜敗）：[Olympics.com](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates) ／ [Yahoo Sports（ラウンド32結果）](https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html)
@@ -86,3 +88,5 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 - 為替・市場：[frankfurter API（USD/JPY）](https://api.frankfurter.app/) ／ [TheStreet（米株式 6/26）](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026)
 
 *本記事は公開情報をもとに作成しています。*
+
+</div>
