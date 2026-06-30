@@ -76,4 +76,10 @@ categories: [ニュース, 経済]
 
 ---
 
-*出典：Fox News、CBS News、NPR、Al Jazeera、日本経済新聞、野村証券、Trading Economics、ジェトロ、外務省海外安全ページ、Wikipedia（2026年イスラエル・米国によるイラン攻撃）ほか（2026年6月28日時点）*
+**出典：**
+
+- 市場データ（6/26終値）：[日本経済新聞（日経平均）](https://www.nikkei.com/article/DGXZQOFL261RUTW6A620C2000000/) ／ [TheStreet（米株式市場 6/26）](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-26-2026) ／ [Advisor Perspectives（米10年債利回り）](https://www.advisorperspectives.com/dshort/updates/2026/06/26/treasury-yields-snapshot-june-26-2026)
+- 為替データ：[frankfurter API（ECB基準・USD/JPY）](https://api.frankfurter.app/2026-06-26?from=USD&to=JPY)
+- ニュース：Fox News、CBS News、NPR、Al Jazeera、日本経済新聞 ほか（2026年6月28日時点）
+
+*市場データは2026年6月26日（金）の終値・公表値に基づく。本記事は公開情報をもとに作成しています。*
