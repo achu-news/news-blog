@@ -18,7 +18,6 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if post.headline -%}
           <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.headline | escape }}</a></h3>
-          <p class="post-subtitle">{{ post.title | escape }}</p>
         {%- else -%}
           <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
           {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
