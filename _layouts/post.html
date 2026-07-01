@@ -19,6 +19,20 @@ layout: default
 
   {%- include ad-banner.html -%}
 
+  <nav class="post-nav">
+    {%- if page.previous -%}
+      <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">← {% if site.active_lang == "en" %}Previous{% else %}前の記事{% endif %}</a>
+    {%- else -%}
+      <span></span>
+    {%- endif -%}
+    <a class="post-nav-home" href="{{ "/" | relative_url }}">{% if site.active_lang == "en" %}Home{% else %}トップ{% endif %}</a>
+    {%- if page.next -%}
+      <a class="post-nav-next" href="{{ page.next.url | relative_url }}">{% if site.active_lang == "en" %}Next{% else %}次の記事{% endif %} →</a>
+    {%- else -%}
+      <span></span>
+    {%- endif -%}
+  </nav>
+
   <p class="ad-disclosure" style="margin-top: 2rem; padding: 0.6rem 0.9rem; font-size: 0.8rem; color: #8a8f98; background: #fff; border: 1px solid #e7e5e0; border-radius: 6px;">
     ※当ブログの記事には、アフィリエイト広告（Amazonアソシエイトを含む）が含まれる場合があります。
   </p>
