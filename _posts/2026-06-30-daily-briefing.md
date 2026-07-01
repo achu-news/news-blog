@@ -15,7 +15,7 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 ## 今日のニュース
 
 ### 日本
-- **FIFAワールドカップ2026**: [日本代表がブラジルと決勝トーナメント1回戦で激闘](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates)。前半29分にブラジルが先制するも後半に追いつき、最後は逆転負け。ベスト16進出はならなかったが、世界王者を相手に互角に戦い日本中が熱狂
+- **FIFAワールドカップ2026**: [日本代表がブラジルと決勝トーナメント1回戦で激闘](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates)。前半29分に佐野海舟のゴールで日本が先制するも、後半56分にカゼミロが同点弾。最後は後半アディショナルタイムにマルチネリに決勝点を許し、[1-2で惜敗](https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16)した。ベスト16進出はならなかったが、世界王者を相手に互角に戦い日本中が熱狂
 - **日銀の金融政策**: [政策金利0.75%（30年ぶりの高水準）を維持](https://www.japantimes.co.jp/business/2026/06/24/economy/boj-summary-rate-hikes/)し、2026年以降も物価・経済動向を見ながら段階的な利上げ継続の方針を示している
 - **円相場**: 米ドル全面高の流れの中、野村証券は2026年末のドル円見通しを152.5円に引き上げ。月末・四半期末の実需フローが相場の焦点
 
@@ -90,7 +90,7 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 
 **出典：**
 
-- W杯（日本2-1ブラジル惜敗）：[Olympics.com](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates) ／ [Yahoo Sports（ラウンド32結果）](https://sports.yahoo.com/soccer/live/world-cup-2026-scores-results-schedule-live-updates-round-of-32-173000083.html)
+- W杯（ブラジル2-1日本、日本は惜敗）：[Al Jazeera（マルチネリ決勝弾）](https://www.aljazeera.com/sports/2026/6/29/martinelli-scores-late-as-brazil-beat-japan-2-1-enter-world-cup-last-16) ／ [ESPN（試合結果）](https://www.espn.com/soccer/match/_/gameId/760487/japan-brazil) ／ [Olympics.com](https://www.olympics.com/en/news/fifa-world-cup-2026-round-of-32-brazil-vs-japan-live-updates)
 - ベネズエラ地震（死者1,700人超）：[Al Jazeera](https://www.aljazeera.com/news/2026/6/29/aftershock-hits-caracas-during-critical-hours-for-venezuela-rescue-efforts)
 - 米・イラン外交・原油：[CNBC（イラン制裁一時免除）](https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html) ／ [NPR（港湾封鎖解除）](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz)
 - 日銀・円相場：[ジャパンタイムズ（日銀の利上げ姿勢）](https://www.japantimes.co.jp/business/2026/06/24/economy/boj-summary-rate-hikes/) ／ [CNBC（日銀利上げ）](https://www.cnbc.com/2026/06/16/boj-rate-hike-historic-inflation.html)
