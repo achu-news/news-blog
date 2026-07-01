@@ -4,7 +4,7 @@
       <img class="brand-mark" src="{{ "/assets/logo.png" | relative_url }}" alt="世界とお金のコンパス ロゴ" width="40" height="40">
       <span class="brand-text">
         <span class="brand-name">{{ site.title | escape }}</span>
-        <span class="brand-tagline">毎朝8時、世界の動きとお金の流れを。</span>
+        <span class="brand-tagline">{% if site.active_lang == "en" %}Every morning — the world and your money.{% else %}毎朝8時、世界の動きとお金の流れを。{% endif %}</span>
       </span>
     </a>
 

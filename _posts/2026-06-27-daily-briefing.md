@@ -1,9 +1,11 @@
 ---
 layout: post
+lang: ja
 title: "2026年6月27日のニュースとお金"
 date: 2026-06-27 08:00:00 +0900
 categories: [ニュース, 経済]
 headline: "ダブル台風が日本列島を直撃、ベネズエラ大地震と中東情勢に世界が警戒"
+permalink: /2026/06/27/daily-briefing/
 ---
 
 ## 今日のポイント
@@ -85,25 +87,6 @@ headline: "ダブル台風が日本列島を直撃、ベネズエラ大地震と
 2. **ベネズエラ危機の連鎖波及**：地震前からの政治・経済的脆弱性に天災が重なった。難民流入リスクや米国の関与の深まり（支援vs.地政学的思惑）が中南米情勢を不安定化させる可能性がある。
 
 3. **日本：台風被害と日銀利上げのジレンマ**：災害復興需要がインフレ圧力を強める一方、景況感の悪化が追加利上げのタイミングを複雑にする。7月の日銀決定会合に向けた地合いを注視したい。
-
----
-
-## In English — U.S. Briefing
-
-*June 27, 2026*
-
-### Top U.S. Stories
-
-- **Israel–Lebanon framework welcomed:** Secretary of State Rubio and PM Netanyahu hailed a U.S.-led framework agreement, though analysts warned Iran will work hard to derail it.
-- **Palisades fire trial ends in mistrial:** Jurors failed to reach a verdict in the case of a defendant said to have idolized Luigi Mangione.
-- **California wealth-tax debate:** Gov. Newsom pushed back on new taxes on the wealthy as concerns grow about high earners relocating to Texas and Florida.
-- **Team USA falls at the World Cup:** The U.S. lost late to Turkey in the group stage but kept its round-of-32 hopes alive.
-
-### Markets
-
-U.S. equities showed a clear rotation out of megacap tech (on doubts about AI demand) toward value and defensive names. Oil slid toward $70 as tankers kept transiting the Strait of Hormuz, easing inflation worries. A weak yen (dollar/yen seen near ¥152) supported Japanese exporters.
-
-*Auto-generated and AI-written. Not investment advice.*
 
 ---
 
