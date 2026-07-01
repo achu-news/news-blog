@@ -1,9 +1,11 @@
 ---
 layout: post
+lang: ja
 title: "2026年6月30日のニュースとお金"
 date: 2026-06-30 08:06:18 +0900
 categories: [ニュース, 経済]
 headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300人超"
+permalink: /2026/06/30/daily-briefing/
 ---
 
 ## 今日のポイント
@@ -83,25 +85,6 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 2. **米・イラン交渉の行方**: 今週の協議再開が原油相場・中東情勢の最大の変数。合意進展なら原油安・株高、決裂なら逆方向。6月末に向けてエネルギー市場から目が離せない。
 
 3. **月末・四半期末の市場**: 今日で2026年上半期が終了。ヘッジファンドや年金の四半期末ポジション調整が一巡した後、7月相場がどちらに動くかは今夜〜明朝の米国市場の締め方がカギを握ります。
-
----
-
-## In English — U.S. Briefing
-
-*June 30, 2026*
-
-### Top U.S. Stories
-
-- **Supreme Court on mail-in voting:** In a 5-4 ruling, the Court held that mailed ballots postmarked on or before Election Day remain valid even if they arrive later — a closely watched decision ahead of the midterms.
-- **Heat dome grips the nation:** A sprawling heat dome hit the July 4 holiday week, with the National Weather Service warning of dangerous temperatures.
-- **U.S.–Iran diplomacy:** Trump accused Iran of breaching the deal but talks were expected to resume this week, keeping oil markets on edge.
-- **Immigration and demographics:** After the Court cleared large-scale deportations, analysts warned it could accelerate U.S. population decline and aging.
-
-### Markets
-
-U.S. stocks opened the week sharply higher. Alphabet jumped about 5% on its first day in the Dow, and Tesla surged 8.5%, helping drive the Nasdaq up more than 2%. With quarter-end positioning wrapping up, attention turns to Friday's June jobs report.
-
-*Auto-generated and AI-written. Not investment advice.*
 
 ---
 

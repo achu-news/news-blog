@@ -1,9 +1,11 @@
 ---
 layout: post
+lang: ja
 title: "2026年7月1日のニュースとお金"
 date: 2026-07-01 08:07:02 +0900
 categories: [ニュース, 経済]
 headline: "米最高裁が出生地主義守る、欧州熱波で1300人死亡、円安39年半ぶり"
+permalink: /2026/07/01/daily-briefing/
 ---
 
 ## 今日のポイント
