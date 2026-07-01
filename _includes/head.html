@@ -12,7 +12,11 @@
   <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/logo.png">
   <meta name="twitter:card" content="summary">
+
+  {%- comment -%} 日英ページの対応関係（hreflang）— polyglot公式タグ {%- endcomment -%}
+  {% I18n_Headers https://achu-news.github.io/news-blog %}
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="icon" type="image/png" href="{{ "/assets/favicon-chatgpt.png" | relative_url }}">
