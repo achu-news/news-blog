@@ -1,0 +1,26 @@
+name: Daily post watchdog
+
+# 毎日 10:30 JST に「今朝の記事が公開されているか」を確認する。
+# 記事がなければこのワークフローが失敗し、GitHubからオーナーへ通知メールが届く。
+# （Macが起動しておらず定期タスク自体が動かなかったケースを検知するため、GitHub側で実行）
+
+on:
+  schedule:
+    - cron: "30 1 * * *"  # 01:30 UTC = 10:30 JST
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check today's post exists (JA & EN)
+        run: |
+          today=$(TZ=Asia/Tokyo date +%Y/%m/%d)
+          base="https://achu-news.github.io/news-blog"
+          ja=$(curl -s -o /dev/null -w "%{http_code}" "$base/$today/daily-briefing/")
+          en=$(curl -s -o /dev/null -w "%{http_code}" "$base/en/$today/daily-briefing/")
+          echo "JA: $ja / EN: $en ($today)"
+          if [ "$ja" != "200" ] || [ "$en" != "200" ]; then
+            echo "::error::今朝($today)の記事が公開されていません (JA:$ja EN:$en)。Mac上の定期タスクかビルドを確認してください。"
+            exit 1
+          fi

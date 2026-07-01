@@ -252,6 +252,32 @@
     table tbody tr:nth-child(even) { background: #fafafa; }
     table tbody tr:hover { background: var(--accent-soft); }
 
+    /* ===== Post prev/next nav ===== */
+    .post-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.8rem;
+      margin-top: 2.2rem;
+      padding-top: 1.2rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.9rem;
+      font-weight: 700;
+    }
+    .post-nav a { color: var(--link); }
+    .post-nav a:hover { color: var(--accent); }
+    .post-nav .post-nav-home { color: var(--text-muted); font-weight: 500; }
+
+    /* ===== Mobile: wide tables scroll horizontally ===== */
+    @media (max-width: 640px) {
+      .post-content table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+      }
+    }
+
     /* ===== Footer ===== */
     .site-footer {
       background: #f0efea;
