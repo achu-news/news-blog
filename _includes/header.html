@@ -7,6 +7,21 @@
         <span class="brand-tagline">毎朝8時、世界の動きとお金の流れを。</span>
       </span>
     </a>
+
+    <div class="lang-switch">
+      {%- for lang in site.languages -%}
+        {%- if lang == site.default_lang -%}
+          {%- capture href -%}{{ site.baseurl }}{{ page.url }}{%- endcapture -%}
+        {%- else -%}
+          {%- capture href -%}{{ site.baseurl }}/{{ lang }}{{ page.url }}{%- endcapture -%}
+        {%- endif -%}
+        {%- if lang == site.active_lang -%}
+          <span class="lang-current">{{ lang | upcase }}</span>
+        {%- else -%}
+          <a href="{{ href }}">{{ lang | upcase }}</a>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
   </div>
 </header>
 
