@@ -1,14 +1,29 @@
 title: 世界とお金のコンパス
 description: 日本・世界・アメリカ・ヨーロッパのニュースと、世界／米国／日本の経済動向を毎朝まとめてお届けします。
 theme: minima
-lang: ja
 timezone: Asia/Tokyo
 show_excerpts: true
+
+# GitHub Actions ビルド用（プロジェクトページ）
+url: "https://achu-news.github.io"
+baseurl: "/news-blog"
+
+permalink: /:year/:month/:day/:title/
+
 minima:
   date_format: "%Y年%-m月%-d日 %H:%M"
 # フッター（ページ最下部）にリンクを表示するため、上部メニューには出さない
 header_pages: []
+
+# 多言語（jekyll-polyglot）
+languages: ["ja", "en"]
+default_lang: "ja"
+lang: "ja"
+exclude_from_localization: ["assets", "javascript", "images", "favicon", "apple-touch-icon", "CNAME", ".nojekyll", "sitemap.xml", "robots.txt"]
+parallel_localization: true
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-polyglot

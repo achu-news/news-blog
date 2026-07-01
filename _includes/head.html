@@ -64,7 +64,11 @@
       z-index: 50;
       min-height: 66px;
     }
-    .site-header .wrapper { display: flex; align-items: center; }
+    .site-header .wrapper { display: flex; align-items: center; justify-content: space-between; }
+    .lang-switch { display: flex; gap: 0.5rem; align-items: center; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.5px; }
+    .lang-switch a { color: var(--text-muted); text-decoration: none; padding: 0.15rem 0.4rem; border-radius: 5px; }
+    .lang-switch a:hover { color: var(--accent); background: var(--accent-soft); }
+    .lang-switch .lang-current { color: #fff; background: var(--accent); padding: 0.15rem 0.4rem; border-radius: 5px; }
     .site-title.brand,
     .site-title.brand:visited {
       display: inline-flex;
