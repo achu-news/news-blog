@@ -88,6 +88,25 @@ headline: "ダブル台風が日本列島を直撃、ベネズエラ大地震と
 
 ---
 
+## In English — U.S. Briefing
+
+*June 27, 2026*
+
+### Top U.S. Stories
+
+- **Israel–Lebanon framework welcomed:** Secretary of State Rubio and PM Netanyahu hailed a U.S.-led framework agreement, though analysts warned Iran will work hard to derail it.
+- **Palisades fire trial ends in mistrial:** Jurors failed to reach a verdict in the case of a defendant said to have idolized Luigi Mangione.
+- **California wealth-tax debate:** Gov. Newsom pushed back on new taxes on the wealthy as concerns grow about high earners relocating to Texas and Florida.
+- **Team USA falls at the World Cup:** The U.S. lost late to Turkey in the group stage but kept its round-of-32 hopes alive.
+
+### Markets
+
+U.S. equities showed a clear rotation out of megacap tech (on doubts about AI demand) toward value and defensive names. Oil slid toward $70 as tankers kept transiting the Strait of Hormuz, easing inflation worries. A weak yen (dollar/yen seen near ¥152) supported Japanese exporters.
+
+*Auto-generated and AI-written. Not investment advice.*
+
+---
+
 <div class="post-sources" markdown="1">
 
 **出典：**

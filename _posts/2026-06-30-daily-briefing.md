@@ -86,6 +86,25 @@ headline: "W杯で日本がブラジルに惜敗、欧州の熱波で死者1,300
 
 ---
 
+## In English — U.S. Briefing
+
+*June 30, 2026*
+
+### Top U.S. Stories
+
+- **Supreme Court on mail-in voting:** In a 5-4 ruling, the Court held that mailed ballots postmarked on or before Election Day remain valid even if they arrive later — a closely watched decision ahead of the midterms.
+- **Heat dome grips the nation:** A sprawling heat dome hit the July 4 holiday week, with the National Weather Service warning of dangerous temperatures.
+- **U.S.–Iran diplomacy:** Trump accused Iran of breaching the deal but talks were expected to resume this week, keeping oil markets on edge.
+- **Immigration and demographics:** After the Court cleared large-scale deportations, analysts warned it could accelerate U.S. population decline and aging.
+
+### Markets
+
+U.S. stocks opened the week sharply higher. Alphabet jumped about 5% on its first day in the Dow, and Tesla surged 8.5%, helping drive the Nasdaq up more than 2%. With quarter-end positioning wrapping up, attention turns to Friday's June jobs report.
+
+*Auto-generated and AI-written. Not investment advice.*
+
+---
+
 <div class="post-sources" markdown="1">
 
 **出典：**
