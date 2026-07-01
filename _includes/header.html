@@ -11,9 +11,9 @@
     <div class="lang-switch">
       {%- for lang in site.languages -%}
         {%- if lang == site.default_lang -%}
-          {%- capture href -%}{{ site.baseurl }}{{ page.url }}{%- endcapture -%}
+          {%- capture href -%}{{ site.url }}{{ site.baseurl }}{{ page.url }}{%- endcapture -%}
         {%- else -%}
-          {%- capture href -%}{{ site.baseurl }}/{{ lang }}{{ page.url }}{%- endcapture -%}
+          {%- capture href -%}{{ site.url }}{{ site.baseurl }}/{{ lang }}{{ page.url }}{%- endcapture -%}
         {%- endif -%}
         {%- if lang == site.active_lang -%}
           <span class="lang-current">{{ lang | upcase }}</span>
