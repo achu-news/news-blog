@@ -3,6 +3,8 @@
     <a href="{{ "/about/" | relative_url }}">このブログについて</a>
     <span style="margin: 0 0.5rem; color: #6e7681;">|</span>
     <a href="{{ "/privacy/" | relative_url }}">プライバシーポリシー</a>
+    <span style="margin: 0 0.5rem; color: #6e7681;">|</span>
+    <a href="{{ "/archive/" | relative_url }}">{% if site.active_lang == "en" %}Archive{% else %}記事一覧{% endif %}</a>
     <div style="margin-top: 0.5rem; color: #6e7681;">
       &copy; {{ site.time | date: '%Y' }} {{ site.title }}
     </div>
