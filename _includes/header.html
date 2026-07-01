@@ -8,27 +8,35 @@
       </span>
     </a>
 
-    <div class="lang-switch">
-      {%- comment -%} 言語プレフィックスを除いた共通パスを求める {%- endcomment -%}
-      {%- assign apath = page.url -%}
-      {%- unless site.active_lang == site.default_lang -%}
-        {%- assign langprefix = '/' | append: site.active_lang -%}
-        {%- assign apath = page.url | remove_first: langprefix -%}
-      {%- endunless -%}
-      {%- for lang in site.languages -%}
-        {%- if lang == site.default_lang -%}
-          {%- capture href -%}{{ site.url }}{{ site.baseurl }}{{ apath }}{%- endcapture -%}
-        {%- else -%}
-          {%- capture href -%}{{ site.url }}{{ site.baseurl }}/{{ lang }}{{ apath }}{%- endcapture -%}
-        {%- endif -%}
-        {%- if lang == site.active_lang -%}
-          <span class="lang-current">{{ lang | upcase }}</span>
-        {%- else -%}
-          <a href="{{ href }}">{{ lang | upcase }}</a>
-        {%- endif -%}
-      {%- endfor -%}
+    <div class="lang-switch" id="langSwitch" data-baseurl="{{ site.baseurl }}">
+      <a data-lang="ja" href="#">JA</a>
+      <a data-lang="en" href="#">EN</a>
     </div>
-    <!-- DBG url={{ page.url }} active={{ site.active_lang }} default={{ site.default_lang }} apath={{ apath }} -->
+    <script>
+      (function () {
+        var box = document.getElementById("langSwitch");
+        if (!box) return;
+        var baseurl = box.getAttribute("data-baseurl") || "";
+        var rest = location.pathname.indexOf(baseurl) === 0
+          ? location.pathname.slice(baseurl.length) : location.pathname;
+        var isEn = /^\/en(\/|$)/.test(rest);
+        var agnostic = isEn ? rest.replace(/^\/en/, "") : rest;
+        if (agnostic === "") agnostic = "/";
+        var urls = { ja: baseurl + agnostic, en: baseurl + "/en" + agnostic };
+        var active = isEn ? "en" : "ja";
+        box.querySelectorAll("a").forEach(function (a) {
+          var l = a.getAttribute("data-lang");
+          if (l === active) {
+            var s = document.createElement("span");
+            s.className = "lang-current";
+            s.textContent = a.textContent;
+            a.replaceWith(s);
+          } else {
+            a.setAttribute("href", urls[l]);
+          }
+        });
+      })();
+    </script>
   </div>
 </header>
 
