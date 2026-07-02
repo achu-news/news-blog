@@ -1,5 +1,9 @@
 title: 世界とお金のコンパス
 description: 日本・世界・アメリカ・ヨーロッパのニュースと、世界／米国／日本の経済動向を毎朝まとめてお届けします。
+
+# 英語ページ用のサイト名・説明（_includes 内で site.active_lang により切り替え）
+title_en: "The World & Money Compass"
+description_en: "A daily AI-written briefing on world news and markets — Japan, the U.S., Europe and beyond. Updated every morning (JST)."
 theme: minima
 timezone: Asia/Tokyo
 show_excerpts: true

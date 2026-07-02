@@ -3,8 +3,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {%- assign page_title = page.title | default: site.title -%}
-  {%- assign page_desc = page.excerpt | default: site.description | strip_html | normalize_whitespace | strip -%}
+  {%- assign site_title_local = site.title -%}
+  {%- assign site_desc_local = site.description -%}
+  {%- if site.active_lang == "en" -%}
+    {%- assign site_title_local = site.title_en -%}
+    {%- assign site_desc_local = site.description_en -%}
+  {%- endif -%}
+  {%- assign page_title = page.title | default: site_title_local -%}
+  {%- assign page_desc = page.excerpt | default: site_desc_local | strip_html | normalize_whitespace | strip -%}
   <title>{{ page_title | escape }}</title>
   <meta name="description" content="{{ page_desc | escape }}">
 
