@@ -79,8 +79,8 @@ permalink: /YYYY/MM/DD/daily-briefing/
 ## 3. ファイルを保存する（日本語＋英語の2ファイル）
 本日の日付を取得し（`date +%Y-%m-%d`）、次の2つを Write で保存する（同名があれば上書き可）。多言語（jekyll-polyglot）で、日本語は `/news-blog/...`、英語は `/news-blog/en/...` に自動で振り分けられる。
 
-1. **日本語版**: `/Users/atsu/news-blog/_posts/YYYY-MM-DD-daily-briefing.md`（上記の front matter、本文は日本語）
-2. **英語版**: `/Users/atsu/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**（`## Top U.S. Stories` 箇条書き4〜6件、`## Markets` 数行、`## Stocks in Focus` 任意、末尾に `<div class="post-sources" markdown="1">…</div>` の出典）。数値・事実は日本語版と同じ裏取り基準・出典リンクを守る。最後に `*Auto-generated and AI-written. Not investment advice.*`。
+1. **日本語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing.md`（上記の front matter、本文は日本語）
+2. **英語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**（`## Top U.S. Stories` 箇条書き4〜6件、`## Markets` 数行、`## Stocks in Focus` 任意、末尾に `<div class="post-sources" markdown="1">…</div>` の出典）。数値・事実は日本語版と同じ裏取り基準・出典リンクを守る。最後に `*Auto-generated and AI-written. Not investment advice.*`。
 ```
 ---
 layout: post
@@ -101,7 +101,7 @@ d = datetime.date.today().strftime("%Y-%m-%d")
 y, m, day = d.split("-")
 ok = True
 for suffix, lang in [("", "ja"), ("-en", "en")]:
-    path = f"/Users/atsu/news-blog/_posts/{d}-daily-briefing{suffix}.md"
+    path = f"/Users/atsu/Desktop/Claude/news-blog/_posts/{d}-daily-briefing{suffix}.md"
     try:
         text = open(path, encoding="utf-8").read()
     except FileNotFoundError:
@@ -132,7 +132,7 @@ PY
 以下の bash を実行（gh は ~/.local/bin にある）。タスク定義のミラーコピーも同時に同期する:
 ```
 export PATH="$HOME/.local/bin:$PATH"
-cd "$HOME/news-blog"
+cd "$HOME/Desktop/Claude/news-blog"
 mkdir -p automation
 cp "$HOME/.claude/scheduled-tasks/daily-news-econ-blog/SKILL.md" automation/SKILL.md 2>/dev/null || true
 git add -A
@@ -144,7 +144,7 @@ git push origin main
 **push後、必ずビルド結果を確認する**（GitHub Actionsビルドのため、失敗するとサイトが更新されない）:
 ```
 export PATH="$HOME/.local/bin:$PATH"
-cd "$HOME/news-blog"
+cd "$HOME/Desktop/Claude/news-blog"
 sleep 30
 rid=$(gh run list --limit 1 --json databaseId --jq '.[0].databaseId')
 for i in $(seq 1 20); do
