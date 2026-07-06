@@ -14,7 +14,7 @@ permalink: /2026/07/06/daily-briefing/
 - Washington, D.C. canceled its Independence Day parade after the National Weather Service issued an Extreme Heat Warning with heat index values of 110-115°F; evening events including President Trump's speech went ahead as scheduled ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-04/us-independence-day-parade-canceled-in-dc-due-to-extreme-heat), [NBC News](https://www.nbcnews.com/news/us-news/live-blog/america-250-july-4-trump-live-updates-rcna352956)).
 - A shooting during a Fourth of July "teen takeover" in Pensacola, Florida, left a 19-year-old man dead and six others injured; police are still searching for the shooter or shooters ([CNN](https://www.cnn.com/2026/07/05/us/florida-july-4th-shooting)).
 - France beat Paraguay 1-0 on a Kylian Mbappé penalty to reach the World Cup 2026 quarterfinals, where they will face Morocco on Thursday in Foxborough, Massachusetts ([ESPN](https://www.espn.com/soccer/story/_/id/49271796/kylian-mbappe-penalty-leads-france-paraguay-world-cup-quarterfinals)).
-- Japan's House of Councillors election campaign officially opened July 3, with voting set for July 20 and cost-of-living relief as the central issue ([Nikkei](https://www.nikkei.com/article/DGXZQOUA220I60S5A620C2000000/)).
+- In Japan, PM Sanae Takaichi said she would attend intensive Diet sessions and party-leader debates if requested, as ruling and opposition parties spar over cost-of-living measures under her government's "responsible proactive fiscal policy" ([Jiji](https://www.jiji.com/jc/archives?g=pol_archive_0)).
 
 ## Markets
 
