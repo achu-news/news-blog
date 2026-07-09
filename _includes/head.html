@@ -107,6 +107,11 @@
     }
     .site-title.brand:hover .brand-name { color: var(--accent); }
 
+    /* ===== レイアウト幅：ページは広く、記事本文は読みやすく ===== */
+    .wrapper { max-width: 1080px; }
+    /* 記事・固定ページの本文は読みやすい幅に中央寄せ（トップのカード一覧はワイドのまま） */
+    .post, .page { max-width: 760px; margin-left: auto; margin-right: auto; }
+
     /* ===== Market ticker ===== */
     .market-ticker {
       background: var(--surface);
@@ -141,8 +146,8 @@
       margin-left: 0;
       list-style: none;
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 1rem;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 1.2rem;
     }
     .post-list > li {
       background: var(--surface);
