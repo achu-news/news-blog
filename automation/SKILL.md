@@ -47,6 +47,7 @@ done
   ```
 - 「今日の注目銘柄・セクター」その日のニュースに関連して**値動き・話題になった銘柄やセクターを2〜4つ**挙げ、「なぜ注目されたか」を解説する。**特定銘柄の買い・売りを推奨しないこと**（あくまで情報・解説）。実際にニュースで動いた銘柄を事実ベースで扱い、創作しない。末尾に必ず `*※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*` を付ける
 - 「まとめ：注目の3つ」
+- 「今日の一言（編集部の視点）」**毎日必ず入れる固定コーナー（300〜500字）**。ニュースの繰り返しではなく、(1)その日の流れを貫く独自の読み解き (2)**読者の家計・生活・投資にどう影響しうるか**（例：円安→輸入品・光熱費、金利→住宅ローン） (3)短期と中長期でそれぞれ何に注目すべきか、を自分の言葉で書く。**新しい未確認の事実は追加しない**（記事中で裏取り済みの内容の範囲で解釈・分析する）。断定的な投資助言はせず「〜に注目」「〜の可能性」の表現にとどめる。
 - **見出し（##・###）に絵文字・アイコンは使わない**（テキストのみ）
 - ※英語版は**同じ記事内には書かず、別ファイル**として作る（下記「3. ファイルを保存する」参照）。
 - 末尾に「出典」セクション。**実際に参照した記事・データのURLをクリックできるMarkdownリンクで列挙する**。小さく表示するため必ず `<div class="post-sources" markdown="1">` で囲む。形式例:
@@ -84,12 +85,18 @@ permalink: /YYYY/MM/DD/daily-briefing/
 本日の日付を取得し（`date +%Y-%m-%d`）、次の2つを Write で保存する（同名があれば上書き可）。多言語（jekyll-polyglot）で、日本語は `/news-blog/...`、英語は `/news-blog/en/...` に自動で振り分けられる。
 
 1. **日本語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing.md`（上記の front matter、本文は日本語）
-2. **英語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**（`## Top U.S. Stories` 箇条書き4〜6件、`## Markets` 数行、`## Stocks in Focus` 任意、末尾に `<div class="post-sources" markdown="1">…</div>` の出典）。数値・事実は日本語版と同じ裏取り基準・出典リンクを守る。最後に `*Auto-generated and AI-written. Not investment advice.*`。
+2. **英語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**。構成:
+   - `## Top U.S. Stories` 箇条書き4〜6件。**特に重要な2〜3件には、直後に `*Why it matters:* ...` を1行**（イタリック）で添え、読者への意味・影響を説明する
+   - `## Markets` 数行
+   - `## Stocks in Focus` 任意
+   - `## Editor's Take` **毎日必ず入れる固定コーナー（100〜150語）**。その日の相場・ニュースの流れを編集者視点で読み解き、短期・中長期の注目点を独自の言葉で。新しい未確認の事実は追加しない。投資助言はしない
+   - 末尾に `<div class="post-sources" markdown="1">…</div>` の出典
+   数値・事実は日本語版と同じ裏取り基準・出典リンクを守る。最後に `*Auto-generated and AI-written. Not investment advice.*`。
 ```
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — Month D, YYYY"
+title: "Daily World News & Market Briefing — Month D, YYYY"
 date: YYYY-MM-DD HH:MM:SS +0900
 headline: "One-line big story of the day in English"
 permalink: /YYYY/MM/DD/daily-briefing/
