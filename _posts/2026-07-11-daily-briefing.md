@@ -42,11 +42,11 @@ permalink: /2026/07/11/daily-briefing/
 | 指標 | 値 | 前日比 |
 |---|---|---|
 | ドル/円 | 161.87円（ECB基準、7/10） | 円安圏で高止まり |
-| 日経平均株価 | 68,557.73円 | +813.88円（+1.20%） |
-| NYダウ | 52,637.01ドル | +150ドル前後（+0.29%） |
-| S&P500 | 7,575.39 | +0.42% |
-| ナスダック総合 | 26,281.61 | +0.29% |
-| WTI原油 | 71.80ドル/バレル | 前日の急伸から反落 |
+| 日経平均株価 | 68,557.73円 | <span class="chg-up">+813.88円（+1.20%）</span> |
+| NYダウ | 52,637.01ドル | <span class="chg-up">+150ドル前後（+0.29%）</span> |
+| S&P500 | 7,575.39 | <span class="chg-up">+0.42%</span> |
+| ナスダック総合 | 26,281.61 | <span class="chg-up">+0.29%</span> |
+| WTI原油 | 71.80ドル/バレル | <span class="chg-down">前日の急伸から反落</span> |
 
 （出典：[frankfurter.app](https://api.frankfurter.app/latest?from=USD&to=JPY)、[The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/07/10/stock-market-today-july-10-markets-edge-higher-and-sk-hynix-soars-on-debut/)、[Fortune](https://fortune.com/article/price-of-oil-07-10-2026/)）
 
