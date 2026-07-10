@@ -19,6 +19,23 @@ layout: default
 
   {%- include ad-banner.html -%}
 
+  {%- assign related = site.posts | where_exp: "p", "p.url != page.url" -%}
+  {%- if related.size > 0 -%}
+  <section class="related-posts">
+    <h2>{% if site.active_lang == "en" %}Related briefings{% else %}関連記事{% endif %}</h2>
+    <ul>
+      {%- for p in related limit: 3 -%}
+      <li>
+        <a href="{{ p.url | relative_url }}">
+          <span class="related-date">{{ p.date | date: "%m/%d" }}</span>
+          {{ p.headline | default: p.title | escape }}
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+  {%- endif -%}
+
   <nav class="post-nav">
     {%- if page.previous -%}
       <a class="post-nav-prev" href="{{ page.previous.url | relative_url }}">← {% if site.active_lang == "en" %}Previous{% else %}前の記事{% endif %}</a>
@@ -34,7 +51,7 @@ layout: default
   </nav>
 
   <p class="ad-disclosure" style="margin-top: 2rem; padding: 0.6rem 0.9rem; font-size: 0.8rem; color: #8a8f98; background: #fff; border: 1px solid #e7e5e0; border-radius: 6px;">
-    ※当ブログの記事には、アフィリエイト広告（Amazonアソシエイトを含む）が含まれる場合があります。
+    {% if site.active_lang == "en" %}This blog may contain affiliate advertising (including Amazon Associates).{% else %}※当ブログの記事には、アフィリエイト広告（Amazonアソシエイトを含む）が含まれる場合があります。{% endif %}
   </p>
 
 </article>
