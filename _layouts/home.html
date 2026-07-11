@@ -14,7 +14,10 @@ layout: default
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%Y年%-m月%-d日 %H:%M" -%}
       {%- for post in site.posts limit: 30 -%}
-      <li>
+      <li{% if forloop.first %} class="featured"{% endif %}>
+        {%- if forloop.first -%}
+          <span class="today-badge">{% if site.active_lang == "en" %}TODAY'S BRIEFING{% else %}今日のブリーフィング{% endif %}</span>
+        {%- endif -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         {%- if post.headline -%}
           <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.headline | escape }}</a></h3>
