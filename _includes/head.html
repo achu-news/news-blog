@@ -23,8 +23,7 @@
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-
+  {%- comment -%} canonical は I18n_Headers（polyglot）が出力するのでここでは重複させない {%- endcomment -%}
   {%- if page.layout == "post" %}
   <script type="application/ld+json">
   {
