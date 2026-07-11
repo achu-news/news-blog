@@ -24,7 +24,7 @@ layout: default
   <section class="related-posts">
     <h2>{% if site.active_lang == "en" %}Related briefings{% else %}関連記事{% endif %}</h2>
     <ul>
-      {%- for p in related limit: 3 -%}
+      {%- for p in related limit: 4 -%}
       <li>
         <a href="{{ p.url | relative_url }}">
           <span class="related-date">{{ p.date | date: "%m/%d" }}</span>

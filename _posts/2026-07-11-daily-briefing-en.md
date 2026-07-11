@@ -30,7 +30,7 @@ U.S. stocks closed higher Friday: the S&P 500 rose 0.42% to 7,575.39, the Nasdaq
 
 *Not investment advice; this section describes market activity, not stock recommendations.*
 
-## Editor's Take
+## Compass Insight
 
 The pattern of the week: bad news isn't sticking. A deadly wildfire in Spain, a typhoon bearing down on Okinawa and an unresolved U.S.-Iran standoff would normally weigh on sentiment — yet SK hynix's record-breaking IPO was enough to keep money flowing into chips and push indexes higher on both sides of the Pacific. Markets this resilient are comfortable to ride, but they also tend to correct quickly when the mood turns. Near term, watch whether the Gulf pause holds; that is the swing factor for oil and equities alike. Longer term, the question is whether the AI-and-semiconductor trade is a bubble or a new baseline — the second half of 2026 will start to answer it.
 

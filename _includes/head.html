@@ -266,6 +266,27 @@
     .chg-up { color: #1b5fa8; font-weight: 700; }
     .chg-down { color: #c0392b; font-weight: 700; }
 
+    /* ===== Featured (today's) card ===== */
+    .post-list > li.featured {
+      grid-column: 1 / -1;
+      padding: 1.8rem 2rem;
+      border-width: 2px;
+      border-color: rgba(192, 57, 43, 0.35);
+      box-shadow: 0 6px 22px -12px rgba(192, 57, 43, 0.25);
+    }
+    .post-list > li.featured .post-link { font-size: 1.75rem; line-height: 1.4; }
+    .today-badge {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      padding: 0.22rem 0.6rem;
+      border-radius: 999px;
+      margin-bottom: 0.55rem;
+    }
+
     /* ===== Related posts ===== */
     .related-posts {
       margin-top: 2.2rem;
