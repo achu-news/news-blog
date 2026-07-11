@@ -18,8 +18,28 @@
   <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/logo.png">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+  {%- if page.layout == "post" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.headline | default: page.title | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "inLanguage": "{{ site.active_lang }}",
+    "author": {"@type": "Organization", "name": "世界とお金のコンパス / The World & Money Compass"},
+    "publisher": {"@type": "Organization", "name": "世界とお金のコンパス", "logo": {"@type": "ImageObject", "url": "{{ site.url }}{{ site.baseurl }}/assets/logo.png"}},
+    "image": "{{ site.url }}{{ site.baseurl }}/assets/og-image.png"
+  }
+  </script>
+  {%- endif %}
 
   {%- comment -%} 日英ページの対応関係（hreflang）— polyglot公式タグ {%- endcomment -%}
   {% I18n_Headers https://achu-news.github.io/news-blog %}

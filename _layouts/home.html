@@ -12,7 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%Y年%-m月%-d日 %H:%M" -%}
+      {%- assign date_format = "%Y年%-m月%-d日" -%}
       {%- for post in site.posts limit: 30 -%}
       <li{% if forloop.first %} class="featured"{% endif %}>
         {%- if forloop.first -%}
