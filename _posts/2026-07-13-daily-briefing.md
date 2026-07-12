@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "2026年7月13日のニュースとお金"
-date: 2026-07-13 07:52:30 +0900
+date: 2026-07-13 07:30:00 +0900
 categories: [ニュース, 経済]
 headline: "米がイラン140標的を空爆、ホルムズ海峡封鎖で原油急騰"
 permalink: /2026/07/13/daily-briefing/
