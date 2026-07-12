@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "news-blog",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "PATH=/opt/homebrew/opt/ruby/bin:$PATH bundle exec jekyll serve"],
+      "port": 4000
+    }
+  ]
+}
