@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "2026年7月18日のニュースとお金"
-date: 2026-07-18 07:55:00 +0900
+date: 2026-07-18 07:42:48 +0900
 categories: [ニュース, 経済]
 headline: "日経平均が歴代5位の下げ幅、キオクシア半値割れでAI株安が連鎖"
 permalink: /2026/07/18/daily-briefing/
