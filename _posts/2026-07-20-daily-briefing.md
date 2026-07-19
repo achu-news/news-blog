@@ -23,18 +23,18 @@ permalink: /2026/07/20/daily-briefing/
 ### 世界
 - サッカーW杯2026決勝で[スペインがアルゼンチンを1-0で破り優勝。延長後半106分にフェラン・トーレスが決勝点](https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-final-2026-argentina-spain-messi-yamal-live-updates-rcna587754)を挙げた
 - [ウクライナの首都キーウがロシアによる大規模な夜間ミサイル・ドローン攻撃を受け、少なくとも1人が死亡、16人以上が負傷](https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv)。ミサイル41発とドローン125機が使われたとウクライナ空軍が発表
-- レバノンでは[イスラエルによるドローン攻撃で男性2人が死亡](https://www.euronews.com/)し、停戦違反との指摘が出ている
+- レバノン情勢をめぐっては、ルビオ米国務長官がアウン大統領と会談し、停戦維持とヒズボラ武装解除に向けた協議が続いている
 
 ### アメリカ
 - [北イラクで米兵1人が、撃墜されたイラン製ドローンの不発弾処理中に死亡](https://www.cnn.com/2026/07/19/world/video/us-service-member-killed-northern-iraq-war-iran)。もう1人が負傷し治療を受けている。開戦以来の米軍の死者は計17人となった
 - インフルエンサーの[アンドリュー・テイト、トリスタン・テイト兄弟がマイアミで逮捕され、英国が身柄引き渡しを要求](https://www.cnn.com/2026/07/18/us/tate-brothers-arrested-miami)。英国側の起訴内容はレイプや性的人身取引関与など計59件に拡大
-- カナダとミネソタの山火事による煙がワシントンD.C.の上空を覆い、大気質の悪化が続いている
+- [カナダとミネソタの山火事による煙がワシントンD.C.などに広がり、大気質の悪化が続いている](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)
 - ペルーのアンデス地方で[マグニチュード5.5の地震が発生し、少なくとも5人が死亡、300人以上が避難](https://www.nbcnews.com/world/latin-america/peru-earthquake-death-toll-rcna588241)
 
 ### ヨーロッパ
 - [アンディ・バーナム氏が本日、英国の新首相として正式に始動](https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister)。キア・スターマー氏は労働党内の路線対立を受け退陣
-- スペイン北東部アラゴン地方で山火事が拡大し、消防隊員400人超と航空機19機が投入されている
-- ドイツでは[代理出産をめぐる方針への党内批判を受け、イェンス・シュパーン氏が要職を辞任](https://www.aljazeera.com/)
+- スペイン北東部アラゴン地方で[山火事が拡大し、消防隊員400人超と航空機19機が投入されている](https://www.euronews.com/video/2026/07/16/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears)
+- ドイツでは[代理出産をめぐる方針への党内批判を受け、イェンス・シュパーン氏が要職を辞任](https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party)
 
 ## 経済とお金の動き
 
@@ -55,7 +55,7 @@ permalink: /2026/07/20/daily-briefing/
 
 ### アメリカの経済
 
-米国株は3連休を控えた週末にかけて主要3指数がそろって下落し、半導体関連の売りが重荷となりました。北イラクでの米兵死亡という新たな地政学リスクも加わり、[市場ではさらなる米軍関与の長期化への懸念](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/)がくすぶっています。インフレ指標自体は落ち着いており、FRBの7月利上げ観測は後退していますが、原油高が今後の物価指標に与える影響は注視が必要です。
+米国株は週末にかけて主要3指数がそろって下落し、半導体関連の売りが重荷となりました。北イラクでの米兵死亡という新たな地政学リスクも加わり、[市場ではさらなる米軍関与の長期化への懸念](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/)がくすぶっています。インフレ指標自体は落ち着いており、FRBの7月利上げ観測は後退していますが、原油高が今後の物価指標に与える影響は注視が必要です。
 
 ### 日本の経済
 
@@ -66,7 +66,7 @@ permalink: /2026/07/20/daily-briefing/
 - **半導体関連株（東京エレクトロン、キオクシアなど）**: 前週末の急落を受け、休場明け7/21には自律反発狙いの買いが入りやすいとの見方が出ている
 - **エネルギー・資源関連株**: ホルムズ海峡の緊張継続と原油高を背景に、相対的な選好の動きが続く可能性
 - **防衛関連株**: 中東・ウクライナ双方で軍事衝突が長期化しており、地政学リスクの高まりを意識した関心が集まりやすい局面
-- **航空・旅行関連株**: ワシントンD.C.周辺の大気質悪化や中東情勢の緊迫化が、路線・燃油コストへの影響として意識されやすい
+- **航空・旅行関連株**: [ワシントンD.C.周辺の大気質悪化](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)や中東情勢の緊迫化が、路線・燃油コストへの影響として意識されやすい
 
 *※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*
 
@@ -89,6 +89,9 @@ permalink: /2026/07/20/daily-briefing/
 - [What to know about Andy Burnham, new U.K. prime minister (NPR)](https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister)
 - [FIFA World Cup final 2026 live updates: Spain outlasts Argentina 1-0 (NBC News)](https://www.nbcnews.com/sports/soccer/live-blog/fifa-world-cup-final-2026-argentina-spain-messi-yamal-live-updates-rcna587754)
 - [Deadly overnight Russian attack on Ukraine targets the capital (NPR)](https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv)
+- [Wildfire smoke affects air quality across the U.S. (CBS News)](https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/)
+- [Spain battles major Aragon wildfire amid heatwave (Euronews)](https://www.euronews.com/video/2026/07/16/spain-battles-major-aragon-wildfire-amid-heatwave-and-climate-fears)
+- [Top German conservative quits after surrogacy backlash (Al Jazeera)](https://www.aljazeera.com/news/2026/7/18/top-german-conservative-quits-after-surrogacy-sparks-backlash-within-party)
 - [Andrew, Tristan Tate arrested in Miami as UK seeks extradition (CNN)](https://www.cnn.com/2026/07/18/us/tate-brothers-arrested-miami)
 - [5.5-magnitude earthquake hits Peru's Andes region (NBC News)](https://www.nbcnews.com/world/latin-america/peru-earthquake-death-toll-rcna588241)
 - [老舗酒造会社「越後鶴亀」全焼か　新潟市西蒲区で火災（新潟日報）](https://www.niigata-nippo.co.jp/articles/-/870561)
