@@ -64,7 +64,7 @@ done
 
   </div>
   ```
-  WebSearch の結果に含まれる実在のURLのみを使い、URLを創作しないこと。リンクは5〜10件程度。各国ニュース・経済データのソースをバランス良く含める。
+  WebSearch の結果に含まれる実在のURLのみを使い、URLを創作しないこと。リンクは5〜10件程度。各国ニュース・経済データのソースをバランス良く含める。**リンクは必ず個別記事のURLにする——`https://www.euronews.com/` のようなトップページ・セクションページだけのリンクは出典として無効**。記事URLが見つからないニュースは、リンクなしで書くか項目自体を省く。
 - 見出しや表現は一般読者にも親しみやすい、やさしい言葉づかいを心がける
 - **本文中の具体的な数値・事実には、原則その"出どころ（一次ソース）"のリンクを必ず付ける**（株価・為替・原油などの値、利上げ・死者数・選挙結果・スポーツのスコアなど）。例: `日経平均は[6万9,360円](URL)で引けた`。これは「確認できた数字だけ書く」ことの担保でもある——**リンクを付けられない＝裏が取れていない数字は書かない**。WebSearch や API で実際に確認したURLのみ使い、創作しない。読みやすさのため固有名詞すべてには付けなくてよいが、数値・重要事実には出典リンクを優先的に付ける。
 
@@ -84,8 +84,8 @@ permalink: /YYYY/MM/DD/daily-briefing/
 ## 3. ファイルを保存する（日本語＋英語の2ファイル）
 本日の日付を取得し（`date +%Y-%m-%d`）、次の2つを Write で保存する（同名があれば上書き可）。多言語（jekyll-polyglot）で、日本語は `/news-blog/...`、英語は `/news-blog/en/...` に自動で振り分けられる。
 
-1. **日本語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing.md`（上記の front matter、本文は日本語）
-2. **英語版**: `/Users/atsu/Desktop/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**。構成:
+1. **日本語版**: `/Users/atsu/Desktop/AI/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing.md`（上記の front matter、本文は日本語）
+2. **英語版**: `/Users/atsu/Desktop/AI/Claude/news-blog/_posts/YYYY-MM-DD-daily-briefing-en.md`。front matter は下記（`lang: en` と、日本語版と**同じ permalink**）。本文は日本語の直訳ではなく、**その日の米国ニュースを中心にした英語記事**。構成:
    - `## Top U.S. Stories` 箇条書き4〜6件。**特に重要な2〜3件には、直後に `*Why it matters:* ...` を1行**（イタリック）で添え、読者への意味・影響を説明する
    - `## Markets` 数行
    - `## Stocks in Focus` 任意
@@ -112,7 +112,7 @@ d = datetime.date.today().strftime("%Y-%m-%d")
 y, m, day = d.split("-")
 ok = True
 for suffix, lang in [("", "ja"), ("-en", "en")]:
-    path = f"/Users/atsu/Desktop/Claude/news-blog/_posts/{d}-daily-briefing{suffix}.md"
+    path = f"/Users/atsu/Desktop/AI/Claude/news-blog/_posts/{d}-daily-briefing{suffix}.md"
     try:
         text = open(path, encoding="utf-8").read()
     except FileNotFoundError:
@@ -143,7 +143,7 @@ PY
 以下の bash を実行（gh は ~/.local/bin にある）。タスク定義のミラーコピーも同時に同期する:
 ```
 export PATH="$HOME/.local/bin:$PATH"
-cd "$HOME/Desktop/Claude/news-blog"
+cd "$HOME/Desktop/AI/Claude/news-blog"
 mkdir -p automation
 cp "$HOME/.claude/scheduled-tasks/daily-news-econ-blog/SKILL.md" automation/SKILL.md 2>/dev/null || true
 git add -A
@@ -155,7 +155,7 @@ git push origin main
 **push後、必ずビルド結果を確認する**（GitHub Actionsビルドのため、失敗するとサイトが更新されない）:
 ```
 export PATH="$HOME/.local/bin:$PATH"
-cd "$HOME/Desktop/Claude/news-blog"
+cd "$HOME/Desktop/AI/Claude/news-blog"
 sleep 30
 rid=$(gh run list --limit 1 --json databaseId --jq '.[0].databaseId')
 for i in $(seq 1 20); do
