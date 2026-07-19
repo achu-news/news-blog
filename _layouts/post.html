@@ -13,6 +13,10 @@ layout: default
     </p>
   </header>
 
+  <p class="post-notice">
+    {% if site.active_lang == "en" %}AI-generated from public sources. Not investment advice; please check sources before making important decisions.{% else %}※この記事はAIが公開情報をもとに生成しています。投資助言ではありません。重要情報は出典をご確認ください。{% endif %}
+  </p>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

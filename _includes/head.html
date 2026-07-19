@@ -10,7 +10,7 @@
     {%- assign site_desc_local = site.description_en -%}
   {%- endif -%}
   {%- assign page_title = page.title | default: site_title_local -%}
-  {%- assign page_desc = page.excerpt | default: site_desc_local | strip_html | normalize_whitespace | strip -%}
+  {%- assign page_desc = page.headline | default: page.excerpt | default: site_desc_local | strip_html | normalize_whitespace | strip -%}
   <title>{{ page_title | escape }}</title>
   <meta name="description" content="{{ page_desc | escape }}">
 
@@ -146,6 +146,12 @@
     a { color: var(--link); text-decoration: none; transition: color .15s ease; }
     a:hover { color: var(--accent); }
     .page-content { color: var(--text); }
+    .editor-note {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.75;
+      margin: 0;
+    }
     .post-meta {
       color: var(--accent);
       font-weight: 700;
@@ -224,6 +230,12 @@
     /* ===== Article content ===== */
     .post-title { letter-spacing: 0.3px; line-height: 1.4; }
     .post-content { font-size: 1.02rem; }
+    .post-notice {
+      margin: 0.65rem 0 1.8rem;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      line-height: 1.7;
+    }
     .post-content h2 {
       margin-top: 2.6rem;
       padding-left: 0.8rem;
@@ -350,6 +362,25 @@
 
     /* ===== Mobile: wide tables scroll horizontally ===== */
     @media (max-width: 640px) {
+      .site-header .wrapper {
+        align-items: flex-start;
+        gap: 0.7rem;
+      }
+      .brand-name { font-size: 1.05rem; }
+      .brand-tagline { font-size: 0.64rem; }
+      .post-list {
+        grid-template-columns: 1fr;
+      }
+      .post-list > li,
+      .post-list > li.featured {
+        padding: 1.15rem 1.2rem;
+        border-radius: 8px;
+      }
+      .post-list > li.featured .post-link,
+      .post-list .post-link {
+        font-size: 1.16rem;
+      }
+      .post-title { font-size: 1.65rem; }
       .post-content table {
         display: block;
         overflow-x: auto;
