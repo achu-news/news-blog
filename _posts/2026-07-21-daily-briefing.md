@@ -22,8 +22,6 @@ permalink: /2026/07/21/daily-briefing/
 **世界**
 - イランが米軍関連施設のあるバーレーン、クウェート、ヨルダンを攻撃し、米軍兵士に死者・行方不明者が出た。クウェートでは石油公社（KOC）の洋上掘削施設がドローン攻撃を受け作業員1人が負傷（[Al Jazeera](https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies)）。
 - ハマスは新たな政治部門トップにハリル・ハイヤ氏を選出（[Al Jazeera](https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief)）。
-- WHOによると、コンゴ民主共和国のエボラ出血熱による死者は500人を超えた。スーダンでは5月以降のコレラによる死者が120人に達したと報告されている。
-- オーストラリアとフィジーが防衛協定に調印。
 
 **アメリカ**
 - 米連邦地裁の判事が、パラマウントとワーナー・ブラザース・ディスカバリーの合併を一時差し止め。12州の司法長官の要請を受けた措置（[NBC News](https://www.nbcnews.com/business/media/judge-puts-temporary-pause-paramount-warner-bros-merger-rcna587804)）。
@@ -31,7 +29,6 @@ permalink: /2026/07/21/daily-briefing/
 
 **ヨーロッパ**
 - 英国でアンディ・バーナム氏が正式に首相に就任。10年間で7人目の首相交代となった。キア・スターマー氏はチャールズ国王に辞表を提出し、バーナム氏が組閣の要請を受けた（[NPR](https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer)）。
-- ポーランドで、ウクライナ人に対する暴力事件の増加を示す警察データが報じられた。
 
 ## 経済とお金の動き
 
