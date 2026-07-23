@@ -14,6 +14,11 @@ permalink: /2026/07/23/daily-briefing/
 
 ## 今日のニュース
 
+### 日本
+- [東・西日本を中心に熱中症警戒アラートが発表され、名古屋などでは最高気温が39度前後と予想された](https://weathernews.jp/news/202607/220061/)。
+- [千葉県八街市の民家火災では4人の遺体が見つかり、警察が身元を確認している](https://newsdig.tbs.co.jp/articles/-/2817347?display=1)。
+- [奈良市の山中で見つかった女性2人の遺体は、司法解剖で死因を特定できず、2月ごろに死亡したと推定された](https://ryukyushimpo.jp/kyodo/entry-5399987.html)。
+
 ### 世界
 - [米軍は10日連続でイランを攻撃し、イラン側もバーレーンの米関連施設を攻撃した](https://news.web.nhk/newsweb/na/na-k10015181491000)と報じられている。
 
@@ -70,6 +75,9 @@ permalink: /2026/07/23/daily-briefing/
 - [日経平均株価終値116円安 急失速、半導体株買いの勢い続かず - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB2192HTR20C26A7000000/)
 - [How major US stock indexes fared Wednesday 7/22/2026 - ABC News](https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-7222026-134997268)
 - [S&P 500 closes little changed as higher oil prices keep stocks under pressure - CNBC](https://www.cnbc.com/2026/07/21/stock-market-today-live-updates.html)
+- [各地で朝から30℃超え　熱中症に厳重警戒を - ウェザーニュース](https://weathernews.jp/news/202607/220061/)
+- [千葉・八街市の民家で火災　4人の遺体見つかる - TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2817347?display=1)
+- [死因不詳、2人は2月ごろ死亡か　奈良山中の女性遺体 - 琉球新報（共同通信）](https://ryukyushimpo.jp/kyodo/entry-5399987.html)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
