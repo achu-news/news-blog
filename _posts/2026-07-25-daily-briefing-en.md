@@ -17,7 +17,7 @@ permalink: /2026/07/25/daily-briefing/
 
 ## Markets
 
-Japan's Nikkei 225 [tumbled 1,811.45 points (-2.73%) to close at 64,611.15](https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/) as a sell-off in memory-chip names spread across the market. In the U.S., the [Dow Jones Industrial Average rose 235.60 points (+0.46%) to 51,947.25, while the Nasdaq Composite slipped 0.64% to 24,975.82](https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/). The [dollar traded near ¥163.82](https://api.frankfurter.app/latest?from=USD&to=JPY) against the yen (ECB reference, July 24). WTI crude eased to roughly $88/barrel after briefly nearing $100 on the Houthi tanker attack, though it still finished the week sharply higher.
+Japan's Nikkei 225 [tumbled 1,811.45 points (-2.73%) to close at 64,611.15](https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/) as a sell-off in memory-chip names spread across the market. In the U.S., the [Dow Jones Industrial Average rose 235.60 points (+0.46%) to 51,947.25, while the Nasdaq Composite slipped 0.64% to 24,975.82](https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/). The [dollar traded near ¥163.82](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY) against the yen (ECB reference, July 24). WTI crude eased to roughly $88/barrel after briefly nearing $100 on the Houthi tanker attack, though it still finished the week sharply higher.
 
 ## Stocks in Focus
 
@@ -43,7 +43,7 @@ Two forces are colliding this week: escalating Middle East conflict and a sudden
 - [Current price of oil as of July 24, 2026 - Yahoo Finance UK](https://uk.finance.yahoo.com/news/current-price-oil-july-24-093526345.html)
 - [Nikkei falls 1,811 points on AI chip-stock selling - Nikkei](https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/)
 - [Kioxia shares slump amid AI-memory market concerns - BigGo Finance](https://finance.biggo.jp/news/b10d594d-3139-4797-bf9f-2369922db804)
-- Market data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- Market data: [frankfurter API](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 

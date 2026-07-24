@@ -36,7 +36,7 @@ permalink: /2026/07/25/daily-briefing/
 
 **世界の市場・原油・為替（2026年7月24日終値・基準）**
 
-- [ドル円（USD/JPY）](https://api.frankfurter.app/latest?from=USD&to=JPY)：163.82円（ECB基準、7月24日付）
+- [ドル円（USD/JPY）](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)：163.82円（ECB基準、7月24日付）
 - [日経平均株価](https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/)：64,611.15円　<span class="chg-down">-1,811.45円（-2.73%）</span>
 - [ダウ平均](https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/)：51,947.25ドル　<span class="chg-up">+235.60ドル（+0.46%）</span>
 - [ナスダック総合](https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/)：24,975.82　<span class="chg-down">-0.64%</span>
@@ -88,7 +88,7 @@ permalink: /2026/07/25/daily-briefing/
 - [東証大引け 日経平均反落、1811円安 AI半導体株に売り - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL245D80U6A720C2000000/)
 - [AI・半導体株で相次ぐ変調 キオクシア三尊天井 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL1405WTU6A710C2000000/)
 - [キオクシアが暴落、AIメモリ相場の崩壊か - BigGoファイナンス](https://finance.biggo.jp/news/b10d594d-3139-4797-bf9f-2369922db804)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- 市場データ: [frankfurter API](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
