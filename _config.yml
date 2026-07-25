@@ -29,5 +29,4 @@ parallel_localization: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-polyglot
