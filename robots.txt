@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://achu-news.github.io/news-blog/sitemap.xml
+Sitemap: https://achu-news.github.io/news-blog/en/sitemap.xml
