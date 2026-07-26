@@ -3,7 +3,7 @@ layout: post
 lang: en
 title: "Daily World News & Market Briefing — July 27, 2026"
 date: 2026-07-27 07:37:39 +0900
-headline: "Oil spikes and stocks wobble as Iran tensions flare again ahead of the Fed"
+headline: "Iran tensions keep oil and markets in focus ahead of the Fed"
 permalink: /2026/07/27/daily-briefing/
 ---
 
@@ -13,11 +13,11 @@ permalink: /2026/07/27/daily-briefing/
 - The Iranian Revolutionary Guard declared a renewed blockade of the Strait of Hormuz, while U.S. Central Command said it struck roughly 140 targets, including missile bases, inside Iran ([Nikkei](https://www.nikkei.com/article/DGXZQOGR120440S6A710C2000000/)). *Why it matters:* the Strait carries a large share of the world's oil shipments, so any disruption there feeds directly into gasoline and heating costs worldwide.
 - Trump is allowing space for talks to continue during a weekend pause in strikes; U.S. Ambassador to the UN Mike Waltz said diplomatic efforts have "ramped up in the past few days" ([CNN](https://www.cnn.com/2026/07/26/world/live-news/iran-war-trump)). *Why it matters:* any real de-escalation could take pressure off oil prices and calm jittery equity markets heading into the Fed meeting.
 - The Federal Reserve meets July 28-29. Markets still see a fifth straight rate hold as the base case, but the probability assigned to a hike has jumped past 30% as oil-driven inflation fears resurface ([Nikkei](https://www.nikkei.com/article/DGXZQOFL231ACTT20C26A7000000/)). *Why it matters:* a hawkish surprise would ripple through mortgage rates and borrowing costs just as energy costs are already rising.
-- Houthi forces declared a maritime blockade near Saudi shores, adding another chokepoint risk in the Red Sea alongside the Hormuz standoff.
+- Houthi forces declared a maritime embargo on Saudi shipping near the Red Sea, adding another chokepoint risk alongside the Hormuz standoff ([AP](https://apnews.com/article/fd7c4a3911f7eee18251483fc8af768c)).
 
 ## Markets
 
-WTI crude settled at [$89.31 a barrel](https://fx.minkabu.jp/news/374210) on July 24 (-3.12% on the day), still elevated after touching the $90s earlier in the week on Middle East supply fears. The S&P 500 closed nearly flat at 7,411.98 (+0.05%), the Dow rose 0.46% to 51,947.25, while the Nasdaq Composite slipped 0.64% to 24,975.82 as chip stocks lagged ([CNBC](https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html)). The 10-year Treasury yield has climbed toward the high-4% range on the combination of geopolitical risk and inflation concern. The dollar bought roughly [163.82 yen](https://api.frankfurter.app/latest?from=USD&to=JPY) as of July 24, keeping yen weakness in focus for Japanese import costs.
+WTI crude settled at [$89.31 a barrel](https://fx.minkabu.jp/news/374210) on July 24 (-3.12% on the day), still elevated after touching the $90s earlier in the week on Middle East supply fears. The S&P 500 closed nearly flat at 7,411.98 (+0.05%), the Dow rose 0.46% to 51,947.25, while the Nasdaq Composite slipped 0.64% to 24,975.82 as chip stocks lagged ([CNBC](https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html)). The 10-year Treasury yield has climbed toward the high-4% range ([Federal Reserve H.15](https://www.federalreserve.gov/releases/h15/)). The dollar bought roughly [163.82 yen](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY) as of July 24, keeping yen weakness in focus for Japanese import costs.
 
 ## Stocks in Focus
 
@@ -40,7 +40,9 @@ The thread running through today's news is how geopolitical risk is bleeding dir
 - [European oil and defense stocks rally (Investing.com)](https://jp.investing.com/news/stock-market-news/article-1441529)
 - [NY crude closes at $89.31 (Minkabu)](https://fx.minkabu.jp/news/374210)
 - [Stock market news, July 23-24 (CNBC)](https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html)
-- FX data: [Frankfurter API](https://api.frankfurter.app/)
+- [Houthi embargo on Saudi shipping (AP)](https://apnews.com/article/fd7c4a3911f7eee18251483fc8af768c)
+- [U.S. Treasury yields (Federal Reserve H.15)](https://www.federalreserve.gov/releases/h15/)
+- FX data: [Frankfurter API (July 24)](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
