@@ -10,7 +10,7 @@ permalink: /2026/07/26/daily-briefing/
 
 ## 今日のポイント
 
-中東情勢の緊迫化が世界のマネーの動きを支配する1週間になった。米国によるイランへの空爆が13夜連続となり、イラン系武装勢力フーシ派による紅海でのタンカー攻撃も重なって、原油価格は一時1バレル100ドルを突破。これを受けて世界の株式市場は乱高下し、日本でも日経平均が大幅安となる場面があった。
+中東情勢の緊迫化が世界のマネーの動きを支配する1週間になった。米国によるイランへの空爆が13夜連続となり、イラン系武装勢力フーシ派による紅海でのタンカー攻撃も重なって、原油価格は一時1バレル100ドルを突破。これを受けて世界の株式市場は乱高下し、日本でも日経平均が大幅安となる場面があった。一方でパキスタンが米イラン間の協議再開を探っているとの報道も出ている。[Reuters](https://www.investing.com/news/commodities-news/pakistan-iran-explore-path-towards-new-talks-with-us-in-a-chinainitiated-push-sources-say-4812196)
 
 ## 今日のニュース
 
@@ -21,6 +21,12 @@ permalink: /2026/07/26/daily-briefing/
 
 ### アメリカ
 - 米軍によるイランへの空爆が13夜連続に達した。国防長官ピート・ヘグセス氏は議会証言で、これまでの戦費が375億ドルに達したと明らかにした（専門家はさらに膨らむ可能性を指摘）。[Washington Post](https://www.washingtonpost.com/politics/2026/07/21/iran-war-hegseth-military-deaths-95-billion/92af78a4-852d-11f1-9cec-0fb26676f07e_story.html)
+- ニューヨーク市では、家主グループが家賃凍結を承認した家賃ガイドライン委員会を提訴。訴状では、同委員会がマムダニ市長の方針に影響されたと主張している。[NY1](https://ny1.com/nyc/all-boroughs/news/2026/07/22/group-of-landlords-files-lawsuit-against-rent-guidelines-board-over-rent-freeze)
+- トランプ政権は、グアンタナモ湾基地や米領バージン諸島を含む最大14カ所で移民収容施設の新設・拡張を検討していると報じられた。[Latin Times](https://www.latintimes.com/ice-considers-expanding-detention-space-guantanamo-bay-virgin-islands-12-other-locations-598288)
+
+### 世界
+- インドの環境活動家ソナム・ワンチュク氏が26日間続けたハンガーストライキを終了。同氏の行動は若者主体の大規模な抗議運動を後押しし、参加者は教育相の辞任を引き続き求めている。[AP](https://apnews.com/article/e2f114b6cf6568bb8f5d739fe36349ed)
+- 米国務長官マルコ・ルビオ氏が、フィリピン・パサイでのASEAN外相会議に合わせてロシアのラブロフ外相と会談した。[AP](https://apnews.com/article/502b5eb2dc21caf13fab7928acdc5b1e)
 
 ### ヨーロッパ
 - スペイン・マドリード近郊とアビラ県で山火事が拡大し、政府は非常事態を宣言。マドリード州政府トップは「州史上最悪の火災」と表現し、同地域だけで7万人が避難対象となった。隣国フランスの被災地域も合わせると、スペイン・フランス両国で計26万7000人が避難対象になっている。マドリード近郊の火災は消防の対応能力を超える規模になっていると当局者が警告している。[Al Jazeera](https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people)
@@ -37,7 +43,7 @@ permalink: /2026/07/26/daily-briefing/
 | ブレント原油 | [週初に一時100ドル台まで急伸後、96ドル台へ反落](https://www.thenationalnews.com/business/energy/2026/07/23/oil-hits-100-for-the-first-time-since-may-after-houthi-attacks-on-saudi-ships-in-red-sea/) | 週間では上昇 |
 | ドル/円 | [1ドル=163.82円](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)（7/24基準） | 円安基調継続 |
 
-原油相場は、フーシ派によるサウジ関連タンカー2隻への攻撃と、紅海・ホルムズ海峡周辺の輸送リスクを受けて急伸した。主要な海上輸送路の緊張が続く限り、原油相場は神経質な展開が続きやすい。
+原油相場は、フーシ派によるサウジ関連タンカー2隻への攻撃と、紅海・ホルムズ海峡周辺の輸送リスクを受けて急伸した。パキスタンが米イラン間の協議再開を探っているとの報道もあり、原油相場は神経質な展開が続きやすい。[Reuters](https://www.investing.com/news/commodities-news/pakistan-iran-explore-path-towards-new-talks-with-us-in-a-chinainitiated-push-sources-say-4812196)
 
 ### アメリカの経済
 
@@ -63,7 +69,7 @@ permalink: /2026/07/26/daily-briefing/
 
 ## 今日の羅針盤（Compass Insight）
 
-今週の相場を貫くキーワードは「地政学プレミアム」だ。イラン情勢と紅海の緊張は、原油価格を通じて日本の家計にも影響しうる。ガソリン代や電気・ガス料金、輸入食品の値上がりという形で、生活コストを押し上げる可能性がある。円安（163円台）が続くなかでの原油高は、輸入物価の上昇分がさらに増幅されやすい組み合わせであることにも注意したい。短期的には、紅海・ホルムズ海峡周辺の輸送リスクと原油相場の動きを注視したい。中長期では、資源価格の上昇が物価に及ぼす影響が、家計防衛と投資判断の両面で重要な論点になりそうだ。
+今週の相場を貫くキーワードは「地政学プレミアム」だ。イラン情勢と紅海の緊張は、原油価格を通じて日本の家計にも影響しうる。ガソリン代や電気・ガス料金、輸入食品の値上がりという形で、生活コストを押し上げる可能性がある。円安（163円台）が続くなかでの原油高は、輸入物価の上昇分がさらに増幅されやすい組み合わせであることにも注意したい。短期的には、パキスタンが探る米イラン協議の再開と、紅海・ホルムズ海峡周辺の輸送リスクが原油相場に与える影響を注視したい。中長期では、資源価格の上昇が物価に及ぼす影響が、家計防衛と投資判断の両面で重要な論点になりそうだ。
 
 ---
 <div class="post-sources" markdown="1">
@@ -75,6 +81,11 @@ permalink: /2026/07/26/daily-briefing/
 - [Wildfires in Spain and France force evacuation of more than 267,000 people（Al Jazeera）](https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people)
 - [Oil hits $100 for the first time since May after Houthi attacks（The National）](https://www.thenationalnews.com/business/energy/2026/07/23/oil-hits-100-for-the-first-time-since-may-after-houthi-attacks-on-saudi-ships-in-red-sea/)
 - [米国のイラン攻撃と戦費見積もり（Washington Post）](https://www.washingtonpost.com/politics/2026/07/21/iran-war-hegseth-military-deaths-95-billion/92af78a4-852d-11f1-9cec-0fb26676f07e_story.html)
+- [米イラン協議の再開を探るパキスタン（Reuters）](https://www.investing.com/news/commodities-news/pakistan-iran-explore-path-towards-new-talks-with-us-in-a-chinainitiated-push-sources-say-4812196)
+- [ニューヨーク市の家賃凍結をめぐる訴訟（NY1）](https://ny1.com/nyc/all-boroughs/news/2026/07/22/group-of-landlords-files-lawsuit-against-rent-guidelines-board-over-rent-freeze)
+- [移民収容施設の拡張計画（Latin Times）](https://www.latintimes.com/ice-considers-expanding-detention-space-guantanamo-bay-virgin-islands-12-other-locations-598288)
+- [ソナム・ワンチュク氏のハンガーストライキ終了（AP）](https://apnews.com/article/e2f114b6cf6568bb8f5d739fe36349ed)
+- [ルビオ氏とラブロフ氏の会談（AP）](https://apnews.com/article/502b5eb2dc21caf13fab7928acdc5b1e)
 - [Stock market today: Nasdaq slips, Dow and S&P 500 recover（Yahoo Finance）](https://finance.yahoo.com/markets/live/stock-market-today-friday-july-24-dow-sp-500-nasdaq-081854465.html)
 - [Markets Price In Rising Odds Of July Fed Rate Hike（Forbes）](https://www.forbes.com/sites/simonmoore/2026/07/23/markets-see-chance-fed-hikes-next-week-at-july-meeting/)
 - [日経平均終値1811円安 イビデン4%安が映す「AI特需」の持続懸念（日本経済新聞）](https://www.nikkei.com/article/DGXZQOUB240HFTU6A720C2000000/)
