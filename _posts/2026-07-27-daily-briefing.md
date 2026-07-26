@@ -4,7 +4,7 @@ lang: ja
 title: "2026年7月27日のニュースとお金"
 date: 2026-07-27 07:37:39 +0900
 categories: [ニュース, 経済]
-headline: "中東緊迫再燃で原油急騰・世界株安、FOMCは利上げ観測も浮上"
+headline: "中東情勢と原油高を注視、FOMC控え市場は神経質に"
 permalink: /2026/07/27/daily-briefing/
 ---
 
@@ -17,7 +17,7 @@ permalink: /2026/07/27/daily-briefing/
 ### 日本
 - 福岡県議会で、議長・副議長ポストをめぐり自民党県議団幹部に総額2,840万円あまりが渡っていたとされる金銭授受疑惑が拡大。自民党側は受領を否定しているものの、説明の変遷が指摘されており、外部有識者による調査が予定されています（[西日本新聞](https://www.nishinippon.co.jp/item/1514503/)）。
 - 国会は特別会期の会期末を迎え、与野党は24日の事実上の閉会に合意。皇室典範改正案や「副首都」法案など複数の法案審議が大詰めを迎えています（[NHKニュース](https://news.web.nhk/newsweb/na/na-k10015183861000)）。
-- 産業面では、富士電機がデータセンター向け無停電電源装置（UPS）を開発し、2027年度の市場投入を目指すと発表されました。
+- 産業面では、富士電機がデータセンター・半導体工場向けを含む電源装置の需要拡大に対応し、筑波工場で設備投資を行うと発表しています。竣工は2027年11月の予定です（[富士電機](https://www.fujielectric.co.jp/about/news/detail/1205618_4830.html)）。
 
 ### 世界
 - 米国とイランの軍事的緊張が再燃。2月末の米・イスラエルによるイラン攻撃でハメネイ最高指導者が死亡して以降、断続的な衝突が続いており、7月に入ってからも米軍によるイラン国内拠点への攻撃が続いています（[Times of Israel](https://www.timesofisrael.com/liveblog-july-26-2026/)）。
@@ -30,7 +30,7 @@ permalink: /2026/07/27/daily-briefing/
 
 ### ヨーロッパ
 - 中東紛争の激化を受け、欧州の石油関連株・防衛関連株が上昇。地政学リスクの高まりが投資マネーの物色先を変えています（[Investing.com](https://jp.investing.com/news/stock-market-news/article-1441529)）。
-- ドイツではIfo企業景況感指数など主要経済指標の発表が予定されており、エネルギーコスト上昇の影響が注視されています。
+- ドイツでは27日にIfo企業景況感指数の公表が予定されており、エネルギーコスト上昇の影響が注視されています（[Ifo研究所](https://www.ifo.de/ifo-geschaeftsklima-deutschland-juli-2026)）。
 
 ## 経済とお金の動き
 
@@ -39,8 +39,8 @@ permalink: /2026/07/27/daily-briefing/
 | 項目 | 値 | 前日比・備考 |
 |------|-----|------|
 | WTI原油（NY市場） | [89.31ドル/バレル](https://fx.minkabu.jp/news/374210) | <span class="chg-down">-2.88ドル（-3.12%）</span>（2026年7月24日終値、7/25未明報） |
-| 米10年国債利回り | 約4.7%台 | 中東リスクとインフレ懸念で高水準 |
-| ドル/円 | [163.82円](https://api.frankfurter.app/latest?from=USD&to=JPY)（ECB基準、7月24日時点） | 円安圧力継続 |
+| 米10年国債利回り | [約4.7%台](https://www.federalreserve.gov/releases/h15/) | 中東リスクとインフレ懸念で高水準 |
+| ドル/円 | [163.82円](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)（ECB基準、7月24日時点） | 円安圧力継続 |
 
 中東情勢の緊迫でWTI原油は一時90ドル台に乗せる場面もありましたが、直近では反落含みの荒い値動きが続いています。ホルムズ海峡や紅海の航行不安が意識される限り、原油相場は高止まりしやすい地合いです。
 
@@ -92,7 +92,10 @@ permalink: /2026/07/27/daily-briefing/
 - [米利上げ観測、急速に盛り返す（日本経済新聞）](https://www.nikkei.com/article/DGXZQOFL231ACTT20C26A7000000/)
 - [2026年7月FOMCプレビュー（第一生命経済研究所）](https://www.dlri.co.jp/report/macro/634578.html)
 - [NY原油終値89.31ドル（みんかぶ）](https://fx.minkabu.jp/news/374210)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/)
+- [富士電機・筑波工場の設備投資](https://www.fujielectric.co.jp/about/news/detail/1205618_4830.html)
+- [Ifo企業景況感指数（7月27日公表予定）](https://www.ifo.de/ifo-geschaeftsklima-deutschland-juli-2026)
+- [米国債利回り（FRB H.15）](https://www.federalreserve.gov/releases/h15/)
+- 為替データ: [frankfurter API（7月24日）](https://api.frankfurter.app/2026-07-24?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
