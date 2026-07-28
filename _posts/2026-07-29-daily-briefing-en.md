@@ -11,13 +11,13 @@ permalink: /2026/07/29/daily-briefing/
 
 - A magnitude-7.1 earthquake struck Japan's Kumamoto region on July 28 at 4:27 p.m. local time, registering the maximum intensity of 7 in Uki and Hikawa. A tsunami advisory was issued for the Ariake and Yatsushiro seas, an explosion believed to be gas-related hit an Aeon Mall in Kumamoto City, and two people were confirmed dead with one in cardiac arrest and several unaccounted for ([JMA](https://www.jma.go.jp/jma/press/2607/28a/202607281730.html), [NHK](https://news.web.nhk/newsweb/na/na-k10015188221000)). *Why it matters:* Kyushu is a major hub for chipmaking and manufacturing, so disruption there could ripple into global supply chains already rattled by today's semiconductor selloff.
 - A steep selloff in AI and semiconductor stocks spread from Asia to Wall Street. Japan's Nikkei 225 plunged nearly 4% and South Korea's KOSPI tumbled almost 11%, triggering a circuit breaker, as investors grew wary of the scale of AI infrastructure spending and rising Chinese competition in chipmaking equipment ([Nikkei](https://www.nikkei.com/article/DGXZQOUB276L2TX20C26A7000000/)). *Why it matters:* it's the clearest sign yet that markets are starting to question whether AI capital spending has outrun near-term returns.
-- The Federal Reserve's rate decision lands July 29 (early July 30 in Japan), with futures markets pricing in roughly a 64% chance of holding the federal funds rate at 3.50%–3.75%.
+- The Federal Reserve's rate decision lands July 29 (early July 30 in Japan), with futures markets pricing in roughly a 64% chance of holding the federal funds rate at 3.50%–3.75% ([CME FedWatch](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)).
 - The US and Iran remain in a fragile pause in military strikes, though Tehran insists it is "currently not negotiating" and says it will "defend ourselves for as long as our interests require" ([CNN](https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump)). Iran says more than 50 people have been killed and over 500 injured in US strikes this month ([Al Jazeera](https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies)).
 
 ## World & Europe
 
 - Wildfires in France and Spain have forced more than 300,000 people to evacuate. Crews are battling flames west of Bordeaux near sites tied to France's defense industry and nuclear submarine program, while a blaze near Madrid has outpaced firefighting capacity ([NPR](https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires), [Al Jazeera](https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people)). *Why it matters:* the fires are hitting strategically sensitive industrial areas just as a heat wave is set to intensify again this week.
-- The European Commission found that Chinese e-commerce platform Temu violated the EU's Digital Services Act.
+- The European Commission fined Chinese e-commerce platform Temu €200 million for breaching the EU's Digital Services Act ([European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act)).
 
 ## Markets
 
@@ -53,7 +53,9 @@ For households, the read-through is twofold: anyone with exposure to tech-heavy 
 - [KOSPI plunges 11% — TradingKey](https://www.tradingkey.com/jp/analysis/stocks/more/262058161-kospi-plunges-11-kioxia-samsung-skhynix-tradingkey)
 - [Stock market news for July 28, 2026 — CNBC](https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html)
 - [WTI Crude Oil Price Analysis — FXDailyReport](https://fxdailyreport.com/wti-crude-oil-price-analysis-for-july-28-2026/)
-- FX data: [frankfurter API](https://api.frankfurter.app/)
+- [CME FedWatch](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- [Temu DSA decision — European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act)
+- FX data: [Frankfurter API (July 28)](https://api.frankfurter.app/2026-07-28?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
