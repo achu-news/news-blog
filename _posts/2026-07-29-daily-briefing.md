@@ -15,15 +15,15 @@ permalink: /2026/07/29/daily-briefing/
 ## 今日のニュース
 
 **日本**
-- 28日16時27分ごろ、熊本県熊本地方を震源とするマグニチュード7.1の地震が発生し、宇城市と氷川町で最大震度7を観測した（[気象庁](https://www.jma.go.jp/jma/press/2607/28a/202607281730.html)）。有明・八代海には津波注意報が発表された。熊本市内のイオンモールではガス漏れとみられる爆発が起き、2人が死亡、1人が心肺停止となったほか、複数の安否不明者がいる（[NHKニュース](https://news.web.nhk/newsweb/na/na-k10015188221000)）。JR九州は九州内の全線区で運転を見合わせた
-- 気象庁は、2016年の熊本地震の際と同様に、今後2〜3日程度は同規模の強い揺れに注意するよう呼びかけている
+- 28日16時27分ごろ、熊本県熊本地方を震源とするマグニチュード7.1の地震が発生し、宇城市と氷川町で最大震度7を観測した（[気象庁](https://www.jma.go.jp/jma/press/2607/28a/202607281730.html)）。有明・八代海には津波注意報が発表された。熊本市内のイオンモールではガス漏れとみられる爆発が起き、2人が死亡、1人が心肺停止となったほか、複数の安否不明者がいる（[NHKニュース](https://news.web.nhk/newsweb/na/na-k10015188221000)）。JR九州は九州内の全線区で運転を見合わせた（[熊本日日新聞](https://kumanichi.com/articles/2018647)）。
+- 政府は、揺れの強かった地域では今後1週間程度、同程度の地震の可能性に注意するよう呼びかけている（[首相官邸](https://www.kantei.go.jp/jp/105/statement/2026/0728kaiken.html)）。
 
 **世界**
 - 米国とイランの軍事衝突は一時停止が続くが、イランは「現在交渉は行っていない」との立場を崩さず、「必要な限り自国を守る」と表明した（[CNN](https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump)）。7月に入ってからの米国による攻撃で、イラン側は50人以上が死亡、500人超が負傷したと発表している（[Al Jazeera](https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies)）
-- 欧州連合(EU)は、中国系ECサイト「Temu」がデジタルサービス法(DSA)に違反していると認定した
+- 欧州連合(EU)は、中国系ECサイト「Temu」がデジタルサービス法(DSA)に違反したとして、2億ユーロの制裁金を科した（[欧州委員会](https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act)）。
 
 **アメリカ**
-- 29日（日本時間30日未明）にFOMC(連邦公開市場委員会)の結果が発表される。現在の政策金利誘導目標は3.50〜3.75%で、先物市場は据え置きを6割超織り込む
+- 29日（日本時間30日未明）にFOMC(連邦公開市場委員会)の結果が発表される。現在の政策金利誘導目標は3.50〜3.75%で、先物市場は据え置きを6割超織り込む（[CME FedWatch](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)）。
 - AI半導体への巨額投資に対する懸念からエヌビディア株が下落するなど、半導体セクター全般に売りが波及した
 
 **ヨーロッパ**
@@ -40,7 +40,7 @@ permalink: /2026/07/29/daily-briefing/
 | S&P500 | 7,428.78ドル | <span class="chg-up">+0.21%</span> |
 | ナスダック総合 | 24,876.91 | <span class="chg-down">-0.22%</span> |
 | WTI原油 | [81ドル台前半/バレル](https://fxdailyreport.com/wti-crude-oil-price-analysis-for-july-28-2026/) | <span class="chg-down">米・イラン協議進展観測で軟化</span> |
-| ドル円 | [163.91円](https://api.frankfurter.app/latest?from=USD&to=JPY)（7月28日基準） | 円安水準で高止まり |
+| ドル円 | [163.91円](https://api.frankfurter.app/2026-07-28?from=USD&to=JPY)（7月28日基準） | 円安水準で高止まり |
 
 日米市場は明暗が分かれた。米国ではダウが好決算や原油安を追い風に反発した一方、半導体大手が集中するナスダックは軟調だった。半導体・AI関連の投資規模拡大に対する信用リスクへの警戒に加え、中国勢による国産露光装置の開発報道も重なり、フィラデルフィア半導体指数は4.5%下落した。この流れがアジア市場に波及し、日経平均は約4%の急落となった。
 
@@ -50,7 +50,7 @@ permalink: /2026/07/29/daily-briefing/
 
 **日本の経済**
 
-日経平均は[前日比2,566円27銭安の62,364円92銭](https://www.nikkei.com/article/DGXZQOUB276L2TX20C26A7000000/)で終え、半導体メモリー大手のキオクシアホールディングスは一時18%安のストップ安となった（[Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-07-28/TIV28GKJH6V400)）。東京エレクトロンやアドバンテスト、ディスコなど半導体製造装置株も軒並み10%超下落した。円相場は1ドル=163円台後半で推移しており、6月の消費者物価は前年比1.6%上昇と3か月ぶりに伸びが拡大、日銀が7月30〜31日の会合で追加利上げに動くとの観測も出ている。熊本地震による九州の生産・物流拠点への影響も、今後の株式市場で注視点になる。
+日経平均は[前日比2,566円27銭安の62,364円92銭](https://www.nikkei.com/article/DGXZQOUB276L2TX20C26A7000000/)で終え、半導体メモリー大手のキオクシアホールディングスは一時18%安のストップ安となった（[Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-07-28/TIV28GKJH6V400)）。東京エレクトロンやアドバンテスト、ディスコなど半導体製造装置株も軒並み10%超下落した。円相場は1ドル=163円台後半で推移しており、6月の消費者物価は前年比1.6%上昇と3か月ぶりに伸びが拡大した（[テレビ朝日](https://news.tv-asahi.co.jp/news_economy/articles/000521685.html)）。日銀は7月30〜31日に金融政策決定会合を開く予定で（[日本銀行](https://www.boj.or.jp/en/mopo/mpmsche_minu/)）、追加利上げの観測も出ている。熊本地震による九州の生産・物流拠点への影響も、今後の株式市場で注視点になる。
 
 ## 今日の注目銘柄・セクター
 
@@ -90,7 +90,14 @@ permalink: /2026/07/29/daily-briefing/
 - [日韓株が急落、KOSPIは11%安 - TradingKey](https://www.tradingkey.com/jp/analysis/stocks/more/262058161-kospi-plunges-11-kioxia-samsung-skhynix-tradingkey)
 - [Stock market news for July 28, 2026 - CNBC](https://www.cnbc.com/2026/07/27/stock-market-today-live-updates.html)
 - [WTI Crude Oil Price Analysis for July 28, 2026 - FXDailyReport](https://fxdailyreport.com/wti-crude-oil-price-analysis-for-july-28-2026/)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/)
+
+- [JR九州の全線運転見合わせ（熊本日日新聞）](https://kumanichi.com/articles/2018647)
+- [熊本地震に関する政府の注意喚起（首相官邸）](https://www.kantei.go.jp/jp/105/statement/2026/0728kaiken.html)
+- [TemuへのDSA制裁金（欧州委員会）](https://digital-strategy.ec.europa.eu/en/news/commission-fines-temu-eu200-million-breaching-digital-services-act)
+- [CME FedWatch](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html)
+- [6月の消費者物価（テレビ朝日）](https://news.tv-asahi.co.jp/news_economy/articles/000521685.html)
+- [日銀の金融政策決定会合日程](https://www.boj.or.jp/en/mopo/mpmsche_minu/)
+- 為替データ: [frankfurter API（7月28日）](https://api.frankfurter.app/2026-07-28?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
