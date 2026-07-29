@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — June 29, 2026"
+title: "U.S. waives Iran oil sanctions; Dow tops 52,000 as oil falls — June 29, 2026"
 date: 2026-06-29 08:07:00 +0900
 headline: "U.S. waives Iran oil sanctions; Dow tops 52,000 as oil falls"
 permalink: /2026/06/29/daily-briefing/

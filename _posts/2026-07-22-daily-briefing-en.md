@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 22, 2026"
+title: "US strikes Iran for 9th day as new UK PM takes office, oil swings — July 22, 2026"
 date: 2026-07-22 07:37:12 +0900
 headline: "US strikes Iran for 9th day as new UK PM takes office, oil swings"
 permalink: /2026/07/22/daily-briefing/

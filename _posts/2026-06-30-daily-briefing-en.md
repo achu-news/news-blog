@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — June 30, 2026"
+title: "Supreme Court backs late mail-in ballots; Alphabet joins the Dow — June 30, 2026"
 date: 2026-06-30 08:07:00 +0900
 headline: "Supreme Court backs late mail-in ballots; Alphabet joins the Dow"
 permalink: /2026/06/30/daily-briefing/

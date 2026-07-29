@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 28, 2026"
+title: "US and Iran pause strikes; oil plunges, global stocks rally — July 28, 2026"
 date: 2026-07-28 07:37:22 +0900
 headline: "US and Iran pause strikes; oil plunges, global stocks rally"
 permalink: /2026/07/28/daily-briefing/

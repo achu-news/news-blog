@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 19, 2026"
+title: "US troops killed in Iran strikes on Jordan as oil surges, Tokyo stocks post historic drop — July 19, 2026"
 date: 2026-07-19 07:38:53 +0900
 headline: "US troops killed in Iran strikes on Jordan as oil surges, Tokyo stocks post historic drop"
 permalink: /2026/07/19/daily-briefing/

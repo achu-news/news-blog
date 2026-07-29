@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — June 28, 2026"
+title: "Fresh U.S. strikes on Iran; Wall Street dips before jobs data — June 28, 2026"
 date: 2026-06-28 08:07:00 +0900
 headline: "Fresh U.S. strikes on Iran; Wall Street dips before jobs data"
 permalink: /2026/06/28/daily-briefing/

@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 21, 2026"
+title: "Oil jumps as US-Iran conflict widens; Burnham becomes UK PM — July 21, 2026"
 date: 2026-07-21 07:39:28 +0900
 headline: "Oil jumps as US-Iran conflict widens; Burnham becomes UK PM"
 permalink: /2026/07/21/daily-briefing/

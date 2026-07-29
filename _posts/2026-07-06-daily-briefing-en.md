@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 6, 2026"
+title: "Khamenei funeral in Tehran as NATO summit and Ukraine diplomacy loom — July 6, 2026"
 date: 2026-07-06 08:48:22 +0900
 headline: "Khamenei funeral in Tehran as NATO summit and Ukraine diplomacy loom"
 permalink: /2026/07/06/daily-briefing/

@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 14, 2026"
+title: "Trump reinstates Hormuz blockade as oil surges and chip-led selloff hits stocks — July 14, 2026"
 date: 2026-07-14 07:38:44 +0900
 headline: "Trump reinstates Hormuz blockade as oil surges and chip-led selloff hits stocks"
 permalink: /2026/07/14/daily-briefing/

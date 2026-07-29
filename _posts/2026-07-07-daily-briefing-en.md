@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 7, 2026"
+title: "NATO summit opens in Ankara as Hamas dissolves Gaza governing body — July 7, 2026"
 date: 2026-07-07 08:07:20 +0900
 headline: "NATO summit opens in Ankara as Hamas dissolves Gaza governing body"
 permalink: /2026/07/07/daily-briefing/

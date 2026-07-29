@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 2, 2026"
+title: "Trump administration says it won't renew USMCA trade deal — July 2, 2026"
 date: 2026-07-02 08:07:54 +0900
 headline: "Trump administration says it won't renew USMCA trade deal"
 permalink: /2026/07/02/daily-briefing/

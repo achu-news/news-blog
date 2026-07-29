@@ -68,12 +68,12 @@ done
 - 見出しや表現は一般読者にも親しみやすい、やさしい言葉づかいを心がける
 - **本文中の具体的な数値・事実には、原則その"出どころ（一次ソース）"のリンクを必ず付ける**（株価・為替・原油などの値、利上げ・死者数・選挙結果・スポーツのスコアなど）。例: `日経平均は[6万9,360円](URL)で引けた`。これは「確認できた数字だけ書く」ことの担保でもある——**リンクを付けられない＝裏が取れていない数字は書かない**。WebSearch や API で実際に確認したURLのみ使い、創作しない。読みやすさのため固有名詞すべてには付けなくてよいが、数値・重要事実には出典リンクを優先的に付ける。
 
-日本語記事の front matter は必ず次の形にする。日時は実際に投稿する現在時刻を使うこと（`date "+%Y-%m-%d %H:%M:%S +0900"` の出力をそのまま date に入れる）。タイトルの日付は本日の日付（YYYY年M月D日）。`headline` には**その日の最も大きいニュースを1行（30〜45字程度）**で要約して入れる（トップページのカードに見出しとして表示される）。`lang: ja` と `permalink` を必ず入れる:
+日本語記事の front matter は必ず次の形にする。日時は実際に投稿する現在時刻を使うこと（`date "+%Y-%m-%d %H:%M:%S +0900"` の出力をそのまま date に入れる）。`title` は検索に強いよう、**その日の最も大きいニュースを先頭に置き、末尾に日付とシリーズ名を付ける**。形式は `トップニュース見出し｜M月D日のニュースとお金`。`headline` には同じトップニュースを1行（30〜45字程度）で要約して入れる（トップページのカードに見出しとして表示される）。`lang: ja` と `permalink` を必ず入れる:
 ```
 ---
 layout: post
 lang: ja
-title: "YYYY年M月D日のニュースとお金"
+title: "トップニュース見出し｜M月D日のニュースとお金"
 date: YYYY-MM-DD HH:MM:SS +0900
 categories: [ニュース, 経済]
 headline: "その日のビッグニュースを1行で（例：日銀が利上げ、原油急落で世界株高）"
@@ -96,7 +96,7 @@ permalink: /YYYY/MM/DD/daily-briefing/
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — Month D, YYYY"
+title: "One-line big story of the day — Month D, YYYY"
 date: YYYY-MM-DD HH:MM:SS +0900
 headline: "One-line big story of the day in English"
 permalink: /YYYY/MM/DD/daily-briefing/
@@ -139,6 +139,19 @@ for suffix, lang in [("", "ja"), ("-en", "en")]:
     for name, passed in checks.items():
         if not passed:
             print(f"FAIL: {path} -> {name}"); ok = False
+    title = re.search(r'^title: "(.+)"$', fm, re.M)
+    headline = re.search(r'^headline: "(.+)"$', fm, re.M)
+    if title and headline:
+        title_text = title.group(1)
+        headline_text = headline.group(1)
+        if lang == "ja":
+            generic_title = f"{y}年{int(m)}月{int(day)}日のニュースとお金"
+            if title_text == generic_title or headline_text not in title_text or f"{int(m)}月{int(day)}日のニュースとお金" not in title_text:
+                print(f"FAIL: {path} -> title must be 'トップニュース見出し｜M月D日のニュースとお金'"); ok = False
+        if lang == "en":
+            generic_title = f"Daily World News & Market Briefing"
+            if title_text.startswith(generic_title) or headline_text not in title_text:
+                print(f"FAIL: {path} -> title must start with the day's top story"); ok = False
     if len(text) < 800:
         print(f"FAIL: {path} 本文が短すぎる({len(text)}字)"); ok = False
 print("VALIDATION OK" if ok else "VALIDATION FAILED")

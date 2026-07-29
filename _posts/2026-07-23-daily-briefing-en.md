@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 23, 2026"
+title: "Oil surges as Iran war drags on; yen slides to a near-40-year low around 163 — July 23, 2026"
 date: 2026-07-23 07:38:08 +0900
 headline: "Oil surges as Iran war drags on; yen slides to a near-40-year low around 163"
 permalink: /2026/07/23/daily-briefing/

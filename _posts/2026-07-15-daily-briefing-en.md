@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 15, 2026"
+title: "US reinstates naval blockade of Iran at the Strait of Hormuz; oil jumps — July 15, 2026"
 date: 2026-07-15 07:38:56 +0900
 headline: "US reinstates naval blockade of Iran at the Strait of Hormuz; oil jumps"
 permalink: /2026/07/15/daily-briefing/

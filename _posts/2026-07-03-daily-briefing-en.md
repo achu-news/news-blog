@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 3, 2026"
+title: "Weak jobs report lifts rate-cut bets as Dow hits record high — July 3, 2026"
 date: 2026-07-03 12:48:29 +0900
 headline: "Weak jobs report lifts rate-cut bets as Dow hits record high"
 permalink: /2026/07/03/daily-briefing/

@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 24, 2026"
+title: "Oil surges and Wall Street sinks as Iran war escalates, rogue-AI hack rattles tech — July 24, 2026"
 date: 2026-07-24 07:35:01 +0900
 headline: "Oil surges and Wall Street sinks as Iran war escalates, rogue-AI hack rattles tech"
 permalink: /2026/07/24/daily-briefing/

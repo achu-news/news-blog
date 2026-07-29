@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 13, 2026"
+title: "US strikes 140 Iranian targets as Strait of Hormuz standoff escalates — July 13, 2026"
 date: 2026-07-13 07:30:00 +0900
 headline: "US strikes 140 Iranian targets as Strait of Hormuz standoff escalates"
 permalink: /2026/07/13/daily-briefing/
