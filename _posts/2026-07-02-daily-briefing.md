@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: ja
-title: "2026年7月2日のニュースとお金"
+title: "トランプ政権がUSMCA不更新を表明、北米貿易に激震｜7月2日のニュースとお金"
 date: 2026-07-02 08:07:54 +0900
 categories: [ニュース, 経済]
 headline: "トランプ政権がUSMCA不更新を表明、北米貿易に激震"

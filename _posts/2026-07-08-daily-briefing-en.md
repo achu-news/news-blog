@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 8, 2026"
+title: "Iran hits tankers in Strait of Hormuz, U.S. launches retaliatory strikes, oil surges — July 8, 2026"
 date: 2026-07-08 08:05:14 +0900
 headline: "Iran hits tankers in Strait of Hormuz, U.S. launches retaliatory strikes, oil surges"
 permalink: /2026/07/08/daily-briefing/

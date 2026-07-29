@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 29, 2026"
+title: "Magnitude-7.1 quake hits Japan; chip-stock rout drags Nikkei down 4% — July 29, 2026"
 date: 2026-07-29 07:39:17 +0900
 headline: "Magnitude-7.1 quake hits Japan; chip-stock rout drags Nikkei down 4%"
 permalink: /2026/07/29/daily-briefing/

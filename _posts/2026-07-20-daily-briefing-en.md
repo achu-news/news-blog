@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 20, 2026"
+title: "New UK PM Andy Burnham takes office as US-Iran war toll climbs to 17 — July 20, 2026"
 date: 2026-07-20 07:35:30 +0900
 headline: "New UK PM Andy Burnham takes office as US-Iran war toll climbs to 17"
 permalink: /2026/07/20/daily-briefing/

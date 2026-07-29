@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 18, 2026"
+title: "Nikkei posts 5th-largest point drop ever as Kioxia halves and chip stocks slide — July 18, 2026"
 date: 2026-07-18 07:42:48 +0900
 headline: "Nikkei posts 5th-largest point drop ever as Kioxia halves and chip stocks slide"
 permalink: /2026/07/18/daily-briefing/

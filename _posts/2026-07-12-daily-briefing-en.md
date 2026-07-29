@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 12, 2026"
+title: "AI and chip stocks lead a broad rally as Nikkei jumps 1.2% — July 12, 2026"
 date: 2026-07-12 07:38:07 +0900
 headline: "AI and chip stocks lead a broad rally as Nikkei jumps 1.2%"
 permalink: /2026/07/12/daily-briefing/

@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 10, 2026"
+title: "US resumes strikes on Iran, ceasefire collapses as oil whipsaws — July 10, 2026"
 date: 2026-07-10 08:09:18 +0900
 headline: "US resumes strikes on Iran, ceasefire collapses as oil whipsaws"
 permalink: /2026/07/10/daily-briefing/

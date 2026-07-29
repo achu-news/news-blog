@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 1, 2026"
+title: "Supreme Court's landmark day; a record quarter for U.S. stocks — July 1, 2026"
 date: 2026-07-01 08:07:02 +0900
 headline: "Supreme Court's landmark day; a record quarter for U.S. stocks"
 permalink: /2026/07/01/daily-briefing/

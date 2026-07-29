@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 16, 2026"
+title: "Argentina storms into World Cup final; oil holds near $80 on Iran standoff — July 16, 2026"
 date: 2026-07-16 07:38:59 +0900
 headline: "Argentina storms into World Cup final; oil holds near $80 on Iran standoff"
 permalink: /2026/07/16/daily-briefing/

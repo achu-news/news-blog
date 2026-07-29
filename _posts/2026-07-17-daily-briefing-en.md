@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 17, 2026"
+title: "US-Iran strikes enter sixth day as chip selloff hits Wall Street and Tokyo — July 17, 2026"
 date: 2026-07-17 07:37:15 +0900
 headline: "US-Iran strikes enter sixth day as chip selloff hits Wall Street and Tokyo"
 permalink: /2026/07/17/daily-briefing/

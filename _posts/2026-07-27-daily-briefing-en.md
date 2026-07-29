@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 27, 2026"
+title: "Iran tensions keep oil and markets in focus ahead of the Fed — July 27, 2026"
 date: 2026-07-27 07:37:39 +0900
 headline: "Iran tensions keep oil and markets in focus ahead of the Fed"
 permalink: /2026/07/27/daily-briefing/

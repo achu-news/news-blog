@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 5, 2026"
+title: "Dow hits record high on soft jobs data as chip stocks tumble — July 5, 2026"
 date: 2026-07-05 08:08:13 +0900
 headline: "Dow hits record high on soft jobs data as chip stocks tumble"
 permalink: /2026/07/05/daily-briefing/

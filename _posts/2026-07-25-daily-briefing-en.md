@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 25, 2026"
+title: "Nikkei sinks 1,811 points on chip-stock rout as Mideast tensions persist — July 25, 2026"
 date: 2026-07-25 07:35:59 +0900
 headline: "Nikkei sinks 1,811 points on chip-stock rout as Mideast tensions persist"
 permalink: /2026/07/25/daily-briefing/

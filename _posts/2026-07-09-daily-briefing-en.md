@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 9, 2026"
+title: "Trump declares Iran ceasefire over; oil surges, chip stocks slide — July 9, 2026"
 date: 2026-07-09 08:05:17 +0900
 headline: "Trump declares Iran ceasefire over; oil surges, chip stocks slide"
 permalink: /2026/07/09/daily-briefing/

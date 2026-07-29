@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — June 27, 2026"
+title: "Israel–Lebanon framework as tech rotates and oil slides below $70 — June 27, 2026"
 date: 2026-06-27 08:07:00 +0900
 headline: "Israel–Lebanon framework as tech rotates and oil slides below $70"
 permalink: /2026/06/27/daily-briefing/

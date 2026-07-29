@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 26, 2026"
+title: "US strikes Iran for 13th straight night, oil briefly tops $100 a barrel — July 26, 2026"
 date: 2026-07-26 07:40:00 +0900
 headline: "US strikes Iran for 13th straight night, oil briefly tops $100 a barrel"
 permalink: /2026/07/26/daily-briefing/

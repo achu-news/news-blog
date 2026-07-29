@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "U.S. & Global Briefing — July 4, 2026"
+title: "Iran's slain supreme leader lies in state as peace talks pause — July 4, 2026"
 date: 2026-07-04 08:07:25 +0900
 headline: "Iran's slain supreme leader lies in state as peace talks pause"
 permalink: /2026/07/04/daily-briefing/

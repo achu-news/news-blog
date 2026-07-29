@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-title: "Daily World News & Market Briefing — July 11, 2026"
+title: "Spain wildfire kills at least 12, 23 missing amid heatwave — July 11, 2026"
 date: 2026-07-11 08:07:05 +0900
 headline: "Spain wildfire kills at least 12, 23 missing amid heatwave"
 permalink: /2026/07/11/daily-briefing/
