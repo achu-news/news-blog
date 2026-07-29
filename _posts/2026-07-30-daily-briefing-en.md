@@ -45,7 +45,7 @@ Today's throughline: a geopolitical shock hit currencies, oil, and equities all 
 - [BOJ forex market data (USD/JPY, 5pm) - Minkabu](https://s.minkabu.jp/news/4579012)
 - [Fed Holds Rates Steady as Three Officials Dissent in Favor of a Hike - Bloomberg](https://www.bloomberg.com/news/articles/2026-07-29/fed-holds-rates-steady-three-officials-dissent-favoring-a-hike)
 - [BOJ July meeting expected to hold rates - Nikkei](https://www.nikkei.com/article/DGXZQOUB2329U0T20C26A7000000/)
-- Market data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- Market data: [frankfurter API (July 29)](https://api.frankfurter.app/2026-07-29?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
