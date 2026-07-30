@@ -13,13 +13,13 @@ permalink: /2026/07/31/daily-briefing/
 - President Trump met separately with Ukraine's Volodymyr Zelenskyy and Israel's Benjamin Netanyahu at the White House on July 28, on the sidelines of the late Senator Lindsey Graham's funeral. Zelenskyy said the two had a "good" meeting covering Patriot missile licenses and reviving peace talks with Russia ([NPR](https://www.npr.org/2026/07/28/g-s1-135953/trump-zelenskyy-netanyahu-white-house-meeting)). *Why it matters:* the Patriot licensing question is central to Ukraine's air-defense capacity as the war enters its fifth year.
 - The Trump administration is pressing ahead with a 100% tariff on branded pharmaceutical imports, with a reduced 15% rate for Japan, the EU, South Korea and Switzerland; generics face a separate phased schedule ([Nikkei](https://www.nikkei.com/article/DGXZQOGN260T00W5A920C2000000/)). *Why it matters:* higher import costs on drugs could feed into U.S. consumer prices and complicate the inflation picture the Fed is watching.
 - U.S. stocks rallied hard on July 30, snapping the Nasdaq's six-day losing streak, after Microsoft posted a blowout earnings report driven by Azure cloud growth.
-- Wildfires forced evacuations on Crete as blazes spread rapidly across the Greek island, while record heat continued to fuel a major wildfire west of Bordeaux in France.
+- Wildfires forced evacuations on Crete as blazes spread across the Greek island, while a major wildfire continued to affect the Bordeaux region of France ([AP](https://apnews.com/article/de0bfabe2249153afc0e16da2f7e02f3)).
 
 ## Markets
 
-U.S. stocks staged a sharp rebound on July 30: the Dow closed at [52,208.06](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-30-2026), up 613.92 points (+1.19%); the S&P 500 rose 1.66% to 7,437.63; and the Nasdaq Composite jumped 2.78% to [25,122.18](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html), ending a six-session slide. Microsoft's earnings, showing strong Azure cloud growth, led the rally. Japan's Nikkei 225 closed at 61,867.43, up 433.24 points (+0.71%) on July 30. Oil rose for a fourth straight session to around [$84–85 a barrel](https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/) on renewed Iran-related supply concerns. The dollar traded around [¥162.94](https://api.frankfurter.app/latest?from=USD&to=JPY) per the Frankfurter reference rate (July 30 basis), with Tokyo market spot rates running near the ¥163 handle — a historically weak yen level.
+U.S. stocks staged a sharp rebound on July 30: the Dow closed at [52,208.06](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-30-2026), up 613.92 points (+1.19%); the S&P 500 rose 1.66% to 7,437.63; and the Nasdaq Composite jumped 2.78% to [25,122.18](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html), ending a six-session slide. Microsoft's earnings, showing strong Azure cloud growth, led the rally. Japan's Nikkei 225 closed at 61,867.43, up 433.24 points (+0.71%) on July 30. Oil rose for a fourth straight session to around [$84–85 a barrel](https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/) on renewed Iran-related supply concerns. The dollar traded around [¥162.94](https://api.frankfurter.app/2026-07-30?from=USD&to=JPY) per the Frankfurter reference rate (July 30 basis), with Tokyo market spot rates running near the ¥163 handle — a historically weak yen level.
 
-The Bank of Japan concluded its two-day policy meeting on July 31, holding its policy rate at [1.0%](https://www.techtimes.com/articles/321731/20260727/bank-japan-holds-rates-1-upgrades-gdp-forecast-yen-nears-40-year-low.htm) as it assesses the effects of June's rate hike, while reportedly moving to upgrade its fiscal 2026 GDP growth forecast to around 0.8% from 0.5%.
+The Bank of Japan's two-day policy meeting concludes on July 31, with the decision scheduled for release that day ([BOJ](https://www.boj.or.jp/about/calendar/index.htm)). Ahead of the meeting, reporting indicated that the BOJ was expected to keep its policy rate at 1.0% and could raise its fiscal 2026 GDP growth forecast ([Investing.com](https://www.investing.com/news/economy-news/bank-of-japan-set-to-hold-rates-at-1-as-inflation-expectations-rise--nikkei-4811855)).
 
 ## Stocks in Focus
 
@@ -41,9 +41,11 @@ Three forces are running in parallel today: a natural disaster whose toll keeps 
 - [US imposes 100% tariff on pharmaceuticals - Nikkei](https://www.nikkei.com/article/DGXZQOGN260T00W5A920C2000000/)
 - [Stock Market Today: Dow, S&P Live Updates for July 30 - TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-30-2026)
 - [Stock market today: Nasdaq soars nearly 3% - Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html)
-- [Bank of Japan Holds Rates at 1% and Upgrades GDP Forecast - Tech Times](https://www.techtimes.com/articles/321731/20260727/bank-japan-holds-rates-1-upgrades-gdp-forecast-yen-nears-40-year-low.htm)
 - [WTI oil outlook amid renewed US-Iran tension - OANDA](https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/)
-- Market data: [Frankfurter API](https://api.frankfurter.app/)
+- [European wildfires - AP](https://apnews.com/article/de0bfabe2249153afc0e16da2f7e02f3)
+- [BOJ release schedule](https://www.boj.or.jp/about/calendar/index.htm)
+- [Pre-meeting BOJ reporting - Investing.com](https://www.investing.com/news/economy-news/bank-japan-set-to-hold-rates-at-1-as-inflation-expectations-rise--nikkei-4811855)
+- Market data: [Frankfurter API (July 30)](https://api.frankfurter.app/2026-07-30?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 

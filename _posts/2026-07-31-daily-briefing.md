@@ -1,16 +1,16 @@
 ---
 layout: post
 lang: ja
-title: "熊本地震死者34人に、イオンモール爆発は7人死亡｜7月31日のニュースとお金"
+title: "熊本地震の死者は34人に拡大、イオンモール爆発で7人死亡｜7月31日のニュースとお金"
 date: 2026-07-31 07:38:28 +0900
 categories: [ニュース, 経済]
-headline: "熊本地震死者34人に、イオンモール爆発は7人死亡"
+headline: "熊本地震の死者は34人に拡大、イオンモール爆発で7人死亡"
 permalink: /2026/07/31/daily-briefing/
 ---
 
 ## 今日のポイント
 
-28日に発生した熊本県の震度7地震は、被害の全容が判明するにつれて死者数が拡大しており、県は調査中の人も含め34人が死亡したと発表した。イオンモール熊本の爆発・建物崩落事故だけで7人が亡くなっている。一方、日本銀行は31日の会合で政策金利を1.0%に据え置き、円相場は163円台という歴史的な円安水準が続く。米国では前日の急落から一転してナスダックが大幅反発し、ハイテク決算への安心感が広がった。
+28日に発生した熊本県の震度7地震は、被害の全容が判明するにつれて死者数が拡大しており、県は調査中の人も含め34人が死亡したと発表した。イオンモール熊本の爆発・建物崩落事故だけで7人が亡くなっている。一方、日本銀行は31日に金融政策決定会合の結果を公表する予定で、市場では政策金利を1.0%に据え置くとの見方が報じられている。円相場は163円台という歴史的な円安水準が続く。米国では前日の急落から一転してナスダックが大幅反発し、ハイテク決算への安心感が広がった。
 
 ## 今日のニュース
 
@@ -27,8 +27,8 @@ permalink: /2026/07/31/daily-briefing/
 - 30日のニューヨーク株式市場は大幅反発。マイクロソフトがクラウド事業「Azure」の力強い成長を示す決算を発表し株価が急伸したことが相場全体を押し上げ、ナスダック総合は6営業日続いた下落から反発した。
 
 **ヨーロッパ**
-- ギリシャ・クレタ島で山火事が急速に拡大し、沿岸警備隊が住民の避難・救助にあたっている。フランスでも記録的な熱波が続き、ボルドー西方の大規模山火事の消火活動が続いている。
-- 欧州宇宙機関（ESA）の宇宙飛行士は、月探査計画において欧州が「米国の強力なパートナー」であるとの認識を示した。
+- ギリシャ・クレタ島で山火事が広がり、フランス南西部ボルドー周辺でも大規模山火事への対応が続いている（[AP](https://apnews.com/article/de0bfabe2249153afc0e16da2f7e02f3)）。
+- 欧州宇宙機関（ESA）は、月探査「アルテミス」計画で欧州が重要な役割を担うとしている（[ESA](https://www.esa.int/Newsroom/Press_Releases/Europe_powers_Artemis_II_mission_to_the_Moon)）。
 
 ## 経済とお金の動き
 
@@ -41,7 +41,7 @@ permalink: /2026/07/31/daily-briefing/
 | ナスダック総合 | [25,122.18](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html) | <span class="chg-up">+2.78%（6日続落から反発）</span> |
 | 日経平均株価 | 61,867.43円 | <span class="chg-up">+433.24円（+0.71%）</span> |
 | WTI原油 | [84〜85ドル/バレル台](https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/) | <span class="chg-up">4営業日ぶり反発、中東緊張で堅調</span> |
-| ドル円 | [162.94円](https://api.frankfurter.app/latest?from=USD&to=JPY)（frankfurter基準・7月30日） | 東京市場実勢は163円台後半で推移 |
+| ドル円 | [162.94円](https://api.frankfurter.app/2026-07-30?from=USD&to=JPY)（frankfurter基準・7月30日） | 東京市場実勢は163円台後半で推移 |
 
 米国株は、マイクロソフトの好決算（クラウド事業の急成長）を材料に大型ハイテク株が軒並み買われ、前日までの利上げ懸念・地政学リスクによる下落分を打ち消す形で急反発した。原油は、イランがヨルダンの米軍基地を再び攻撃したとの報道を受けて供給不安が意識され、4営業日ぶりに上昇して1バレル=85ドル前後まで値を戻している。
 
@@ -51,7 +51,7 @@ permalink: /2026/07/31/daily-briefing/
 
 **日本の経済**
 
-日本銀行は30、31日の金融政策決定会合で、政策金利（無担保コール翌日物金利誘導目標）を[1.0%程度に据え置く](https://www.techtimes.com/articles/321731/20260727/bank-japan-holds-rates-1-upgrades-gdp-forecast-yen-nears-40-year-low.htm)ことを決定した。6月会合での利上げの効果を見極める狙いとみられる。同時に公表した展望リポートでは、2026年度の実質GDP成長率見通しを従来の0.5%程度から0.8%程度へ上方修正する方向で検討されたほか、長期国債の買い入れ減額計画として、2027年1〜3月の月間購入額を約3兆円まで引き下げる方針も示された。円相場は163円台の歴史的な安値圏で推移しており、市場では次の防衛ラインとして165円を意識する声もあるが、財務省・日銀による為替介入の可能性は「大義が乏しい」との見方が優勢となっている（[日本経済新聞](https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/)）。日経平均は前日の急落から反発し、6万1,867円で取引を終えた。
+日本銀行は30、31日に金融政策決定会合を開催しており、31日に結果を公表する予定である（[日本銀行](https://www.boj.or.jp/about/calendar/index.htm)）。事前報道では、政策金利を1.0%に据え置き、2026年度の実質GDP成長率見通しを上方修正する可能性が伝えられている（[Investing.com](https://www.investing.com/news/economy-news/bank-of-japan-set-to-hold-rates-at-1-as-inflation-expectations-rise--nikkei-4811855)）。円相場は163円台の歴史的な安値圏で推移しており、市場では次の防衛ラインとして165円を意識する声もあるが、財務省・日銀による為替介入の可能性は「大義が乏しい」との見方が優勢となっている（[日本経済新聞](https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/)）。日経平均は前日の急落から反発し、6万1,867円で取引を終えた。
 
 ## 今日の注目銘柄・セクター
 
@@ -65,12 +65,12 @@ permalink: /2026/07/31/daily-briefing/
 ## まとめ：注目の3つ
 
 1. 熊本地震の死者は調査中を含め34人に拡大。イオンモール熊本の爆発事故は7人死亡・5人けがで捜索が続く
-2. 日銀は政策金利を1.0%に据え置き、GDP見通しを上方修正する方向。円相場は163円台の歴史的円安が継続
+2. 日銀は31日に会合結果を公表予定。市場では政策金利据え置き観測があり、円相場は163円台の歴史的円安が継続
 3. 米国株はマイクロソフトの好決算を受けナスダックが大幅反発する一方、イラン情勢の緊張再燃で原油は高止まり
 
 ## 今日の羅針盤（Compass Insight）
 
-今日を貫くのは「災害・地政学・金融政策という3つのリスクが並走しながらも、市場は目先の企業業績に反応して揺れ戻す」という構図だ。熊本地震は被害の全容が見えるほど数字が積み上がっていく段階にあり、生産・物流拠点への影響が今後の経済指標に表れてくる可能性がある。日銀の政策金利据え置きとGDP見通し上方修正は「利上げ路線は維持しつつ急がない」というメッセージであり、円安を止める決定打にはなりにくい。
+今日を貫くのは「災害・地政学・金融政策という3つのリスクが並走しながらも、市場は目先の企業業績に反応して揺れ戻す」という構図だ。熊本地震は被害の全容が見えるほど数字が積み上がっていく段階にあり、生産・物流拠点への影響が今後の経済指標に表れてくる可能性がある。日銀会合の結果と展望リポートは31日の公表を待つ必要があり、内容次第では円相場にも影響しうる。
 
 家計への影響としては、163円台の円安が続く限り、輸入食品やガソリン・電気代など生活コストへの下押し圧力は当面解消されにくい。保有する投資信託や年金運用が米国ハイテク株に連動している場合、マイクロソフトの決算のような個別材料一つで評価額が大きく動く局面が続いている点にも留意したい。熊本の被災地では、義援金や支援情報など公的機関の発表を確認しつつ、サプライチェーンへの影響が広がるかどうかも注視したい。
 
@@ -90,12 +90,15 @@ permalink: /2026/07/31/daily-briefing/
 - [トランプ、ヨルダンの米軍基地への攻撃を受けイランへの「猛反撃」を表明 - Forbes JAPAN](https://forbesjapan.com/articles/detail/101910)
 - [Trump meets with Ukrainian President Zelenskyy and Israeli Prime Minister Netanyahu - NPR](https://www.npr.org/2026/07/28/g-s1-135953/trump-zelenskyy-netanyahu-white-house-meeting)
 - [米、医薬品に100%関税 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN260T00W5A920C2000000/)
-- [Bank of Japan Holds Rates at 1% and Upgrades GDP Forecast - Tech Times](https://www.techtimes.com/articles/321731/20260727/bank-japan-holds-rates-1-upgrades-gdp-forecast-yen-nears-40-year-low.htm)
 - [円相場163円台、見透かされた「通貨安容認」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL220B80S6A720C2000000/)
 - [Stock Market Today: Dow, S&P Live Updates for July 30 - TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-30-2026)
 - [Stock market today: Nasdaq soars nearly 3% - Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html)
 - [WTI原油見通し：米国とイランの軍事衝突再燃の可能性 - OANDA](https://www.oanda.jp/lab-education/market_news/2026_07_30_wtioil/)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- [欧州の山火事対応 - AP](https://apnews.com/article/de0bfabe2249153afc0e16da2f7e02f3)
+- [欧州のアルテミス計画での役割 - ESA](https://www.esa.int/Newsroom/Press_Releases/Europe_powers_Artemis_II_mission_to_the_Moon)
+- [日銀の公表予定 - 日本銀行](https://www.boj.or.jp/about/calendar/index.htm)
+- [日銀会合を巡る事前報道 - Investing.com](https://www.investing.com/news/economy-news/bank-of-japan-set-to-hold-rates-at-1-as-inflation-expectations-rise--nikkei-4811855)
+- 為替データ: [frankfurter API（7月30日）](https://api.frankfurter.app/2026-07-30?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
