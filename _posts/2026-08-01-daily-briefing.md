@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "トランプ氏、ガザ停戦『次段階』合意を発表｜8月1日のニュースとお金"
+title: "ガザ停戦の次段階で合意、ハマス武装解除とイスラエル軍撤退へ｜8月1日のニュースとお金"
 date: 2026-08-01 07:35:30 +0900
 categories: [ニュース, 経済]
-headline: "トランプ氏、ガザ停戦『次段階』合意を発表"
+headline: "ガザ停戦の次段階で合意、ハマス武装解除とイスラエル軍撤退へ"
 permalink: /2026/08/01/daily-briefing/
 ---
 
@@ -20,7 +20,7 @@ permalink: /2026/08/01/daily-briefing/
 - プロ野球・広島東洋カープの矢野雅哉、前川誠太の両選手宅などを広島県警が指定薬物関連の疑いで家宅捜索。前川選手は一軍登録を抹消され、新井貴浩監督は「後半戦が始まるときにこのような形でご迷惑をおかけして申し訳ない」とコメントした（[Yahoo!ニュース／FNNプライムオンライン](https://news.yahoo.co.jp/articles/f6ae92c11c0b0cbc23538961d342b84abe12e970)）。
 
 **世界**
-- トランプ大統領は、エジプト・カタール・トルコと米国主導の「Board of Peace」が仲介し、ハマスが段階的に武装解除する見返りにイスラエル軍がガザから撤退する合意に達したと発表した。武装解除の完了を検証委員会が監視し、武器は新たなパレスチナ行政機構の管理下に置かれる計画（[NPR](https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza)）。ただしハマス高官は「イスラエルが先に撤退すべきだ」と主張しており、双方とも合意への即時の同意は示していない（[Al Jazeera](https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza)）。
+- トランプ大統領は、エジプト・カタール・トルコと米国主導の「Board of Peace」が仲介し、ハマスが段階的に武装解除する見返りにイスラエル軍がガザから撤退する合意に達したと発表した。武装解除の完了を検証委員会が監視し、武器は新たなパレスチナ行政機構の管理下に置かれる計画（[NPR](https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza)）。ハマスは合意に達したと表明した一方、イスラエル政府はコメントしておらず、実施にはなお不確実性が残る（[AP](https://apnews.com/article/7347ef0f3b745f22c12b67f786b70f0f)）。
 - 中東ではイランの弾道ミサイルによるヨルダン米軍基地攻撃を米軍が迎撃した後、米国とサウジアラビアがイラクのイラン系民兵に対する報復攻撃を実施するなど、緊張の連鎖が続いている（[Al Jazeera](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading)）。
 
 **アメリカ**
@@ -41,7 +41,7 @@ permalink: /2026/08/01/daily-briefing/
 | S&P500 | 7,489.72ドル | <span class="chg-up">+52.09ドル（+0.70%）</span> |
 | ナスダック総合 | 25,373.85 | <span class="chg-up">+251.67（+1.00%）</span> |
 | WTI原油 | [84.67ドル/バレル](https://www.nikkei.com/article/DGXZQOFL31CR80R30C26A7000000/) | <span class="chg-up">+1.08ドル（+1.3%）</span> |
-| ドル円 | [160.24円](https://api.frankfurter.app/latest?from=USD&to=JPY)（frankfurter基準・7月31日） | 日銀会合や介入観測を受け週内は157〜163円台で振れる展開 |
+| ドル円 | [160.24円](https://api.frankfurter.app/2026-07-31?from=USD&to=JPY)（frankfurter基準・7月31日） | 日銀会合や介入観測を受け週内は157〜163円台で振れる展開 |
 
 米国ではマイクロソフトに続きアマゾンの好決算がハイテク株を押し上げ、日本にも波及してキオクシアなどAI・半導体関連株がストップ高となる銘柄が相次いだ（[株探](https://kabutan.jp/news/marketnews/?b=n202607310506)）。原油は、イランがホルムズ海峡でタンカーを攻撃したと伝わったことでエネルギー供給への警戒が強まり反発した。
 
@@ -85,6 +85,7 @@ permalink: /2026/08/01/daily-briefing/
 - [カープ矢野雅哉・前川誠太選手の自宅に家宅捜索 - Yahoo!ニュース／FNNプライムオンライン](https://news.yahoo.co.jp/articles/f6ae92c11c0b0cbc23538961d342b84abe12e970)
 - [Trump announces a deal for Hamas to disarm - NPR](https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza)
 - [Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera](https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza)
+- [ガザ合意の全文と実施の状況 - AP](https://apnews.com/article/7347ef0f3b745f22c12b67f786b70f0f)
 - [Iran hits US in Jordan, US-Saudi strikes on Iraq - Al Jazeera](https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading)
 - [S&P 500 closes higher Friday as Amazon surges - CNBC](https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html)
 - [EU coordinates wildfire aid for France and Spain - Euronews](https://www.euronews.com/my-europe/2026/07/29/eu-coordinates-wildfire-aid-for-france-and-spain-amid-warnings-heatwave-could-spread)
@@ -96,7 +97,7 @@ permalink: /2026/08/01/daily-briefing/
 - [キオクシアがＳ高カイ気配、米ＳＯＸ８％高でＡＩ・半導体関連の買い戻しが加速 - 株探ニュース](https://kabutan.jp/news/marketnews/?b=n202607310506)
 - [日銀、政策金利1.0%で据え置き決定 - Yahoo!ニュース／TBS NEWS DIG](https://news.yahoo.co.jp/articles/c0550a32c42841200f0cae5709714f05a02ef838)
 - [日銀・植田総裁、利上げペース「加速もありうる」 物価上振れ警戒 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB3081L0Q6A730C2000000/)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- 為替データ: [frankfurter API（7月31日）](https://api.frankfurter.app/2026-07-31?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
