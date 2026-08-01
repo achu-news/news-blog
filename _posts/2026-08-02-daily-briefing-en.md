@@ -23,7 +23,7 @@ permalink: /2026/08/02/daily-briefing/
 
 ## Markets
 
-Friday's session in New York was an unusual mix of gains across stocks, yields, oil and the yen simultaneously ([Yahoo Finance Japan/Traders Web](https://finance.yahoo.co.jp/news/detail/609c63970b61e790f6d5b8ccb29918d75d13cbce)). The Dow closed at 52,485.03 (+276.97, +0.53%), the S&P 500 at 7,489.72 (+52.09, +0.70%), and the Nasdaq Composite at 25,373.85 (+1.00%). Japan's Nikkei 225 jumped 4.03% to 64,362.02 on the spillover from U.S. tech earnings — but note that both U.S. and Japanese markets are closed over the weekend, so these remain Friday's closing figures as of this report. Markets were closed for the weekend, so all figures reflect Friday, July 31 closes.
+Friday's session in New York was an unusual mix of gains across stocks, yields, oil and the yen simultaneously ([Yahoo Finance Japan/Traders Web](https://finance.yahoo.co.jp/news/detail/609c63970b61e790f6d5b8ccb29918d75d13cbce)). The Dow closed at 52,485.03 (+276.97, +0.53%), the S&P 500 at 7,489.72 (+52.09, +0.70%), and the Nasdaq Composite at 25,373.85 (+1.00%). Japan's Nikkei 225 jumped 4.03% to 64,362.02 on the spillover from U.S. tech earnings. Both U.S. and Japanese markets are closed over the weekend, so these are Friday's closing figures as of this report.
 
 ## Stocks in Focus
 
@@ -53,7 +53,7 @@ For household budgets, a stronger yen — even if intervention-driven — can ta
 - [Aeon Mall Kumamoto search operation concludes - Nikkei](https://www.nikkei.com/article/DGXZQOUD011BD0R00C26A8000000/)
 - [Kumamoto water restoration timeline next week - Kyoto Shimbun/Kyodo](https://www.kyoto-np.co.jp/articles/-/1763422)
 - [NY yen closes at 157.35-45, third straight gain on suspected intervention - Nikkei](https://www.nikkei.com/article/DGXZQOFL31CRB0R30C26A7000000/)
-- Market data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY) / Yahoo Finance
+- Market data: [frankfurter API (July 31)](https://api.frankfurter.app/2026-07-31?from=USD&to=JPY) / Yahoo Finance
 
 *Auto-generated and AI-written. Not investment advice.*
 
