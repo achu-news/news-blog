@@ -1,0 +1,68 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:1200px; height:630px; overflow:hidden; }
+  .card {
+    position:relative; width:1200px; height:630px;
+    background: linear-gradient(120deg, #16203c 0%, #1b2547 55%, #202b52 100%);
+    border-top:7px solid; border-bottom:7px solid;
+    border-image: linear-gradient(90deg,#8a6f33,#d4b871,#8a6f33) 1;
+    overflow:hidden;
+  }
+  /* 右側の大きな透かしコンパス */
+  .watermark { position:absolute; right:-40px; top:50%; transform:translateY(-50%); opacity:.32; }
+  .content { position:absolute; left:100px; top:50%; transform:translateY(-50%); }
+  .row { display:flex; align-items:center; gap:34px; }
+  .badge { flex:none; }
+  .title {
+    font-family:"Hiragino Mincho ProN","Yu Mincho",serif;
+    font-weight:600; font-size:76px; color:#fff;
+    letter-spacing:6px; line-height:1.1; white-space:nowrap;
+  }
+  .sub {
+    margin-top:34px; font-family:"Helvetica Neue",Arial,sans-serif;
+    font-size:29px; font-weight:400; color:#d4b871; letter-spacing:5.5px;
+  }
+  .tag-ja {
+    margin-top:44px; font-family:"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif;
+    font-size:26px; font-weight:400; color:#eef1f7; letter-spacing:1.5px;
+  }
+  .tag-en {
+    margin-top:16px; font-family:"Helvetica Neue",Arial,sans-serif;
+    font-size:19px; color:#8e97ad; letter-spacing:.4px;
+  }
+</style></head>
+<body>
+<div class="card">
+
+  <svg class="watermark" width="560" height="560" viewBox="0 0 560 560" fill="none">
+    <circle cx="280" cy="280" r="212" stroke="#7f8aa6" stroke-width="3" opacity=".55"/>
+    <g stroke="#7f8aa6" stroke-width="3" opacity=".55">
+      <line x1="280" y1="30" x2="280" y2="120"/>
+      <line x1="280" y1="440" x2="280" y2="530"/>
+      <line x1="30" y1="280" x2="120" y2="280"/>
+      <line x1="440" y1="280" x2="530" y2="280"/>
+    </g>
+    <path d="M280 60 L322 280 L280 500 L238 280 Z" fill="#5f6c8c" opacity=".75"/>
+    <circle cx="280" cy="280" r="24" fill="#8794b3" opacity=".8"/>
+  </svg>
+
+  <div class="content">
+    <div class="row">
+      <svg class="badge" width="132" height="132" viewBox="0 0 132 132" fill="none">
+        <circle cx="66" cy="66" r="61" fill="#111a30" stroke="#d4b871" stroke-width="5"/>
+        <path d="M66 22 L79 66 L66 110 L53 66 Z" fill="#efe6d2"/>
+        <path d="M66 22 L79 66 L66 66 Z" fill="#c0392b"/>
+        <path d="M66 22 L53 66 L66 66 Z" fill="#e05243"/>
+        <circle cx="66" cy="66" r="7" fill="#111a30" stroke="#efe6d2" stroke-width="2.5"/>
+      </svg>
+      <div class="title">世界とお金の羅針盤</div>
+    </div>
+    <div class="sub">THE WORLD &amp; MONEY COMPASS</div>
+    <div class="tag-ja">毎朝8時、世界の動きとお金の流れを。</div>
+    <div class="tag-en">Daily World News &amp; Market Briefing — AI-written, updated every morning (JST)</div>
+  </div>
+
+</div>
+</body></html>
