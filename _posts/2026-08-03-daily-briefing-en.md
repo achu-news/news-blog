@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Trump calls off Iran strikes, talks to begin Monday — August 3, 2026"
-date: 2026-08-03 07:55:00 +0900
+date: 2026-08-03 07:30:00 +0900
 headline: "Trump calls off Iran strikes, talks to begin Monday"
 permalink: /2026/08/03/daily-briefing/
 ---
