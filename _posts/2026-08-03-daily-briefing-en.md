@@ -1,18 +1,18 @@
 ---
 layout: post
 lang: en
-title: "Trump calls off Iran strikes, talks to begin Monday — August 3, 2026"
+title: "Trump calls off Iran strikes pending rapid deal — August 3, 2026"
 date: 2026-08-03 07:30:00 +0900
-headline: "Trump calls off Iran strikes, talks to begin Monday"
+headline: "Trump calls off Iran strikes pending rapid deal"
 permalink: /2026/08/03/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- President Trump said the U.S. will hold off on a planned strike against Iran after Iran and Gulf states — including Saudi Arabia, the UAE and Qatar — signaled progress toward a deal, including on reopening the Strait of Hormuz. He said negotiations, likely via intermediaries, will begin Monday ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal), [Washington Post](https://www.washingtonpost.com/politics/2026/08/02/trump-iran-strait-hormuz-israel-gaza-mideast/7d2da2ea-8e28-11f1-8912-d71e69d679d7_story.html)). *Why it matters:* A full-scale U.S.-Iran conflict looked imminent as recently as Friday; oil markets and shipping through the Strait of Hormuz had been pricing in a much worse outcome.
+- President Trump said the U.S. will hold off on a planned strike against Iran after claiming Middle East allies reached parameters for a deal. He made the decision conditional on a rapid agreement ([Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal), [AP](https://apnews.com/article/814164417aa284dc8a6d34ac22ea1a8e)). *Why it matters:* A full-scale U.S.-Iran conflict looked imminent as recently as Friday; oil markets and shipping through the Strait of Hormuz had been pricing in a much worse outcome.
 - Hamas has agreed in principle to disarm under a Trump-backed framework announced last week, but Hamas officials say they won't act until Israel halts strikes, withdraws to the "Yellow Line" and allows an aid surge — a condition that appears to contradict Trump's framing of the deal as settled ([France 24](https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan), [CNBC](https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html)). *Why it matters:* The gap between the two sides' conditions suggests the ceasefire's next phase remains fragile despite the headline announcement.
 - Friday, July 31 — the last trading session before the weekend — saw U.S. stocks rally broadly as Amazon's earnings beat lifted tech shares, capping a fourth straight winning month for the Dow ([CNBC](https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html)).
-- July's jobs report is due Friday, August 7, with economists forecasting nonfarm payrolls to rise by 83,000 ([ts2.tech](https://ts2.tech/en/us-stocks-begin-august-with-focused-gains-ahead-of-employment-data/)). *Why it matters:* With the Fed on hold at 3.50-3.75% for a fifth straight meeting, the jobs data is the next major input into whether rate cuts move up the timeline.
+- July's jobs report is due Friday, August 7 ([U.S. Bureau of Labor Statistics](https://www.bls.gov/news.release/empsit.htm)). *Why it matters:* With the Fed on hold at 3.50-3.75% for a fifth straight meeting, the jobs data is the next major input into whether rate cuts move up the timeline.
 - In Kumamoto, Japan, a woman in her 70s died of suspected heatstroke while sheltering in her car after the July 28 earthquake — the first suspected disaster-related death of the ongoing crisis, as the region braces for its first 40°C "extreme heat day" on August 3 ([Nikkei](https://www.nikkei.com/article/DGXZQOUD011Z00R00C26A8000000/)).
 - Golf: Japan's Shiho Kuwaki won her first major at the AIG Women's Open, beating Germany's Esther Henseleit in a playoff for a 5-under total — the third Japanese winner of the tournament since it became a major ([NHK](https://news.web.nhk/newsweb/na/na-k10015194471000)).
 
@@ -35,11 +35,11 @@ Today's throughline is "pulled back from the brink." A full U.S.-Iran military c
 
 **Sources:**
 - [Trump Says US to Cancel Iran Attack Subject to a Rapid Deal - Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)
-- [Trump says he will order halt to Iran strikes after parameters reached for deal to end war - Washington Post](https://www.washingtonpost.com/politics/2026/08/02/trump-iran-strait-hormuz-israel-gaza-mideast/7d2da2ea-8e28-11f1-8912-d71e69d679d7_story.html)
+- [Trump says allies reached deal parameters as Iran strikes paused - AP](https://apnews.com/article/814164417aa284dc8a6d34ac22ea1a8e)
 - [Hamas agrees to disarm under Trump ceasefire deal - France 24](https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan)
 - [Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments - CNBC](https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html)
 - [S&P 500 closes higher Friday as Amazon surges - CNBC](https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html)
-- [US Stocks Begin August With Focused Gains Ahead of Employment Data - ts2.tech](https://ts2.tech/en/us-stocks-begin-august-with-focused-gains-ahead-of-employment-data/)
+- [July employment report schedule - U.S. Bureau of Labor Statistics](https://www.bls.gov/news.release/empsit.htm)
 - [Kumamoto earthquake death toll rises to 38 - Nikkei](https://www.nikkei.com/article/DGXZQOUD011Z00R00C26A8000000/)
 - [Rhine reaches lowest water level ever recorded at Dutch border - NL Times](https://nltimes.nl/2026/07/30/rhine-reaches-lowest-water-level-ever-recorded-dutch-border)
 - [Oil price: Strait of Hormuz crude flows recover, Trump's Iran tariff push - CNBC](https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html)
