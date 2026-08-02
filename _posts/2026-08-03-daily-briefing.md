@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "トランプ氏がイラン攻撃を見送り、3日にも交渉開始へ｜8月3日のニュースとお金"
-date: 2026-08-03 07:55:00 +0900
+date: 2026-08-03 07:30:00 +0900
 categories: [ニュース, 経済]
 headline: "トランプ氏がイラン攻撃を見送り、3日にも交渉開始へ"
 permalink: /2026/08/03/daily-briefing/
