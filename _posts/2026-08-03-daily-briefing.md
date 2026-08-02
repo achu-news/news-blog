@@ -1,16 +1,16 @@
 ---
 layout: post
 lang: ja
-title: "トランプ氏がイラン攻撃を見送り、3日にも交渉開始へ｜8月3日のニュースとお金"
+title: "トランプ氏が対イラン攻撃を見送り、迅速な合意を条件に交渉へ｜8月3日のニュースとお金"
 date: 2026-08-03 07:30:00 +0900
 categories: [ニュース, 経済]
-headline: "トランプ氏がイラン攻撃を見送り、3日にも交渉開始へ"
+headline: "トランプ氏が対イラン攻撃を見送り、迅速な合意を条件に交渉へ"
 permalink: /2026/08/03/daily-briefing/
 ---
 
 ## 今日のポイント
 
-トランプ米大統領が計画していたイラン攻撃を見送り、サウジアラビアなど周辺国の仲介を受けて3日にもイランとの交渉を始めると表明した。米・イラン間の全面衝突は土壇場で回避された形だが、ホルムズ海峡や原油市場への警戒は続く。国内では熊本地震の被災地が3日に県内初の「酷暑日」（最高40度予想）を迎え、車中泊での熱中症死とみられる災害関連死が初めて確認された。台風13号（ドルフィン）は非常に強い勢力を保ったまま西進しており、週後半には沖縄・奄美への接近が懸念される。金融市場は月曜のため東京・NY市場ともまだ取引開始前で、直近の終値（7月31日）は日米株高・円高・原油高がそろう展開だった。
+トランプ米大統領が計画していたイラン攻撃を見送り、サウジアラビアなど周辺国の仲介による迅速な合意を条件に交渉を進めると表明した。米・イラン間の全面衝突は土壇場で回避された形だが、ホルムズ海峡や原油市場への警戒は続く。国内では熊本地震の被災地が3日に県内初の「酷暑日」（最高40度予想）を迎え、車中泊での熱中症死とみられる災害関連死が初めて確認された。台風13号（ドルフィン）は非常に強い勢力を保ったまま西進しており、週後半には沖縄・奄美への接近が懸念される。金融市場は月曜のため東京・NY市場ともまだ取引開始前で、直近の終値（7月31日）は日米株高・円高・原油高がそろう展開だった。
 
 ## 今日のニュース
 
@@ -21,12 +21,12 @@ permalink: /2026/08/03/daily-briefing/
 - ゴルフの全英女子オープンで桑木志帆選手が2ホール目のプレーオフでエスター・ヘンセライト選手（ドイツ）を制し、通算5アンダーでメジャー初優勝。渋野日向子選手（2019年）、山下美夢有選手（昨年）に続き、日本勢としてメジャー昇格後の同大会を制した3人目となった（[NHKニュース](https://news.web.nhk/newsweb/na/na-k10015194471000)）。
 
 **世界**
-- トランプ大統領は、イランおよびサウジアラビア、UAE、カタールとの協議が進展したとして、計画していた対イラン攻撃を見送ると表明。「迅速な合意」を条件に攻撃を中止したとSNSに投稿し、仲介を通じた交渉を3日にも開始する考えを示した。サウジのムハンマド皇太子が緊張緩和を働きかけたと伝えられ、土曜から日曜にかけて双方からの新たな攻撃は報告されていない（[Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)、[Washington Post](https://www.washingtonpost.com/politics/2026/08/02/trump-iran-strait-hormuz-israel-gaza-mideast/7d2da2ea-8e28-11f1-8912-d71e69d679d7_story.html)）。
+- トランプ大統領は、中東の仲介国が合意の枠組みに到達したと主張し、計画していた対イラン攻撃を見送ると表明。「迅速な合意」を条件に攻撃を中止したとSNSに投稿した。サウジのムハンマド皇太子が緊張緩和を働きかけたと伝えられている（[Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)、[AP](https://apnews.com/article/814164417aa284dc8a6d34ac22ea1a8e)）。
 - パレスチナ自治区ガザをめぐっては、トランプ政権が仲介した枠組みでハマスが武装解除に同意したと7月末に発表された。ただしハマス幹部は、イスラエルが停戦し「イエローライン」まで部隊を撤収させ、人道支援の拡大を認めることが前提だと強調しており、「イスラエルの撤退前には武装解除の行動を取らない」としてトランプ氏の説明と食い違いを見せている（[France 24](https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan)、[CNBC](https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html)）。
 
 **アメリカ**
 - 週末を挟み、直近の取引最終日となった31日のニューヨーク株式市場では、アマゾンなど大手ハイテク企業の好決算を受けてS&P500・ダウ・ナスダックがそろって上昇し、ダウ平均は7月を4カ月連続の月間上昇で終えた（詳細は下記マーケット表）（[CNBC](https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html)）。
-- 焦点だった7月の雇用統計は今週末8月7日（金）に発表予定。事前の市場予想は非農業部門雇用者数が前月比8万3,000人増（[ts2.tech](https://ts2.tech/en/us-stocks-begin-august-with-focused-gains-ahead-of-employment-data/)）。
+- 焦点となる7月の雇用統計は今週末8月7日（金）に発表予定（[米労働統計局](https://www.bls.gov/news.release/empsit.htm)）。
 
 **ヨーロッパ**
 - ギリシャでは強風にあおられた山火事がアテネ近郊で拡大し、北西部ポルト・ゲルメノス周辺では住宅100棟超が焼失、約500人の消防隊員が消火にあたっている。消火活動中に消防ヘリコプター2機が空中衝突し2人が死亡する事故も起きた（[Al Jazeera](https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires)）。
@@ -50,7 +50,7 @@ permalink: /2026/08/03/daily-briefing/
 
 **アメリカの経済**
 
-米・イラン情勢の緊迫が一時原油高を通じてインフレ懸念を再燃させていたが、トランプ氏の攻撃見送り表明で地政学リスクプレミアムが縮小するかが焦点になる。週内は7日発表予定の7月雇用統計（市場予想は前月比8万3,000人増）が次の材料で、FRBが5会合連続で政策金利を3.50〜3.75%に据え置く中、労働市場の減速度合いが利下げ観測の行方を左右する。
+米・イラン情勢の緊迫が一時原油高を通じてインフレ懸念を再燃させていたが、トランプ氏の攻撃見送り表明で地政学リスクプレミアムが縮小するかが焦点になる。週内は7日発表予定の7月雇用統計が次の材料で、FRBが5会合連続で政策金利を3.50〜3.75%に据え置く中、労働市場の減速度合いが利下げ観測の行方を左右する。
 
 **日本の経済**
 
@@ -67,7 +67,7 @@ permalink: /2026/08/03/daily-briefing/
 
 ## まとめ：注目の3つ
 
-1. トランプ氏が対イラン攻撃を見送り、3日にも交渉開始へ。米・イランの全面衝突は土壇場で回避されたが、ホルムズ海峡や原油市場の警戒は続く
+1. トランプ氏が対イラン攻撃を見送り、迅速な合意を条件に交渉へ。米・イランの全面衝突は土壇場で回避されたが、ホルムズ海峡や原油市場の警戒は続く
 2. 熊本地震の被災地で3日、最高40度の県内初「酷暑日」。車中泊での熱中症とみられる死亡が初の災害関連死疑いとして確認された
 3. 直近の取引終了（31日）は日米株高・円高・原油高が同時進行。3日の東京・NY市場では中東情勢の緩和がどこまで織り込まれるかが焦点
 
@@ -84,7 +84,7 @@ permalink: /2026/08/03/daily-briefing/
 
 **出典：**
 - [Trump Says US to Cancel Iran Attack Subject to a Rapid Deal - Bloomberg](https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal)
-- [Trump says he will order halt to Iran strikes after parameters reached for deal to end war - Washington Post](https://www.washingtonpost.com/politics/2026/08/02/trump-iran-strait-hormuz-israel-gaza-mideast/7d2da2ea-8e28-11f1-8912-d71e69d679d7_story.html)
+- [米・イラン合意の枠組みを巡る発表 - AP](https://apnews.com/article/814164417aa284dc8a6d34ac22ea1a8e)
 - [Hamas agrees to disarm under Trump ceasefire deal - France 24](https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan)
 - [Hamas says Trump's Gaza 'disarmament' claim depends on Israel honoring commitments - CNBC](https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html)
 - [＜2026年熊本地震＞3日「酷暑日」予想 - 熊本日日新聞](https://kumanichi.com/articles/2020443)
@@ -92,7 +92,7 @@ permalink: /2026/08/03/daily-briefing/
 - [非常に強い台風13号 小笠原諸島は4日最接近 週後半は沖縄・奄美方面へ - ウェザーニュース](https://weathernews.jp/news/202608/030031/)
 - [ゴルフ 全英女子オープン 桑木志帆が優勝 - NHKニュース](https://news.web.nhk/newsweb/na/na-k10015194471000)
 - [S&P 500 closes higher Friday as Amazon surges - CNBC](https://www.cnbc.com/2026/07/30/stock-market-today-live-updates.html)
-- [US Stocks Begin August With Focused Gains Ahead of Employment Data - ts2.tech](https://ts2.tech/en/us-stocks-begin-august-with-focused-gains-ahead-of-employment-data/)
+- [7月雇用統計の公表予定 - 米労働統計局](https://www.bls.gov/news.release/empsit.htm)
 - [Firefighting helicopters collide near Athens as Greece battles wildfires - Al Jazeera](https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires)
 - [Rhine reaches lowest water level ever recorded at Dutch border - NL Times](https://nltimes.nl/2026/07/30/rhine-reaches-lowest-water-level-ever-recorded-dutch-border)
 - [Safer and more transparent AI - European Commission](https://commission.europa.eu/news-and-media/news/safer-and-more-transparent-ai-2026-08-02_en)
