@@ -15,7 +15,7 @@ permalink: /2026/08/04/daily-briefing/
   *Why it matters:* The gap between Washington's optimism and Tehran's public position is wide. Monday's rally was priced on the optimistic reading — a stall in talks would unwind the same chain in reverse.
 - The Dow Jones Industrial Average [closed at a record 53,178.41, up 693.38 points (1.32%)](https://www.upi.com/Top_News/US/2026/08/03/dow-jones-record/4331785790693/), passing the previous high set on July 6 by 122.50 points.
 - Amazon rose more than 4% to reach a $3 trillion market capitalization for the first time, with Meta up 6%, Microsoft and Alphabet up about 5% each, and Nvidia up 3%.
-- The U.S. Treasury, acting through the New York Fed, joined Japan in a coordinated yen-buying intervention executed on July 31 and [disclosed on August 3](https://www.nikkei.com/article/DGXZQOUA020KQ0S6A800C2000000/) — the first joint action of its kind in 15 years.
+- The United States joined Japan in a coordinated yen-buying intervention executed on July 31 and [disclosed on August 3](https://www.nikkei.com/article/DGXZQOUA020KQ0S6A800C2000000/) — the first joint action of its kind in 15 years.
   *Why it matters:* Washington rarely intervenes in currency markets. Participating signals that the dollar's strength against the yen had reached a level both governments saw as destabilizing rather than merely inconvenient.
 
 ## Markets
@@ -45,6 +45,7 @@ Short term, watch whether the yen holds its gains without further official buyin
 
 **Sources:**
 - [Dow hits record high as tech stocks post gains — UPI](https://www.upi.com/Top_News/US/2026/08/03/dow-jones-record/4331785790693/)
+- [How major U.S. stock indexes fared Monday, August 3 — AP](https://apnews.com/article/f8e5f81b45c83878f5b7f69832bb0c95)
 - [Oil prices: Trump says he called off planned strike on Iran — CNBC](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)
 - [Trump touts incoming peace deal with Iran even as Tehran signals defiance — The Washington Times](https://www.washingtontimes.com/news/2026/aug/3/trump-touts-incoming-peace-deal-iran-even-tehran-signals-defiance/)
 - [Crude Oil Price Today: August 3, 2026 — Forbes Advisor](https://www.forbes.com/advisor/investing/oil-prices-today/)
@@ -53,7 +54,7 @@ Short term, watch whether the yen holds its gains without further official buyin
 - [Nikkei falls 607 yen to 63,754 — Nikkei](https://www.nikkei.com/article/DGXZQOFL030FZ0T00C26A8000000/)
 - [Yen surges to upper 156 range after coordinated intervention — Nikkei](https://www.nikkei.com/article/DGXZQOFL035EV0T00C26A8000000/)
 - [BOJ hike expectations pulled forward to September — Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-03/TJ62GHKK3NYA00)
-- Market data: [frankfurter API](https://api.frankfurter.app/) and others
+- Market data: [frankfurter API (August 3)](https://api.frankfurter.app/2026-08-03?from=USD&to=JPY) and others
 
 *Auto-generated and AI-written. Not investment advice.*
 

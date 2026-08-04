@@ -50,7 +50,7 @@ permalink: /2026/08/04/daily-briefing/
 | WTI原油 | 80.34ドル/バレル | <span class="chg-down">約-5%</span> |
 | ドル円 | 156.68円 | <span class="chg-down">円高方向（8月3日基準）</span> |
 
-*ドル円は[frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)の8月3日基準レート。株価・原油は各社報道の8月3日終値。*
+*ドル円は[frankfurter API（8月3日）](https://api.frankfurter.app/2026-08-03?from=USD&to=JPY)の8月3日基準レート。株価・原油は各社報道の8月3日終値。*
 
 原油の下げは大きく、[WTIは1バレル80.34ドルまで約5%下落](https://www.forbes.com/advisor/investing/oil-prices-today/)しました。ホルムズ海峡をめぐる緊張が和らいだことに加えて、[OPECプラスが9月の生産を日量18万8000バレル増やす](https://www.fxleaders.com/news/2026/08/02/oil-prices-dive-wti-crude-falls-below-80-on-iran-talks-and-opec-increasing-supply/)ことで合意し、2023年に始めた自主減産の巻き戻しを完了させることも重なりました。売り材料が二重に効いた形です。
 
@@ -99,6 +99,7 @@ permalink: /2026/08/04/daily-briefing/
 - [外為17時 円相場、大幅続伸 156円台後半 日米協調介入で - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL035EV0T00C26A8000000/)
 - [日銀追加利上げ予想は9月視野に前倒し進む、円安阻止の日米介入受け - Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-03/TJ62GHKK3NYA00)
 - [Dow hits record high as tech stocks post gains - UPI](https://www.upi.com/Top_News/US/2026/08/03/dow-jones-record/4331785790693/)
+- [米国株と日米協調介入の状況 - AP](https://apnews.com/article/f8e5f81b45c83878f5b7f69832bb0c95)
 - [Oil prices: WTI, Brent: Trump says he called off planned strike on Iran - CNBC](https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html)
 - [熊本地震対応で予備費242億円、政府が支出決定 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA040C10U6A800C2000000/)
 - [地震の死亡38人 医療機関や学校の被害も（8月3日時点）- NHK](https://news.web.nhk/newsweb/na/na-k10015194741000)
@@ -106,7 +107,7 @@ permalink: /2026/08/04/daily-briefing/
 - [日米協調為替介入による円高などが嫌気される【クロージング】- 株探](https://s.kabutan.jp/news/n202608030900/)
 - [Migrant deaths in Ceuta rise to 72 after border surge from Morocco - Al Jazeera](https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco)
 - [Commission starts enforcing AI Act rules and new transparency requirements on 2 August - European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ほか
+- 市場データ: [frankfurter API（8月3日）](https://api.frankfurter.app/2026-08-03?from=USD&to=JPY) ほか
 
 *本記事は公開情報をもとに作成しています。*
 
