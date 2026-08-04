@@ -17,12 +17,12 @@ permalink: /2026/08/05/daily-briefing/
 **日本**
 - 「令和8年熊本地震」（7月28日発生、最大震度7）を受けて生産を停止していたソニーセミコンダクタマニュファクチャリングの熊本テクノロジーセンターが、[8月4日から段階的に操業を再開](https://www.sony-semicon.com/ja/info/2026/2026073101.html)。8月中旬には地震前の稼働水準まで戻る見通し
 - [ルネサスや台湾TSMC子会社のJASM（熊本工場）も生産再開が進む](https://news.yahoo.co.jp/articles/0d8c5473327ed649ff2dd27af98254c10db46b2f)と共同通信が報道。2016年の熊本地震の教訓を踏まえた事業継続計画が今回も効いた形
-- 高市首相は7月30日、食料品の消費税率を来年4月から2年間限定で現行8%から1%に引き下げる方針を表明。中低所得層には差額相当分を給付し実質ゼロ化する案も
+- 高市首相は7月30日、食料品の消費税率を来年4月から2年間限定で現行8%から1%に引き下げる方針を表明。中低所得層には差額相当分を給付し実質ゼロ化する案も示されている（[TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2830950?display=1)）
 - あす8月6日は広島「平和記念式典」。原爆投下から81年の節目を迎える
 
 **世界**
 - インドネシア東ジャワ沖でフェリー「ムティアラ・セントーサ2」（乗客乗員271人）が[8月2日に火災](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia)。少なくとも5人死亡、41人が依然行方不明で捜索が続く
-- 米国とイランを仲介する形で進んできたホルムズ海峡の通航再開交渉が進展。中東の地政学リスク後退が世界の株式・商品市場に波及している
+- 米国とイランを仲介する形で進んできたホルムズ海峡の通航再開交渉には進展が報じられる一方、最終合意には至っておらず、船舶が被害を受けたとの報告もある（[AP](https://apnews.com/article/ff5f13230ab92b5ae3022f45b2585444)）
 
 **アメリカ**
 - [NYダウ・S&P500が8月4日にそろって最高値を更新](https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/)。ホルムズ海峡の緊張緩和期待と好決算が支え
@@ -40,10 +40,10 @@ permalink: /2026/08/05/daily-briefing/
 |---|---|---|
 | NYダウ（8/4） | 54,086ドル前後 | <span class="chg-up">+907ドル程度</span> |
 | S&P500（8/4） | 7,737 | <span class="chg-up">+1.8%</span>（最高値更新） |
-| ドル円（ECB基準・8/4） | [157.41円](https://api.frankfurter.app/latest?from=USD&to=JPY) | 7月末の協調円買い介入後の水準で高止まり |
+| ドル円（ECB基準・8/4） | [157.41円](https://api.frankfurter.app/2026-08-04?from=USD&to=JPY) | 7月末の協調円買い介入後の水準で高止まり |
 | WTI原油（8/4） | 75.32ドル/バレル | <span class="chg-down">前日比6%超下落</span>（ホルムズ海峡の通航再開期待） |
 
-中東の緊張緩和観測を受けて原油が急落し、インフレ懸念の後退が株高を後押ししている構図。ホルムズ海峡は世界の原油輸送の要衝で、ここが平常運航に近づくだけで市場心理は大きく改善する。
+中東の緊張緩和観測を受けて原油が急落し、インフレ懸念の後退が株高を後押ししている構図。ただしホルムズ海峡の通航再開は最終合意前であり、交渉の進展を見極める必要がある。
 
 **アメリカの経済**
 
@@ -86,8 +86,10 @@ permalink: /2026/08/05/daily-briefing/
 - [Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions | The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/)
 - [日経平均株価、反発 終値は202円高の6万3957円 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL040GH0U6A800C2000000/)
 - [政府・日銀が再び円買い介入 一時157円台前半に急騰 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN31CWO0R30C26A7000000/)
+- [食料品の消費税1%案を巡る首相の指示方針 - TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2830950?display=1)
+- [ホルムズ海峡の通航再開交渉 - AP](https://apnews.com/article/ff5f13230ab92b5ae3022f45b2585444)
 - [Commission starts enforcing AI Act rules and new transparency requirements on 2 August | European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)（2026年8月4日基準）
+- 為替データ: [frankfurter API（2026年8月4日）](https://api.frankfurter.app/2026-08-04?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 

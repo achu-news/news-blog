@@ -10,7 +10,7 @@ permalink: /2026/08/05/daily-briefing/
 ## Top U.S. Stories
 
 - The [Dow Jones and S&P 500 both closed at record highs on Tuesday, August 4](https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/), with the S&P 500 up 1.8% to roughly 7,737 and the Dow gaining around 907 points to about 54,086. *Why it matters:* the rally shows investors are pricing in a genuine de-escalation in the Middle East, not just a temporary relief bounce.
-- WTI crude fell more than 6% to $75.32 a barrel on hopes that shipping through the Strait of Hormuz could resume more normally soon. *Why it matters:* cheaper oil eases inflation pressure and reduces the odds the Fed needs to act on rates.
+- WTI crude fell more than 6% to $75.32 a barrel on hopes that shipping through the Strait of Hormuz could resume more normally soon, though talks had not reached a final agreement and a vessel reported being struck in the strait ([AP](https://apnews.com/article/ff5f13230ab92b5ae3022f45b2585444)). *Why it matters:* cheaper oil eases inflation pressure and reduces the odds the Fed needs to act on rates.
 - Palantir's strong earnings outlook reassured investors about the durability of AI infrastructure demand, with AMD's results also drawing attention. *Why it matters:* AI spending has been a key pillar of this year's market gains, so continued strong guidance matters for the broader rally's staying power.
 - Philadelphia Fed President Anna Paulson said she believes the current benchmark rate range of 3.5%-3.75% is sufficient to keep inflation moving toward target.
 - Primary elections were held in several states including Michigan, where a closely watched Democratic House race pits an establishment incumbent against a progressive challenger.
@@ -37,9 +37,10 @@ For readers, the near-term watch list is AMD's earnings and whether Japan's auth
 - [Stock Market Today, Aug. 4: S&P 500 and Dow Set New Highs on Easing Geopolitical Tensions | The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/08/04/stock-market-today-aug-4-s-and-p-500-and-dow-set-new-highs-on-easing-geopolitical-tensions/)
 - [Stock Market Today (Aug. 4, 2026) | TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-4-2026)
 - [At least five dead, 41 missing after ferry catches fire off Indonesia | Al Jazeera](https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia)
+- [Iran-Oman talks on Hormuz shipping lanes | AP](https://apnews.com/article/ff5f13230ab92b5ae3022f45b2585444)
 - [令和8年熊本地震の影響について（第2報）｜Sony Semiconductor Solutions](https://www.sony-semicon.com/ja/info/2026/2026073101.html)
 - [Commission starts enforcing AI Act rules and new transparency requirements on 2 August | European Commission](https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august)
-- FX data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY) (as of August 4, 2026)
+- FX data: [frankfurter API (August 4, 2026)](https://api.frankfurter.app/2026-08-04?from=USD&to=JPY)
 
 *This post is based on publicly available information.*
 
