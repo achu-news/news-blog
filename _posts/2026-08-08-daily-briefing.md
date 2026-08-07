@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "タイ・ノンタブリの高校で銃乱射、8人死亡｜8月8日のニュースとお金"
-date: 2026-08-08 07:45:00 +0900
+date: 2026-08-08 07:42:00 +0900
 categories: [ニュース, 経済]
 headline: "タイ・ノンタブリの高校で銃乱射、8人死亡"
 permalink: /2026/08/08/daily-briefing/
