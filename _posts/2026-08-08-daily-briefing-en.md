@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "US Economy Sheds 23,000 Jobs in July, Unemployment Falls to 4.1% — August 8, 2026"
-date: 2026-08-08 07:45:00 +0900
+date: 2026-08-08 07:42:00 +0900
 headline: "US Economy Sheds 23,000 Jobs in July, Unemployment Falls to 4.1%"
 permalink: /2026/08/08/daily-briefing/
 ---
