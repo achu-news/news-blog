@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米雇用者数が予想外の減少、FRB利上げ観測後退でNY株最高値｜8月9日のニュースとお金"
-date: 2026-08-09 07:45:00 +0900
+date: 2026-08-09 07:40:00 +0900
 categories: [ニュース, 経済]
 headline: "米雇用者数が予想外の減少、FRB利上げ観測後退でNY株最高値"
 permalink: /2026/08/09/daily-briefing/

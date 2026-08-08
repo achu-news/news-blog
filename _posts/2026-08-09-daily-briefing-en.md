@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Weak US jobs report sends Wall Street to record highs — August 9, 2026"
-date: 2026-08-09 07:45:00 +0900
+date: 2026-08-09 07:40:00 +0900
 headline: "Weak US jobs report sends Wall Street to record highs"
 permalink: /2026/08/09/daily-briefing/
 ---
