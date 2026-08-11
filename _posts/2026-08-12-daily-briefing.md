@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "コロンビア地震死者254人に、台風15号は近畿から西日本へ｜8月12日のニュースとお金"
+title: "コロンビア地震、死者250人超　台風15号は近畿から西日本へ｜8月12日のニュースとお金"
 date: 2026-08-12 07:37:15 +0900
 categories: [ニュース, 経済]
-headline: "コロンビア地震死者254人に、台風15号は近畿から西日本へ"
+headline: "コロンビア地震、死者250人超　台風15号は近畿から西日本へ"
 permalink: /2026/08/12/daily-briefing/
 ---
 
@@ -17,20 +17,20 @@ permalink: /2026/08/12/daily-briefing/
 **日本**
 - 台風15号は12日午前6時時点で福井県敦賀市付近を1時間およそ35キロの速さで西へ進んでおり、このあと若狭湾付近から海上へ抜けたのち熱帯低気圧に変わる見込みです。台風本体から離れた関東など東北から西日本にかけて雷を伴う激しい雨のおそれがあり、11日午後6時から12日午後6時までの24時間降水量は関東甲信180ミリ、東北150ミリなどと予想されています。（[ウェザーニュース](https://weathernews.jp/news/202608/120021/)）
 - 11日は「山の日」の祝日で、東京証券取引所は休場でした。（[日本取引所グループ](https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html)）
-- 12日、アイスランドやスペイン北部などで皆既日食が観測され、日本からも多くの天文ファンが現地への観測・撮影ツアーを計画しています。（[月刊天文ガイド](https://x.com/tenmonguide/status/2031301535188267403)）
+- 12日、アイスランドやスペイン北部、グリーンランドなどで皆既日食が観測されます。（[NASA](https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/)）
 
 **世界**
 - コロンビア西部で10日に発生したマグニチュード7.4の地震の死者数は、[12日までに250人を超えました](https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html)。ペレイラで101人、カリで95人が死亡したと伝えられています。国連人道問題調整事務所（OCHA）は約5,000棟の住宅が被害を受けたと推計し、ペレイラ・カリ・キブド・マニサレス・アルメニアの各都市が最高レベルの災害警戒（レッドアラート）下に置かれています。コロンビア政府は国家非常事態を宣言しました。（[Al Jazeera](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20)）
 - 12日、アイスランド・スペイン北部・グリーンランドなどで皆既日食が観測されます。ヨーロッパ本土での皆既日食は1999年以来で、スペインを中心に約1,500万人が皆既帯に入るとみられています。（[Al Jazeera](https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12)）
 
 **アメリカ**
-- アメリカ労働省は日本時間12日夜、7月の消費者物価指数（CPI）を発表します。市場予想は前年比+3.4%、コアCPIは同+2.5%で、中東の原油高がインフレに与える影響が焦点です。（[Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect)）
+- アメリカ労働省は日本時間12日夜、[7月の消費者物価指数（CPI）を発表します](https://www.bls.gov/schedule/2026/08_sched_list.htm)。市場予想は前年比+3.4%、コアCPIは同+2.5%で、中東の原油高がインフレに与える影響が焦点です。（[Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect)）
 - イランとオマーンによるホルムズ海峡再開交渉は続いていますが、イラン側は米軍の完全撤収など長年の要求を譲らず、交渉は難航しています。（[CNN](https://www.cnn.com/2026/08/08/world/live-news/iran-war-trump)）
-- サウスカロライナ州発のアメリカン航空機が離陸後にエンジンから出火（鳥衝突が原因とみられる）し、マートルビーチ空港へ引き返しました。（[NBC News](https://www.nbcnews.com/world/latin-america/strong-earthquake-colombia-ecuador-people-evacuating-homes-buildings-rcna591709)）
+- サウスカロライナ州発のアメリカン航空機が離陸後にエンジンから出火（鳥衝突が原因とみられる）し、マートルビーチ空港へ引き返しました。（[NBC Los Angeles](https://www.youtube.com/watch?v=Qv3ej1uLoik)）
 
 **ヨーロッパ**
 - スペイン北部やアイスランドが12日の皆既日食の観測好適地として注目されており、多くの旅行者・天文ファンが現地入りしています。（[Al Jazeera](https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12)）
-- アイルランドの犯罪組織のボスとされるダニエル・キナハン容疑者が、ドバイから身柄を引き渡され、ダブリンの裁判所に出廷しました。（[Euronews](https://www.euronews.com/tag/top-stories?p=8)）
+- アイルランドの犯罪組織のボスとされるダニエル・キナハン容疑者が、ドバイから身柄を引き渡され、ダブリンの裁判所に出廷しました。（[AP](https://apnews.com/article/991fa92c757c8c5cb78ee7fc91eef6ee)）
 
 ## 経済とお金の動き
 
@@ -45,7 +45,7 @@ permalink: /2026/08/12/daily-briefing/
 | 北海ブレント原油 | 88.91ドル/バレル | <span class="chg-up">+1.4%</span> |
 | ドル円 | 159.2円 | 2026年8月11日基準（[frankfurter.app](https://api.frankfurter.app/latest?from=USD&to=JPY)） |
 
-11日の米国株式市場は、ホルムズ海峡をめぐる米・イランの対立長期化への懸念から[主要3指数がそろって下落しました](https://www.washingtonpost.com/business/2026/08/11/wall-street-stocks-dow-nasdaq/cd13af98-95c1-11f1-9ef9-1be722184483_story.html)。ブレント原油は一時90ドル近辺まで振れ、[終値は前日比1.4%高の88.91ドル](https://www.washingtonpost.com/business/2026/08/11/wall-street-stocks-dow-nasdaq/cd13af98-95c1-11f1-9ef9-1be722184483_story.html)でした。日本市場は11日が祝日で休場のため、直近の終値は10日の66,970円22銭（+2.08%）のままです。
+11日の米国株式市場は、ホルムズ海峡をめぐる米・イランの対立長期化への懸念から[主要3指数がそろって下落しました](https://apnews.com/article/e5e8f3360f8d30714778761e3a483347)。ブレント原油は一時90ドル近辺まで振れ、[終値は前日比1.4%高の88.91ドル](https://apnews.com/article/e5e8f3360f8d30714778761e3a483347)でした。日本市場は11日が祝日で休場のため、直近の終値は10日の66,970円22銭（+2.08%）のままです。
 
 **アメリカの経済**
 
@@ -59,7 +59,7 @@ permalink: /2026/08/12/daily-briefing/
 
 - **エネルギー関連株**：ホルムズ海峡をめぐる緊張長期化を受け、ブレント原油が90ドル近辺まで上昇する場面がありました。エネルギー株への資金流入が続いています。
 - **Alphabet（グーグル）**：2026年の設備投資計画を最大2,050億ドルに上方修正したことを受けて株価が下落しました。AI関連投資の拡大が短期的な収益を圧迫するとの懸念が背景です。（[The Motley Fool](https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/)）
-- **半導体株**：インテルが大型の株式売り出しを発表したことが売り材料となり、11日の市場の重荷となりました。
+- **半導体株**：インテルが最大200億ドル規模の株式売り出しを発表したことが売り材料となり、11日の市場の重荷となりました。（[Axios](https://www.axios.com/2026/08/11/intel-stock-chips-ai)）
 
 *※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*
 
@@ -84,12 +84,17 @@ permalink: /2026/08/12/daily-briefing/
 - [Colombia quake death toll tops 250 as rescuers race to find survivors - CNBC](https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html)
 - [Colombia declares emergency after magnitude 7.4 earthquake - Al Jazeera](https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20)
 - [Solar eclipse tracker: What time will it hit your location on August 12 - Al Jazeera](https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12)
+- [Total Solar Eclipse on August 12, 2026 - NASA](https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/)
 - [台風15号はまもなく海上へ 台風から離れた関東や東北でも激しい雨に警戒を - ウェザーニュース](https://weathernews.jp/news/202608/120021/)
 - [東京証券取引所 営業時間・休業日一覧 - JPX](https://www.jpx.co.jp/corporate/about-jpx/calendar/index.html)
 - [US CPI Report: What to Expect - Kiplinger](https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect)
+- [Schedule of Selected Releases for August 2026 - U.S. Bureau of Labor Statistics](https://www.bls.gov/schedule/2026/08_sched_list.htm)
 - [Iran war live updates, August 8 - CNN](https://www.cnn.com/2026/08/08/world/live-news/iran-war-trump)
-- [How major US stock indexes fared Tuesday - Washington Post](https://www.washingtonpost.com/business/2026/08/11/wall-street-stocks-dow-nasdaq/cd13af98-95c1-11f1-9ef9-1be722184483_story.html)
+- [How major US stock indexes fared Tuesday - AP](https://apnews.com/article/e5e8f3360f8d30714778761e3a483347)
 - [US stocks edge down after oil prices climb - AP](https://apnews.com/article/adb7b918b15206e38d7899d482422308)
+- [Suspected Irish crime boss extradited from Dubai - AP](https://apnews.com/article/991fa92c757c8c5cb78ee7fc91eef6ee)
+- [American Airlines plane returns after apparent bird strike - NBC Los Angeles](https://www.youtube.com/watch?v=Qv3ej1uLoik)
+- [Why Intel is selling new stock - Axios](https://www.axios.com/2026/08/11/intel-stock-chips-ai)
 - [Sundar Pichai raises Alphabet's 2026 capex forecast - The Motley Fool](https://www.fool.com/investing/2026/08/11/sundar-pichai-alphabet-2026-capex-forecast-buy/)
 - [外国為替市況（日次）一覧 - 日本銀行](https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/index.htm)
 - 為替: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
