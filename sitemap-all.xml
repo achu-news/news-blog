@@ -1,0 +1,48 @@
+---
+layout: null
+permalink: /sitemap-all.xml
+---
+{%- comment -%}
+日英まとめて1本にした全URLサイトマップ。
+
+従来の /sitemap.xml と /en/sitemap.xml は Search Console 側のレコードが
+「サイトマップを読み込めませんでした」で固着してしまい、同じURLに何度
+再送信しても状態を引き継いでしまう（2026-08-01の再取得以降10日以上
+不変。ライブテストでは Googlebot が同ファイルを正常取得できることを
+確認済み＝サーバー側の問題ではない）。
+
+履歴のない新しいURLとして送り直すためのファイル。exclude_from_localization
+に入れてロケールごとの再生成を止め、この既定ロケール（ja）ビルドで
+日英ぶんをまとめて出力する。
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  </url>
+{%- for post in site.posts %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en{{ post.url }}</loc>
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+  </url>
+{%- endfor -%}
+{%- for page in site.pages -%}
+  {%- if page.url != "/" and page.url != "/sitemap.xml" and page.url != "/sitemap-all.xml" and page.url != "/404.html" and page.name != "feed.xml" and page.layout %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}/en{{ page.url }}</loc>
+  </url>
+  {%- endif -%}
+{%- endfor %}
+</urlset>
