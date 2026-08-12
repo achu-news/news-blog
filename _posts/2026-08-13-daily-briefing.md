@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "トランプ氏、NATO首脳会議後にイラン暗殺警戒で機体乗り換えが発覚｜8月13日のニュースとお金"
+title: "トランプ氏、イラン脅威受けNATO首脳会議後に機体を極秘変更｜8月13日のニュースとお金"
 date: 2026-08-13 07:37:56 +0900
 categories: [ニュース, 経済]
-headline: "トランプ氏、NATO首脳会議後にイラン暗殺警戒で機体乗り換えが発覚"
+headline: "トランプ氏、イラン脅威受けNATO首脳会議後に機体を極秘変更"
 permalink: /2026/08/13/daily-briefing/
 ---
 
@@ -17,20 +17,18 @@ permalink: /2026/08/13/daily-briefing/
 ### 日本
 - 台風15号は12日午前9時に日本海で熱帯低気圧に変わったが、西日本から東北の広い範囲で13日夜遅くまで局地的に激しい雨が予想され、道路冠水・土砂災害・河川増水に警戒が呼びかけられている。（[tenki.jp](https://tenki.jp/forecaster/gureweather/2026/08/11/40100.html)）
 - 北朝鮮が12日午前5時59分ごろ、東岸付近から弾道ミサイル1発を東方向に発射。最高高度約90km、飛距離約690kmで日本のEEZ外の日本海に落下した。（[日本経済新聞](https://www.nikkei.com/article/DGXZQOUA120360S6A810C2000000/)）
-- 高市首相は12日、イランのペゼシュキアン大統領と電話会談を実施した。
 - 衆院定数削減をめぐる与野党協議会は議論を加速。座長の鈴木馨祐氏（自民）が8月中にたたき台となる私案を示す方針だが、削減幅で与野党の隔たりは大きい。（[NHK](https://news.web.nhk/newsweb/na/nd-20260810de43206)）
 
 ### 世界
-- トランプ米大統領は、トルコ・アンカラでのNATO首脳会議後、イランによる暗殺脅威を理由に、通常のエアフォースワンではなく小型機（Air Force C-32A）へケータリングカーを使って極秘に乗り換え、トルコを脱出していたことが報道で判明した。（[Bloomberg](https://www.bloomberg.com/en/news/thp/2026-08-11/trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat-report-says)、[The Hill](https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one/)）
+- トランプ米大統領は、トルコ・アンカラでのNATO首脳会議後、イランによる暗殺脅威を理由に、通常のエアフォースワンではなく小型機（Air Force C-32A）へケータリングカーを使って極秘に乗り換え、トルコを出国していたことが報道で明らかになった。（[AP](https://apnews.com/article/2c9400dc758641dfdcd1fd3ddd249158)、[The Hill](https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one/)）
 - トルコ議会は10日、非合法組織クルド労働者党（PKK）の元戦闘員らへの事実上の恩赦法を可決した。PKKは2025年5月に組織解散と武装闘争終結を宣言しており、今回の恩赦は和平プロセス進展の一環。（[日本経済新聞](https://www.nikkei.com/article/DGXZQOGR1112P0R10C26A8000000/)）
 - イランはオマーンとホルムズ海峡の航行管理をめぐる合意に近づいているとするが、米国に対し過去の「違反」への補償を要求するなど条件を追加。トランプ大統領も逆にイランへの補償を要求しており、海峡の全面再開には至っていない。（[CNN](https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump)）
 
 ### アメリカ
-- 米労働統計局は12日、7月のCPI（消費者物価指数）を発表。前年同月比+3.4%、コア指数は前年同月比+2.5%・前月比+0.2%と、いずれも市場予想と一致し前月から伸びがわずかに鈍化した。（[みんかぶ](https://fx.minkabu.jp/news/375924)）
+- 米労働統計局は12日、7月のCPI（消費者物価指数）を発表。前年同月比+3.4%、コア指数は前年同月比+2.5%・前月比+0.2%と、いずれも市場予想と一致し前月から伸びがわずかに鈍化した。（[米労働統計局](https://www.bls.gov/news.release/cpi.nr0.htm)）
 - CPIが「無風」との受け止めから利上げ観測が後退し、株式・国債とも堅調に推移。ただ中東情勢の緊迫を背景に原油高が続いており、インフレ再燃への警戒も残る。（[日本経済新聞](https://www.nikkei.com/article/DGXZQOFL128IX0S6A810C2000000/)）
 
 ### ヨーロッパ
-- コロンビア・カリで10日に地震が発生。
 - トルコでは前述のクルド関連恩赦法が可決され、PKKとの40年以上に及ぶ武装闘争終結に向けたプロセスが前進した。
 
 ## 経済とお金の動き
@@ -41,13 +39,13 @@ permalink: /2026/08/13/daily-briefing/
 |---|---|---|
 | ドル/円 | 159.09円（ECB基準・8/12時点） | <span class="chg-down">CPI発表後は一時158円台まで円高進行</span> |
 | WTI原油 | 82.74ドル/バレル | <span class="chg-down">-0.53ドル（-0.63%）</span> |
-| S&P500 | 約7,742pt | <span class="chg-up">+0.18%前後</span> |
+| S&P500（8/12終値） | 7,748.50pt | <span class="chg-up">+20.30（+0.3%）</span> |
 
-ドル円は[frankfurter.app](https://api.frankfurter.app/)の基準（2026年8月12日付）で159.09円。もっとも米CPI発表後のニューヨーク市場では、インフレ鈍化を受けたドル売りが優勢となり158円台まで円高が進む場面があった（[みんかぶ](https://fx.minkabu.jp/news/375929)）。日米の政策金利差（日銀1.00% vs FRB3.50〜3.75%）はなお大きく、円の反発は限定的との見方が多い。WTI原油は中東情勢の緊迫を背景に高値圏で推移しつつも12日は反落した（[時事通信equity](https://equity.jiji.com/indices/470)）。
+ドル円は[frankfurter.app](https://api.frankfurter.app/2026-08-12?from=USD&to=JPY)の基準（2026年8月12日付）で159.09円。もっとも米CPI発表後のニューヨーク市場では、インフレ鈍化を受けたドル売りが優勢となり158円台まで円高が進む場面があった（[みんかぶ](https://fx.minkabu.jp/news/375929)）。日米の政策金利差（日銀1.00% vs FRB3.50〜3.75%）はなお大きく、円の反発は限定的との見方が多い。WTI原油は中東情勢の緊迫を背景に高値圏で推移しつつも12日は反落した（[時事通信equity](https://equity.jiji.com/indices/470)）。
 
 ### アメリカの経済
 
-7月CPIが市場予想通りとなったことで、FRBの追加利上げ観測が後退し、株式市場には安心感が広がった。S&P500は前日比+0.18%前後、ナスダック総合も上昇して推移したとみられる（[Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html)）。一方でイラン情勢の緊迫による原油高は、インフレの新たな火種として市場参加者の警戒材料であり続けている。
+7月CPIが市場予想通りとなったことで、FRBの追加利上げ観測が後退し、株式市場には安心感が広がった。S&P500は前日比0.3%高の7,748.50、ナスダック総合は0.5%高の26,588.49で取引を終えた（[AP](https://apnews.com/article/c2b9200bd737220ef848a37ffea21f95)）。一方でイラン情勢の緊迫による原油高は、インフレの新たな火種として市場参加者の警戒材料であり続けている。
 
 ### 日本の経済
 
@@ -76,15 +74,21 @@ CPIが「予想通り」で市場が安堵したのは、裏を返せば「サ�
 
 **出典：**
 - [Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says - Bloomberg](https://www.bloomberg.com/en/news/thp/2026-08-11/trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat-report-says)
+- [Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat - AP](https://apnews.com/article/2c9400dc758641dfdcd1fd3ddd249158)
 - [Trump hid in catering truck, departed NATO summit via decoy aircraft amid Iran threat: Report - The Hill](https://thehill.com/homenews/administration/6021771-donald-trump-security-concerns-air-force-one-plane-switch-nato-summit-third-air-force-one/)
 - [August 10, 2026 — Trump says he would require compensation from Iran as condition for talks | CNN](https://www.cnn.com/2026/08/10/world/live-news/iran-war-trump)
 - [トルコ、クルド武装勢力PKKとの和平法案可決 構成員に「恩赦」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGR1112P0R10C26A8000000/)
 - [北朝鮮が弾道ミサイル発射 日本のEEZ外に落下、飛距離690キロ - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUA120360S6A810C2000000/)
 - [台風15号 今夜関東に上陸か 東北・関東甲信180ミリ大雨に警戒 - tenki.jp](https://tenki.jp/forecaster/gureweather/2026/08/11/40100.html)
+- [衆院定数削減 与野党協議 - NHK](https://news.web.nhk/newsweb/na/nd-20260810de43206)
 - [ドル円、１５８円台に下落 米ＣＰＩは落ち着いた伸び＝ＮＹ為替序盤 - みんかぶ](https://fx.minkabu.jp/news/375929)
+- [Consumer Price Index Summary - U.S. Bureau of Labor Statistics](https://www.bls.gov/news.release/cpi.nr0.htm)
 - [NYダウ、反発で始まる 米インフレ鈍化で利上げ観測後退 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL128IX0S6A810C2000000/)
+- [How major US stock indexes fared Wednesday - AP](https://apnews.com/article/c2b9200bd737220ef848a37ffea21f95)
 - [日経平均大引け：前日比553.84円高の67524.06円 - FISCO](https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009340020260812033?fm=latestnews)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- [WTI原油先物 - 時事通信equity](https://equity.jiji.com/indices/470)
+- [植田総裁記者会見要旨（2026年7月31日） - 日本銀行](https://www.boj.or.jp/about/press/kaiken_2026/kk260803a.pdf)
+- 為替: [frankfurter API](https://api.frankfurter.app/2026-08-12?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
