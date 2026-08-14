@@ -9,22 +9,21 @@ permalink: /2026/08/15/daily-briefing/
 
 ## Top U.S. Stories
 
-- Major indexes pulled back Friday after Thursday's record close, with the Dow down 108 points (-0.20%) to 53,732, the S&P 500 off 0.22% to roughly 7,781, and the Nasdaq down 73.86 points (-0.28%) to 26,729.16, according to the [Detroit News](https://www.detroitnews.com/story/business/2026/08/14/wall-street-subdued-as-markets-pause-after-sp-record-high/91303379007/). *Why it matters:* it shows investors pausing to digest a stretch of record highs rather than a change in the underlying trend — the S&P 500 still notched its third straight weekly gain.
-- The University of Michigan's preliminary August consumer sentiment index fell to 51, well below the 55 forecast, and July retail sales dropped by the most in over a year, per [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-14-103100309.html). *Why it matters:* consumer spending drives roughly two-thirds of US GDP, so a sharper-than-expected pullback in sentiment and spending raises questions about how long the rally in stocks can keep outrunning the mood on Main Street.
-- Markets are now pricing a 67.1% probability that the Federal Reserve holds rates steady at its September meeting.
-- The US government has refunded more than $100 billion in tariffs a court ruled illegal, with some of that money reaching consumers.
-- A grand jury indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner.
+- Major indexes pulled back Friday after Thursday's record close, with the Dow down 107.58 points (-0.20%) to 53,732.41, the S&P 500 down 13.23 points (-0.17%) to 7,785.76, and the Nasdaq down 73.86 points (-0.28%) to 26,729.16, according to the [AP](https://apnews.com/article/41b7cf2acc6562758183b1c5eae73635). *Why it matters:* it shows investors pausing to digest a stretch of record highs rather than a change in the underlying trend — the S&P 500 still notched its third straight weekly gain.
+- The University of Michigan's preliminary August consumer sentiment index fell to 51, and July retail sales dropped 0.6%, the most in over a year ([University of Michigan](https://data.sca.isr.umich.edu/fetchdoc.php?docid=81123), [AP](https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9)). *Why it matters:* consumer spending drives roughly two-thirds of US GDP, so a sharper-than-expected pullback in sentiment and spending raises questions about how long the rally in stocks can keep outrunning the mood on Main Street.
+- The weak retail-sales and sentiment reports reinforced expectations that the Federal Reserve could hold rates steady at its September meeting. ([AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec))
+- The US government has refunded about $100 billion in tariffs that courts found were collected illegally, with some shippers beginning to pass refunds on to customers. ([AP](https://apnews.com/article/d4162f466eb83aa97e430a86221ad226))
+- A grand jury indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner. ([AP](https://apnews.com/article/5be8501d3ec21690ea031e3c33fb1c63))
 - A rare total solar eclipse swept from Greenland through Iceland to Spain on August 12 — the first to cross mainland Europe since 1999, per [AstroArts](https://www.astroarts.co.jp/article/hl/a/14243_ph260813).
 
 ## Markets
 
-Beyond US equities, oil and the yen were the day's other big movers. WTI crude fell about 2.04% to $81.08 a barrel on August 14 on rising US inventories and a downward revision to OPEC's demand outlook, per [OANDA Japan](https://www.oanda.jp/lab-education/market_news/2026_08_14_wtioil/) — though the ongoing standoff over the Strait of Hormuz, where the US says it can maintain a blockade on Iran "indefinitely," per [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control), remains a wildcard for energy prices. The yen weakened toward ¥159 per dollar, touching ¥159.15 on August 14 per [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-14/TJQYDUT9NJLS00?srnd=jp-currencies), as traders increasingly bet the Bank of Japan will raise rates as soon as September or October, per [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-13/TJNGU4KK3NY900). Japan's Nikkei 225, meanwhile, rose for a fourth straight session to close at 68,713.80, up 405.21 points (+0.59%), per [Zaikei](https://www.zaikei.co.jp/article/20260814/865841.html).
+Beyond US equities, oil and the yen were the day's other big movers. Brent crude rose 1.7% to $88.52 a barrel on August 14 as uncertainty continued over when tankers could freely exit the Persian Gulf, per the [AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec). The ongoing standoff over the Strait of Hormuz, where the US says it can maintain a blockade on Iran "indefinitely," per [Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control), remains a wildcard for energy prices. The yen weakened toward ¥159 per dollar, touching ¥159.15 on August 14 per [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-14/TJQYDUT9NJLS00?srnd=jp-currencies), as traders increasingly bet the Bank of Japan will raise rates as soon as September or October, per [Bloomberg](https://www.bloomberg.com/jp/news/articles/2026-08-13/TJNGU4KK3NY900). Japan's Nikkei 225, meanwhile, rose for a fourth straight session to close at 68,713.80, up 405.21 points (+0.59%), per [Zaikei](https://www.zaikei.co.jp/article/20260814/865841.html).
 
 ## Stocks in Focus
 
-- Broadcom fell 5.5%, weighing on the S&P 500's technology sector.
-- Reddit jumped 10.4% after S&P Dow Jones Indices announced it will join the S&P 500.
-- SanDisk gained 7% following its 2026 Investor Day.
+- Applied Materials fell 5.1% despite reporting stronger-than-expected profit and revenue. ([AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec))
+- Reddit jumped 12.6% after learning it will join the S&P 500. ([AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec))
 
 *Not investment recommendations — for information only.*
 
@@ -36,15 +35,17 @@ Markets are caught between two signals this week: record-high equities and a con
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [U.S. Stocks fall; S&P 500 down, NASDAQ down, DOW down (Detroit News)](https://www.detroitnews.com/story/business/2026/08/14/wall-street-subdued-as-markets-pause-after-sp-record-high/91303379007/)
-- [Stock Market News for Aug 14, 2026 (Yahoo Finance)](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-14-103100309.html)
-- [WTI crude oil outlook (OANDA Japan)](https://www.oanda.jp/lab-education/market_news/2026_08_14_wtioil/)
+- [How major US stock indexes fared Friday 8/14/2026 (AP)](https://apnews.com/article/41b7cf2acc6562758183b1c5eae73635)
+- [Wall Street slips from its record following the latest weak update on the US economy (AP)](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)
+- [US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades (AP)](https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9)
+- [University of Michigan Surveys of Consumers Preliminary Results](https://data.sca.isr.umich.edu/fetchdoc.php?docid=81123)
+- [A surprise credit after an overseas purchase: The tariff refunds now flowing through shippers (AP)](https://apnews.com/article/d4162f466eb83aa97e430a86221ad226)
+- [New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner (AP)](https://apnews.com/article/5be8501d3ec21690ea031e3c33fb1c63)
 - [Iran war updates: US says can maintain blockade on Iran "indefinitely" (Al Jazeera)](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control)
 - [BOJ eyes rate hike by October (Bloomberg)](https://www.bloomberg.com/jp/news/articles/2026-08-13/TJNGU4KK3NY900)
 - [Yen edges up against dollar in afternoon trade (Bloomberg)](https://www.bloomberg.com/jp/news/articles/2026-08-14/TJQYDUT9NJLS00?srnd=jp-currencies)
 - [Nikkei 225 closes up 405.21 points at 68,713.80 (Zaikei)](https://www.zaikei.co.jp/article/20260814/865841.html)
 - [Rare total solar eclipse crosses Spain (AstroArts)](https://www.astroarts.co.jp/article/hl/a/14243_ph260813)
-- Market data: [frankfurter API](https://api.frankfurter.app/)
 
 *Auto-generated and AI-written. Not investment advice.*
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "終戦81年、高市首相が就任後初の式辞｜8月15日のニュースとお金"
+title: "終戦81年、高市首相が就任後初の式辞　プーチン氏の択捉島訪問で日ロ緊張｜8月15日のニュースとお金"
 date: 2026-08-15 07:37:58 +0900
 categories: [ニュース, 経済]
-headline: "終戦81年、高市首相が就任後初の式辞"
+headline: "終戦81年、高市首相が就任後初の式辞　プーチン氏の択捉島訪問で日ロ緊張"
 permalink: /2026/08/15/daily-briefing/
 ---
 
@@ -24,19 +24,17 @@ permalink: /2026/08/15/daily-briefing/
 ### 世界
 
 - イラン情勢は緊迫が続いています。ホルムズ海峡の扱いをめぐり[米国は「封鎖は無期限に維持できる」](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control)と主張し、イラン側はオマーンの仲介で条件を提示するなど、周辺国を巻き込みながら交渉が続いています。
-- ウクライナを巡る停戦協議は、ロシアが領土の現状維持とウクライナの非武装化を条件としている一方、ウクライナ側がこれを受け入れられず、隔たりが大きいままです。
 - 8月12日、グリーンランドからアイスランド、スペインにかけて[27年ぶりとなる皆既日食](https://www.astroarts.co.jp/article/hl/a/14243_ph260813)が観測され、話題を集めました。
 
 ### アメリカ
 
-- [米ミシガン大学の消費者態度指数（速報値）は8月に51](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-14-103100309.html)に低下（予想55）。7月の小売売上高も1年超ぶりの大きな落ち込みとなり、インフレ懸念と消費者心理の悪化が同時に進んでいます。
-- これを受け株式相場は週末にかけて[主要指数がそろって反落](https://www.detroitnews.com/story/business/2026/08/14/wall-street-subdued-as-markets-pause-after-sp-record-high/91303379007/)しましたが、S&P500は3週連続の週間プラスを確保しました。
-- 市場では、9月のFOMC（米連邦公開市場委員会）で政策金利が据え置かれる確率を67.1%とみる見方が広がっています。
+- [米ミシガン大学の消費者態度指数（速報値）は8月に51](https://data.sca.isr.umich.edu/fetchdoc.php?docid=81123)に低下しました。7月の小売売上高も前月比0.6%減と1年超ぶりの大きな落ち込みとなり、インフレ懸念と消費者心理の悪化が同時に進んでいます。（[AP](https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9)）
+- これを受け株式相場は週末にかけて[主要指数がそろって反落](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)しましたが、S&P500は3週連続の週間プラスを確保しました。
+- 小売売上高と消費者心理の弱さを受け、9月のFOMC（米連邦公開市場委員会）では政策金利を据え置くとの見方が強まりました。（[AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)）
 
 ### ヨーロッパ
 
 - 8月12日の皆既日食は、ヨーロッパ大陸本土としては1999年以来27年ぶりの天体イベントとなりました。
-- ウクライナ和平を巡っては欧州各国も協議に関与していますが、ロシア・ウクライナ双方の立場の隔たりから、目立った進展は見られていません。
 
 ## 経済とお金の動き
 
@@ -46,19 +44,19 @@ permalink: /2026/08/15/daily-briefing/
 |---|---|---|
 | 日経平均株価 | 68,713.80円（8/14） | <span class="chg-up">+405.21円（+0.59%）</span> |
 | TOPIX | 4,197.20pt（8/14） | <span class="chg-up">+21.16pt（+0.51%）</span> |
-| ドル円相場 | 159円台前半 | 一時159.15円まで円安（8/14） |
-| S&P500 | 7,781pt（8/14） | <span class="chg-down">-0.22%</span> |
+| ドル円相場 | 159.01円（ECB基準） | 8/14基準値 |
+| S&P500 | 7,785.76pt（8/14） | <span class="chg-down">-13.23pt（-0.17%）</span> |
 | NYダウ | 53,732ドル（8/14） | <span class="chg-down">-108ドル（-0.20%）</span> |
 | ナスダック総合 | 26,729.16pt（8/14） | <span class="chg-down">-73.86pt（-0.28%）</span> |
-| WTI原油 | 81.08ドル/バレル（8/14） | <span class="chg-down">-1.69ドル（-2.04%）</span> |
+| Brent原油 | 88.52ドル/バレル（8/14） | <span class="chg-up">+1.7%</span> |
 
-*為替はfrankfurter API（ECB基準レート、基準日2026-08-14）、株価・原油は各社報道による8/14終値。*
+*為替はfrankfurter API（ECB基準レート、基準日2026-08-14）、株価・原油はAPによる8/14終値。*
 
-[WTI原油は8月14日に約2%下落](https://www.oanda.jp/lab-education/market_news/2026_08_14_wtioil/)しました。米原油在庫の増加やOPECの需要見通し下方修正が背景ですが、ホルムズ海峡を巡るイラン情勢は依然くすぶっており、原油相場の急変動リスクとして注視が必要です。
+[ブレント原油は8月14日に1.7%上昇し、1バレル88.52ドル](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)となりました。ホルムズ海峡を巡るイラン情勢が続くなか、原油相場の急変動リスクとして注視が必要です。
 
 ### アメリカの経済
 
-米株式市場は前週木曜に付けた最高値から反落しましたが、[ミシガン大学消費者態度指数の低下と小売売上高の落ち込み](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-14-103100309.html)が示すように、記録的な株高と消費者心理の悪化が同時に進行している点が特徴的です。FRBは9月会合での利上げ・利下げどちらにも動かず様子見との観測が優勢です。
+米株式市場は前日に付けた最高値から反落しましたが、[ミシガン大学消費者態度指数の低下](https://data.sca.isr.umich.edu/fetchdoc.php?docid=81123)と[小売売上高の落ち込み](https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9)が示すように、記録的な株高と消費者心理の悪化が同時に進行している点が特徴的です。FRBは9月会合で政策金利を据え置くとの観測が優勢です。
 
 ### 日本の経済
 
@@ -68,8 +66,8 @@ permalink: /2026/08/15/daily-briefing/
 
 - **アドバンテスト**：半導体検査装置大手。株価が最高値を更新し、日経平均の押し上げ役に。AIラリー再燃の兆しとの見方が出ています。
 - **ソフトバンクグループ**：アドバンテストと並び、8月14日の日経平均上昇に大きく寄与しました。
-- **ブロードコム（Broadcom）**：米ハイテク株安の中で5.5%下落し、S&P500情報技術セクターの重荷となりました。
-- **Reddit**：S&P500種指数への組み入れが発表され、10.4%急伸しました。
+- **アプライド・マテリアルズ**：好決算にもかかわらず5.1%下落し、AI関連株の割高感への警戒を映しました。（[AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)）
+- **Reddit**：S&P500種指数への組み入れが発表され、12.6%上昇しました。（[AP](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)）
 
 *※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*
 
@@ -94,12 +92,12 @@ permalink: /2026/08/15/daily-briefing/
 - [日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調（Bloomberg）](https://www.bloomberg.com/jp/news/articles/2026-08-14/TJQYDUT9NJLS00?srnd=jp-currencies)
 - [日経平均大引け：前日比405.21円高の68713.80円（財経新聞）](https://www.zaikei.co.jp/article/20260814/865841.html)
 - [日経平均寄与度ランキング（大引け）（財経新聞）](https://www.zaikei.co.jp/article/20260814/865851.html)
-- [U.S. Stocks fall; S&P 500 down, NASDAQ down, DOW down（Detroit News）](https://www.detroitnews.com/story/business/2026/08/14/wall-street-subdued-as-markets-pause-after-sp-record-high/91303379007/)
-- [Stock Market News for Aug 14, 2026（Yahoo Finance）](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-14-103100309.html)
-- [WTI原油見通し（OANDA）](https://www.oanda.jp/lab-education/market_news/2026_08_14_wtioil/)
+- [Wall Street slips from its record following the latest weak update on the US economy（AP）](https://apnews.com/article/5d9870d6c5ae735f9b74bf4ceefaa3ec)
+- [US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades（AP）](https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9)
+- [University of Michigan Surveys of Consumers Preliminary Results](https://data.sca.isr.umich.edu/fetchdoc.php?docid=81123)
 - [Iran war updates: US says can maintain blockade on Iran 'indefinitely'（Al Jazeera）](https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control)
 - [2026年8月12日、皆既日食（アストロアーツ）](https://www.astroarts.co.jp/article/hl/a/14243_ph260813)
-- 為替データ: [frankfurter API](https://api.frankfurter.app/)
+- 為替データ: [frankfurter API](https://api.frankfurter.app/2026-08-14?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
