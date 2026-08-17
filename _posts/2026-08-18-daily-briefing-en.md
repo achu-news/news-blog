@@ -18,7 +18,7 @@ permalink: /2026/08/18/daily-briefing/
 
 ## Markets
 
-Oil held in the high-$82-a-barrel range Monday as traders assessed the still-unresolved standoff between Washington and Tehran over shipping through the Strait of Hormuz, with a bilateral memorandum reaching its deadline on August 16 without a breakthrough. The dollar bought roughly ¥159.2 as of Monday's reference rate, keeping the psychologically important ¥160 level in view. In Tokyo, the Nikkei 225 rose for a fifth straight session, closing up 506.45 yen (+0.74%) at 69,220.25 — its first close above 69,000 in about a month and a half — led by AI and semiconductor names including Advantest and Kioxia, even as Japanese long-term yields touched roughly 2.930%, a level not seen in about three decades, on accelerating Bank of Japan rate-hike expectations.
+Oil traded in the $82-a-barrel range Monday as traders assessed the still-unresolved standoff between Washington and Tehran over shipping through the Strait of Hormuz, with a bilateral memorandum reaching its deadline on August 16 without a breakthrough. The dollar bought roughly ¥159.2 as of Monday's reference rate, keeping the psychologically important ¥160 level in view. In Tokyo, the Nikkei 225 rose for a fifth straight session, closing up 506.45 yen (+0.74%) at 69,220.25 — its first close above 69,000 in about a month and a half — led by AI and semiconductor names including Advantest and Kioxia, even as Japanese long-term yields touched roughly 2.930%, a level not seen in about three decades, on accelerating Bank of Japan rate-hike expectations.
 
 ## Stocks in Focus
 
@@ -40,7 +40,7 @@ Two forces are colliding today: a geopolitical realignment and rising financing 
 - [Explosion at Dutch port of Rotterdam leaves one dead - Euronews](https://www.euronews.com/my-europe/2026/08/13/explosion-at-dutch-port-of-rotterdam-leaves-one-dead-and-several-injured-police-say)
 - [Kioxia's April-June 2026 net income up 46.1x - Nikkei](https://www.nikkei.com/article/DGXZRST0505265R30C26A7000000/)
 - [Nikkei 225 closes above 69,000 for first time in a month and a half - Nikkei](https://www.nikkei.com/article/DGXZQOFL1730R0X10C26A8000000/)
-- Exchange rate data: [Frankfurter API](https://api.frankfurter.app/)
+- Exchange rate data: [Frankfurter API (August 17, 2026)](https://api.frankfurter.app/2026-08-17?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
