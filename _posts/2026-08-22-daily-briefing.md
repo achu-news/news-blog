@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "トランプ氏、対イラン「経済戦争」宣言し原油高騰｜8月22日のニュースとお金"
-date: 2026-08-22 07:45:00 +0900
+date: 2026-08-22 07:40:00 +0900
 categories: [ニュース, 経済]
 headline: "トランプ氏、対イラン「経済戦争」宣言し原油高騰"
 permalink: /2026/08/22/daily-briefing/

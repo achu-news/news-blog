@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Trump Declares 'Economic Warfare' on Iran as Oil Rallies — August 22, 2026"
-date: 2026-08-22 07:45:00 +0900
+date: 2026-08-22 07:40:00 +0900
 headline: "Trump Declares 'Economic Warfare' on Iran as Oil Rallies"
 permalink: /2026/08/22/daily-briefing/
 ---
