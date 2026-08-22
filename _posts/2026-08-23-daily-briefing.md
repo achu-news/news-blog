@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "関東で震度5弱、茨城震源M5.9の地震｜8月23日のニュースとお金"
-date: 2026-08-23 07:45:00 +0900
+date: 2026-08-23 07:40:00 +0900
 categories: [ニュース, 経済]
 headline: "関東で震度5弱、茨城震源M5.9の地震"
 permalink: /2026/08/23/daily-briefing/

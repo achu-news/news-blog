@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Indiana storm outages drag into a second week as Wall Street rallies — August 23, 2026"
-date: 2026-08-23 07:45:00 +0900
+date: 2026-08-23 07:40:00 +0900
 headline: "Indiana storm outages drag into a second week as Wall Street rallies"
 permalink: /2026/08/23/daily-briefing/
 ---
