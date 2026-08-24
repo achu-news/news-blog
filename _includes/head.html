@@ -15,6 +15,7 @@
   <meta name="description" content="{{ page_desc | escape }}">
 
   <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:site_name" content="{{ site_title_local | escape }}">
   <meta property="og:description" content="{{ page_desc | escape }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -24,6 +25,20 @@
   <meta name="twitter:card" content="summary_large_image">
 
   {%- comment -%} canonical は I18n_Headers（polyglot）が出力するのでここでは重複させない {%- endcomment -%}
+  {%- if page.layout == "home" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "{{ "/" | absolute_url }}#website",
+    "url": "{{ "/" | absolute_url }}",
+    "name": {{ site.title | jsonify }},
+    "alternateName": {{ site.title_en | jsonify }},
+    "description": {{ site_desc_local | jsonify }},
+    "inLanguage": "{{ site.active_lang }}"
+  }
+  </script>
+  {%- endif %}
   {%- if page.layout == "post" %}
   <script type="application/ld+json">
   {
