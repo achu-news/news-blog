@@ -10,7 +10,7 @@ permalink: /2026/08/26/daily-briefing/
 
 ## 今日のポイント
 
-世界の目線は、日本時間27日に発表される米エヌビディアの決算と、27〜29日のジャクソンホール会議に集まっています。株式市場は方向感の乏しい様子見ムード、為替は円安が再びじわりと進行しています。中国では不動産バブル崩壊の象徴だったエバーグランデ（恒大集団）創業者に終身刑という、一つの時代の区切りを示す判決も出ました。
+世界の目線は、日本時間27日に発表される米エヌビディアの決算と、27〜29日のジャクソンホール会議に集まっています。25日の米国株は上昇しましたが、重要イベントを前に為替では円安が再びじわりと進行しています。中国では不動産バブル崩壊の象徴だったエバーグランデ（恒大集団）創業者に終身刑という、一つの時代の区切りを示す判決も出ました。
 
 ## 今日のニュース
 
@@ -20,17 +20,14 @@ permalink: /2026/08/26/daily-briefing/
 - 日経平均は25日、3営業日ぶりに反発。（詳細は下記「経済とお金の動き」）
 
 **世界**
-- 中国の不動産開発大手・中国恒大集団（エバーグランデ）の創業者、許家印（Hui Ka Yan）被告に、深セン市中級人民法院が詐欺・贈収賄などの罪で終身刑を言い渡した（20日）。負債総額300億ドル超とされた同社崩壊の最終局面。関係者50人以上が禁錮22カ月〜18年の判決を受け、集団と関連会社に計158.2億元（日本円で約2,110億円）の罰金も科された。（[Bloomberg](https://www.bloomberg.com/news/articles/2026-08-20/china-sentences-evergrande-founder-hui-ka-yan-to-life-in-prison)／[ライブドアニュース](https://news.livedoor.com/topics/detail/32114974/)）
+- 中国の不動産開発大手・中国恒大集団（エバーグランデ）の創業者、許家印（Hui Ka Yan）被告に、深セン市中級人民法院が詐欺・贈収賄などの罪で終身刑を言い渡しました（20日）。同社は3,000億ドル超の債務不履行に陥っており、関係者50人以上が禁錮22カ月〜18年、集団と不動産子会社には計158.2億元（約23.5億ドル）の罰金が科されました。（[AP](https://apnews.com/article/5573868904b3ced0c5c9b0314c56ae5a)）
 - インドネシアで森林・泥炭地火災が拡大。今月の火災検知件数は3,500件超と、8月としては2015年以来最多の水準。煙害はマレーシア・ブルネイにも広がっている。（[NPR](https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires)）
 - 英国のバーナム首相が就任後初の外遊でキーウを訪問（24日）、ゼレンスキー大統領や仏マクロン大統領、独メルツ首相らと「有志連合」会合を共催。ウクライナ独立記念日に合わせた訪問で、英国は長距離ミサイル「スキャルプ」の英国製部品に関する機密情報の開示を仏に許可すると発表した。（[Euronews](https://www.euronews.com/my-europe/2026/08/24/new-uk-pm-andy-burnham-to-visit-kyiv-on-first-foreign-trip-reaffirms-support-to-ukraine)）
 
 **アメリカ**
-- ベッセント財務長官が24日、対イラン制裁強化策「オペレーション・エコノミック・アウトキャスト」を発表。航空・デジタル資産・金・海運・技術の5分野でイランと取引する第三国・企業への二次制裁を拡大し、個人・団体・船舶ら約60件を新たに制裁対象に加えた。（[NPR](https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran)）
-- 国土安全保障省（DHS）が労働組合の財務記録を召喚状で取得し、教会の集会に覆面捜査官を送り込んで参加者の身元調べを行っていたことが、裁判記録から判明。
-- ハワイ島に30センチ超の大雨が予想されると米海洋大気庁（NOAA）が警告。
-
-**ヨーロッパ**
-- EUはウクライナ独立35周年（24日）に合わせ、改めて連帯を表明。ベルギーとスペインで拡大する山火事についても、EUの支援態勢が続いている。
+- ベッセント財務長官が24日、対イラン制裁強化策「オペレーション・エコノミック・アウトキャスト」を発表。イラン関連の約60の団体などを制裁対象とし、イランと取引する国に関係断絶を求め、応じなければ報復すると警告しました。ただし取引国への二次制裁を直ちに発動したわけではありません。（[AP](https://apnews.com/article/e367634d8853c8fa4a341132cd577f31)）
+- 国土安全保障省（DHS）が労働組合などの財務記録を取得し、教会を含む集会に覆面捜査官を送り込んでいたことが、裁判記録から判明しました。（[AP](https://apnews.com/article/5e6e554e79980553c3a02ca199593a7d)）
+- 熱帯低気圧モーケについて、ハワイ島の一部で最大15インチ（約38センチ）の大雨が予想され、洪水や土砂災害への警戒が呼びかけられました。（[AP](https://apnews.com/article/48d2a051c3265b09e70db5111f72b91d)）
 
 ## 経済とお金の動き
 
@@ -38,25 +35,22 @@ permalink: /2026/08/26/daily-briefing/
 
 | 指標 | 値 | 前日比 |
 |---|---|---|
-| NYダウ | 53,417.16ドル | <span class="chg-up">+0.26%</span> |
-| S&P500 | 7,652.86 | <span class="chg-down">-0.28%</span> |
-| ナスダック総合 | 25,980.19 | <span class="chg-down">-0.76%</span> |
-| WTI原油 | 85.01ドル/バレル | <span class="chg-down">-2.05ドル（-2.35%）</span> |
-| 米10年債利回り | 4.70%前後 | 高止まり |
+| NYダウ | [53,577.40ドル](https://apnews.com/article/69aae9f2f61737936f126e7820833bbe) | <span class="chg-up">+160.24ドル（+0.30%）</span> |
+| S&P500 | [7,677.28](https://apnews.com/article/69aae9f2f61737936f126e7820833bbe) | <span class="chg-up">+24.42（+0.32%）</span> |
+| ナスダック総合 | [26,151.30](https://apnews.com/article/69aae9f2f61737936f126e7820833bbe) | <span class="chg-up">+171.11（+0.66%）</span> |
+| Brent原油 | [87.27ドル/バレル](https://apnews.com/article/f17fc8cfc61f40114eb7246701b4695d) | <span class="chg-down">-3.6%</span> |
 
-（[株探](https://s.kabutan.jp/news/n202608251142/)／[みんかぶ WTI](https://fx.minkabu.jp/news/376968)）
-
-原油はイラン制裁の発表と月末接近を材料に利益確定売りが優勢となり反落。米国株はダウがしっかりする一方、ハイテク比率の高いナスダックは軟調と、方向感の定まらない一日でした。米長期金利は4.7%近辺で高止まりしており、27〜29日のジャクソンホール会議でのウォーシュFed議長の講演（28日予定）を市場が見極めようとしています。
+原油は制裁発表後も下落し、Brent原油は3.6%安となりました。米国株は25日、3指数とも上昇しました。市場は26日のエヌビディア決算と、27〜29日のジャクソンホール会議でのウォーシュFed議長の講演（28日予定）を見極めようとしています。
 
 **アメリカの経済**
 
-財務省は長期金利抑制に向け、国債の買い戻し規模を倍増する方針を示しています。市場の最大の関心は27日（日本時間）に発表されるエヌビディアの決算で、市場予想は売上高920億ドル前後。AI半導体需要の持続力を測る試金石として、株式市場全体のセンチメントを左右しそうです。（[日本経済新聞](https://www.nikkei.com/article/DGXZQOGN191ZJ0Z10C26A8000000/)）
+財務省は長期国債の買い戻し規模を倍増する方針を示しています（[AP](https://apnews.com/article/bd0cead63ff1b7f2e99d4c8cce0a28d3)）。市場の最大の関心は27日（日本時間）に発表されるエヌビディアの決算で、市場予想は売上高約922億ドル。AI半導体需要の持続力を測る試金石として注目されています（[S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/nvidia-earnings-preview-q2-2027)）。
 
 **日本の経済**
 
 日経平均株価は25日、前日比328円34銭（0.50%）高の6万5,856円43銭で3営業日ぶりに反発しました。（[日本経済新聞](https://www.nikkei.com/article/DGXZQOFL250HD0V20C26A8000000/)）ただし米長期金利の動向と半導体関連株の値動きが綱引き状態で、上値は重いままです。
 
-為替は円安が再進行し、25日の東京市場でドル円は159円台前半で推移（[みんかぶ](https://fx.minkabu.jp/news/377030)）。欧州中央銀行（ECB）参考レート基準（25日）でも1ドル=159.24円でした（[frankfurter.app](https://api.frankfurter.app/latest?from=USD&to=JPY)）。7月末の日米協調介入で一時157円台まで戻していましたが、再び円安方向に押し戻されています。日米当局は「過度で無秩序な円安」には改めて対応する姿勢を示しており、160円が心理的な節目として意識されています。
+為替は円安が再進行し、25日の東京市場でドル円は159円台前半で推移（[みんかぶ](https://fx.minkabu.jp/news/377030)）。欧州中央銀行（ECB）参考レート基準（25日）でも1ドル=159.24円でした（[frankfurter.app](https://api.frankfurter.app/2026-08-25?from=USD&to=JPY)）。7月末の日米協調介入で一時157円台まで戻していましたが、再び円安方向に押し戻されています。日米当局は「過度で無秩序な円安」には改めて対応する姿勢を示しており、160円が心理的な節目として意識されています。
 
 ## 今日の注目銘柄・セクター
 
@@ -82,16 +76,20 @@ permalink: /2026/08/26/daily-briefing/
 
 **出典：**
 - [高市内閣支持率48.4% 時事世論調査](https://www.jiji.com/jc/article?k=2026081300707&g=pol)
-- [エバーグランデ創業者に終身刑 Bloomberg](https://www.bloomberg.com/news/articles/2026-08-20/china-sentences-evergrande-founder-hui-ka-yan-to-life-in-prison)
+- [エバーグランデ創業者に終身刑 AP](https://apnews.com/article/5573868904b3ced0c5c9b0314c56ae5a)
 - [インドネシア山火事 NPR](https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires)
 - [英バーナム首相キーウ訪問 Euronews](https://www.euronews.com/my-europe/2026/08/24/new-uk-pm-andy-burnham-to-visit-kyiv-on-first-foreign-trip-reaffirms-support-to-ukraine)
-- [対イラン制裁強化 NPR](https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran)
+- [対イラン制裁強化 AP](https://apnews.com/article/e367634d8853c8fa4a341132cd577f31)
+- [DHSの監視活動 AP](https://apnews.com/article/5e6e554e79980553c3a02ca199593a7d)
+- [熱帯低気圧モーケ AP](https://apnews.com/article/48d2a051c3265b09e70db5111f72b91d)
 - [日経平均反発 日本経済新聞](https://www.nikkei.com/article/DGXZQOFL250HD0V20C26A8000000/)
-- [米国株式市場 株探](https://s.kabutan.jp/news/n202608251142/)
-- [WTI原油反落 みんかぶ](https://fx.minkabu.jp/news/376968)
+- [8月25日の米国株式市場 AP](https://apnews.com/article/69aae9f2f61737936f126e7820833bbe)
+- [Brent原油反落 AP](https://apnews.com/article/f17fc8cfc61f40114eb7246701b4695d)
+- [米財務省の国債買い戻し AP](https://apnews.com/article/bd0cead63ff1b7f2e99d4c8cce0a28d3)
+- [エヌビディア決算予想 S&P Global](https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/nvidia-earnings-preview-q2-2027)
 - [ドル円159円台 みんかぶ](https://fx.minkabu.jp/news/377030)
-- 為替: [frankfurter API](https://api.frankfurter.app/) ／ エヌビディア決算: [日本経済新聞](https://www.nikkei.com/article/DGXZQOGN191ZJ0Z10C26A8000000/)
+- 為替: [frankfurter API（2026年8月25日）](https://api.frankfurter.app/2026-08-25?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>
