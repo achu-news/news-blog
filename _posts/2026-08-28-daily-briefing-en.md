@@ -14,7 +14,7 @@ permalink: /2026/08/28/daily-briefing/
 - **Trump signs an executive order renaming Lake Ontario "Lake America"** after trade talks with Canada collapsed. [U.S. tariffs of up to 50% on various Canadian goods took effect Aug. 22](https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html) with no USMCA carve-out, and Canada has retaliated with tariffs of up to 50%. Ottawa says it will not recognize the new name.
   - *Why it matters:* A symbolic escalation on top of a real tariff war raises costs across the tightly integrated North American supply chain — autos, steel, aluminum and agriculture most of all.
 - **Meta agrees to a settlement of up to $17.1 billion** with a coalition of state attorneys general over claims it designed Instagram to be addictive and harmful to minors. Meta will [pay at least $12.1 billion over 10 years](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta) and add default daily time limits, an overnight-use block liftable only by a parent, and stronger age checks. It is the largest state consumer-protection settlement outside the 1990s tobacco deal.
-- **Nvidia's blowout quarter powered a tech rally.** The chipmaker reported [$2.22 adjusted EPS and $96.2 billion in revenue, up 106% year over year](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html), and guided to $106–110 billion next quarter. The stock jumped about 8% Thursday, lifting Salesforce and CrowdStrike alongside it, though it guided gross margin down to 73.5–74.5% from 75.0% on rising memory costs.
+- **Nvidia's blowout quarter powered a tech rally.** The chipmaker reported [$2.22 adjusted EPS and $96.2 billion in revenue, up 106% year over year](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027). It expects next-quarter revenue of $108 billion, plus or minus 2%, and gross margin of 74.0%, plus or minus 0.5 percentage points. The stock jumped about 8% Thursday, lifting other technology shares.
 - **Nepal–Tibet flood disaster.** A glacial collapse on the Nepal–China border has left [at least 392 dead and about 1,500 missing](https://www.abc.net.au/news/2026-08-28/new-flood-warnings-issued-in-nepal-tibet-as-death-toll-rises/107087570) as of Aug. 28; Nepal's tourism board says 517 of the missing are foreign nationals, 178 of them Indian. Authorities warn a barrier lake could still burst.
 - **Cleveland Fed President Beth Hammack** [repeated her call for higher rates](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-27-2026), saying recent inflation data show the Fed is still too far from its 2% goal.
 
@@ -24,7 +24,7 @@ U.S. stocks rose Thursday, Aug. 27: the [Dow gained 0.2% to 53,569.44, the S&P 5
 
 ## Stocks in Focus
 
-- **Nvidia (NVDA):** earnings beat and strong guidance, though management flagged that rising memory prices will squeeze gross margin to 73.5–74.5%.
+- **Nvidia (NVDA):** revenue reached $96.2 billion, and management guided to $108 billion, plus or minus 2%, for the next quarter, with gross margin expected at 74.0%, plus or minus 0.5 percentage points.
 - **Salesforce (CRM), CrowdStrike (CRWD):** solid results revived buying in software and cybersecurity.
 - **Meta (META):** near-term legal overhang clears, but new time limits and age-check duties raise questions about engagement.
 - **Trade-exposed names:** U.S.–Canada tariff escalation keeps autos, metals, agriculture and the Canadian dollar in view.
@@ -45,13 +45,12 @@ The through-line today is a market that no longer assumes rate relief is coming.
 - [New York AG: Up to $17.1 billion settlement with Meta](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta)
 - [CBS News: Meta settles social media addiction lawsuit](https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/)
 - [CNBC: Nvidia Q2 FY27 earnings](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)
+- [NVIDIA: Second-quarter fiscal 2027 results](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 - [TheStreet: Stock market today, Aug. 27, 2026](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-27-2026)
 - [Investing.com: Nikkei 225 close, Aug. 27](https://jp.investing.com/news/forex-news/article-1662585)
 - [Nikkei: yen approaches ¥160](https://www.nikkei.com/article/DGXZQOUB2152J0R20C26A8000000/)
 - [ABC News (AU): Nepal-Tibet death toll rises to 392](https://www.abc.net.au/news/2026-08-28/new-flood-warnings-issued-in-nepal-tibet-as-death-toll-rises/107087570)
 - [Fortune: Nepal-China glacial collapse floods](https://fortune.com/2026/08/27/nepal-china-glacial-collapse-floods/)
-- Market data: [frankfurter API](https://api.frankfurter.app/) and Yahoo Finance
-
 </div>
 
 *Auto-generated and AI-written. Not investment advice.*

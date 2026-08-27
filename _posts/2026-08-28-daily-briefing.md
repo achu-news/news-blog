@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "ネパール・チベット大洪水で死者360人超｜8月28日のニュースとお金"
+title: "ネパール・チベット大洪水で392人死亡、約1500人不明｜8月28日のニュースとお金"
 date: 2026-08-28 07:40:09 +0900
 categories: [ニュース, 経済]
-headline: "ネパール・チベット大洪水で死者360人超"
+headline: "ネパール・チベット大洪水で392人死亡、約1500人不明"
 permalink: /2026/08/28/daily-briefing/
 ---
 
@@ -18,7 +18,7 @@ permalink: /2026/08/28/daily-briefing/
 
 - 円相場は1ドル=[159円台](https://www.nikkei.com/article/DGXZQOUB2152J0R20C26A8000000/)で推移し、再び160円をうかがう展開。日銀の早期利上げ観測と、中東情勢を背景にしたドル買いがせめぎ合っています。氷見野良三副総裁は27日の講演で金融政策の正常化に前向きな姿勢を示しました。
 - 日経平均株価は27日、前日比[130.18円安の66,131.98円](https://jp.investing.com/news/forex-news/article-1662585)と3日ぶりに反落。エヌビディアの好決算を受けて朝方は一時700円近く上昇したものの、ジャクソンホール会議を前にした持ち高調整の売りに押し戻されました。
-- 7月28日に発生した[令和8年熊本地震](https://www.jma.go.jp/jma/menu/20260728_kumamoto_jishin.html)（マグニチュード7.1、最大震度7）の復旧が続いています。[国土交通省のまとめ](https://www.mlit.go.jp/saigai/saigai_260728.html)では8月上旬時点で死者38人、住宅被害は1万棟超。高市早苗内閣は物価高対策とあわせ、復興と中東情勢を踏まえたエネルギー安定策に取り組んでいます。
+- 7月28日に発生した[令和8年熊本地震](https://www.jma.go.jp/jma/menu/20260728_kumamoto_jishin.html)（マグニチュード7.1、最大震度7）の復旧が続いています。[気象庁の被害地震一覧](https://www.data.jma.go.jp/eqev/data/higai/higai1996-new.html)では8月13日時点で死者39人、住宅被害は1万棟超とされています。
 
 ### 世界
 
@@ -50,7 +50,7 @@ permalink: /2026/08/28/daily-briefing/
 | WTI原油（期近） | 83ドル台後半 | <span class="chg-up">中東情勢を背景に底堅い</span> |
 | ドル円 | [159円台後半](https://www.nikkei.com/article/DGXZQOUB2152J0R20C26A8000000/) | 円安方向、160円をうかがう |
 
-（株価はYahoo Finance、為替は[frankfurter API](https://api.frankfurter.app/)＝8月27日時点、前日比の%は各社報道に基づく）
+（株価・為替は表中リンクおよび末尾の出典に基づく）
 
 原油は1バレル=83ドル台後半で高止まりしています。中東情勢の緊迫が続くなか、供給不安とドル高が価格を下支えしています。原油高は輸入国である日本にとって、電気・ガス料金やガソリン価格の押し上げ要因です。
 
@@ -64,7 +64,7 @@ permalink: /2026/08/28/daily-briefing/
 
 ## 今日の注目銘柄・セクター
 
-- **エヌビディア（NVDA）**：5〜7月期決算で1株利益2.22ドル（非GAAP）、売上高962億ドル（前年同期比＋106%）と市場予想を上回り、次の四半期も1060〜1100億ドルの売上高見通しを提示。株価は27日に約8%上昇し、半導体株全体をけん引しました。今期の粗利益率75.0%に対し次期見通しは73.5〜74.5%と、メモリー価格上昇による利益率低下が見込まれる点は留意が必要です。
+- **エヌビディア（NVDA）**：[5〜7月期決算](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)で1株利益2.22ドル（非GAAP）、売上高962億ドル（前年同期比＋106%）を発表。次の四半期は売上高1080億ドル（±2%）、粗利益率74.0%（±0.5ポイント）を見込んでいます。株価は27日に約8%上昇し、半導体株全体をけん引しました。
 - **ソフトウエア・サイバーセキュリティ（セールスフォース＝CRM、クラウドストライク＝CRWD）**：同時期の決算が堅調で、AI関連の需要期待から買い戻しが入りました。
 - **メタ（META）**：171億ドルの和解で目先の不透明感は後退したものの、利用時間制限などの規制対応がSNS事業の成長にどう影響するかが焦点です。
 - **通商関連セクター**：米加の関税合戦で、自動車・鉄鋼・アルミ・農産品などカナダとの取引が多い業種と、カナダドルの動向に市場の目が向いています。
@@ -98,12 +98,11 @@ permalink: /2026/08/28/daily-briefing/
 - [CNBC: What Warsh will say and how markets may react](https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html)
 - [CNBC: Fed Chairman Kevin Warsh's Jackson Hole speech Friday](https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html)
 - [TheStreet: Stock market today, Aug. 27, 2026](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-27-2026)
+- [NVIDIA: 2027年1月期第2四半期決算](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 - [Investing.com: 日経平均大引け 8月27日](https://jp.investing.com/news/forex-news/article-1662585)
 - [日本経済新聞: 円相場再び160円視野](https://www.nikkei.com/article/DGXZQOUB2152J0R20C26A8000000/)
-- [気象庁: 令和8年熊本地震ポータル](https://www.jma.go.jp/jma/menu/20260728_kumamoto_jishin.html) ／ [国土交通省: 被害と対応](https://www.mlit.go.jp/saigai/saigai_260728.html)
+- [気象庁: 令和8年熊本地震ポータル](https://www.jma.go.jp/jma/menu/20260728_kumamoto_jishin.html) ／ [主な被害地震一覧](https://www.data.jma.go.jp/eqev/data/higai/higai1996-new.html)
 - [Anadolu Agency: Wildfire in Spain forces evacuations](https://www.aa.com.tr/en/europe/wildfire-in-spain-forces-855-to-evacuate-threatens-historic-monastery/4027398)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
-
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>
