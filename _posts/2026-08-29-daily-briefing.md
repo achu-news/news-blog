@@ -1,25 +1,25 @@
 ---
 layout: post
 lang: ja
-title: "日銀が9月利上げを示唆、円は約40年ぶり安値圏｜8月29日のニュースとお金"
+title: "日銀9月利上げ観測が強まる、円は159円台で約40年ぶり安値圏｜8月29日のニュースとお金"
 date: 2026-08-29 07:40:00 +0900
 categories: [ニュース, 経済]
-headline: "日銀が9月利上げを示唆、円は約40年ぶり安値圏"
+headline: "日銀9月利上げ観測が強まる、円は159円台で約40年ぶり安値圏"
 permalink: /2026/08/29/daily-briefing/
 ---
 
 ## 今日のポイント
 
-米ワイオミング州ジャクソンホールの会合で、FRB（米連邦準備制度）のウォーシュ議長が「インフレはなお高すぎる」と述べ、追加利上げも辞さない姿勢をにじませました。米国の株価は金曜に小幅安となりましたが、週間ではプラスを保っています。一方、日本では日銀が9月の追加利上げの可能性を示し、円相場は1ドル＝159円台と約40年ぶりの円安圏で推移。ネパールとチベットの国境で起きた氷河決壊による洪水は、死者580人超、行方不明者約1,900人に拡大しました。
+米ワイオミング州ジャクソンホールの会合で、FRB（米連邦準備制度）のウォーシュ議長が「インフレはなお高すぎる」と述べ、追加利上げも辞さない姿勢をにじませました。米国の株価は金曜に小幅安となりましたが、週間ではプラスを保っています。一方、日本では市場の9月追加利上げ観測が強まり、円相場は1ドル＝159円台と約40年ぶりの円安圏で推移。ネパールとチベットの国境で起きた氷河決壊による洪水は、死者580人超、行方不明者約1,900人に拡大しました。
 
 ## 今日のニュース
 
 ### 日本
 
 - **東京都区部の消費者物価指数（8月）は前年同月比1.8%上昇**し、[7カ月連続で日銀の目標である2%を下回りました](https://www.nippon.com/ja/news/kd1465858674102895161/)。電気・ガス代の補助金や米価の下落が押し下げ要因。ただし、日銀が重視する生鮮食品とエネルギーを除く「コアコア」は1.9%（前月2.0%）と、目標近辺を維持しています。
-- **日銀は金曜、早ければ9月18日の会合で追加利上げに動く可能性を示しました。** 市場は9月の利上げ（0.25%引き上げて1.25%）を[約87%織り込んでおり](https://www.bloomberg.com/news/articles/2026-08-23/boj-set-to-offer-clues-as-markets-bet-heavily-on-september-hike)、円安と輸入インフレへの警戒が背景にあります。円は約159円台と約40年ぶりの安値圏で、政府・日銀は近年、米国と協調した大規模な円買い介入に踏み切っています。
+- **日銀の9月18日の会合を巡り、追加利上げ観測が強まっています。** 氷見野良三副総裁は27日の講演で9月利上げを明示しませんでしたが、市場では会合前から[約85%の確率が織り込まれていました](https://www.japantimes.co.jp/business/2026/08/27/boj-deputy-chief-september-rate-increase/)。円安と輸入インフレへの警戒が背景にあります。
 - **高市政権の来年度予算、概算要求が過去最大規模に。** 各省庁の要求額は[合計で130兆円を超える可能性](https://www.bloomberg.com/news/articles/2026-08-28/japan-s-bigger-budget-puts-takaichi-s-cap-on-bond-sales-in-focus)があり、国債発行の上限をどう管理するかが焦点。首相の支持率は一時の70%超から低下しています。
-- ネパールの洪水で、邦人（小学生を含む）が安否不明との情報が伝えられています。
+- ネパールの洪水では、[日本人5人が安否不明](https://www.nippon.com/ja/news/yjj2026082700658/)となっており、外務省が現地対策本部を設置して確認を進めています。
 
 ### 世界
 
@@ -57,7 +57,7 @@ permalink: /2026/08/29/daily-briefing/
 
 ### アメリカの経済
 
-金曜の米株は、S&P500が[7,711.76と0.25%安](https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html)、ナスダックが0.52%安と、半導体株の下落が重しになりました。ダウはほぼ横ばい。ただし週間ではS&P500が+0.5%、ナスダックが+0.9%、ダウが+0.5%（3週ぶりの反発）と、いずれもプラスで着地しています。26日に発表された[エヌビディアの好決算](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html)（2028年度の売上高が前年比70%増という強気の見通し）が木曜の相場を押し上げた後、金曜は利益確定とウォーシュ議長の発言で反落しました。焦点は「米国のインフレが下がりきらなければ利上げもあり得る」という新たな不確実性です。
+金曜の米株は、S&P500が[7,711.76と0.25%安](https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html)、ナスダックが0.52%安と、半導体株の下落が重しになりました。ダウはほぼ横ばい。ただし週間ではS&P500が+0.5%、ナスダックが+0.9%、ダウが+0.5%（3週ぶりの反発）と、いずれもプラスで着地しています。26日に発表された[エヌビディアの好決算](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)（売上高962億ドル、次四半期見通し1080億ドル±2%）が木曜の相場を押し上げた後、金曜は利益確定とウォーシュ議長の発言で反落しました。
 
 ### 日本の経済
 
@@ -65,7 +65,7 @@ permalink: /2026/08/29/daily-briefing/
 
 ## 今日の注目銘柄・セクター
 
-- **エヌビディア（NVDA）** … 26日の決算で2028年度の売上高+70%という見通しを示し、木曜は8.7%高。金曜は反落しましたが、AI向け設備投資がどこまで続くかを占う「基準」として引き続き市場の中心にあります。
+- **エヌビディア（NVDA）** … 26日の決算で売上高962億ドル（前年同期比106%増）、次四半期の売上高見通し1080億ドル（±2%）を示し、木曜は8.7%高。金曜は反落しましたが、AI向け設備投資がどこまで続くかを占う「基準」として引き続き市場の中心にあります。
 - **半導体セクター／インテル（INTC）** … 金曜のナスダック安の主因。金利の先高観が出ると、株価が将来の利益を先取りしている高PER銘柄ほど売られやすく、その典型が半導体です。
 - **金（ゴールド）・貴金属** … 「金利が上がると金には逆風」という教科書どおりにならず、3カ月ぶりの高値圏。インフレの長期化と地政学リスクへの備えとして買われています。
 - **輸出関連（自動車など）** … 円安の進行で為替の追い風が期待される一方、対米関税や対カナダの通商摩擦が重し。円安メリットと通商リスクの綱引きが続きます。
@@ -93,6 +93,9 @@ permalink: /2026/08/29/daily-briefing/
 - [東京物価、8月は1.8％上昇 7カ月連続で日銀目標の2％割れ（nippon.com）](https://www.nippon.com/ja/news/kd1465858674102895161/)
 - [Japan's Bigger Budget Puts Focus on Takaichi Bond Sales Cap（Bloomberg）](https://www.bloomberg.com/news/articles/2026-08-28/japan-s-bigger-budget-puts-takaichi-s-cap-on-bond-sales-in-focus)
 - [Bank of Japan Faces Pressure With Yen Near 160, September Hike Bets Surge（Bloomberg）](https://www.bloomberg.com/news/articles/2026-08-23/boj-set-to-offer-clues-as-markets-bet-heavily-on-september-hike)
+- [BOJ deputy chief keeps door open to September rate increase（Japan Times）](https://www.japantimes.co.jp/business/2026/08/27/boj-deputy-chief-september-rate-increase/)
+- [ネパール・チベット洪水に関する外務大臣談話（外務省）](https://www.mofa.go.jp/s_sa/sw/np/pageite_000001_01779.html)
+- [ネパール洪水で日本人5人が安否不明（nippon.com）](https://www.nippon.com/ja/news/yjj2026082700658/)
 - [Fed Chairman Warsh warns on inflation at Jackson Hole（CNBC）](https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html)
 - [Fed's Kevin Warsh warns inflation is too high（NPR）](https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates)
 - [Trump signs executive order to change Lake Ontario to 'Lake America'（CNN）](https://www.cnn.com/2026/08/27/politics/trump-canada-lake-ontario-america)
@@ -100,10 +103,11 @@ permalink: /2026/08/29/daily-briefing/
 - [Nepal-Tibet floods: what happened, what caused them（Al Jazeera）](https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing)
 - [Stock market news for Aug. 28, 2026（CNBC）](https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html)
 - [Stock market today: Warsh's Jackson Hole speech（Yahoo Finance）](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html)
+- [NVIDIA Announces Financial Results for Second Quarter Fiscal 2027（NVIDIA）](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 - [Current price of oil as of August 28, 2026（Fortune）](https://fortune.com/article/price-of-oil-08-28-2026/)
 - [Gold prices today, Friday, August 28, 2026（Yahoo Finance）](https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-28-2026-gold-steady-as-markets-prepare-for-warsh-speech-115654858.html)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>

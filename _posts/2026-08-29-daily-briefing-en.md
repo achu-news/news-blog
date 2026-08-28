@@ -15,7 +15,7 @@ permalink: /2026/08/29/daily-briefing/
   *Why it matters:* The tariff escalation, more than the name, raises costs for cross-border manufacturing and adds to the inflation picture the Fed is worried about.
 - **At least 90 Americans are among more than 500 foreign nationals missing** after glacier-triggered flash floods on the Nepal–Tibet border; [the toll has climbed past 580 dead with roughly 1,900 unaccounted for in Nepal](https://www.abc.net.au/news/2026-08-28/nepal-tibet-floods-live-updates/107086974).
 - **Wall Street slipped Friday but held onto weekly gains.** The S&P 500 fell 0.25% to 7,711.76 and the Nasdaq lost 0.52% to 26,402.42, dragged by chip stocks; the Dow was essentially flat at 53,559.99.
-- **Nvidia** remained the market's center of gravity after Wednesday's earnings, in which it guided to about 70% revenue growth for fiscal 2028. Shares jumped 8.7% Thursday, then gave some back Friday.
+- **Nvidia** remained the market's center of gravity after Wednesday's earnings. It [reported quarterly revenue of $96.2 billion, up 106% year over year, and guided to $108 billion, plus or minus 2%, for the next quarter](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027). Shares jumped 8.7% Thursday, then gave some back Friday.
 
 ## Markets
 
@@ -23,7 +23,7 @@ The S&P 500 closed at 7,711.76 (-0.25%), the Nasdaq at 26,402.42 (-0.52%) and th
 
 ## Stocks in Focus
 
-- **Nvidia (NVDA)** — its fiscal-2028 revenue guidance of roughly +70% is now the benchmark investors use to judge whether the AI capital-spending cycle has more room to run.
+- **Nvidia (NVDA)** — its $108 billion next-quarter revenue outlook is now a benchmark investors use to judge whether the AI capital-spending cycle has more room to run.
 - **Semiconductors / Intel (INTC)** — the main drag on the Nasdaq Friday; high-multiple growth names are the most exposed if rate-hike odds rise.
 - **Gold** — bid despite the hawkish Fed tone, as investors hedge against sticky inflation and geopolitical risk.
 
@@ -40,6 +40,7 @@ The through-line this week is a policy picture getting *more* uncertain, not les
 - [Nepal-Tibet floods live updates (ABC News Australia)](https://www.abc.net.au/news/2026-08-28/nepal-tibet-floods-live-updates/107086974)
 - [Stock market news for Aug. 28, 2026 (CNBC)](https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html)
 - [Stock market today: Warsh's Jackson Hole speech (Yahoo Finance)](https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html)
+- [NVIDIA Announces Financial Results for Second Quarter Fiscal 2027](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027)
 - [Current price of oil as of August 28, 2026 (Fortune)](https://fortune.com/article/price-of-oil-08-28-2026/)
 - [Japan's Bigger Budget Puts Focus on Takaichi Bond Sales Cap (Bloomberg)](https://www.bloomberg.com/news/articles/2026-08-28/japan-s-bigger-budget-puts-takaichi-s-cap-on-bond-sales-in-focus)
 - Market data: [frankfurter API](https://api.frankfurter.app/), Yahoo Finance and others
