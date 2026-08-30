@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "米FRB議長が利上げ示唆、9月利上げ観測が5割超に急伸｜8月31日のニュースとお金"
+title: "ウォーシュFRB議長が利上げ示唆、9月利上げ観測60%へ急伸｜8月31日のニュースとお金"
 date: 2026-08-31 07:40:04 +0900
 categories: [ニュース, 経済]
-headline: "米FRB議長が利上げ示唆、9月利上げ観測が5割超に急伸"
+headline: "ウォーシュFRB議長が利上げ示唆、9月利上げ観測60%へ急伸"
 permalink: /2026/08/31/daily-briefing/
 ---
 
@@ -31,12 +31,11 @@ permalink: /2026/08/31/daily-briefing/
 
 - **ウォーシュFRB議長、ジャクソンホール会議の講演でタカ派姿勢**。物価目標2%への確信が持てなければ「やるべきことがある」と述べ、利上げの可能性を残しました。先行きの方針をあらかじめ示す「フォワードガイダンス」は「合わせ鏡のように判断を惑わせる」として否定。市場が織り込む9月利上げ確率は講演前の約35%から約60%へ跳ね上がりました（[CNBC](https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html)、[Yahoo Finance](https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html)）。
 - **トランプ大統領、ベネズエラと「史上最大の石油合意」を発表**。650億バレル超の埋蔵量を持つ新会社の実質産出量の55%を米側が握る内容で、戦略石油備蓄（SPR）の積み増しにつなげるとしています。ベネズエラはOPEC（石油輸出国機構）離脱も検討していると報じられました（[CNBC](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html)、[NPR](https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves)）。
-- 半導体大手エヌビディアが8月26日に発表した5〜7月期決算は、売上高962億ドル（前年同期比＋106%）と好調。8〜10月期の見通しも市場予想を上回り、フアンCEOは2028年度のデータセンター事業の伸びを70%と見込みました（[CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)）。
+- 半導体大手エヌビディアが8月26日に発表した5〜7月期決算は、売上高962億ドル（前年同期比＋106%）と好調。8〜10月期の売上高は1080億ドル（±2%）を見込み、フアンCEOは[2028年度の全社売上高を約70%伸ばす見通し](https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf)を示しました。
 
 ### ヨーロッパ
 
 - **ウクライナ・キーウ近郊で弾薬庫へのロシア軍のドローン攻撃、少なくとも37人死亡**。住宅地で数時間にわたり爆発が続きました。ゼレンスキー大統領は「この1週間でロシアは約2千機の攻撃ドローン、1,600発超の滑空爆弾、31発のミサイルを撃ち込んだ」と述べています（[CNN](https://www.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl)）。
-- ウクライナ側もロシア・レニングラード州の製油所などを狙った長距離攻撃を続けており、双方がエネルギー施設への攻撃を強めています。
 
 ## 経済とお金の動き
 
@@ -95,6 +94,7 @@ FRBの政策金利は現在3.50〜3.75%で据え置かれています（実効�
 - [Yahoo Finance — Rate-hike expectations rise on Warsh speech at Jackson Hole](https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html)
 - [CNBC — Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html)
 - [CNBC — Nvidia Q2 FY2027 earnings](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)
+- [NVIDIA — Q2 FY2027 earnings call transcript](https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf)
 - [ABC News — Nepal-Tibet flood death toll rises to 750](https://abcnews.com/International/nepal-tibet-flood-death-toll-rises-750-officials/story?id=136067514)
 - [CNN — Death toll rises, thousands missing in Nepal-China floods](https://www.cnn.com/2026/08/29/world/live-news/nepal-china-flood)
 - [CNBC — Iceland rejects reopening EU talks in closely fought referendum](https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html)
@@ -107,6 +107,6 @@ FRBの政策金利は現在3.50〜3.75%で据え置かれています（実効�
 - [WTOP — How major US stock indexes fared Friday 8/28/2026](https://wtop.com/national/2026/08/how-major-us-stock-indexes-fared-friday-8-28-2026/)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ [Fortune（原油）](https://fortune.com/article/price-of-oil-08-28-2026/) ／ Yahoo Finance ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>

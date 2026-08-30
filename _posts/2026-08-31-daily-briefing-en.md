@@ -13,9 +13,9 @@ permalink: /2026/08/31/daily-briefing/
   *Why it matters:* Under a new chair, the Fed is leaning toward higher-for-longer — or higher — which lifts the dollar, pressures long-duration stocks, and raises borrowing costs for mortgages and businesses.
 - **President Trump announced a deal with Venezuela** that he called "the biggest oil deal in world history," giving the U.S. a 55% effective stake in the output of a new company controlling more than 65 billion barrels of reserves, with proceeds meant in part to refill the Strategic Petroleum Reserve. Venezuela is reportedly weighing an exit from OPEC ([CNBC](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html), [NPR](https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves)).
   *Why it matters:* More long-run crude supply weighed on oil prices last week and could feed slowly into lower gasoline and utility costs — though a stronger dollar blunts some of that relief.
-- **Nvidia's May–July quarter beat expectations**, with revenue of $96.2 billion (up 106% year over year) and a stronger-than-expected outlook of $108 billion for the current quarter; CEO Jensen Huang projected 70% data-center revenue growth in fiscal 2028 ([CNBC](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)).
+- **Nvidia's May–July quarter beat expectations**, with revenue of $96.2 billion (up 106% year over year) and an outlook of $108 billion, plus or minus 2%, for the current quarter. CEO Jensen Huang projected approximately 70% growth in total company revenue in fiscal 2028 ([NVIDIA earnings-call transcript](https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf)).
 - Dolly Parton, the country music icon and philanthropist, died on Aug. 25 at age 80 ([NPR](https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary)).
-- The Trump administration's plan to temporarily waive higher tariffs on beef imports drew backlash from U.S. cattle ranchers, who say it undercuts domestic producers.
+- The Trump administration's plan to temporarily waive higher tariffs on beef imports [drew backlash from U.S. cattle ranchers](https://apnews.com/article/e0e3dd60ae754d647527c7734a091edf), who say it undercuts domestic producers.
 
 ## Markets
 
@@ -41,6 +41,8 @@ The through-line into the new week is a Federal Reserve that, under Chair Warsh,
 - [CNBC — Trump announces deal with Venezuela on oil reserves](https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html)
 - [NPR — Trump says U.S. has entered deal with Venezuela on 65 billion barrels](https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves)
 - [CNBC — Nvidia Q2 FY2027 earnings](https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html)
+- [NVIDIA — Q2 FY2027 earnings-call transcript](https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf)
+- [AP — Trump beef-import plan draws rancher backlash](https://apnews.com/article/e0e3dd60ae754d647527c7734a091edf)
 - [NPR — Dolly Parton obituary](https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary)
 - [WTOP — How major US stock indexes fared Friday 8/28/2026](https://wtop.com/national/2026/08/how-major-us-stock-indexes-fared-friday-8-28-2026/)
 - [CNN — Russian attack on Ukrainian ammunition warehouse kills 37](https://www.cnn.com/2026/08/29/europe/ukraine-kyiv-russia-war-attack-intl)
