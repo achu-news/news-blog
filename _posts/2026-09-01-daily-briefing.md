@@ -18,7 +18,7 @@ permalink: /2026/09/01/daily-briefing/
 
 - 高市早苗首相の内閣支持率は、週末に各社が実施した世論調査でおおむね横ばいとなりました。物価高が引き続き有権者の最大の関心事です（[Bloomberg](https://www.bloomberg.com/news/articles/2026-08-31/japan-s-takaichi-holds-steady-in-polls-despite-price-concerns)）。
 - 首相は9月中下旬に内閣改造を行う方向で調整しています（[The Japan Times](https://www.japantimes.co.jp/news/2026/08/22/japan/politics/takaichi-cabinet-reshuffle-september/)）。
-- 為替は1ドル＝[159円台後半](https://api.frankfurter.app/latest?from=USD&to=JPY)。7月31日の日米協調介入でいったん157円台まで円高が進みましたが、その後は再び円安方向に戻っています。日銀は7月末の会合で政策金利を1.0%に据え置いています。
+- 為替は1ドル＝[159円台後半](https://api.frankfurter.app/2026-08-31?from=USD&to=JPY)。7月31日の日米協調介入でいったん157円台まで円高が進みましたが、その後は再び円安方向に戻っています。日銀は7月末の会合で政策金利を1.0%に据え置いています。
 
 ### 世界
 
@@ -103,6 +103,6 @@ permalink: /2026/09/01/daily-briefing/
 - [Bloomberg — Japan's Takaichi holds steady in polls](https://www.bloomberg.com/news/articles/2026-08-31/japan-s-takaichi-holds-steady-in-polls-despite-price-concerns)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ [Trading Economics](https://tradingeconomics.com/commodity/crude-oil) ／ Yahoo Finance ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>

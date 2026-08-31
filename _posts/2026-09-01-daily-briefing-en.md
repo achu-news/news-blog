@@ -16,11 +16,9 @@ permalink: /2026/09/01/daily-briefing/
   *Why it matters:* Trump frames it as a way to lower gas prices long term, but the barrels take years to develop and the terms face legal and political challenges.
 - **Meta's $17 billion settlement.** Meta agreed on Aug. 26 to pay up to $17 billion and add child-safety limits — including a two-hour daily cap for users under 18 that a parent must lift — to settle teen social-media-addiction claims from 47 states ([PBS News](https://www.pbs.org/newshour/nation/meta-reaches-17-billion-settlement-with-states-in-landmark-trial-over-teen-social-media-addiction), [NPR](https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit)).
   *Why it matters:* It is one of the largest state-level tech settlements on record and sets a template other platforms may be pushed to follow.
-- **Public health.** NPR reported that U.S. heat-related deaths are running well above official counts, and two measles deaths in Pennsylvania have fueled a public clash between HHS Secretary Robert F. Kennedy Jr. and the state's governor ([NPR](https://www.npr.org/sections/news)).
-
 ## Markets
 
-Stocks fell Monday, Aug. 31, after the U.S.–Iran exchange, but still closed a turbulent August in the green. The Dow lost [374.09 points (0.7%)](https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html) to 53,185.90, the S&P 500 slipped 0.33% to 7,686.14, and the Nasdaq eased 0.12% to 26,370.89. For the month, the Dow rose about 1.4% (a fifth straight monthly gain), the S&P 500 about 2.4% and the Nasdaq about 3.5%. WTI crude climbed to roughly $85.5 a barrel. The dollar bought about 159.7 Japanese yen ([frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY), reference date Aug. 31).
+Stocks fell Monday, Aug. 31, after the U.S.–Iran exchange, but still closed a turbulent August in the green. The Dow lost [374.09 points (0.7%)](https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html) to 53,185.90, the S&P 500 slipped 0.33% to 7,686.14, and the Nasdaq eased 0.12% to 26,370.89. For the month, the Dow rose about 1.4% (a fifth straight monthly gain), the S&P 500 about 2.4% and the Nasdaq about 3.5%. WTI crude climbed to roughly $85.5 a barrel. The dollar bought about 159.7 Japanese yen ([frankfurter API](https://api.frankfurter.app/2026-08-31?from=USD&to=JPY), reference date Aug. 31).
 
 ## Stocks in Focus
 
