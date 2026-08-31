@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "U.S. strikes Iran's Larak Island, Tehran hits back at Jordan bases as oil jumps — September 1, 2026"
-date: 2026-09-01 07:50:00 +0900
+date: 2026-09-01 07:30:00 +0900
 headline: "U.S. strikes Iran's Larak Island, Tehran hits back at Jordan bases as oil jumps"
 permalink: /2026/09/01/daily-briefing/
 ---
