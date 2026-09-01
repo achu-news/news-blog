@@ -13,14 +13,12 @@ permalink: /2026/09/02/daily-briefing/
   *Why it matters:* Iran has effectively closed the strait to shipping, and roughly a fifth of the world's seaborne oil normally passes through it. Every escalation feeds straight into fuel prices and, from there, inflation.
 - **Global bond sell-off deepens.** Treasury yields climbed alongside a worldwide rout in government debt, driven by energy-linked inflation fears and worries about fiscal sustainability in the U.S., U.K., Japan and Germany.
   *Why it matters:* Higher long-term yields raise the cost of mortgages, car loans and federal borrowing, and they pressure the Fed to slow any rate cuts.
-- **Supreme Court clears Trump's White House ballroom.** In a 5-4 decision, the Court lifted lower-court orders that had blocked construction of the roughly 90,000-square-foot ballroom.
-- **Army's top civilian resigns.** Daniel Driscoll stepped down after clashing with Defense Secretary Pete Hegseth over the removal of experienced commanders.
+- **Supreme Court clears Trump's White House ballroom.** In a [5-4 decision](https://apnews.com/article/6b9434af0a2dbeffa0ca19f5cdf7d775), the Court lifted lower-court orders that had blocked construction of the roughly 90,000-square-foot ballroom.
+- **Army's top civilian resigns.** [Daniel Driscoll stepped down](https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth) after clashing with Defense Secretary Pete Hegseth over the removal of experienced commanders.
 - **Guilty verdict in Tupac Shakur killing.** A Las Vegas jury convicted Duane "Keffe D" Davis of first-degree murder on Aug. 31 for orchestrating the 1996 shooting of the rapper. Sentencing is set for Oct. 13.
-- **Colorado River cutbacks.** New federal rules mean Arizona will draw significantly less water from the river; officials say planning has been under way for years but keeping supplies flowing is costly.
-
 ## Markets
 
-Stocks fell on Sept. 1 as oil surged and yields rose. The Dow closed at [53,185.90](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html), down 374.09 points (-0.7%); the S&P 500 slipped about 0.3% to [7,686.14](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html); the Nasdaq eased 0.1% to 26,370.89. WTI crude jumped [$3.72 to $89.48](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/) (+4.3%) and Brent rose to $93.93. Japan's 10-year government bond yield touched [3% for the first time since 1996](https://www.reuters.com/markets/rates-bonds/japans-benchmark-bond-yield-rises-3-first-time-30-years-2026-09-01/); the U.K. 30-year gilt yield hit about 5.89%, its highest since 1998, and the pound fell 1% against the dollar. The dollar traded near [160.16 yen](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference, Sept. 1).
+Stocks fell on Sept. 1 as oil surged and yields rose. The [Dow closed at 52,766.88, down 419.02 points (-0.8%); the S&P 500 fell 0.7% to 7,631.47; and the Nasdaq lost 1.0% to 26,099.77](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e). WTI crude jumped [$3.72 to $89.48](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/) (+4.3%) and Brent rose to $93.93. Japan's 10-year government bond yield touched [3% for the first time since 1996](https://www.reuters.com/markets/rates-bonds/japans-benchmark-bond-yield-rises-3-first-time-30-years-2026-09-01/); the U.K. 30-year gilt yield hit about 5.89%, its highest since 1998, and the pound fell 1% against the dollar. The dollar traded near [160.16 yen](https://api.frankfurter.app/2026-09-01?from=USD&to=JPY) (ECB reference, Sept. 1).
 
 ## Stocks in Focus
 
@@ -43,7 +41,9 @@ One missile exchange in the Gulf is now setting the price of money worldwide. Hi
 - [CNBC — U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom](https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html)
 - [UPI — Two oil tankers struck on Strait of Hormuz](https://www.upi.com/Top_News/World-News/2026/09/01/iran-two-oil-tankers-struck-strait-of-hormuz/7601788274469/)
 - [GV Wire — Oil Prices Jump 4% as Fresh US-Iran Fighting Stokes Supply Fears](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/)
-- [CNBC — Stock market news for Sept. 1, 2026](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html)
+- [AP — How major US stock indexes fared Tuesday 9/1/2026](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e)
+- [AP — Supreme Court allows White House ballroom construction to continue](https://apnews.com/article/6b9434af0a2dbeffa0ca19f5cdf7d775)
+- [Axios — Why Army Secretary Dan Driscoll resigned](https://www.axios.com/2026/09/01/army-secretary-dan-driscoll-resigns-hegseth)
 - [NPR — Jury convicts a man of first-degree murder for the 1996 killing of Tupac Shakur](https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder)
 - [Democracy Now! — Headlines for September 1, 2026](https://www.democracynow.org/2026/9/1/headlines)
 - Market data: [frankfurter API](https://api.frankfurter.app/), Trading Economics, Investing.com

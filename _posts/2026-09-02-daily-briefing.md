@@ -47,20 +47,20 @@ permalink: /2026/09/02/daily-briefing/
 | 指標 | 直近値（9月1日） | 前日比 |
 |---|---|---|
 | 日経平均株価 | [66,215.34円](https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-019-4883546) | <span class="chg-down">-約100円（-0.15%）</span>（一時は最高値） |
-| NYダウ | [53,185.90ドル](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html) | <span class="chg-down">-374.09ドル（-0.7%）</span> |
-| S&P500 | [7,686.14](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html) | <span class="chg-down">-約0.3%</span> |
-| ナスダック総合 | [26,370.89](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html) | <span class="chg-down">-約0.1%</span> |
+| NYダウ | [52,766.88ドル](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e) | <span class="chg-down">-419.02ドル（-0.8%）</span> |
+| S&P500 | [7,631.47](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e) | <span class="chg-down">-54.67（-0.7%）</span> |
+| ナスダック総合 | [26,099.77](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e) | <span class="chg-down">-271.11（-1.0%）</span> |
 | WTI原油 | [89.48ドル/バレル](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/) | <span class="chg-up">+3.72ドル（+4.3%）</span> |
 | ブレント原油 | [93.93ドル/バレル](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/) | <span class="chg-up">+3.44ドル（+3.8%）</span> |
-| ドル円 | [160.16円](https://api.frankfurter.app/latest?from=USD&to=JPY) | 円安水準が続く |
+| ドル円 | [160.16円](https://api.frankfurter.app/2026-09-01?from=USD&to=JPY) | 円安水準が続く |
 
-（相場は9月1日時点。株価はCNBC・Investing.com、原油はGV Wire、ドル円はfrankfurter API〈ECB基準・9月1日〉より）
+（相場は9月1日時点。株価はAP・Investing.com、原油はGV Wire、ドル円はfrankfurter API〈ECB基準・9月1日〉より）
 
 軽油（ディーゼル）先物は52カ月ぶりの高値で、この10週間で約51%も上がりました。中東とウクライナで製油所の稼働が乱れているためです。輸送コストの上昇は、いずれ日用品の値段に乗ってきます。
 
 ### アメリカの経済
 
-原油高はアメリカにとって物価を押し上げる要因です。FRB（米連邦準備制度）は利下げを進めたい局面ですが、エネルギー発の物価上昇が続けば、利下げのペースを緩めざるをえません。前日の米国株安と長期金利の上昇は、その板挟みを映しています。ハイテク株の失速も、金利が高いままだと割高感が意識されやすいという事情があります。
+原油高はアメリカにとって物価を押し上げる要因です。9月1日の米国株は、[ダウが419.02ドル（0.8%）安、S&P500が0.7%安、ナスダックが1.0%安](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e)となりました。エネルギー発の物価上昇が続けば金融政策は難しくなり、高金利に弱いハイテク株の重しにもなります。
 
 ### 日本の経済
 
@@ -93,13 +93,13 @@ permalink: /2026/09/02/daily-briefing/
 - [CNBC — U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom](https://www.cnbc.com/2026/09/01/us-strikes-iran-after-new-hormuz-strait-shipping-attacks-centcom.html)
 - [UPI — Two oil tankers struck on Strait of Hormuz](https://www.upi.com/Top_News/World-News/2026/09/01/iran-two-oil-tankers-struck-strait-of-hormuz/7601788274469/)
 - [GV Wire — Oil Prices Jump 4% as Fresh US-Iran Fighting Stokes Supply Fears](https://gvwire.com/2026/09/01/oil-prices-jump-4-as-fresh-us-iran-fighting-stokes-supply-fears/)
-- [CNBC — Stock market news for Sept. 1, 2026](https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html)
+- [AP — How major US stock indexes fared Tuesday 9/1/2026](https://apnews.com/article/wall-street-stocks-dow-nasdaq-61f03262bb5dfa1c414c4fb7be40772e)
 - [NPR — Jury convicts a man of first-degree murder for the 1996 killing of Tupac Shakur](https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder)
 - [Democracy Now! — Headlines for September 1, 2026](https://www.democracynow.org/2026/9/1/headlines)
 - [Business Standard — Pound plunges 1% as UK 30-year gilt spikes to near 3-decade high](https://www.business-standard.com/markets/capital-market-news/pound-plunges-1-against-dollar-as-uk-30-year-gilt-spikes-to-near-3-decade-high-on-fiscal-concerns-125090201032_1.html)
 - [The Kyiv Independent](https://kyivindependent.com/)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Investing.com ／ Trading Economics ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>
