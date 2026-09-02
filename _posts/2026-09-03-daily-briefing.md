@@ -18,7 +18,7 @@ permalink: /2026/09/03/daily-briefing/
 
 - 9月2日の東京株式市場で日経平均株価は3日続落し、終値は前日比[1,889円70銭安の6万4,325円64銭](https://www.nikkei.com/article/DGXZQOFL020ROTS6A900C2000000/)。TOPIXも約100ポイント下げ、9営業日ぶりに反落しました。半導体やソフトバンクグループなど値がさのハイテク株が大きく売られました。
 - 長期金利の指標となる新発10年国債の利回りが[一時3.0%](https://www.nikkei.com/article/DGXZQOUB010UI0R00C26A9000000/)まで上昇し、[1996年以来およそ30年ぶりの高水準](https://www.bloomberg.com/news/articles/2026-09-01/japan-s-10-year-bond-yield-hits-3-for-first-time-since-1996-mti4e8ui)となりました。財政悪化への懸念（2027年度予算の概算要求が大きく膨らんだこと）と、9月の日銀利上げ観測が背景にあります。
-- 円相場は1ドル=約159〜160円の円安水準で推移。9月は食品の値上げが今年最大級のラッシュとなり、家計の負担感が強まっています。
+- 円相場は1ドル=約159〜160円の円安水準で推移。[9月は飲食料品4923品目が値上げ予定](https://www.nippon.com/ja/japan-data/h02876/)で、2026年では最多となり、家計の負担感が強まっています。
 - 高市政権は物価高対策として給付や消費税の扱いを議論していますが、円安が対策の効果を打ち消しているとの指摘も出ています。
 
 ### 世界
@@ -30,7 +30,7 @@ permalink: /2026/09/03/daily-briefing/
 ### アメリカ
 
 - 9月2日のニューヨーク株式市場は3日続落から反発。[S&P500種株価指数は0.46%高の7,666.60](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-02-2026)、ダウ工業株30種平均は[295ドル高の5万3,061.95ドル](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html)、ナスダック総合指数は0.45%高でした。米長期金利がいったん低下し（10年債利回り[4.78%](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html)）、エヌビディアが3%超上昇しました。
-- 連邦準備制度理事会（FRB）は景気が「緩やかに拡大」との地区連銀報告をまとめる一方、イラン情勢による物価上昇リスクへの警戒を強めました。市場は9月のFOMCでの利上げ確率を高めに織り込んでいます。
+- 連邦準備制度理事会（FRB）の[地区連銀報告（ベージュブック）](https://www.federalreserve.gov/monetarypolicy/beigebook202608-summary.htm)は、雇用と物価の伸びを「緩やか」とまとめました。市場では9月のFOMCを巡る利上げ観測が意識されています。
 - トランプ大統領は[11月3日の中間選挙](https://politicalwire.com/2026/09/02/trump-will-make-a-lot-of-stops-ahead-of-midterms/)に向け、「最後の30日間」に選挙応援で各地を回ると表明しました。
 
 ### ヨーロッパ
@@ -38,7 +38,7 @@ permalink: /2026/09/03/daily-briefing/
 - ユーロ圏の物価上昇率がエネルギー高で3.3%まで加速。市場は[9月10日のECB理事会での利上げ](https://www.euronews.com/business/2026/09/02/ecb-rate-hike-looms-as-energy-shock-pushes-inflation-to-33)を織り込みつつあります。EUは2026年の成長率見通しを1.1%へ下方修正しました。
 - ドイツ・ライプチヒ空港でのドローン侵入を、ベルリンはロシアの関与と指摘。NATOのルッテ事務総長らは「ドローン侵入が欧州の新たな日常になった」と警告しました。
 - [EU加盟11カ国が外交方針決定での拒否権手続きの見直しを要求](https://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-midday)。EUのシェフチョビッチ委員は対中国で「10月までに具体的な成果を」と圧力をかけました。
-- ウクライナでは新学期の初日、キーウがロシアのミサイル攻撃を受け、子どもたちは空襲警報の中で登校しました。
+- ウクライナでは、[ロシア軍の攻撃でキーウ市内8人、周辺地域4人が死亡](https://apnews.com/article/7564a892bfb99a853aa150c8710b7985)し、死者には鉄道職員6人が含まれました。
 
 ## 経済とお金の動き
 
@@ -59,7 +59,7 @@ permalink: /2026/09/03/daily-briefing/
 | 米10年国債利回り | 4.78% | 高止まり（前日4.79%）。8月に数年ぶり高水準 |
 | 日本10年国債利回り | 約3.0% | 1996年以来およそ30年ぶりの高さ |
 
-原油はブレントが約95ドル、WTIが約90ドル。9月1日には両指標とも1日で4ドル超上げました。出典：[frankfurter API](https://api.frankfurter.app/)（ドル円、基準日2026-09-02）、[Forbes Advisor（9/2の原油）](https://www.forbes.com/advisor/investing/oil-prices-today/)、株価は各社報道（終値日は9/2）。
+原油はブレントが約95ドル、WTIが約90ドル。9月1日には両指標とも1日で4ドル超上げました。出典：[frankfurter API](https://api.frankfurter.app/2026-09-02?from=USD&to=JPY)（ドル円、基準日2026-09-02）、[Forbes Advisor（9/2の原油）](https://www.forbes.com/advisor/investing/oil-prices-today/)、株価は各社報道（終値日は9/2）。
 
 ### アメリカの経済
 
@@ -104,8 +104,11 @@ permalink: /2026/09/03/daily-briefing/
 - [Euronews：ECB rate hike looms as energy shock pushes inflation to 3.3%](https://www.euronews.com/business/2026/09/02/ecb-rate-hike-looms-as-energy-shock-pushes-inflation-to-33)
 - [Euronews：Latest news bulletin — September 2nd, 2026 (Midday)](https://www.euronews.com/video/2026/09/02/latest-news-bulletin-september-2nd-2026-midday)
 - [Political Wire：Trump Will Make 'a Lot of Stops' Ahead of Midterms](https://politicalwire.com/2026/09/02/trump-will-make-a-lot-of-stops-ahead-of-midterms/)
+- [Federal Reserve：Beige Book — August 2026](https://www.federalreserve.gov/monetarypolicy/beigebook202608-summary.htm)
+- [AP：Russia pounds Kyiv for more than 12 hours](https://apnews.com/article/7564a892bfb99a853aa150c8710b7985)
+- [nippon.com：9月の食品値上げ4923品目](https://www.nippon.com/ja/japan-data/h02876/)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ [Forbes Advisor（原油）](https://www.forbes.com/advisor/investing/oil-prices-today/) ほか各社報道
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIを利用して作成しています。投資助言ではありません。*
 
 </div>
