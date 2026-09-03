@@ -29,7 +29,7 @@ permalink: /2026/09/04/daily-briefing/
 ### アメリカ
 
 - 前日のニューヨーク株式市場は主要3指数がそろって大幅高となり、ダウ工業株30種平均は約1カ月ぶりの大きな上げ幅を記録しました。
-- 2月の連邦最高裁判断で、国際緊急経済権限法（IEEPA）を根拠とするトランプ政権の追加関税が違憲とされて以降、政権は通商拡大法232条など別の法的根拠に基づく関税へ軸足を移しています。ドローンや部品への232条関税は9月に発動する見通しです。
+- [2月の連邦最高裁判断](https://supreme.justia.com/cases/federal/us/607/24-1287/)で、国際緊急経済権限法（IEEPA）は関税を課す権限を大統領に与えていないとされて以降、政権は通商拡大法232条など別の法的根拠に基づく関税へ軸足を移しています。
 - 11月3日の中間選挙が近づくなか、中東情勢と物価高が与党・共和党にとっての政治的な重しになっています。
 
 ### ヨーロッパ
@@ -43,7 +43,7 @@ permalink: /2026/09/04/daily-briefing/
 
 前日のニューヨーク市場は「金利低下・株高」の一日でした。FRBのウォラー理事が、今後の物価指標に大きな驚きがなければ「金利の据え置きを支持する方向だ」と述べたことで、指標となる10年物国債の利回りは4.77%に低下しました。金利が下がると、将来の利益を重視して買われやすいハイテク株などに追い風が吹きます。
 
-一方、原油はWTI（米国産標準油種）が1バレル＝90ドル台で高止まりしています。アメリカとイランの対立が続き、ホルムズ海峡の周辺で緊張が再び高まっているためです。ただし実際の原油の輸送量は高水準を保っており、価格の急騰は今のところ抑えられています。
+一方、原油はWTI（米国産標準油種）が1バレル＝90ドル台で高止まりしています。アメリカとイランの対立が続き、ホルムズ海峡の周辺で緊張が再び高まっているためです。[3日の海峡通過は直近平均を下回っており](https://www.lse.co.uk/news/oil-falls-from-recent-highs-as-investors-weigh-uncertainty-over-us-iran-strikes-z48yj27haoxcbbd.html)、供給不安が価格を支えています。
 
 | 指標 | 直近の値 | 前日比・状況 |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ permalink: /2026/09/04/daily-briefing/
 
 ### アメリカの経済
 
-物価と金利をめぐる市場の綱引きが続いています。原油高がガソリン代や輸送費を通じて物価を押し上げる懸念がある一方、FRB高官からは利上げに慎重な発言が出て、金利の先高観はいったん和らぎました。関税をめぐっては、2月の最高裁の違憲判断で「相互関税」などが無効となって以降、政権は品目ごとの関税に切り替える動きを続けています。関税の枠組みが揺れると、輸入コストや企業の投資計画にも不確実性が広がります。
+物価と金利をめぐる市場の綱引きが続いています。原油高がガソリン代や輸送費を通じて物価を押し上げる懸念がある一方、FRB高官からは利上げに慎重な発言が出て、金利の先高観はいったん和らぎました。関税をめぐっては、2月に最高裁がIEEPAは関税を授権していないと判断し、「相互関税」などが無効となって以降、政権は品目ごとの関税に切り替える動きを続けています。関税の枠組みが揺れると、輸入コストや企業の投資計画にも不確実性が広がります。
 
 ### 日本の経済
 
@@ -96,11 +96,13 @@ permalink: /2026/09/04/daily-briefing/
 - [TV News Check: Dow Gains 624, Nasdaq Adds 366, S&P 500 Rises 81](https://tvnewscheck.com/business/article/dow-gains-624-nasdaq-adds-366-sp-500-rises-81/)
 - [The Motley Fool: Stock Market Midday, Sept. 3 — Broadcom falls despite earnings beat](https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/)
 - [Al Jazeera: Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz](https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz)
+- [Financial News: Oil falls from recent highs as investors weigh uncertainty over US-Iran strikes](https://www.lse.co.uk/news/oil-falls-from-recent-highs-as-investors-weigh-uncertainty-over-us-iran-strikes-z48yj27haoxcbbd.html)
+- [U.S. Supreme Court: Learning Resources, Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/)
 - [Al Jazeera: France adopts 2026 budget after two no-confidence votes fail](https://www.aljazeera.com/news/2026/2/2/france-adopts-2026-budget-after-two-no-confidence-votes-fail)
 - [Yahoo News: PM Lecornu opens political season as French government returns from summer break](https://ca.news.yahoo.com/pm-lecornu-opens-political-season-070419356.html)
 - [野村ウェルスタイル：野村證券の日銀見通しを変更 9月利上げをメインシナリオに](https://www.nomura.co.jp/wealthstyle/article/0840/)
 - 市場データ: [frankfurter API](https://api.frankfurter.app/)（USD/JPY、基準日9/3）／[Trading Economics](https://tradingeconomics.com/commodity/crude-oil)（WTI原油）ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。投資助言ではありません。*
 
 </div>
