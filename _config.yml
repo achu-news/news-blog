@@ -23,7 +23,7 @@ header_pages: []
 languages: ["ja", "en"]
 default_lang: "ja"
 lang: "ja"
-exclude_from_localization: ["assets", "javascript", "images", "favicon", "apple-touch-icon", "CNAME", ".nojekyll", "robots.txt", "sitemap-all.xml"]
+exclude_from_localization: ["assets", "javascript", "images", "favicon", "apple-touch-icon", "CNAME", ".nojekyll", "robots.txt", "sitemap-all.xml", "_posts/ja-only"]
 parallel_localization: true
 
 plugins:

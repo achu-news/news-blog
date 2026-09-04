@@ -30,10 +30,12 @@ permalink: /sitemap-all.xml
     <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   </url>
+  {%- unless post.path contains "/ja-only/" %}
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}/en{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   </url>
+  {%- endunless %}
 {%- endfor -%}
 {%- for page in site.pages -%}
   {%- if page.url != "/" and page.url != "/sitemap.xml" and page.url != "/sitemap-all.xml" and page.url != "/404.html" and page.name != "feed.xml" and page.layout %}
