@@ -9,9 +9,9 @@ permalink: /2026/09/05/daily-briefing/
 
 ## Top U.S. Stories
 
-- The Labor Department's August jobs report showed [nonfarm payrolls rose 162,000](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026), nearly triple the roughly 55,000 economists expected. The unemployment rate held steady at 4.1%.
+- The [Labor Department's August jobs report](https://www.bls.gov/news.release/archives/empsit_09042026.htm) showed nonfarm payrolls rose 162,000, nearly triple the roughly 55,000 economists expected. The unemployment rate held steady at 4.1%.
   - *Why it matters:* Strong hiring gives the Fed more room to raise rates to fight inflation, rather than less reason to worry. Markets read "good news" as bad news for stocks.
-- Stocks fell on the report: the Dow declined about 0.5%, the S&P 500 lost about 0.4%, and the Nasdaq slipped about 0.3% on Sept. 4, following Wednesday's 1.2% rally.
+- Stocks fell on the report: the [Dow declined 271.86 points to 53,414.25, the S&P 500 lost 29.11 points to 7,718.60, and the Nasdaq slipped 77.07 points to 26,506.99](https://apnews.com/article/ebc11cfa2cf8baf4491bf3d4199c1d74) on Sept. 4, following Thursday's rally.
   - *Why it matters:* [Odds of a Fed rate hike at the September 15-16 meeting climbed toward 58%](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026) on the CME FedWatch tool, reversing some of the dovish shift from Governor Waller's remarks earlier in the week.
 - [Lululemon shares plunged roughly 17-18%](https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html), falling below $100 for the first time since 2018, after a revenue miss and a sharp cut to full-year guidance ahead of a new CEO taking over on Sept. 8.
   - *Why it matters:* The reset raised fresh questions about the health of discretionary retail spending as consumers face a stronger dollar and higher fuel costs.
@@ -24,7 +24,7 @@ Today's market carries a familiar paradox: strong job growth was treated as bad 
 
 ## Markets
 
-The Dow, S&P 500, and Nasdaq all pulled back roughly 0.3-0.5% on Sept. 4 as the strong jobs print revived rate-hike bets, a reversal from Wednesday's rally. The dollar strengthened broadly; USD/JPY traded near 156 late in the week. WTI crude held around $91 and Brent near $97, both elevated on Middle East supply risk. In Japan, the Nikkei 225 rose 806.46 points (+1.26%) to close at 65,020.94 on Sept. 4, its first gain in five sessions, ahead of the U.S. jobs release.
+The Dow, S&P 500, and Nasdaq all pulled back roughly 0.3-0.5% on Sept. 4 as the strong jobs print revived rate-hike bets, a reversal from Thursday's rally. The dollar strengthened broadly; USD/JPY traded near 156 late in the week. WTI crude held around $91 and Brent near $97, both elevated on Middle East supply risk. In Japan, the Nikkei 225 rose 806.46 points (+1.26%) to close at 65,020.94 on Sept. 4, its first gain in five sessions, ahead of the U.S. jobs release.
 
 ## Stocks in Focus
 
@@ -38,6 +38,8 @@ The Dow, S&P 500, and Nasdaq all pulled back roughly 0.3-0.5% on Sept. 4 as the 
 
 **Sources:**
 - [TheStreet: Stock Market Today (Sept. 4, 2026) — Yields jump, stocks fall after jobs report surprises to upside](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026)
+- [U.S. Bureau of Labor Statistics: Employment Situation — August 2026](https://www.bls.gov/news.release/archives/empsit_09042026.htm)
+- [AP: How major U.S. stock indexes fared Friday](https://apnews.com/article/ebc11cfa2cf8baf4491bf3d4199c1d74)
 - [Yahoo Finance: Stock Market Today (Sept. 4, 2026) — S&P 500 edges lower after key jobs report](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html)
 - [Yahoo Finance: Stock Market News for Sep 4, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-4-090900700.html)
 - [Alain Guillot: Stock Market Recap — September 4, 2026](https://www.alainguillot.com/stock-market-recap-september-4-2026/)
