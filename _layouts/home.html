@@ -29,6 +29,8 @@ layout: default
 
     <p class="home-archive-link"><a href="{{ "/archive/" | relative_url }}">{% if site.active_lang == "en" %}All articles →{% else %}過去の記事一覧 →{% endif %}</a></p>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">
+      {% if site.active_lang == "en" %}Get every briefing <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>{% else %}毎朝の更新を<a href="{{ "/feed.xml" | relative_url }}">RSSで購読</a>{% endif %}
+    </p>
   {%- endif -%}
 </div>

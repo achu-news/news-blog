@@ -21,6 +21,33 @@ layout: default
     {{ content }}
   </div>
 
+  {%- capture share_url -%}
+    {{- site.url -}}{{- site.baseurl -}}
+    {%- if site.active_lang != site.default_lang -%}/{{- site.active_lang -}}{%- endif -%}
+    {{- page.url -}}
+  {%- endcapture -%}
+  <section class="post-share" aria-label="{% if site.active_lang == "en" %}Share this article{% else %}この記事を共有{% endif %}">
+    <p class="post-share-title">{% if site.active_lang == "en" %}Share this briefing{% else %}この記事を共有する{% endif %}</p>
+    <div class="post-share-links">
+      <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ share_url | strip | url_encode }}" target="_blank" rel="noopener">X</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url | strip | url_encode }}" target="_blank" rel="noopener">LinkedIn</a>
+      <button type="button" data-copy-url data-copied-label="{% if site.active_lang == "en" %}Copied{% else %}コピーしました{% endif %}">{% if site.active_lang == "en" %}Copy link{% else %}URLをコピー{% endif %}</button>
+      <a href="{{ "/feed.xml" | relative_url }}">RSS</a>
+    </div>
+  </section>
+  <script>
+    (function () {
+      var url = window.location.href;
+      var button = document.querySelector("[data-copy-url]");
+      if (!button || !navigator.clipboard) return;
+      button.addEventListener("click", function () {
+        navigator.clipboard.writeText(url).then(function () {
+          button.textContent = button.getAttribute("data-copied-label");
+        });
+      });
+    })();
+  </script>
+
   {%- include ad-banner.html -%}
 
   {%- assign related = site.posts | where_exp: "p", "p.url != page.url" -%}

@@ -1,8 +1,37 @@
 ---
 layout: page
 title: プライバシーポリシー
+title_en: Privacy Policy
 permalink: /privacy/
 ---
+
+{% if site.active_lang == "en" %}
+
+This policy explains how The World & Money Compass handles analytics, advertising, and personal information.
+
+## Analytics
+
+This site uses Google Analytics to understand traffic and improve its content. Google Analytics uses cookies and collects traffic data without directly identifying individual visitors. You can prevent collection by disabling cookies in your browser. See the [Google Analytics Terms of Service](https://marketingplatform.google.com/about/analytics/terms/us/) and [How Google uses information from sites or apps](https://policies.google.com/technologies/partner-sites?hl=en).
+
+## Advertising
+
+This site may use third-party advertising services, including affiliate programs. These providers may use cookies to show advertisements based on user interests. Please check each provider's website for cookie settings and further details.
+
+## Disclaimer
+
+We work to keep the information accurate, but articles may contain errors or become outdated. Content includes AI-generated summaries based on public information. Financial and economic commentary is for information only and does not recommend buying or selling any financial product. Please make decisions using current primary sources and your own judgment.
+
+## Copyright and links
+
+The text and images on this site belong to the site or their respective rights holders. Reproduction beyond the scope permitted by law is prohibited. You may link to this site without prior permission, but please do not embed the site in an inline frame or link directly to its images.
+
+## Changes to this policy
+
+We may revise this policy. The current version will always be published on this page.
+
+Established: June 27, 2026
+
+{% else %}
 
 当ブログ「デイリー・ニュース＆経済ブリーフィング」（以下、当ブログ）における、個人情報の取り扱いおよびアクセス解析・広告について、以下のとおり定めます。
 
@@ -37,3 +66,5 @@ Cookie を無効にする設定およびその他の詳細は、各広告配信�
 当ブログは、本ポリシーの内容を適宜見直し、改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。
 
 制定日：2026年6月27日
+
+{% endif %}

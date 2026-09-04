@@ -10,7 +10,15 @@
     {%- assign site_desc_local = site.description_en -%}
   {%- endif -%}
   {%- assign page_title = page.title | default: site_title_local -%}
+  {%- if site.active_lang == "en" and page.title_en -%}
+    {%- assign page_title = page.title_en -%}
+  {%- endif -%}
   {%- assign page_desc = page.headline | default: page.excerpt | default: site_desc_local | strip_html | normalize_whitespace | strip -%}
+  {%- assign og_image_path = "/assets/og-image.png" -%}
+  {%- if page.layout == "post" -%}
+    {%- capture og_image_name -%}{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}.png{%- endcapture -%}
+    {%- assign og_image_path = "/assets/og/" | append: og_image_name -%}
+  {%- endif -%}
   {%- capture localized_page_url -%}
     {{- site.url -}}{{- site.baseurl -}}
     {%- if site.active_lang != site.default_lang -%}/{{- site.active_lang -}}{%- endif -%}
@@ -23,9 +31,9 @@
   <meta property="og:title" content="{{ page_title | escape }}">
   <meta property="og:site_name" content="{{ site_title_local | escape }}">
   <meta property="og:description" content="{{ page_desc | escape }}">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{% if page.layout == "post" %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ localized_page_url | strip }}">
-  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/og-image.png">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ og_image_path }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
@@ -55,7 +63,7 @@
     "inLanguage": "{{ site.active_lang }}",
     "author": {"@type": "Organization", "name": "世界とお金の羅針盤 / The World & Money Compass"},
     "publisher": {"@type": "Organization", "name": "世界とお金の羅針盤", "logo": {"@type": "ImageObject", "url": "{{ site.url }}{{ site.baseurl }}/assets/logo.png"}},
-    "image": "{{ site.url }}{{ site.baseurl }}/assets/og-image.png"
+    "image": "{{ site.url }}{{ site.baseurl }}{{ og_image_path }}"
   }
   </script>
   {%- endif %}
@@ -80,13 +88,30 @@
   <link rel="apple-touch-icon" href="{{ "/assets/apple-touch-icon.png" | relative_url }}">
   {%- feed_meta -%}
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-L00D4424B6"></script>
+  <!-- Google Analytics。?analytics=off でこのブラウザの運営者アクセスを除外できる。 -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-L00D4424B6');
+    (function () {
+      var key = "compass_analytics_opt_out";
+      var url = new URL(window.location.href);
+      var setting = url.searchParams.get("analytics");
+      if (setting === "off") localStorage.setItem(key, "1");
+      if (setting === "on") localStorage.removeItem(key);
+      if (setting) {
+        url.searchParams.delete("analytics");
+        history.replaceState(null, "", url.pathname + url.search + url.hash);
+      }
+      if (localStorage.getItem(key) === "1") return;
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { dataLayer.push(arguments); };
+      gtag("js", new Date());
+      gtag("config", "G-L00D4424B6");
+
+      var script = document.createElement("script");
+      script.async = true;
+      script.src = "https://www.googletagmanager.com/gtag/js?id=G-L00D4424B6";
+      document.head.appendChild(script);
+    })();
   </script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -374,6 +399,38 @@
       font-weight: 700;
       font-size: 0.8rem;
       margin-right: 0.5rem;
+    }
+
+    /* ===== Share and subscribe ===== */
+    .post-share {
+      margin-top: 2rem;
+      padding: 1rem 1.2rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+    .post-share-title { margin: 0 0 0.65rem; font-size: 0.85rem; font-weight: 700; color: var(--text-soft); }
+    .post-share-links { display: flex; flex-wrap: wrap; gap: 0.55rem; }
+    .post-share-links a,
+    .post-share-links button {
+      appearance: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #fff;
+      color: var(--text);
+      cursor: pointer;
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      line-height: 1;
+      padding: 0.62rem 0.9rem;
+    }
+    .post-share-links a:hover,
+    .post-share-links button:hover { color: var(--accent); border-color: var(--accent); }
+    .rss-subscribe {
+      margin-top: 1.8rem;
+      text-align: center;
+      font-size: 0.9rem;
     }
 
     /* ===== Post prev/next nav ===== */
