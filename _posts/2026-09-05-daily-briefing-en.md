@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "US August jobs beat forecasts, reviving Fed rate-hike bets — September 5, 2026"
-date: 2026-09-05 07:56:00 +0900
+date: 2026-09-05 07:30:00 +0900
 headline: "US August jobs beat forecasts, reviving Fed rate-hike bets"
 permalink: /2026/09/05/daily-briefing/
 ---
