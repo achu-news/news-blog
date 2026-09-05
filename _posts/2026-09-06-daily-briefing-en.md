@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "US envoys land in Moscow as Russia pauses Kyiv strikes — September 6, 2026"
-date: 2026-09-06 07:45:00 +0900
+date: 2026-09-06 07:30:00 +0900
 headline: "US envoys land in Moscow as Russia pauses Kyiv strikes"
 permalink: /2026/09/06/daily-briefing/
 ---

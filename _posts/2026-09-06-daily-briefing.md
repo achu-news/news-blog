@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米特使がモスクワ入り、ロシアがキーウ攻撃の一時停止｜9月6日のニュースとお金"
-date: 2026-09-06 07:45:00 +0900
+date: 2026-09-06 07:30:00 +0900
 categories: [ニュース, 経済]
 headline: "米特使がモスクワ入り、ロシアがキーウ攻撃の一時停止"
 permalink: /2026/09/06/daily-briefing/
