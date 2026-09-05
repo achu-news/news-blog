@@ -12,11 +12,11 @@ permalink: /2026/09/06/daily-briefing/
 - [U.S. envoys Steve Witkoff and Jared Kushner arrived in Moscow](https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html) for talks with President Vladimir Putin, carrying what President Trump called a "fresh concrete proposal" to end the war in Ukraine, now in its fifth year. Putin ordered a [three-day halt to strikes on Kyiv](https://www.cnn.com/2026/09/05/europe/witkoff-kushner-moscow-kyiv-proposal-war-intl) from Saturday midnight, tied to the envoys' visit, and Ukraine said it would hold off on strikes against Moscow in return. The envoys travel to Kyiv on Sunday to meet President Volodymyr Zelensky.
   - *Why it matters:* A credible move toward a ceasefire would likely pull oil prices lower and lift risk appetite in stocks — the opposite of what the Iran conflict is doing to markets.
 - [U.S.–Iran military exchanges continued](https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too) in the seventh month of the conflict. Iran struck Kuwait and the UAE on Sept. 3; the U.S. hit targets it links to the IRGC. Iranian authorities said a strike on a wedding venue in Kuhestak killed at least four people and injured 68. U.N. Secretary-General António Guterres voiced "grave concern" over rising civilian casualties.
-  - *Why it matters:* Shipping disruption in the Strait of Hormuz has pushed [WTI crude to around $91 a barrel](https://www.bloomberg.com/news/articles/2026-09-03/-we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight), up roughly 6–9% on the week — the biggest weekly gain since mid-July — keeping upward pressure on inflation.
-- Friday's [August jobs report](https://qz.com/us-jobs-report-august-2026-payrolls-unemployment-090426) showed nonfarm payrolls up 162,000, roughly triple the ~53,000 expected, with unemployment steady at 4.1% and wages up 3.1% from a year earlier.
+  - *Why it matters:* Shipping disruption in the Strait of Hormuz has pushed [WTI crude to around $91 a barrel](https://finance.yahoo.com/energy/articles/oil-set-steepest-weekly-gain-043839818.html), up 10.4% on the week — the biggest weekly gain since mid-July — keeping upward pressure on inflation.
+- Friday's [August jobs report](https://www.bls.gov/news.release/archives/empsit_09042026.htm) showed nonfarm payrolls up 162,000, roughly triple the ~53,000 expected, with unemployment steady at 4.1% and wages up 3.1% from a year earlier.
   - *Why it matters:* The strong print pushed Treasury yields up — the 2-year hit its highest since January 2025 — and lifted the odds of a Fed rate hike at the [Sept. 15–16 meeting](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026) above 50% in futures pricing.
-- OPEC+ meets Sunday and is [expected to hold output steady](https://worldoil.com/news/2026/8/2/opec-approves-final-production-quota-increase-of-2026/) for the rest of 2026 after completing the rollback of its voluntary cuts with a small September increase.
-- In Washington, the sculpture "Blue," installed at the Kennedy Center for seven years, was [dismantled and removed](https://www.npr.org/sections/news).
+- [OPEC+ meets Sunday](https://www.opec.org/pr-detail/611-2-august-2026.html) to review market conditions and future production policy after a 188,000-barrel-a-day adjustment for September.
+- In Washington, the sculpture "Blue," installed at the Kennedy Center in 2019, was [dismantled and removed](https://apnews.com/article/c28c6b03fa412e2a70a324ba0476d031).
 
 ## Compass Insight
 
@@ -24,7 +24,7 @@ The through-line for markets right now is two wars pulling in opposite direction
 
 ## Markets
 
-U.S. markets are closed for the weekend. On Friday, Sept. 4, the [Dow fell 271.85 points to 53,414.25, the S&P 500 lost 29.11 to 7,718.60, and the Nasdaq slipped 77.11 to 26,506.99](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html) after the jobs data. The [Nikkei 225 closed Friday at 65,020.94](https://tradingeconomics.com/japan/stock-market), up 1.26%, snapping a four-day losing streak — but that close came before the U.S. payrolls report, so Tokyo opens Monday facing a firmer dollar and higher U.S. yields. The Fed's policy rate stands at 3.50–3.75%; three of twelve officials favored a hike at the July meeting.
+U.S. markets are closed for the weekend. On Friday, Sept. 4, the [Dow fell 271.86 points to 53,414.25, the S&P 500 lost 29.11 to 7,718.60, and the Nasdaq slipped 77.07 to 26,506.99](https://apnews.com/article/ebc11cfa2cf8baf4491bf3d4199c1d74) after the jobs data. The [Nikkei 225 closed Friday at 65,020.94](https://tradingeconomics.com/japan/stock-market), up 1.26%, snapping a four-day losing streak — but that close came before the U.S. payrolls report, so Tokyo opens Monday facing a firmer dollar and higher U.S. yields. The [Fed's policy rate stands at 3.50–3.75%; three of twelve officials favored a hike at the July meeting](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm).
 
 ## Stocks in Focus
 
@@ -42,10 +42,15 @@ U.S. markets are closed for the weekend. On Friday, Sept. 4, the [Dow fell 271.8
 - [Al Jazeera: Iran war updates](https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too)
 - [Bloomberg: 'We Are Stalled' — US-Iran Conflict Stuck With No End in Sight](https://www.bloomberg.com/news/articles/2026-09-03/-we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight)
 - [Quartz: August 2026 jobs report](https://qz.com/us-jobs-report-august-2026-payrolls-unemployment-090426)
+- [U.S. Bureau of Labor Statistics: Employment Situation — August 2026](https://www.bls.gov/news.release/archives/empsit_09042026.htm)
+- [AP: How major U.S. stock indexes fared Friday](https://apnews.com/article/ebc11cfa2cf8baf4491bf3d4199c1d74)
+- [AP: Kennedy Center removes “Blue” sculpture](https://apnews.com/article/c28c6b03fa412e2a70a324ba0476d031)
+- [Federal Reserve: July 2026 FOMC statement](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm)
+- [Reuters via Yahoo Finance: Oil posts its biggest weekly gain since July](https://finance.yahoo.com/energy/articles/oil-set-steepest-weekly-gain-043839818.html)
 - [TheStreet: Stock Market Today (Sept. 4, 2026)](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026)
 - [Yahoo Finance: Stock Market Today (Sept. 4, 2026)](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html)
 - [Trading Economics: Japan Stock Market (Nikkei 225)](https://tradingeconomics.com/japan/stock-market)
-- [World Oil: OPEC+ approves final production quota increase of 2026](https://worldoil.com/news/2026/8/2/opec-approves-final-production-quota-increase-of-2026/)
+- [OPEC: September production adjustment and next meeting](https://www.opec.org/pr-detail/611-2-august-2026.html)
 - Market data: [Frankfurter API](https://api.frankfurter.app/), Yahoo Finance, Trading Economics
 
 </div>
