@@ -1,35 +1,35 @@
 ---
 layout: post
 lang: en
-title: "Fed weighs a rare rate hike as Middle East tension pushes oil to a four-month high — September 15, 2026"
+title: "Fed hike odds reach 85% as AI stocks slide and oil rises — September 15, 2026"
 date: 2026-09-15 07:38:55 +0900
-headline: "Fed weighs a rare rate hike as Middle East tension pushes oil to a four-month high"
+headline: "Fed hike odds reach 85% as AI stocks slide and oil rises"
 permalink: /2026/09/15/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- The Federal Reserve's FOMC meets September 15-16, and unusually, the debate isn't about cutting rates — it's about whether to hike. Markets are pricing roughly a coin-flip chance of a 25-basis-point increase. *Why it matters:* A hike would be a rare move this cycle, driven by sticky inflation and oil prices pushed up by Middle East conflict rather than by a strong economy — it could tighten financial conditions right as growth signals are mixed.
-- U.S. stocks fell on September 14: the S&P 500 dropped 0.75%, the Dow slipped 0.28%, and the Nasdaq lost 1.17%, weighed down by rising oil prices and weakness in AI-related shares. The small-cap Russell 2000 bucked the trend, gaining 0.45%. *Why it matters:* The divergence suggests investors are rotating out of rate-sensitive growth names ahead of the Fed decision.
-- Amazon paused operations with cargo carrier 21 Air following the fatal September 6 crash of its Boeing 767 at Miami International Airport, which killed five people on the ground. *Why it matters:* It signals heightened scrutiny of cargo-airline safety just as the investigation into the crash continues.
-- Pennsylvania reported its third measles-related death of 2026, a 40-year-old woman in Jefferson County, as the state's outbreak reached 676 cases across 37 counties.
-- NFL Week 1 produced its highest-scoring game in league history, with the Chicago Bears beating the Carolina Panthers 59-37.
+- The Federal Reserve's [FOMC meets September 15-16](https://www.federalreserve.gov/newsevents/2026-september.htm), and unusually, the debate isn't about cutting rates — it's about whether to hike. After the August inflation report, investors put the chance of an increase at [about 85%](https://www.axios.com/2026/09/11/the-feds-big-inflation-test). *Why it matters:* A hike would tighten financial conditions while growth signals remain mixed.
+- [U.S. stocks fell on September 14](https://apnews.com/article/8f72a301be85728018018735163f4dad): the S&P 500 dropped 0.5%, the Dow slipped 0.3%, the Nasdaq lost 0.6%, and the Russell 2000 fell 0.4%. *Why it matters:* Weakness in AI leaders weighed on the broader market ahead of the Fed decision.
+- [Amazon paused operations with cargo carrier 21 Air](https://apnews.com/article/96df901b1a8b86648f1b060a457b8fd9) following the fatal September 6 crash of its Boeing 767 at Miami International Airport, which killed five people on the ground. *Why it matters:* It signals heightened scrutiny of cargo-airline safety just as the investigation continues.
+- Pennsylvania reported its [third measles-related death of 2026](https://apnews.com/article/f89c3a626084581e3974eb86e0f2e974), as the state's outbreak reached [676 cases across 37 counties](https://www.pa.gov/agencies/health/newsroom/department-of-health-provides-statewide-update-091126).
+- The Chicago Bears beat the Carolina Panthers 59-37; their [combined 96 points set an NFL record for a Week 1 game](https://www.chicagobears.com/news/by-the-numbers-bears-week-1-win-over-panthers).
 
 ## Compass Insight
 
-Today's defining feature is that monetary policy is moving against the usual script. Rather than debating a cut in response to slowing growth, the Fed is weighing a hike because Middle East conflict has pushed oil toward a four-month high, keeping inflation uncomfortably sticky. That makes geopolitics, not just domestic demand, the thing driving the rate conversation this week.
+Today's defining feature is that monetary policy is moving against the usual script. Rather than debating a cut in response to slowing growth, the Fed is weighing a hike as Middle East conflict keeps oil elevated and inflation uncomfortably sticky. That makes geopolitics, not just domestic demand, the thing driving the rate conversation this week.
 
-In the short run, that means energy and import costs are the most direct channel to household budgets — gasoline and utility bills are the first place higher oil prices show up. Whichever way the Fed goes on September 16 is likely to move markets: a hike would tighten conditions further, while a hold could offer some near-term relief. Over the medium term, the trajectory of the Middle East conflict — whether oil supply risk eases or escalates — is probably the single biggest swing factor for where inflation, and therefore rate policy, heads next. Borrowers with variable-rate debt may want to keep an eye on both the Fed's move and the broader oil picture in the weeks ahead.
+In the short run, that means energy and import costs are the most direct channel to household budgets — gasoline and utility bills are the first place higher oil prices show up. Markets strongly favor a hike, but the decision and the Fed's outlook on September 16 could still move currencies, bonds and stocks. Over the medium term, the trajectory of the Middle East conflict — whether oil supply risk eases or escalates — is probably the single biggest swing factor for where inflation, and therefore rate policy, heads next. Borrowers with variable-rate debt may want to keep an eye on both the Fed's move and the broader oil picture in the weeks ahead.
 
 ## Markets
 
-- WTI crude (October contract) settled at $101.84/barrel on September 14, down $0.71 (-0.69%), after touching $103 intraday — a four-month high — before paring gains when President Trump said on social media that the U.S.-Iran military tension would not be prolonged.
-- The dollar traded around ¥154 against the yen in Tokyo on September 14, supported by hot U.S. inflation data and rate-hike expectations ahead of the FOMC (frankfurter.app puts the reference rate at ¥154.55 as of September 14).
-- Japan's Nikkei 225 closed down 518.35 points at 63,492.99 on September 14, its second straight decline, led by selling in heavyweight exporter stocks.
+- [Brent crude settled 1% higher at $105.68 a barrel](https://apnews.com/article/0b44bfb43960c6ae850567c0c4e5003a) on September 14 after approaching $110 earlier in the session.
+- The dollar traded around ¥154 against the yen in Tokyo on September 14, supported by hot U.S. inflation data and rate-hike expectations ahead of the FOMC ([frankfurter.app's dated reference rate was ¥154.55](https://api.frankfurter.app/2026-09-14?from=USD&to=JPY)).
+- [Japan's Nikkei 225 closed down 518.35 points at 63,492.99](https://www.nikkei.com/article/DGXZQOFL144CD0U6A910C2000000/) on September 14, its second straight decline, led by selling in heavyweight exporter stocks.
 
 ## Stocks in Focus
 
-- **Energy shares** remain in focus as Middle East tension keeps oil near four-month highs.
+- **Energy shares** remain in focus as Middle East tension keeps oil elevated.
 - **AI-related stocks** contributed to the Nasdaq's steeper losses on September 14.
 - **Air cargo/logistics** names are drawing attention after Amazon's suspension of 21 Air.
 
@@ -39,13 +39,16 @@ In the short run, that means energy and import costs are the most direct channel
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Amazon suspends use of 21 Air, cargo carrier involved in fatal Miami crash — NPR](https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier)
-- [Stock Market Today (Sept. 14, 2026) — TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-14-2026)
-- [September Fed decision is now a coin flip — CNBC](https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html)
-- [Pennsylvania reports state's third measles-related death — STAT News](https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/)
+- [FOMC calendar — Federal Reserve Board](https://www.federalreserve.gov/newsevents/2026-september.htm)
+- [Investors put Fed hike odds at 85% — Axios](https://www.axios.com/2026/09/11/the-feds-big-inflation-test)
+- [AI stocks fall as oil rises — AP](https://apnews.com/article/0b44bfb43960c6ae850567c0c4e5003a)
+- [September 14 U.S. market index closes — AP](https://apnews.com/article/8f72a301be85728018018735163f4dad)
+- [Amazon suspends use of 21 Air after fatal Miami crash — AP](https://apnews.com/article/96df901b1a8b86648f1b060a457b8fd9)
+- [Pennsylvania reports its third measles-related death — AP](https://apnews.com/article/f89c3a626084581e3974eb86e0f2e974)
+- [Pennsylvania measles case count — Pennsylvania Department of Health](https://www.pa.gov/agencies/health/newsroom/department-of-health-provides-statewide-update-091126)
+- [Bears-Panthers set Week 1 scoring record — Chicago Bears](https://www.chicagobears.com/news/by-the-numbers-bears-week-1-win-over-panthers)
 - [日経平均大引け続落 — Nikkei](https://www.nikkei.com/article/DGXZQOFL144CD0U6A910C2000000/)
-- [NY商品、原油反発 供給懸念で4カ月ぶり高値 — Nikkei](https://www.nikkei.com/article/DGXZQOFL14A530U6A910C2000000/)
-- Exchange rate data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- Exchange rate data: [frankfurter API (September 14)](https://api.frankfurter.app/2026-09-14?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
