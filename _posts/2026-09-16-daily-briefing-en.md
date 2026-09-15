@@ -1,37 +1,37 @@
 ---
 layout: post
 lang: en
-title: "Fed set for first rate hike since 2023 as oil spikes on Red Sea threat — September 16, 2026"
+title: "Fed hike odds reach 90% as oil and Treasury yields rise — September 16, 2026"
 date: 2026-09-16 07:39:13 +0900
-headline: "Fed set for first rate hike since 2023 as oil spikes on Red Sea threat"
+headline: "Fed hike odds reach 90% as oil and Treasury yields rise"
 permalink: /2026/09/16/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- [The Federal Reserve's FOMC meets September 15-16, with the rate decision due early Wednesday afternoon U.S. time](https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks). CME FedWatch puts the odds of a 25-basis-point hike (to 3.75%-4.00%) above 90%. *Why it matters:* A hike would be the Fed's first since July 2023, reversing the market's usual expectation of rate cuts in a slowdown — this time inflation risk from oil is driving the move instead.
-- [Core CPI rose 0.3% month-over-month in August, above the 0.2% consensus](https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks), reinforcing the case for tighter policy. *Why it matters:* Sticky core inflation, combined with energy-driven price pressure, has narrowed the Fed's room to stay on hold.
-- [U.S. stocks fell across the board on September 15](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html): the Dow lost 328.09 points (-0.63%) to 52,093.11, the S&P 500 fell 0.45% to 7,585.73, and the Nasdaq dropped 0.78% to 25,981.57. The 10-year Treasury yield climbed to its highest level since 2007.
-- Yemen's Houthi rebels have seized control of Yemen's Red Sea coastline near the Bab el-Mandeb Strait, [threatening a route that has become increasingly important for Saudi oil exports](https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast). *Why it matters:* The advance is a direct driver of this week's oil price spike and adds a new supply-risk premium on top of the ongoing Iran conflict.
-- In Japan, Prime Minister Sanae Takaichi announced she will finalize LDP leadership appointments on September 16 and reshuffle her cabinet on September 17, with Deputy President Taro Aso, Secretary-General Shunichi Suzuki and Policy Chief Takayuki Kobayashi expected to stay in their posts.
-- The Gaza ceasefire remains in place but fragile, with continued reports of casualties from ongoing strikes despite the truce.
+- [The Federal Reserve is widely expected to raise its benchmark rate on September 16](https://apnews.com/article/ffd60cca8bb045bb9b1c389f5f1b73af), with futures prices putting the odds of a quarter-point hike at about 90%. *Why it matters:* A hike would be the Fed's first in three years as it responds to stubborn inflation.
+- [Core CPI rose 0.3% month-over-month in August](https://www.bls.gov/news.release/archives/cpi_09112026.htm), reinforcing the case for tighter policy. *Why it matters:* Sticky core inflation, combined with energy-driven price pressure, has narrowed the Fed's room to stay on hold.
+- [U.S. stocks fell across the board on September 15](https://apnews.com/article/b1b1bc9f943da62c6a639a8761b4eca3): the Dow lost 328.09 points (-0.6%) to 52,093.11, the S&P 500 fell 34.25 points (-0.4%) to 7,585.73, and the Nasdaq dropped 204.84 points (-0.8%) to 25,981.57.
+- [Houthi attacks on Saudi shipping and infrastructure have intensified supply concerns and helped drive oil higher](https://apnews.com/article/5696629010c86b8cc83f69cbd093e3f1). *Why it matters:* The conflict is adding a new supply-risk premium on top of the ongoing Iran war.
+- [In Japan, Prime Minister Sanae Takaichi announced she will finalize LDP leadership appointments on September 16 and reshuffle her cabinet on September 17](https://www.nippon.com/en/news/yjj2026091500106/takaichi-to-reshuffle-ldp-leadership-wed-cabinet-thurs.html), with Deputy President Taro Aso, Secretary-General Shunichi Suzuki and Policy Chief Takayuki Kobayashi expected to stay in their posts.
+- The Gaza ceasefire remains in place but fragile; local health officials say [Israeli fire has killed at least 1,375 Palestinians since it began](https://apnews.com/article/bfee618a925924b8562f9fb0a58538b7).
 
 ## Compass Insight
 
 Today's defining feature is a monetary-policy hike moving in the opposite direction from what markets usually expect in uncertain times. Rather than a slowdown prompting rate cuts, prolonged conflict tied to Iran has pushed oil prices higher, and that energy-driven inflation is now the Fed's main concern heading into Wednesday's decision.
 
-In the short term, a jump in oil above $105 a barrel tends to show up quickly at the gas pump and in utility bills, and a Fed hike would likely support the dollar further, adding to import-cost pressure for economies with weaker currencies. Markets could see a relief rally if the decision matches expectations, or renewed volatility if the Fed signals a more aggressive path ahead.
+In the short term, oil above $108 a barrel tends to show up quickly at the gas pump and in utility bills, while higher policy rates can move currencies and add to import-cost pressure for economies with weaker currencies. Markets could see a relief rally if the decision matches expectations, or renewed volatility if the Fed signals a more aggressive path ahead.
 
-Over the medium term, how long the Red Sea disruption persists will shape the broader inflation picture, and Japan's incoming cabinet lineup will clarify the direction of energy-security and defense policy. This is not investment advice — just points worth watching as the picture develops.
+Over the medium term, how long the Red Sea disruption persists will shape the broader inflation picture, while Japan's incoming cabinet lineup and subsequent policy announcements will be worth watching. This is not investment advice — just points worth watching as the picture develops.
 
 ## Markets
 
-- Dow: 52,093.11, down 328.09 points (-0.63%) on September 15
-- S&P 500: 7,585.73, down 0.45%
-- Nasdaq: 25,981.57, down 0.78%
-- WTI crude: [$105.49/barrel, up 4.04%](https://tradingeconomics.com/commodity/crude-oil) on September 15, driven by Red Sea supply fears
-- 10-year Treasury yield: 5.041%, highest since 2007
-- USD/JPY: around 154.80-154.90 in Tokyo trading on September 15; [155.0 per the frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY) (September 15 reference)
+- Dow: 52,093.11, down 328.09 points (-0.6%) on September 15
+- S&P 500: 7,585.73, down 34.25 points (-0.4%)
+- Nasdaq: 25,981.57, down 204.84 points (-0.8%)
+- Brent crude: [$108.75/barrel, up 2.9%](https://apnews.com/article/123ddc2d8ba06c324cbbd899f7eeebd2) on September 15
+- 10-year Treasury yield: 5.00% late in the session after briefly touching 5.04%
+- USD/JPY: around 154.80-154.90 in Tokyo trading on September 15; [155.0 per the dated frankfurter API](https://api.frankfurter.app/2026-09-15?from=USD&to=JPY)
 - Nikkei 225: [63,484.10, down 8.89 points](https://www.zaikei.co.jp/article/20260915/870147.html), essentially flat
 
 ## Stocks in Focus
@@ -46,12 +46,15 @@ Over the medium term, how long the Red Sea disruption persists will shape the br
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Will the Fed Hike Rates in September? A 25-Basis-Point Move Is Now Expected - Chase](https://www.chase.com/personal/investments/learning-and-insights/article/september-2026-rate-hike-now-expected-amid-energy-shocks)
-- [Stock market today: Dow, S&P 500, Nasdaq fall as 10-year Treasury yield touches 2007 high - Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html)
-- [Can the Houthis close the Red Sea after seizing the Yemen coast? - Al Jazeera](https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast)
-- [Crude Oil - Price - Trading Economics](https://tradingeconomics.com/commodity/crude-oil)
+- [Fed widely expected to raise rates for the first time in three years - AP](https://apnews.com/article/ffd60cca8bb045bb9b1c389f5f1b73af)
+- [August Consumer Price Index - BLS](https://www.bls.gov/news.release/archives/cpi_09112026.htm)
+- [September 15 U.S. market index closes - AP](https://apnews.com/article/b1b1bc9f943da62c6a639a8761b4eca3)
+- [Oil and Treasury yields pressure U.S. stocks - AP](https://apnews.com/article/123ddc2d8ba06c324cbbd899f7eeebd2)
+- [Houthi attacks rattle Saudi oil routes - AP](https://apnews.com/article/5696629010c86b8cc83f69cbd093e3f1)
+- [Takaichi to reshuffle LDP leadership and cabinet - Jiji Press via Nippon.com](https://www.nippon.com/en/news/yjj2026091500106/takaichi-to-reshuffle-ldp-leadership-wed-cabinet-thurs.html)
+- [Gaza ceasefire remains fragile as attacks continue - AP](https://apnews.com/article/bfee618a925924b8562f9fb0a58538b7)
 - [日経平均大引け：前日比8.89円安の63484.10円 - 財経新聞](https://www.zaikei.co.jp/article/20260915/870147.html)
-- Exchange rate data: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
+- Exchange rate data: [frankfurter API (September 15)](https://api.frankfurter.app/2026-09-15?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
