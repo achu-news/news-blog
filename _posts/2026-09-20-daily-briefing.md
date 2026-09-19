@@ -1,16 +1,16 @@
 ---
 layout: post
 lang: ja
-title: "台風25号が21日に関東接近、敬老の日は暴風・大雨に警戒｜9月20日のニュースとお金"
+title: "台風25号が21日に関東接近、敬老の日は暴風・大雨に厳重警戒｜9月20日のニュースとお金"
 date: 2026-09-20 07:37:09 +0900
 categories: [ニュース, 経済]
-headline: "台風25号が21日に関東接近、敬老の日は暴風・大雨に警戒"
+headline: "台風25号が21日に関東接近、敬老の日は暴風・大雨に厳重警戒"
 permalink: /2026/09/20/daily-briefing/
 ---
 
 ## 今日のポイント
 
-大型の台風25号が20日から21日（敬老の日）にかけて伊豆諸島・関東・東海に接近し、暴風と大雨をもたらす見込みだ。3連休の最終日を直撃する形になり、交通機関への影響に注意が必要になる。経済面では、日銀の利上げ(政策金利1.25%)の家計への影響がより具体的な数字で見えてきており、20〜30代の住宅ローン負担が年2万円超増えるとの試算も出ている。海外では、ポーランドのトゥスク首相が「ロシアがNATO加盟国への"偶発的"攻撃を計画している」と警告し、緊張が続いている。
+大型で強い台風25号が20日から21日（敬老の日）にかけて伊豆諸島・関東に接近し、暴風と大雨をもたらす見込みだ。3連休の最終日を直撃する形になり、交通機関への影響に注意が必要になる。経済面では、[日銀の利上げ（政策金利1.25%）](https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf)の家計への影響がより具体的な数字で見えてきており、20〜30代の住宅ローン負担が年2万円超増えるとの試算も出ている。海外では、ポーランドのトゥスク首相が「ロシアがNATO加盟国への"偶発的"攻撃を計画している」と警告し、緊張が続いている。
 
 ## 今日の羅針盤（Compass Insight）
 
@@ -21,16 +21,16 @@ permalink: /2026/09/20/daily-briefing/
 ## 今日のニュース
 
 ### 日本
-- [大型の台風25号が20日から21日にかけて伊豆諸島・関東・東海に接近する見込み](https://tenki.jp/forecaster/domoto_yukiyo/2026/09/19/40669.html)。21日の敬老の日には関東の海上や伊豆諸島で猛烈な風が予想され、電柱倒壊や建物被害のおそれも指摘されている。
+- [大型で強い台風25号が21日に関東へ最接近する見込み](https://weathernews.jp/news/202609/200051/)。伊豆諸島や関東沿岸では暴風が予想され、大雨災害にも厳重な警戒が必要だ。
 - サッカー・アジア競技大会（愛知・名古屋）で、[U-21日本代表が20日19時30分から豊田スタジアムでキルギスと対戦](https://www.jfa.jp/national_team/u21_2026/asiangames_2026_men/)。初戦は香港に2-0で勝利しており、16年ぶりの金メダルへ向けて連勝を狙う。
 - [日銀の利上げにより、20〜30代の住宅ローン負担が年2万円超増える一方、60代以上は預金金利上昇で年2万円前後のプラス効果](https://www.nikkei.com/article/DGXZQOUB118J50R10C26A9000000/)が見込まれるとの試算が報じられた。
 
 ### 世界・ヨーロッパ
-- [ポーランドのトゥスク首相が、ロシアがウクライナ支援国に対し「偶発的」を装ったドローン・ミサイル攻撃を計画していると警告](https://notesfrompoland.com/2026/09/18/russia-planning-accidental-strikes-on-eastern-nato-states-warns-poland/)。NATOの集団防衛(第5条)への結束を試す狙いがあるとの見方を示した。ロシア外務省は「根拠のない言いがかり」と反論している。
+- [ポーランドのトゥスク首相が、ロシアがウクライナ支援国に対し「偶発的」を装ったドローン・ミサイル攻撃を計画していると警告](https://apnews.com/article/818fe48227ee28d60fe86d8fe6485f5c)。NATOの集団防衛（第5条）への結束を試す狙いがあるとの見方を示した。ロシア外務省は「根拠のない言いがかり」と反論している。
 - [デンマークとグリーンランドは、米国との安全保障合意について「主権を損なうものではない」と説明](https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty)。一方トランプ大統領は「安全保障の恒久的な管理権を得た」と主張しており、両者の説明には食い違いが見られる。合意は[国連総会に合わせて来週、米・デンマーク・グリーンランドの3者で署名される見通し](https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly)。
 
 ### アメリカ
-- FRBが16日、政策金利を3.75〜4.00%に引き上げた措置を受け、市場では[年内あと1回の追加利上げの可能性](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)が意識されている。
+- [FRBは16日、政策金利を3.75〜4.00%に引き上げた](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)。市場では[年内あと1回の追加利上げの可能性](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)が意識されている。
 - グリーンランド合意をめぐり、ワシントンとコペンハーゲンの説明の食い違いが表面化。合意内容の詳細（米軍の規模や資源をめぐる権限など）は[まだ公表されていない](https://www.usnews.com/news/world/articles/2026-09-19/greenland-denmark-say-us-deal-will-not-cede-sovereignty)。
 
 ## 経済とお金の動き
@@ -58,7 +58,7 @@ FRBの利上げ後も株式市場は大崩れしていないが、週間では�
 
 | 指標 | 値 | 補足 |
 |---|---|---|
-| 日経平均株価（9/18終値） | [65,018.95円](https://www.zaikei.co.jp/article/20260918/870698.html) | <span class="chg-up">+882.70円（+1.38%）</span>で3日続伸 |
+| 日経平均株価（9/18終値） | [65,018.95円](https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20260918&idx=nk225) | <span class="chg-up">+882.70円（+1.38%）</span>で3日続伸 |
 
 日銀の利上げにもかかわらず日経平均は底堅く推移した。もっとも、[利上げの影響が住宅ローン金利に本格的に波及するのは今後の基準金利改定のタイミング](https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY)であり、株価の堅調さと家計の実感にはズレが生じやすい点に留意したい。
 
@@ -81,18 +81,21 @@ FRBの利上げ後も株式市場は大崩れしていないが、週間では�
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [台風25号 21日～22日に関東などに接近 暴風・大雨のおそれ｜tenki.jp](https://tenki.jp/forecaster/domoto_yukiyo/2026/09/19/40669.html)
+- [強い台風25号、21日に関東へ最接近｜ウェザーニュース](https://weathernews.jp/news/202609/200051/)
 - [第20回アジア競技大会 男子サッカー｜JFA](https://www.jfa.jp/national_team/u21_2026/asiangames_2026_men/)
 - [日銀利上げ、20〜30代は年2万円超の負担増 住宅ローンかさむ｜日本経済新聞](https://www.nikkei.com/article/DGXZQOUB118J50R10C26A9000000/)
-- [日銀利上げの影響、世代間で明暗｜nippon.com（Yahoo!ニュース）](https://news.yahoo.co.jp/articles/839b9bc19fcc4b02dcf8c0ea3ef26fc6650a7a2e)
+- [金融市場調節方針の変更について｜日本銀行](https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf)
 - [日銀、予想通り利上げを決定 次の利上げは12月メイン｜野村證券 森田京平](https://www.nomura.co.jp/wealthstyle/article/0768/)
-- [Russia planning "accidental" strikes on eastern NATO states, warns Poland｜Notes from Poland](https://notesfrompoland.com/2026/09/18/russia-planning-accidental-strikes-on-eastern-nato-states-warns-poland/)
+- [Poland warns Russia is planning drone or rocket strikes on NATO territory｜AP](https://apnews.com/article/818fe48227ee28d60fe86d8fe6485f5c)
 - [Denmark says 'binding' US deal on Greenland won't compromise sovereignty｜Al Jazeera](https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty)
 - [Greenland, Denmark expect to sign deal with US on sidelines of UN General Assembly｜France 24](https://www.france24.com/en/europe/20260918-greenland-denmark-us-deal-un-general-assembly)
+- [Greenland, Denmark say US deal will not cede sovereignty｜U.S. News](https://www.usnews.com/news/world/articles/2026-09-19/greenland-denmark-say-us-deal-will-not-cede-sovereignty)
+- [Federal Reserve issues FOMC statement｜Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
 - [Fed rate decision September 2026: Rates rise to 3.75%-4%｜CNBC](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)
 - [Stock Market Today (Sept. 18, 2026)｜TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-18-2026)
-- [日経平均大引け：前日比882.70円高の65018.95円｜財経新聞](https://www.zaikei.co.jp/article/20260918/870698.html)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/)
+- [2026年9月18日の日経平均株価｜日経平均プロフィル](https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20260918&idx=nk225)
+- [住宅ローン金利の変更時期｜モゲチェック](https://mogecheck.jp/articles/show/pnl6ZzOV4BDR2k5Ra7PY)
+- 市場データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)
 
 *本記事は公開情報をもとに作成しています。*
 
