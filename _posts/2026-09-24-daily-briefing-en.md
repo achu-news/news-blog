@@ -1,52 +1,54 @@
 ---
 layout: post
 lang: en
-title: "10-year Treasury yield hits highest since 2007 as stocks slide — September 24, 2026"
+title: "Treasury yield hits 2007 high as stocks slide — September 24, 2026"
 date: 2026-09-24 07:41:31 +0900
-headline: "10-year Treasury yield hits highest since 2007 as stocks slide"
+headline: "Treasury yield hits 2007 high as stocks slide"
 permalink: /2026/09/24/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- **Treasury yields surge to a 19-year high.** The 10-year Treasury yield climbed to [its highest level since 2007](https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html) on Wednesday, driven by hot economic data, hawkish Fed commentary, a weak five-year note auction and elevated oil prices.
-  *Why it matters:* Higher long-term rates feed directly into mortgages, car loans and corporate borrowing costs — the average 30-year fixed mortgage rate reportedly jumped to 7.26%.
-- **Fed Governor Barr signals more hikes.** Michael Barr said [further rate increases will likely be needed](https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443) to return inflation to 2% in a timely fashion.
-  *Why it matters:* Markets now price roughly a 70% chance of another hike at the October 27–28 FOMC meeting.
-- **Business activity at a five-year high.** September's flash composite PMI rose to [58.4, a 62-month high](https://www.techtimes.com/articles/327930/20260923/us-growth-hits-five-year-high-pmi-584-complicates-feds-next-rate-call.htm), with input costs climbing at the fastest pace since October 2022.
+- **Treasury yields surge to a 19-year high.** The 10-year Treasury yield ended near 5.10% after briefly approaching [5.14%, its highest level since 2007](https://www.local10.com/business/2026/09/23/pressure-from-the-bond-market-hits-a-new-level-and-us-stocks-slide-on-worries-about-inflation/), as strong economic data and elevated oil prices revived inflation concerns.
+  *Why it matters:* Higher long-term rates feed into mortgages, car loans and corporate borrowing costs.
+- **Fed Governor Barr signals more tightening.** Michael Barr said [further policy adjustments will likely be needed](https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm) to return inflation to 2% in a timely fashion.
+  *Why it matters:* Traders now see better than a 50% chance of a rate increase at each of the Fed's next two meetings, according to AP.
+- **Business activity at a five-year high.** September's flash composite PMI rose to 58.4, a 62-month high, with input costs climbing at the fastest pace since October 2022.
   *Why it matters:* Strong growth plus renewed price pressure makes it harder for the Fed to pause.
 - **Xi Jinping arrives in Washington.** President Trump greeted China's leader [planeside at Joint Base Andrews](https://www.washingtonpost.com/politics/2026/09/23/trump-xi-arrival-washington-state-visit/dedf14ca-b703-11f1-94cb-d3d8f22a8c8b_story.html) to open a three-day state visit focused on trade, AI, critical minerals and Iran.
 - **Hurricane Polo churns off Mexico.** Polo became [one of the strongest Pacific storms on record](https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo), though it is forecast to stay offshore.
 
 ## Compass Insight
 
-The message from Wednesday's markets is simple: the economy is running too hot for rates to come down. A five-year-high PMI, rising input costs and oil hovering near triple digits have pushed investors to price in more Fed tightening, and long-duration assets — especially tech — are paying the price. The dollar is the clear winner, climbing above ¥158, which keeps imported inflation alive in Japan. In the short term, watch whether the 10-year yield holds above 5% and how Tokyo reacts as it reopens after a five-day holiday. Over the medium term, the October FOMC decision and the path of oil will set the tone. The Xi–Trump summit is a wildcard: any progress on trade or critical minerals could ease some pressure, while a setback would add to it.
+The message from Wednesday's markets is that strong growth and renewed price pressure are keeping rates high. A five-year-high PMI, rising input costs and more expensive oil have pushed investors to price in more Fed tightening, and long-duration assets — especially tech — are paying the price. The dollar climbed above ¥158 during New York trading, which keeps imported-inflation pressure alive in Japan. In the short term, watch whether the 10-year yield holds above 5% and how Tokyo reacts as it reopens after a five-day holiday. Over the medium term, the Fed's next decisions and the path of oil will set the tone. The Xi–Trump summit is another important variable for trade and critical-mineral policy.
 
 ## Markets
 
-- **Dow:** [51,511.59](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html), down 352.10 points (-0.68%)
+- **Dow:** [51,511.59](https://www.local10.com/business/2026/09/23/pressure-from-the-bond-market-hits-a-new-level-and-us-stocks-slide-on-worries-about-inflation/), down 352.10 points (-0.68%)
 - **S&P 500:** 7,706.03, down 0.75%
 - **Nasdaq Composite:** 26,936.04, down 1.13%
-- **WTI crude (Nov.):** [$92.16/bbl](https://fx.minkabu.jp/news/379743), up $1.64 (+1.81%)
+- **WTI crude (Nov.):** [$92.16/bbl](https://pflpetroleum.com/reports/petroleum-daily-report-9-23-2026/), up $1.64 (+1.81%)
+- **Brent crude (Nov.):** $103.08/bbl, up $3.83 (+3.86%)
 - **USD/JPY:** [rose from ¥157.76 to ¥158.40](https://jp.investing.com/news/forex-news/article-1689753) in New York trading
+- **USD/JPY reference rate:** [¥157.92](https://api.frankfurter.app/2026-09-23?from=USD&to=JPY) for Sept. 23
 
 ## Stocks in Focus
 
-- **Royal Caribbean (RCL):** Shares fell sharply after the cruise operator agreed to buy [a 50% stake in Sandals Resorts for about $3 billion](https://www.forbes.com/sites/suzannerowankelleher/2026/09/23/royal-caribbean-3-billion-deal-sandals-resorts/), with analysts questioning the diversification and debt financing.
-- **Monolithic Power Systems (MPWR):** [Led the S&P 500 with an 8.1% gain](https://www.trefis.com/stock/spy/articles/616252/sp-500-movers-winners-mpwr-sndk-len-losers-gen-gddy-rcl/2026-09-23) despite the broader selloff.
+- **Royal Caribbean (RCL):** Shares fell about 6% after the cruise operator agreed to acquire [a 50% stake in Sandals and Beaches Resorts for about $3 billion](https://www.rclinvestor.com/content/uploads/2026/09/09232026-Royal-Caribbean-Group-and-Sandals-Resorts-Announce-Landmark-Partnership-to-Accelerate-Their-Leading-Vacation-Experiences.pdf). The debt-financed transaction is expected to close in early 2027, subject to approvals.
+- **Technology and growth shares:** The Nasdaq fell 1.13%, the largest decline among the three major indexes, as long-term yields rose.
 
 ---
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Yahoo Finance — Stock market today, Sept. 23](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html)
-- [Yahoo Finance — 10-year Treasury yield hits highest level since 2007](https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html)
-- [FXStreet — Fed's Barr: Further rate hikes needed](https://www.fxstreet.com/news/feds-barr-further-rate-hikes-needed-for-timely-return-to-2-inflation-202609231443)
-- [Tech Times — US Growth Hits Five-Year High: PMI 58.4](https://www.techtimes.com/articles/327930/20260923/us-growth-hits-five-year-high-pmi-584-complicates-feds-next-rate-call.htm)
+- [AP via Local 10 — Bond yields rise and U.S. stocks slide](https://www.local10.com/business/2026/09/23/pressure-from-the-bond-market-hits-a-new-level-and-us-stocks-slide-on-worries-about-inflation/)
+- [Federal Reserve — Governor Barr speech, Sept. 23](https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm)
 - [Washington Post — Xi kicks off state visit to Washington](https://www.washingtonpost.com/politics/2026/09/23/trump-xi-arrival-washington-state-visit/dedf14ca-b703-11f1-94cb-d3d8f22a8c8b_story.html)
 - [NPR — Hurricane Polo](https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo)
-- [Forbes — Royal Caribbean and Sandals Resorts](https://www.forbes.com/sites/suzannerowankelleher/2026/09/23/royal-caribbean-3-billion-deal-sandals-resorts/)
-- Market data: [frankfurter API](https://api.frankfurter.app/) / Yahoo Finance / Minkabu
+- [PFL — Petroleum market report, Sept. 23](https://pflpetroleum.com/reports/petroleum-daily-report-9-23-2026/)
+- [Investing.com — New York FX market, Sept. 23](https://jp.investing.com/news/forex-news/article-1689753)
+- [Royal Caribbean — Sandals partnership announcement](https://www.rclinvestor.com/content/uploads/2026/09/09232026-Royal-Caribbean-Group-and-Sandals-Resorts-Announce-Landmark-Partnership-to-Accelerate-Their-Leading-Vacation-Experiences.pdf)
+- [Frankfurter API — USD/JPY on Sept. 23](https://api.frankfurter.app/2026-09-23?from=USD&to=JPY)
 
 </div>
 
