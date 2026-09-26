@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "トランプ氏がイランの「7日でホルムズ再開」案を拒否｜9月27日のニュースとお金"
+title: "トランプ氏、イランの「7日でホルムズ再開」案を拒否し交渉後退｜9月27日のニュースとお金"
 date: 2026-09-27 07:39:41 +0900
 categories: [ニュース, 経済]
-headline: "トランプ氏がイランの「7日でホルムズ再開」案を拒否"
+headline: "トランプ氏、イランの「7日でホルムズ再開」案を拒否し交渉後退"
 permalink: /2026/09/27/daily-briefing/
 ---
 
@@ -37,13 +37,13 @@ permalink: /2026/09/27/daily-briefing/
 
 ### アメリカ
 
-- **CNNを大統領専用機から外す**：ホワイトハウスは、トランプ大統領の土曜日の移動でCNNを大統領専用機（エアフォースワン）の同行取材から外す方針を示しました。報道の自由をめぐる対立の一環です（[Mike Simpsonのニュースまとめ](https://ru4people.substack.com/p/morning-news-update-september-26)）。
-- **最高裁、有権者の市民権チェックを当面容認**：連邦最高裁は、11月の中間選挙を前に、州が刷新された連邦の有権者資格データベースを使って市民権を確認することを、[当面認めました](https://ru4people.substack.com/p/morning-news-update-september-26)。
+- **CNNを大統領専用機から外す**：ホワイトハウスは、トランプ大統領の土曜日の移動でCNNを大統領専用機（エアフォースワン）の同行取材から外す方針を示しました。報道の自由をめぐる対立の一環です（[AP通信](https://www.local10.com/news/politics/2026/09/25/the-white-house-network-tv-pool-resumes-operations-after-a-dayslong-ban-of-news-outlets-from-grounds/)）。
+- **最高裁、有権者の市民権チェックを当面容認**：連邦最高裁は、11月の中間選挙を前に、州が刷新された連邦の有権者資格データベースを使って市民権を確認することを、[当面認めました](https://www.investing.com/news/politics-news/supreme-court-restores-trumps-mass-voter-verification-system-4917831)。
 
 ### ヨーロッパ
 
 - **ローマ教皇レオ14世がフランスを訪問**：教皇の国賓訪問は2008年以来18年ぶりです。25日にマクロン大統領がエリゼ宮で迎え、気候変動やAIが話題になりました（[エリゼ宮](https://www.elysee.fr/en/emmanuel-macron/2026/09/25/pope-leo-xivs-apostolic-journey-to-france)）。教皇は「機械の楽園」が人間性を損なうおそれがあると[警告しました](https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france)。両者の世界観の違いも[浮き彫りになりました](https://www.euronews.com/2026/09/25/emmanuel-macron-and-pope-leo-xiv-set-out-clashing-world-views-at-first-meeting-in-france)。
-- **ウクライナ、キーウの製薬工場に攻撃**：26日朝、ロシア軍がキーウの製薬会社「ダルニツァ」の工場を攻撃しました。プーチン大統領は、ウクライナとの協議再開に否定的な姿勢を見せています。
+- **ウクライナ、キーウの製薬工場に攻撃**：26日朝、ロシア軍がキーウの製薬会社「ダルニツァ」の工場を[再び攻撃しました](https://newsukraine.rbc.ua/news/russia-strikes-darnytsia-pharmaceutical-plant-1790409558.html)。同社によると、従業員にけがはありませんでした。
 
 ## 経済とお金の動き
 
@@ -53,13 +53,13 @@ permalink: /2026/09/27/daily-briefing/
 
 | 指標 | 値（9/25終値） | 前日比 | 週間の動き |
 |---|---|---|---|
-| NYダウ | [51,828.62ドル](https://finance.yahoo.com/quote/%5EDJI/history/) | <span class="chg-up">+478.64ドル（+0.93%）</span> | <span class="chg-up">+145.98ドル（+0.28%）</span> |
-| S&P500 | [7,743.41](https://finance.yahoo.com/quote/%5EGSPC/history/) | <span class="chg-up">+0.51%</span> | <span class="chg-up">+92.91（+1.21%）</span> |
-| ナスダック総合 | [27,068.72](https://finance.yahoo.com/quote/%5EIXIC/history/) | <span class="chg-up">+0.48%</span> | <span class="chg-up">+546.18（+2.06%）</span> |
+| NYダウ | [51,828.62ドル](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563) | <span class="chg-up">+478.64ドル（+0.93%）</span> | <span class="chg-up">+145.98ドル（+0.28%）</span> |
+| S&P500 | 7,743.41 | <span class="chg-up">+0.51%</span> | <span class="chg-up">+92.91（+1.21%）</span> |
+| ナスダック総合 | 27,068.72 | <span class="chg-up">+0.48%</span> | <span class="chg-up">+546.17（+2.06%）</span> |
 | 日経平均 | [66,364.20円](https://www.nikkei.com/article/DGXZQOFL250I60V20C26A9000000/) | <span class="chg-up">+850.21円（+1.30%）</span> | <span class="chg-up">+1,345.25円（+2.07%）</span> |
-| 米10年債利回り | [約5.18%](https://finance.yahoo.com/quote/%5ETNX/history/) | ほぼ横ばい | <span class="chg-up">18日から上昇</span> |
-| WTI原油 | [92.41ドル/バレル](https://finance.yahoo.com/quote/CL%3DF/history/) | <span class="chg-down">-2.33%</span> | <span class="chg-down">-7.89ドル（-7.87%）</span> |
-| ドル円（ECB基準） | [157.59円](https://api.frankfurter.app/latest?from=USD&to=JPY) | <span class="chg-down">-1.26円（円高方向）</span> | — |
+| 米10年債利回り | [5.16%](https://s.minkabu.jp/news/4623334) | ほぼ横ばい | <span class="chg-up">18日から上昇</span> |
+| WTI原油 | 92.41ドル/バレル | <span class="chg-down">-2.33%</span> | <span class="chg-down">-7.89ドル（-7.87%）</span> |
+| ドル円（ECB基準） | [157.59円](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY) | <span class="chg-down">-1.26円（円高方向）</span> | — |
 
 ※ドル円は欧州中央銀行（ECB）の9月25日基準レート。
 
@@ -67,7 +67,7 @@ permalink: /2026/09/27/daily-briefing/
 
 ### アメリカの経済
 
-米国では今週、10月2日（金）の[雇用統計](https://www.schaeffersresearch.com/content/news/2026/09/24/the-week-ahead-employment-report-pmi-data-kick-off-october)が最大の注目材料です。FRB（米国の中央銀行）は9月16日に[2023年以来の利上げ（政策金利3.75〜4.00%）に踏み切って](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)おり、雇用が強ければ追加の利上げ観測が高まり、株の重しになる可能性があります。金曜日は長期金利の急上昇に振り回された1週間を、[株高で締めくくりました](https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-25-134126022.html)。
+米国では今週、10月2日（金）の[雇用統計](https://www.bls.gov/cps/publications/release-calendar.htm)が最大の注目材料です。FRB（米国の中央銀行）は9月16日に[2023年以来の利上げ（政策金利3.75〜4.00%）に踏み切って](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)おり、雇用が強ければ追加の利上げ観測が高まり、株の重しになる可能性があります。金曜日は長期金利の急上昇に振り回された1週間を、[株高で締めくくりました](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563)。
 
 ### 日本の経済
 
@@ -94,18 +94,38 @@ permalink: /2026/09/27/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
+- [共同通信・臨時国会は10月5日召集へ](https://news.yahoo.co.jp/articles/7efa1d3b844300c7e75c311e3b416179ca217f28)
+- [tenki.jp・台風26号の進路](https://tenki.jp/forecaster/t_yoshida/2026/09/26/40754.html)
+- [時事通信・アジア大会](https://www.jiji.com/jc/article?k=2026092600316&g=spo)
 - [Washington Post・Trump rejects Iran's proposal to reopen Strait of Hormuz](https://www.washingtonpost.com/national-security/2026/09/26/trump-rejects-iran-proposal-reopen-strait-hormuz-restart-peace-talks/)
 - [CBS News・Iran War Updates: Trump rejects 7-day plan](https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/)
 - [Al Jazeera・Trump rejects Iran's seven-day roadmap](https://www.aljazeera.com/news/2026/9/26/trump-rejects-irans-seven-day-roadmap-to-reopen-strait-of-hormuz)
+- [Washington Institute・Gaza roadmap analysis](https://www.washingtoninstitute.org/policy-analysis/hamas-accepts-gaza-roadmap-political-breakthrough-implementation-uncertainty)
+- [AP通信・CNN left off Air Force One](https://www.local10.com/news/politics/2026/09/25/the-white-house-network-tv-pool-resumes-operations-after-a-dayslong-ban-of-news-outlets-from-grounds/)
+- [Reuters・最高裁が市民権確認制度を当面容認](https://www.investing.com/news/politics-news/supreme-court-restores-trumps-mass-voter-verification-system-4917831)
+- [RBC-Ukraine・ダルニツァ製薬工場への攻撃](https://newsukraine.rbc.ua/news/russia-strikes-darnytsia-pharmaceutical-plant-1790409558.html)
 - [NHK・臨時国会 10月5日召集へ](https://news.web.nhk/newsweb/na/nd-20260926de52518)
 - [ウェザーニュース・台風26号](https://weathernews.jp/news/202609/260241/)
 - [nippon.com・マラソン山下が金](https://www.nippon.com/ja/news/kd1476385411909124248/)
 - [日本経済新聞・日経平均は5日続伸](https://www.nikkei.com/article/DGXZQOFL250I60V20C26A9000000/)
+- [エリゼ宮・教皇レオ14世のフランス訪問](https://www.elysee.fr/en/emmanuel-macron/2026/09/25/pope-leo-xivs-apostolic-journey-to-france)
 - [NPR・Pope Leo warns a 'paradise of machines'](https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france)
+- [Euronews・Macron and Pope Leo XIV](https://www.euronews.com/2026/09/25/emmanuel-macron-and-pope-leo-xiv-set-out-clashing-world-views-at-first-meeting-in-france)
 - [Times of Israel・Liveblog September 26, 2026](https://www.timesofisrael.com/liveblog-september-26-2026/)
+- [SeattlePI / AP・米主要株価指数の9月25日終値](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563)
+- [みんかぶ・米10年債とWTIの9月25日終値](https://s.minkabu.jp/news/4623334)
+- [The Japan Times・ホルムズ海峡の段階的再開案](https://www.japantimes.co.jp/news/2026/09/25/world/politics/hormuz-phased-reopening/)
+- [米労働統計局・雇用統計公表予定](https://www.bls.gov/cps/publications/release-calendar.htm)
+- [FRB・2026年9月16日のFOMC声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- [マネックス証券・配当権利確定日スケジュール](https://info.monex.co.jp/stock/guide/record-date-schedule.html)
 - [三菱UFJリサーチ&コンサルティング・日銀短観（2026年9月調査）予測](https://www.murc.jp/library/economyresearch/forecast/tankan/tankan_est_260910/)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance（9月25日終値）ほか
+- [第一生命経済研究所・日銀短観予測](https://www.dlri.co.jp/report/macro/655048.html)
+- [財経新聞・9月25日の東京市場](https://www.zaikei.co.jp/article/20260925/871199.html)
+- [LIMO・アドバンテスト高値引け](https://limo.media/articles/-/140061)
+- [株探・銀行株上昇](https://kabutan.jp/news/marketnews/?b=n202609251042)
+- [CNBC・Akamai rises on Anthropic deal](https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-midday-akam-geni-ppli.html)
+- 市場データ: [Frankfurter API（9月25日）](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>
