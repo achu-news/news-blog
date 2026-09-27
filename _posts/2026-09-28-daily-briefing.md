@@ -38,7 +38,7 @@ permalink: /2026/09/28/daily-briefing/
 ### アメリカ
 
 - **北東部を強い「ノーイースター」が直撃**：大西洋沿岸を北上した強い低気圧で、27日朝には[13万件以上が停電](https://www.nbcnews.com/weather/storms/noreaster-flooding-death-toll-rcna600078)しました。ニューヨーク州ロングアイランドの東端では最大瞬間風速が約81マイル（約130キロ）に達し、ニューヨーク市では倒木で1人が亡くなっています。
-- **ハワイにハリケーン「ノロ」**：ハワイでは強風と鉄砲水への[緊急警報](https://ru4people.substack.com/p/morning-news-update-september-27)が出されました。
+- **ハワイにハリケーン「ノロ」**：ハワイ島では熱帯暴風雨警報とハリケーン注意報が発表され、ハワイ州観光局は大雨による洪水や土砂災害、高波への[警戒を呼びかけました](https://hta.hawaii.gov/alerts/hurricane-nolo-update/)。
 
 ### ヨーロッパ
 
@@ -55,12 +55,12 @@ permalink: /2026/09/28/daily-briefing/
 
 | 指標 | 値（9/25終値） | 前日比 |
 |---|---|---|
-| NYダウ | [51,828.62ドル](https://finance.yahoo.com/quote/%5EDJI/history/) | <span class="chg-up">+478.64ドル（+0.93%）</span> |
-| S&P500 | [7,743.41](https://finance.yahoo.com/quote/%5EGSPC/history/) | <span class="chg-up">+0.51%</span> |
-| ナスダック総合 | [27,068.72](https://finance.yahoo.com/quote/%5EIXIC/history/) | <span class="chg-up">+0.48%</span> |
+| NYダウ | [51,828.62ドル](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563) | <span class="chg-up">+478.64ドル（+0.93%）</span> |
+| S&P500 | 7,743.41 | <span class="chg-up">+0.51%</span> |
+| ナスダック総合 | 27,068.72 | <span class="chg-up">+0.48%</span> |
 | 日経平均 | [66,364.20円](https://www.nikkei.com/article/DGXZQOFL250I60V20C26A9000000/) | <span class="chg-up">+850.21円（+1.30%）</span> |
-| WTI原油 | [92.41ドル/バレル](https://finance.yahoo.com/quote/CL%3DF/history/) | <span class="chg-down">-2.33%</span> |
-| ドル円（ECB基準） | [157.59円](https://api.frankfurter.app/latest?from=USD&to=JPY) | 9月25日基準 |
+| WTI原油 | [92.41ドル/バレル](https://s.minkabu.jp/news/4623334) | <span class="chg-down">-2.33%</span> |
+| ドル円（ECB基準） | [157.59円](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY) | 9月25日基準 |
 
 ※ドル円は欧州中央銀行（ECB）の9月25日基準レート。
 
@@ -68,7 +68,7 @@ permalink: /2026/09/28/daily-briefing/
 
 ### アメリカの経済
 
-米国では長期金利が5%台に上がり、30年固定の住宅ローン金利は[約7%と高い水準](https://ru4people.substack.com/p/morning-news-update-september-27)です。今週は10月2日（金）の[雇用統計](https://www.schaeffersresearch.com/content/news/2026/09/24/the-week-ahead-employment-report-pmi-data-kick-off-october)が最大の注目材料。FRBは9月16日に[利上げに踏み切って](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)おり、雇用が強ければ追加利上げの観測が強まる可能性があります。
+米国では長期金利が5%台に上がり、30年固定の住宅ローン金利は9月24日時点で[7.03%](https://fred.stlouisfed.org/series/MORTGAGE30US)です。今週は10月2日（金）の[雇用統計](https://www.bls.gov/cps/publications/release-calendar.htm)が最大の注目材料。FRBは9月16日に[利上げに踏み切って](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)おり、雇用が強ければ追加利上げの観測が強まる可能性があります。
 
 ### 日本の経済
 
@@ -96,14 +96,31 @@ permalink: /2026/09/28/daily-briefing/
 - [CBS News・Trump expects talks with Iran to resume this week](https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/)
 - [Bloomberg・Iran Says Won't Soften Demands After Trump Rejects Hormuz Offer](https://www.bloomberg.com/news/articles/2026-09-27/iran-says-won-t-soften-demands-after-trump-rejects-hormuz-offer)
 - [Yahoo!ニュース（聯合ニュース）・韓国が日本破り5大会連続の金メダル](https://news.yahoo.co.jp/articles/266e1318b7403867ee12be8b98119589ee2bcee8)
+- [Yahoo!ニュース・侍ジャパンは韓国に敗れ銀メダル](https://news.yahoo.co.jp/articles/f37a527a4fe3e475ae390ea67e5c9b6e3e415597)
 - [NHK・陸上女子やり投げ 北口榛花が銀 武本紗栄が銅](https://news.web.nhk/newsweb/na/nd-20260927de52743)
+- [Yahoo!ニュース・北口榛花が銀メダル](https://news.yahoo.co.jp/articles/80b0ab1c0a0f29e105a94c705906bbb1d0c3b4f9)
 - [tenki.jp・台風26号 非常に強い勢力で沖縄地方へ接近](https://tenki.jp/forecaster/t_fujikawa/2026/09/27/40770.html)
+- [ウェザーニュース・台風26号](https://weathernews.jp/news/202609/270271/)
 - [NBC News・Nor'easter leaves over 130,000 without power](https://www.nbcnews.com/weather/storms/noreaster-flooding-death-toll-rcna600078)
+- [ハワイ州観光局・Hurricane Nolo Update](https://hta.hawaii.gov/alerts/hurricane-nolo-update/)
 - [Gloucestershire Constabulary・Whelford arrests](https://www.gloucestershire.police.uk/news/gloucestershire/2026/september/counter-terrorism-policing-leading-investigation-following-whelford-arrests/)
+- [ITV News・RAF Fairford investigation](https://www.itv.com/news/2026-09-27/major-incident-declared-near-raf-fairford-as-residents-evacuated)
+- [AP通信・ローマ教皇がルルドでミサ](https://www.clickorlando.com/news/world/2026/09/27/pope-brings-message-to-protect-life-to-french-shrine-at-lourdes-known-for-miraculous-cures/)
 - [World Athletics・Assefa and Adola win Berlin Marathon](https://worldathletics.org/news/report/assefa-adola-berlin-marathon-2026)
+- [Reuters・ロシアの攻撃でウクライナ3人死亡](https://www.usnews.com/news/world/articles/2026-09-27/russian-attacks-kills-three-in-ukrainian-cities-strikes-hit-kyiv-districts-officials-say)
 - [日本経済新聞・日経平均は5日続伸](https://www.nikkei.com/article/DGXZQOFL250I60V20C26A9000000/)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance（9月25日終値）ほか
+- [SeattlePI / AP・米主要株価指数の9月25日終値](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563)
+- [みんかぶ・WTIの9月25日終値](https://s.minkabu.jp/news/4623334)
+- [FRED・米30年固定住宅ローン金利](https://fred.stlouisfed.org/series/MORTGAGE30US)
+- [米労働統計局・雇用統計公表予定](https://www.bls.gov/cps/publications/release-calendar.htm)
+- [FRB・2026年9月16日のFOMC声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- [Yahoo Finance・Trump rejects Iran proposal後の原油](https://finance.yahoo.com/markets/article/oil-prices-tick-up-after-trump-rejects-iran-proposal-hormuz-traffic-remains-at-a-standstill-151426350.html)
+- [マネックス証券・配当権利確定日スケジュール](https://info.monex.co.jp/stock/guide/record-date-schedule.html)
+- [三菱UFJリサーチ&コンサルティング・日銀短観予測](https://www.murc.jp/library/economyresearch/forecast/tankan/tankan_est_260910/)
+- [株探・銀行株上昇](https://kabutan.jp/news/marketnews/?b=n202609251042)
+- [財経新聞・9月25日の東京市場](https://www.zaikei.co.jp/article/20260925/871199.html)
+- 市場データ: [Frankfurter API（9月25日）](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>

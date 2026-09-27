@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-title: "Iran says it is ready for war as Trump eyes talks this week — September 28, 2026"
+title: "Iran ready for war, but Trump expects talks — September 28, 2026"
 date: 2026-09-28 07:41:45 +0900
-headline: "Iran says it is ready for war as Trump eyes talks this week"
+headline: "Iran ready for war, but Trump expects talks"
 permalink: /2026/09/28/daily-briefing/
 ---
 
@@ -16,7 +16,7 @@ permalink: /2026/09/28/daily-briefing/
   *Why it matters:* Coastal flooding and outages could linger another day as the slow storm loops offshore.
 - **Five arrested near U.S.-used air base in England.** UK police arrested five men near RAF Fairford on suspicion of explosives offenses and [preparing a terrorist act](https://www.gloucestershire.police.uk/news/gloucestershire/2026/september/counter-terrorism-policing-leading-investigation-following-whelford-arrests/). The base has hosted U.S. bombers for operations against Iran; investigators are [examining any Iran link](https://www.itv.com/news/2026-09-27/major-incident-declared-near-raf-fairford-as-residents-evacuated), which is not confirmed.
   *Why it matters:* It raises the risk that the Iran conflict spills into allied territory.
-- **Hurricane Nolo threatens Hawaii.** Emergency alerts were issued for [high winds and flash flooding](https://ru4people.substack.com/p/morning-news-update-september-27).
+- **Hurricane Nolo threatens Hawaii.** A tropical storm warning and hurricane watch were issued for Hawaii Island, with officials warning of [flooding, mudslides and damaging surf](https://hta.hawaii.gov/alerts/hurricane-nolo-update/).
 
 ## Compass Insight
 
@@ -24,7 +24,7 @@ The weekend's message: tough words in public, bargaining in private. Both Washin
 
 ## Markets
 
-Figures are Friday, Sept. 25 closes. The [Dow](https://finance.yahoo.com/quote/%5EDJI/history/) rose 0.93% to 51,828.62, the [S&P 500](https://finance.yahoo.com/quote/%5EGSPC/history/) gained 0.51% to 7,743.41 and the [Nasdaq](https://finance.yahoo.com/quote/%5EIXIC/history/) added 0.48% to 27,068.72. [WTI crude](https://finance.yahoo.com/quote/CL%3DF/history/) fell 2.33% to $92.41 a barrel, and the dollar was at [157.59 yen](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference rate). The 30-year mortgage rate sits near [7%](https://ru4people.substack.com/p/morning-news-update-september-27). This week's key data is the [September jobs report](https://www.schaeffersresearch.com/content/news/2026/09/24/the-week-ahead-employment-report-pmi-data-kick-off-october) on Oct. 2.
+Figures are Friday, Sept. 25 closes. The [Dow](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563) rose 0.93% to 51,828.62, the S&P 500 gained 0.51% to 7,743.41 and the Nasdaq added 0.48% to 27,068.72. [WTI crude](https://s.minkabu.jp/news/4623334) fell 2.33% to $92.41 a barrel, and the dollar was at [157.59 yen](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY) (ECB reference rate). The average 30-year fixed mortgage rate was [7.03%](https://fred.stlouisfed.org/series/MORTGAGE30US) on Sept. 24. This week's key data is the [September jobs report](https://www.bls.gov/cps/publications/release-calendar.htm) on Oct. 2.
 
 ## Stocks in Focus
 
@@ -39,10 +39,15 @@ Figures are Friday, Sept. 25 closes. The [Dow](https://finance.yahoo.com/quote/%
 - [NBC News — Iran 'fully prepared' for war to resume](https://www.nbcnews.com/world/iran/iran-fully-prepared-war-resume-foreign-minister-rcna600059)
 - [Bloomberg — Iran won't soften demands](https://www.bloomberg.com/news/articles/2026-09-27/iran-says-won-t-soften-demands-after-trump-rejects-hormuz-offer)
 - [NBC News — Nor'easter leaves over 130,000 without power](https://www.nbcnews.com/weather/storms/noreaster-flooding-death-toll-rcna600078)
+- [Hawaii Tourism Authority — Hurricane Nolo update](https://hta.hawaii.gov/alerts/hurricane-nolo-update/)
 - [Gloucestershire Constabulary — Whelford arrests](https://www.gloucestershire.police.uk/news/gloucestershire/2026/september/counter-terrorism-policing-leading-investigation-following-whelford-arrests/)
 - [ITV News — RAF Fairford probe and Iran link](https://www.itv.com/news/2026-09-27/major-incident-declared-near-raf-fairford-as-residents-evacuated)
 - [Yahoo Finance — Oil prices tick up after Trump rejects Iran proposal](https://finance.yahoo.com/markets/article/oil-prices-tick-up-after-trump-rejects-iran-proposal-hormuz-traffic-remains-at-a-standstill-151426350.html)
-- Market data: [frankfurter API](https://api.frankfurter.app/) / Yahoo Finance (Sept. 25 close)
+- [SeattlePI / AP — Major U.S. stock indexes, September 25](https://www.seattlepi.com/business/how-major-us-stock-indexes-fared-friday-9-25-2026-a22449563)
+- [Minkabu — WTI close, September 25](https://s.minkabu.jp/news/4623334)
+- [FRED — 30-year fixed mortgage average](https://fred.stlouisfed.org/series/MORTGAGE30US)
+- [U.S. Bureau of Labor Statistics — Employment Situation release calendar](https://www.bls.gov/cps/publications/release-calendar.htm)
+- Market data: [Frankfurter API (September 25)](https://api.frankfurter.app/2026-09-25?from=USD&to=JPY)
 
 </div>
 
