@@ -31,13 +31,13 @@ permalink: /2026/09/30/daily-briefing/
 ### 世界
 
 - **米国とイランが間接協議**：イランのアラグチ外相はニューヨークでカタールの仲介役と会い、米国と間接的な協議を行いました。イラン側の案は、戦闘の終結や米国による海上封鎖の解除などと引き換えに、ホルムズ海峡を[7日以内に段階的に再開する](https://www.democracynow.org/2026/9/29/headlines/us_and_iran_hold_indirect_talks_on_deal_to_end_fighting_lift_sanctions_and_reopen_hormuz)という内容です。トランプ大統領は先に同様の案を退けており、米国の正式な回答が焦点です（[Al Jazeera](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest)）。
-- **OpenAIが新モデルの公開を見送り**：OpenAIは10月に予定していた新モデル「GPT-6.1 Astra」について、社内の安全性テストで基準を満たさなかったとして[公開を取りやめました](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns)。
+- **OpenAIが新モデルの公開を見送り**：OpenAIは10月に予定していた新モデル「GPT-6.1 Astra」について、社内の安全性テストで基準を満たさなかったとして[公開を取りやめました](https://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5)。
 
 ### アメリカ
 
-- **消費者の景況感が12年ぶりの低さ**：米民間調査機関コンファレンス・ボードの9月の消費者信頼感指数は[81.9](https://finance.yahoo.com/economy/articles/u-consumer-confidence-hits-12-172408068.html)と前月から6.7ポイント下がり、2014年以来の低水準になりました。物価と雇用への不安が理由とされています。
+- **消費者の景況感が12年ぶりの低さ**：米民間調査機関コンファレンス・ボードの9月の消費者信頼感指数は[81.9](https://apnews.com/article/b9429c6d4f025d00e6283bfde4e0197d)と前月から6.7ポイント下がり、2014年以来の低水準になりました。物価と雇用への不安が理由とされています。
 - **アンソロピックの上場計画が明らかに**：AI企業アンソロピックの新規株式公開（IPO）に向けた目論見書の内容が報じられ、[2兆ドル超の企業価値](https://finance.yahoo.com/technology/ai/articles/anthropic-prospectus-shows-2-trln-003900400.html)を目指していることがわかりました。目論見書ではAIが人類にもたらしうるリスクについても多くのページを割いています（[TechCrunch](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)）。
-- **燃費規制を大幅に緩和**：トランプ政権は自動車の燃費基準を見直し、バイデン前政権が掲げた2031年までの目標を大きく引き下げる新ルールを出しました（[Democracy Now!](https://www.democracynow.org/2026/9/29/headlines)）。
+- **燃費規制を大幅に緩和**：トランプ政権は自動車の燃費基準を見直し、2031年の業界平均を従来想定の50.4mpgから34.9mpgへ引き下げる[新ルールを公表しました](https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-finalize-freedom-means-affordable-cars)。
 
 ### ヨーロッパ
 
@@ -51,13 +51,13 @@ permalink: /2026/09/30/daily-briefing/
 |---|---|---|
 | 日経平均株価（9/29終値） | [65,481.27円](https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/) | <span class="chg-down">-396.35円（-0.60%）</span> |
 | TOPIX（9/29終値） | [4,041.13](https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/) | <span class="chg-down">-70.87（-1.72%）</span> |
-| NYダウ（9/29終値） | [51,349.92ドル](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html) | <span class="chg-down">-131.59ドル（-0.26%）</span> |
-| S&P500（9/29終値） | [7,670.84](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html) | <span class="chg-down">-12.85（-0.17%）</span> |
-| ナスダック総合（9/29終値） | [26,797.54](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html) | <span class="chg-down">-22.84（-0.09%）</span> |
+| NYダウ（9/29終値） | [51,349.92ドル](https://apnews.com/article/69778ade7a033a10cb44b9078b6bb15d) | <span class="chg-down">-131.59ドル（-0.26%）</span> |
+| S&P500（9/29終値） | 7,670.84 | <span class="chg-down">-12.85（-0.17%）</span> |
+| ナスダック総合（9/29終値） | 26,797.54 | <span class="chg-down">-22.84（-0.09%）</span> |
 | WTI原油（9/29清算値） | [89.38ドル/バレル](https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/) | <span class="chg-down">-3.5%</span> |
 | 北海ブレント（9/29清算値） | [102.59ドル/バレル](https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/) | <span class="chg-down">-2.6%</span> |
 | 米30年債利回り | [5.6%台](https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html) | <span class="chg-up">上昇（2002年以来の高水準）</span> |
-| ドル円（ECB参照、9/29基準） | [157.12円](https://api.frankfurter.app/latest?from=USD&to=JPY) | — |
+| ドル円（ECB参照、9/29基準） | [157.12円](https://api.frankfurter.app/2026-09-29?from=USD&to=JPY) | — |
 
 ※Yahoo Finance APIがアクセス制限で取得できなかったため、指数・原油は報道各社の終値を確認して記載しています。
 
@@ -65,9 +65,9 @@ permalink: /2026/09/30/daily-briefing/
 
 ### アメリカの経済
 
-米国株は3指数そろって2日続けて下げましたが、下げ幅は小さめでした。主役は債券市場で、30年債利回りは6日続けて上がり、[2002年以来の水準](https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html)に達しました。10年債利回りも[5.26%](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html)と高止まりしています。
+米国株は3指数そろって2日続けて下げましたが、下げ幅は小さめでした。主役は債券市場で、30年債利回りは6日続けて上がり、[2002年以来の水準](https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html)に達しました。10年債利回りも[5.25%](https://apnews.com/article/269abea6fd8ea7f314a8c34152788e0c)と高止まりしています。
 
-背景には、FRB（米連邦準備制度理事会）が9月16日に政策金利を[3.75〜4.00%へ引き上げ](https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html)た後も物価の粘り強さが続いていることがあります。一方で消費者信頼感は12年ぶりの低さで、8月の求人件数も[709.7万件](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html)と市場予想を下回りました。「物価は高いのに景気の勢いは落ちている」という、中央銀行にとって難しい状況が浮かびます。10月2日の雇用統計が次の大きな材料です。
+背景には、FRB（米連邦準備制度理事会）が9月16日に政策金利を[3.75〜4.00%へ引き上げ](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)た後も物価の粘り強さが続いていることがあります。一方で消費者信頼感は12年ぶりの低さで、8月の求人件数も[707.9万件](https://www.bls.gov/news.release/jolts.nr0.htm)と市場予想を下回りました。「物価は高いのに景気の勢いは落ちている」という、中央銀行にとって難しい状況が浮かびます。10月2日の雇用統計が次の大きな材料です。
 
 ### 日本の経済
 
@@ -94,18 +94,30 @@ permalink: /2026/09/30/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [Yahoo Finance・Stock market today: Dow, S&P 500, Nasdaq wobble as 30-year Treasury yield...](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html)
+- [AP通信・9月29日の米主要株価指数](https://apnews.com/article/69778ade7a033a10cb44b9078b6bb15d)
+- [AP通信・米国株と10年債利回り](https://apnews.com/article/269abea6fd8ea7f314a8c34152788e0c)
 - [CNBC・30-year Treasury bond yield scales to highest level since 2002](https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html)
-- [Yahoo Finance・U.S. consumer confidence hits 12-year low in September 2026](https://finance.yahoo.com/economy/articles/u-consumer-confidence-hits-12-172408068.html)
+- [AP通信・米消費者信頼感は12年ぶり低水準](https://apnews.com/article/b9429c6d4f025d00e6283bfde4e0197d)
 - [Rigzone・Oil Slides on Saudi Supply Relief](https://www.rigzone.com/news/wire/oil_slides_on_saudi_supply_relief-29-sep-2026-184732-article/)
 - [日本経済新聞・東証大引け 日経平均は続落](https://www.nikkei.com/article/DGXZQOFL294ND0Z20C26A9000000/)
+- [デイリースポーツ・山口茜が銀メダル](https://www.daily.co.jp/general/2026/09/29/0020873367.shtml)
+- [Bloomberg・ニデック株がストップ安](https://www.bloomberg.com/jp/news/articles/2026-09-28/TM1R14KJH6V400)
 - [Democracy Now!・U.S. and Iran Hold Indirect Talks](https://www.democracynow.org/2026/9/29/headlines/us_and_iran_hold_indirect_talks_on_deal_to_end_fighting_lift_sanctions_and_reopen_hormuz)
+- [Al Jazeera・U.S.-Iran talks in New York](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest)
 - [Yahoo Finance・Anthropic prospectus shows $2T IPO ambition](https://finance.yahoo.com/technology/ai/articles/anthropic-prospectus-shows-2-trln-003900400.html)
-- [Al Jazeera・OpenAI scraps release of latest AI model over safety concerns](https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns)
+- [TechCrunch・Anthropic prospectus details](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/)
+- [AP通信・OpenAI delays latest model over security concerns](https://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5)
+- [米運輸省・2031年までの燃費基準](https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-finalize-freedom-means-affordable-cars)
+- [FRB・2026年9月16日のFOMC声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- [米労働統計局・2026年8月JOLTS](https://www.bls.gov/news.release/jolts.nr0.htm)
 - [Al Jazeera・UK's Burnham promises huge expansion of public services](https://www.aljazeera.com/news/2026/9/29/new-path-uks-burnham-promises-huge-expansion-of-public-services)
+- [ABC・Key takeaways from Burnham's Labour conference speech](https://www.abc.net.au/news/2026-09-30/key-takeaways-from-uk-pm-andy-burnham-labour-conference-speech/107205962)
 - [日本経済新聞・東京大学学長に藤垣裕子氏選出](https://www.nikkei.com/article/DGXZQOUD289SK0Y6A920C2000000/)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ 各社報道
+- [デイリースポーツ・9月29日のドル円](https://www.daily.co.jp/society/economics/2026/09/29/0020873809.shtml)
+- [日本経済新聞・ソフトバンクグループ株](https://www.nikkei.com/article/DGXZQOFL290KT0Z20C26A9000000/)
+- [24/7 Wall St.・Arm shares fall](https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/)
+- 市場データ: [Frankfurter API（9月29日）](https://api.frankfurter.app/2026-09-29?from=USD&to=JPY) ／ 各社報道
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>
