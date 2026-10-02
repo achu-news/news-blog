@@ -30,13 +30,13 @@ permalink: /2026/10/03/daily-briefing/
 
 ### 世界
 
-- **G7が最大1億バレルの石油備蓄放出で合意**：国際エネルギー機関（IEA）の調整のもと、4か月かけて放出し、最初の20日間で軽油を重点的に出します。米国が欧州に強く求めていたもので、トランプ大統領は「欧州が大量の軽油放出に合意した」と成果を強調しました（[Al Jazeera](https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile)／[UPI](https://www.upi.com/Top_News/World-News/2026/10/02/g7-diesel-crude-oil-reserve-release-fuel-prices/7111790963774)）。
+- **G7が1億バレルの石油備蓄放出で合意**：国際エネルギー機関（IEA）の調整のもと、4か月かけて放出し、最初の20日間で軽油を重点的に出します。米国が欧州に強く求めていたもので、トランプ大統領は「欧州が大量の軽油放出に合意した」と成果を強調しました（[G7首脳声明](https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability/)／[AP](https://apnews.com/article/774a360d1646d9ce8aba764fdd9959d2)）。
 - **ブラジル大統領選、4日に第1回投票**：4期目をめざすルラ大統領と、ボルソナロ元大統領の長男フラビオ・ボルソナロ上院議員が争います。過半数を取る候補がいなければ[10月25日に決選投票](https://as-coa.org/articles/poll-tracker-brazils-2026-presidential-election)となります。
 
 ### アメリカ
 
-- **9月の雇用は2万9,000人増にとどまる**：予想を大きく下回り、[失業率は4.1%から4.2%へ上昇](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html)しました。中間選挙を前に、景気の減速を示す内容です。
-- **中東へ3隻目の空母打撃群を派遣**：国防総省は空母打撃群と最大1万人の兵員を中東へ追加派遣し、11月末までにイラン近くに展開する予定です。トランプ大統領は米誌のインタビューで、中間選挙後のイランへの大規模攻撃再開も「あり得る」と述べました（[Democracy Now!](https://www.democracynow.org/2026/10/2/headlines)）。
+- **9月の雇用は2万9,000人増にとどまる**：[米労働省の雇用統計](https://www.bls.gov/news.release/archives/empsit_10022026.htm)によると、非農業部門の雇用者数は前月比2万9,000人増にとどまり、失業率は4.1%から4.2%へ上昇しました。中間選挙を前に、景気の減速を示す内容です。
+- **中東へ3隻目の空母打撃群を派遣**：米軍は空母打撃群などに乗る約9,000人を中東へ追加派遣し、早ければ10月末に空母3隻が展開する可能性があります。トランプ大統領は米誌のインタビューで、中間選挙後のイランへの大規模攻撃再開も「あり得る」と述べました（[AP](https://apnews.com/article/42c23e9af0333f4bc3b4f419cc3a603e)）。
 
 ### ヨーロッパ
 
@@ -50,12 +50,12 @@ permalink: /2026/10/03/daily-briefing/
 | 指標 | 値（10月2日終値） | 前日比 |
 |---|---|---|
 | 日経平均株価 | [68,309.46円](https://kabutan.jp/news/marketnews/?b=n202610020940) | <span class="chg-down">-647.26円（-0.94%）</span> |
-| NYダウ | [51,176.96ドル](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html) | <span class="chg-up">+250.40ドル（+0.49%）</span> |
-| S&P500 | [7,722.72](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html) | <span class="chg-up">+56.27（+0.73%）</span> |
-| ナスダック総合 | [27,190.86](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html) | <span class="chg-up">+319.27（+1.19%）</span> |
+| NYダウ | [51,176.96ドル](https://apnews.com/article/48e9066481cba91a5d7c6688aa74a5cd) | <span class="chg-up">+250.40ドル（+0.49%）</span> |
+| S&P500 | [7,722.72](https://apnews.com/article/48e9066481cba91a5d7c6688aa74a5cd) | <span class="chg-up">+56.27（+0.73%）</span> |
+| ナスダック総合 | [27,190.86](https://apnews.com/article/48e9066481cba91a5d7c6688aa74a5cd) | <span class="chg-up">+319.27（+1.19%）</span> |
 | WTI原油 | [91.11ドル/バレル](https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/) | <span class="chg-down">-1.76ドル（-1.90%）</span> |
 | 北海ブレント原油 | [102.25ドル/バレル](https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/) | <span class="chg-down">-0.06ドル（-0.06%）</span> |
-| ドル円 | [157.67円](https://api.frankfurter.app/latest?from=USD&to=JPY) | ECB参照レート（10月2日基準） |
+| ドル円 | [157.67円](https://api.frankfurter.app/2026-10-02?from=USD&to=JPY) | ECB参照レート（10月2日基準） |
 
 *株価・原油は10月2日（現地）終値。ドル円はfrankfurter API（ECB参照レート、10月2日基準）。*
 
@@ -71,7 +71,7 @@ permalink: /2026/10/03/daily-briefing/
 
 ## 今日の注目銘柄・セクター
 
-- **エヌビディア（半導体・AI）**：利上げ観測の後退でハイテク株に買いが集まり、株価は2%超上昇して[取引時間中の最高値を更新](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html)しました。ナスダックの上昇をけん引しています。
+- **エヌビディア（半導体・AI）**：利上げ観測の後退でハイテク株に買いが集まり、株価は2%超上昇して[取引時間中の最高値を更新](https://finance.yahoo.com/technology/article/nvidia-stock-hits-new-all-time-high-market-cap-at-57-trillion-141332917.html)しました。ナスダックの上昇をけん引しています。
 - **ナイキ（スポーツ用品）**：1日発表の6〜8月期決算で売上高が予想に届かず、中華圏の売上高は26%減。通期は売上高の減少を見込み、リストラ計画も発表したことから、[株価が大きく下落](https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html)しました。
 - **非鉄金属・鉱業（日本株）**：日経平均が647円安となる中でも、原油高を背景に[非鉄・鉱業株は上昇](https://tbladvisory.com/20261002nk/)し、資源関連の強さが目立ちました。
 
@@ -88,17 +88,29 @@ permalink: /2026/10/03/daily-briefing/
 
 **出典：**
 - [Yahoo Finance・Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html)
+- [米労働省労働統計局・The Employment Situation — September 2026](https://www.bls.gov/news.release/archives/empsit_10022026.htm)
+- [AP・How major U.S. stock indexes fared Friday](https://apnews.com/article/48e9066481cba91a5d7c6688aa74a5cd)
+- [G7首脳声明・Global Energy Security and Market Stability](https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability/)
+- [AP・G7 nations will release 100 million barrels](https://apnews.com/article/774a360d1646d9ce8aba764fdd9959d2)
+- [AP・U.S. troops are heading to the Middle East](https://apnews.com/article/42c23e9af0333f4bc3b4f419cc3a603e)
 - [CNBC・10-year Treasury yield ticks higher despite weaker-than-expected jobs report](https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html)
 - [日本経済新聞・日経平均終値647円安、投資家「リスクオン」なりきれず](https://www.nikkei.com/article/DGXZQOUB01965TR01C26A0000000/)
 - [株探・日経平均 大引け 3日ぶり反落（10月2日）](https://kabutan.jp/news/marketnews/?b=n202610020940)
 - [NHK・臨時国会 消費税減税法案など21の法案提出予定](https://news.web.nhk/newsweb/na/nd-20261001de53589)
-- [Al Jazeera・G7 to release 100m oil barrels as Trump hails Europe diesel deal](https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile)
+- [NHK・臨時国会を前に与野党が審議方針](https://news.web.nhk/newsweb/na/nd-20261002de53872)
+- [時事ドットコム・臨時国会を10月5日に召集](https://www.jiji.com/jc/article?k=2026091800485&g=pol)
+- [NHK・内閣改造後初の復興推進会議](https://news.web.nhk/newsweb/na/nd-20261002de53873)
 - [EnergyNow・Oil Ends Volatile Week Mixed as Emergency Reserve Release Knocks WTI Lower](https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/)
 - [Eurostat・Euro area annual inflation up to 3.8%](https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-02102026-ap)
+- [AS/COA・Brazil's 2026 presidential election](https://as-coa.org/articles/poll-tracker-brazils-2026-presidential-election)
+- [Euronews・Eurozone inflation rises to 3.8%](https://www.euronews.com/2026/10/02/eurozone-inflation-spikes-to-38-is-your-country-on-the-worst-list)
+- [Xinhua・France–Germany bond yield spread widens](https://english.news.cn/europe/20261002/16ea076a6aa14130a35e2e2b7e13c999/c.html)
+- [Yahoo Finance・European shares rebound](https://finance.yahoo.com/markets/world-indices/articles/european-shares-edge-higher-bonds-073730293.html)
 - [CNBC・Nike shares drop as retailer posts disappointing sales](https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html)
-- [Democracy Now!・Headlines for October 02, 2026](https://www.democracynow.org/2026/10/2/headlines)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- [Yahoo Finance・Nvidia stock hits a new intraday high](https://finance.yahoo.com/technology/article/nvidia-stock-hits-new-all-time-high-market-cap-at-57-trillion-141332917.html)
+- [TBL Advisory・10月2日の日本株市場](https://tbladvisory.com/20261002nk/)
+- 市場データ: [frankfurter API（2026年10月2日）](https://api.frankfurter.app/2026-10-02?from=USD&to=JPY) ／ Yahoo Finance ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>
