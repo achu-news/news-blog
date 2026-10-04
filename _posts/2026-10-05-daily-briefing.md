@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "ブラジル大統領選は決選投票へ、ボルソナロ氏が首位｜10月5日のニュースとお金"
+title: "ブラジル大統領選は25日決選投票へ、ボルソナロ氏が開票で首位｜10月5日のニュースとお金"
 date: 2026-10-05 07:43:22 +0900
 categories: [ニュース, 経済]
-headline: "ブラジル大統領選は決選投票へ、ボルソナロ氏が首位"
+headline: "ブラジル大統領選は25日決選投票へ、ボルソナロ氏が開票で首位"
 permalink: /2026/10/05/daily-briefing/
 ---
 
@@ -30,13 +30,13 @@ permalink: /2026/10/05/daily-briefing/
 
 ### 世界
 
-- **ブラジル大統領選、決選投票へ**：開票が約65%進んだ時点で、フラビオ・ボルソナロ氏が有効票の49.58%、ルラ大統領が42.25%となり、どちらも当選に必要な過半数に届きませんでした（[Wikipedia：2026 Brazilian general election](https://en.wikipedia.org/wiki/2026_Brazilian_general_election)）。決選投票は10月25日に行われます（[Latin Times](https://www.latintimes.com/live-lula-vs-flavio-bolsonaro-what-tonights-first-round-results-brazil-could-mean-oct-25-599811)）。開票序盤はボルソナロ氏の地盤である南部の集計が早く、ルラ氏が強い北東部の集計は遅れる傾向があったため、最終的な差はこれより縮む可能性があります（[Rio Times](https://www.riotimesonline.com/brazil-election-first-round-results-lula-flavio-2026)）。
-- **ホルムズ海峡周辺、週末もタンカー被弾**：オマーンとイラン近海で週末に少なくとも2隻が被弾しました。イランのガリバフ国会議長は、米国の「侵略行為」の停止、港湾の海上封鎖の解除、凍結資産の返還といった条件が満たされない限り、ホルムズ海峡は再開しないと述べています（[CNBC](https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html)）。米国は3隻目の空母打撃群と海兵隊2,000人を中東へ向かわせています（[Northeast Times](https://northeasttimes.com/2026/10/01/u-s-sends-carrier-group-and-2-000-marines-toward-middle-east-as-tanker-is-hit/)）。
+- **ブラジル大統領選、決選投票へ**：ブラジル最高選挙裁判所（TSE）の集計で、開票が64.81%進んだ時点の有効票はフラビオ・ボルソナロ氏49.58%、ルラ大統領42.25%でした（[TSE公式結果](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados)）。いずれも過半数に届かず、選挙結果の予測は10月25日の決選投票にもつれこむ見通しを示しています（[Reuters](https://www.devdiscourse.com/article/international/3986771-brazil-election-headed-to-runoff-projection-shows-as-bolsonaro-lead-narrows)）。数値は日本時間5日午前7時50分時点でTSEが公表している途中集計です。
+- **ホルムズ海峡周辺、週末もタンカー被弾**：オマーンとイラン近海で週末に少なくとも2隻が被弾しました。イランのガリバフ国会議長は、米国の「侵略行為」の停止、港湾の海上封鎖の解除、凍結資産の返還といった条件が満たされない限り、ホルムズ海峡は再開しないと述べています（[AP](https://apnews.com/article/a37b24d446b3066d3b17441ac5bb0264)）。米国は空母を含む艦隊に約9,000人を乗せて中東へ向かわせており、10月下旬までに空母3隻が展開する可能性があります（[AP](https://apnews.com/article/42c23e9af0333f4bc3b4f419cc3a603e)）。
 
 ### アメリカ
 
 - **最高裁がきょう新会期入り、初日は気候変動訴訟**：連邦最高裁は5日、コロラド州ボルダー郡などが石油大手サンコアを訴えた気候変動訴訟の口頭弁論で新会期を始めます。会期中には銃規制、信教の自由、選挙法などの重要案件も控えています（[米最高裁 10月の弁論日程](https://www.supremecourt.gov/oral_arguments/argument_calendars/MonthlyArgumentCalOctober2026.pdf)／[Federalist Society](https://fedsoc.org/events/supreme-court-preview-what-is-in-store-for-october-term-2026)）。
-- **雇用の伸びが鈍化、利上げ観測が後退**：2日発表の9月雇用統計では、非農業部門の雇用者数が2万9,000人増にとどまり、失業率は4.2%に上がりました。これで近い時期の利上げ観測が弱まった一方、10年国債利回りは5.28%と高止まりしています（[Vista Partners](https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/)）。
+- **雇用の伸びが鈍化、利上げ観測が後退**：2日発表の9月雇用統計では、非農業部門の雇用者数が2万9,000人増にとどまり、失業率は4.2%に上がりました（[米労働統計局](https://www.bls.gov/news.release/archives/empsit_10022026.htm)）。これで近い時期の利上げ観測が弱まった一方、10年国債利回りは5.28%と高止まりしています（[AP](https://apnews.com/article/a2b99562febc21d84955e243c87f5d31)）。
 
 ### ヨーロッパ
 
@@ -54,16 +54,16 @@ permalink: /2026/10/05/daily-briefing/
 | 日経平均株価（10/2） | [68,309.46円](https://kabutan.jp/news/marketnews/?b=n202610020940) | <span class="chg-down">-647.26円（-0.94%）</span> |
 | NYダウ（10/2） | [51,176.96ドル](https://finance.yahoo.com/quote/%5EDJI/) | <span class="chg-up">+250.40ドル（+0.49%）</span> |
 | S&P500（10/2） | [7,722.72](https://finance.yahoo.com/quote/%5EGSPC/) | <span class="chg-up">+56.27（+0.73%）</span> |
-| ナスダック総合（10/2） | [27,190.86](https://finance.yahoo.com/quote/%5EIXIC/) | <span class="chg-up">+319.26（+1.19%）</span> |
+| ナスダック総合（10/2） | [27,190.86](https://finance.yahoo.com/quote/%5EIXIC/) | <span class="chg-up">+319.27（+1.19%）</span> |
 | WTI原油（10/5朝） | [91.31ドル/バレル](https://finance.yahoo.com/quote/CL=F/) | <span class="chg-up">+0.20ドル</span> |
 | 北海ブレント原油（10/5朝） | [102.95ドル/バレル](https://finance.yahoo.com/quote/BZ=F/) | <span class="chg-up">+0.70ドル</span> |
-| ドル円（ECB参照値、10/2） | [157.67円](https://api.frankfurter.app/latest?from=USD&to=JPY) | 円安水準が続く |
+| ドル円（ECB参照値、10/2） | [157.67円](https://api.frankfurter.app/2026-10-02?from=USD&to=JPY) | 円安水準が続く |
 
 週明けの原油先物は、ホルムズ海峡周辺での週末のタンカー攻撃を受けて小幅高で始まりました。前週は各国の石油備蓄放出でWTIが週間で下落したものの、ブレントは100ドル台を維持しており、「備蓄放出で上値は抑えられるが、地政学リスクで下がりきらない」構図が続いています。
 
 ### アメリカの経済
 
-9月雇用統計が予想を下回る弱さだったことで、FRBの利上げ観測が後退し、金曜日はナスダックを中心にハイテク株が買われました。一方で10年国債利回りは5.28%と、財政やインフレへの懸念から高止まりしています（[Vista Partners](https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/)）。今週は5日に9月のISM非製造業景況指数、日本時間8日未明に9月FOMCの議事要旨、9日にミシガン大学消費者マインド指数（速報）が出ます（[外為どっとコム](https://www.gaitame.com/media/entry/2026/10/04/060300)）。
+9月雇用統計が予想を下回る弱さだったことで、FRBの利上げ観測が後退し、金曜日はナスダックを中心にハイテク株が買われました。一方で10年国債利回りは5.28%と、財政やインフレへの懸念から高止まりしています（[AP](https://apnews.com/article/a2b99562febc21d84955e243c87f5d31)）。今週は5日に9月のISM非製造業景況指数、日本時間8日未明に9月FOMCの議事要旨、9日にミシガン大学消費者マインド指数（速報）が出ます（[外為どっとコム](https://www.gaitame.com/media/entry/2026/10/04/060300)）。
 
 ### 日本の経済
 
@@ -72,8 +72,8 @@ permalink: /2026/10/05/daily-briefing/
 ## 今日の注目銘柄・セクター
 
 - **ブラジル関連（ブラジル株・レアル）**：選挙前の世論調査でボルソナロ氏の支持が伸びると、「政権交代なら財政の引き締めが進む」との期待からボベスパ指数が上がり、レアル安に備えるヘッジ需要も6年ぶりの低水準に下がっていました（[Bloomberg](https://www.bloomberg.com/news/articles/2026-09-10/traders-unwind-brazil-real-hedges-as-election-seen-fueling-rally)／[Trading Economics](https://tradingeconomics.com/brazil/stock-market/news/582909)）。決選投票までの3週間は、世論調査のたびに相場が振れやすくなりそうです。
-- **テスラ**：7〜9月期の納車台数が48万6,532台と、市場予想（46万1,000〜46万3,000台）を上回りました（[Vista Partners](https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/)）。
-- **米半導体・大型ハイテク（エヌビディア、ブロードコム、AMD、アルファベット）**：雇用統計の弱さで利上げ観測が後退し、金利に敏感なハイテク株に買いが入りました（同）。
+- **テスラ**：7〜9月期の納車台数は48万6,532台でした（[テスラIR](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)）。
+- **米半導体・大型ハイテク（エヌビディア、ブロードコム、AMD、アルファベット）**：雇用統計の弱さで利上げ観測が後退し、金利に敏感なハイテク株に買いが入りました（[AP](https://apnews.com/article/a2b99562febc21d84955e243c87f5d31)）。
 - **ソフトバンクグループ**：2日の日経平均の下げを1銘柄で約316円分押し下げ、指数への影響の大きさがあらためて示されました（[財経新聞](https://www.zaikei.co.jp/article/20261002/872180.html)）。
 
 *※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*
@@ -88,19 +88,21 @@ permalink: /2026/10/05/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [Wikipedia・2026 Brazilian general election](https://en.wikipedia.org/wiki/2026_Brazilian_general_election)
-- [Latin Times・Lula vs. Flávio Bolsonaro first-round results](https://www.latintimes.com/live-lula-vs-flavio-bolsonaro-what-tonights-first-round-results-brazil-could-mean-oct-25-599811)
-- [Rio Times・Brazil election first-round results](https://www.riotimesonline.com/brazil-election-first-round-results-lula-flavio-2026)
-- [CNBC・More tankers struck as Iran reiterates conditions](https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html)
+- [ブラジル最高選挙裁判所（TSE）・大統領選公式結果](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6257/uf/br/cargo/1/vis/nominal/resultados)
+- [Reuters・Brazil election headed to runoff](https://www.devdiscourse.com/article/international/3986771-brazil-election-headed-to-runoff-projection-shows-as-bolsonaro-lead-narrows)
+- [AP・Hormuz tanker attacks and Iran's conditions](https://apnews.com/article/a37b24d446b3066d3b17441ac5bb0264)
+- [AP・U.S. carrier deployments to the Middle East](https://apnews.com/article/42c23e9af0333f4bc3b4f419cc3a603e)
+- [米労働統計局・2026年9月雇用統計](https://www.bls.gov/news.release/archives/empsit_10022026.htm)
+- [AP・U.S. stocks rise after jobs report](https://apnews.com/article/a2b99562febc21d84955e243c87f5d31)
+- [テスラIR・2026年第3四半期の生産・納車台数](https://ir.tesla.com/press-release/tesla-third-quarter-2026-production-deliveries-and-deployments)
 - [時事ドットコム・ホテル女性遺体、米海兵隊の男逮捕](https://www.jiji.com/jc/article?k=2026100400094&g=soc)
 - [山陰中央新報・臨時国会10月5日召集決定](https://www.sanin-chuo.co.jp/articles/-/1088585)
 - [Kyiv Independent・Russia targets Kyiv bridges for fourth consecutive day](https://kyivindependent.com/russia-targets-kyiv-bridges-for-fourth-consecutive-day-hits-northern-bridge/)
 - [Euronews・Sánchez in talks with coalition partners](https://www.euronews.com/2026/10/04/sanchez-in-talks-with-coalition-partners-on-reflection-day-will-he-call-elections-in-spain)
-- [Vista Partners・Weekly Market Summary October 2, 2026](https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/)
 - [株探・日経平均 大引け（10月2日）](https://kabutan.jp/news/marketnews/?b=n202610020940)
 - [外為どっとコム・10/5週のイベント予定](https://www.gaitame.com/media/entry/2026/10/04/060300)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- 市場データ: [Frankfurter API（10月2日）](https://api.frankfurter.app/2026-10-02?from=USD&to=JPY) ／ Yahoo Finance ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>
