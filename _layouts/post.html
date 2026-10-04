@@ -50,6 +50,22 @@ layout: default
 
   {%- include ad-banner.html -%}
 
+  {%- if site.active_lang != "en" -%}
+  <section class="guide-path" aria-labelledby="guide-path-title">
+    <h2 id="guide-path-title">ニュースの背景を解説で確認</h2>
+    <ul>
+      {%- assign guide_count = 0 -%}
+      {%- for p in site.posts -%}
+        {%- if p.categories contains "解説" and p.url != page.url and guide_count < 3 -%}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
+          {%- assign guide_count = guide_count | plus: 1 -%}
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+    <p><a href="{{ "/guides/" | relative_url }}">お金と経済の解説をすべて見る →</a></p>
+  </section>
+  {%- endif -%}
+
   {%- assign related = site.posts | where_exp: "p", "p.url != page.url" -%}
   {%- if related.size > 0 -%}
   <section class="related-posts">

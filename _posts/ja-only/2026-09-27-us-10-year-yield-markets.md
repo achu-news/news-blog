@@ -96,6 +96,10 @@ FRBも、米国の金利変化は米国資産と他国資産の相対的な魅�
 
 米財務省の[日次金利ページ](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve)では、1か月から30年までの国債利回りを同じ表で確認できます。10年だけでなく2年も並べると、FOMCに近い政策予想と長期の見通しを分けて考えやすくなります。
 
+## 米10年債利回りはどこで確認できる？
+
+米財務省の[Daily Treasury Par Yield Curve Rates](https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve)で日次の公式系列を確認できます。ニュースサイトや証券会社が示すリアルタイム値とは更新時刻や算出方法が異なることがあるため、記事の数字を比べるときは同じ時点の値かを確認してください。
+
 ## 今日の羅針盤
 
 米10年債利回りのニュースは、「上がったから株安・円安」と一行で結論づけず、**動いた理由 → 米国の短期金利予想 → 日本との金利差 → 株価・ドル円・国内金利**の順に追います。家計で住宅ローンを確認するなら、米金利を返済額へ直接当てはめず、まず固定か変動か、国内の基準金利と見直し時期は何かを契約書や金融機関の案内で確認してください。日々の小さな上下より、数週間から数か月にわたり金利見通しが同じ方向へ変化しているかを見る方が、生活への影響を判断しやすくなります。

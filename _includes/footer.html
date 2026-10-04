@@ -5,6 +5,10 @@
     <a href="{{ "/privacy/" | relative_url }}">{% if site.active_lang == "en" %}Privacy Policy{% else %}プライバシーポリシー{% endif %}</a>
     <span style="margin: 0 0.5rem; color: #6e7681;">|</span>
     <a href="{{ "/archive/" | relative_url }}">{% if site.active_lang == "en" %}Archive{% else %}記事一覧{% endif %}</a>
+    {% if site.active_lang != "en" %}
+    <span style="margin: 0 0.5rem; color: #6e7681;">|</span>
+    <a href="{{ "/guides/" | relative_url }}">お金の解説</a>
+    {% endif %}
     <div style="margin-top: 0.5rem; color: #6e7681;">
       &copy; {{ site.time | date: '%Y' }} {% if site.active_lang == "en" %}{{ site.title_en }}{% else %}{{ site.title }}{% endif %}
     </div>

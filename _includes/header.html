@@ -8,21 +8,32 @@
       </span>
     </a>
 
-    <div class="lang-switch" id="langSwitch" data-baseurl="{{ site.baseurl }}">
-      <a data-lang="ja" href="#">JA</a>
-      <a data-lang="en" href="#">EN</a>
+    {%- assign page_has_en = true -%}
+    {%- if page.collection == "posts" and page.path contains "/ja-only/" -%}{%- assign page_has_en = false -%}{%- endif -%}
+    {%- if page.has_en_version == false -%}{%- assign page_has_en = false -%}{%- endif -%}
+    <div class="header-actions">
+      <nav class="site-nav" aria-label="{% if site.active_lang == "en" %}Main navigation{% else %}メインナビゲーション{% endif %}">
+        {% if site.active_lang != "en" %}<a href="{{ "/guides/" | relative_url }}">お金の解説</a>{% endif %}
+        <a href="{{ "/archive/" | relative_url }}">{% if site.active_lang == "en" %}Archive{% else %}記事一覧{% endif %}</a>
+      </nav>
+      <div class="lang-switch" id="langSwitch" data-baseurl="{{ site.baseurl }}" data-has-en="{{ page_has_en }}">
+        <a data-lang="ja" href="#">JA</a>
+        <a data-lang="en" href="#">EN</a>
+      </div>
     </div>
     <script>
       (function () {
         var box = document.getElementById("langSwitch");
         if (!box) return;
         var baseurl = box.getAttribute("data-baseurl") || "";
+        var hasEn = box.getAttribute("data-has-en") !== "false";
         var rest = location.pathname.indexOf(baseurl) === 0
           ? location.pathname.slice(baseurl.length) : location.pathname;
         var isEn = /^\/en(\/|$)/.test(rest);
         var agnostic = isEn ? rest.replace(/^\/en/, "") : rest;
         if (agnostic === "") agnostic = "/";
         var urls = { ja: baseurl + agnostic, en: baseurl + "/en" + agnostic };
+        if (!hasEn) urls.en = baseurl + "/en/";
         var active = isEn ? "en" : "ja";
         box.querySelectorAll("a").forEach(function (a) {
           var l = a.getAttribute("data-lang");

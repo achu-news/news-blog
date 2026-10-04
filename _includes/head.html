@@ -79,6 +79,9 @@
   {%- if page.collection == "posts" and page.path contains "/ja-only/" -%}
     {%- assign has_en_version = false -%}
   {%- endif -%}
+  {%- if page.has_en_version == false -%}
+    {%- assign has_en_version = false -%}
+  {%- endif -%}
   {%- if has_en_version -%}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/en{{ page.url }}">
   {%- endif -%}
@@ -150,7 +153,11 @@
       z-index: 50;
       min-height: 66px;
     }
-    .site-header .wrapper { display: flex; align-items: center; justify-content: space-between; }
+    .site-header .wrapper { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+    .header-actions { display: flex; align-items: center; gap: 1rem; }
+    .site-nav { display: flex; align-items: center; gap: 0.9rem; font-size: 0.82rem; font-weight: 700; white-space: nowrap; }
+    .site-nav a { color: var(--text-soft); }
+    .site-nav a:hover { color: var(--accent); }
     .lang-switch { display: flex; gap: 0.5rem; align-items: center; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.5px; }
     .lang-switch a { color: var(--text-muted); text-decoration: none; padding: 0.15rem 0.4rem; border-radius: 5px; }
     .lang-switch a:hover { color: var(--accent); background: var(--accent-soft); }
@@ -401,6 +408,24 @@
       margin-right: 0.5rem;
     }
 
+    /* ===== Evergreen guide discovery ===== */
+    .guide-path {
+      margin-top: 2.2rem;
+      padding: 1.2rem 1.4rem;
+      background: #f3f7fb;
+      border: 1px solid #d7e5f2;
+      border-radius: 12px;
+    }
+    .guide-path h2 { font-size: 1.05rem; margin: 0 0 0.7rem; padding: 0; border: 0; }
+    .guide-path ul { margin: 0; padding-left: 1.2rem; }
+    .guide-path li { margin-bottom: 0.45rem; }
+    .guide-path p { margin: 0.8rem 0 0; font-weight: 700; }
+    .guide-list { display: grid; gap: 1rem; margin-top: 1.5rem; }
+    .guide-card { padding: 1.2rem 1.4rem; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; }
+    .guide-card h2 { margin: 0.2rem 0 0.55rem; padding: 0; border: 0; font-size: 1.2rem; }
+    .guide-card p { margin: 0; color: var(--text-soft); }
+    .guide-card-meta { color: var(--accent) !important; font-size: 0.75rem; font-weight: 700; }
+
     /* ===== Share and subscribe ===== */
     .post-share {
       margin-top: 2rem;
@@ -453,8 +478,10 @@
     @media (max-width: 640px) {
       .site-header .wrapper {
         align-items: flex-start;
+        flex-wrap: wrap;
         gap: 0.7rem;
       }
+      .header-actions { width: 100%; justify-content: space-between; padding-bottom: 0.55rem; }
       .brand-name { font-size: 1.05rem; }
       .brand-tagline { font-size: 0.64rem; }
       .post-list {
