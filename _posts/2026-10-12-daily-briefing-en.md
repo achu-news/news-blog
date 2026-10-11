@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-title: "Houthi missiles hit Riyadh airport, killing 12 — October 12, 2026"
+title: "Houthi strike kills 12 at Riyadh airport — October 12, 2026"
 date: 2026-10-12 07:39:51 +0900
-headline: "Houthi missiles hit Riyadh airport, killing 12"
+headline: "Houthi strike kills 12 at Riyadh airport"
 permalink: /2026/10/12/daily-briefing/
 ---
 
@@ -20,11 +20,11 @@ permalink: /2026/10/12/daily-briefing/
 
 ## Compass Insight
 
-Both of the weekend's biggest stories run through energy. In the Gulf, repeated Houthi strikes on the Saudi capital raise the risk that the conflict spreads to oil infrastructure and shipping — and Brent is already [holding above $102](https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/). In Europe, an energy truce between Moscow and Kyiv would push the other way, but Trump's announcement came without details and was quickly tested. Meanwhile, stocks sit near record highs even with the 10-year Treasury yield at 5.24%. That combination leaves little room for an inflation surprise. In the short term, watch Monday's oil open and Wednesday's CPI. Over the longer run, the key question is whether high energy prices keep pushing the Fed toward more hikes.
+Both of the weekend's biggest stories run through energy. In the Gulf, repeated Houthi strikes on the Saudi capital raise the risk that the conflict spreads to oil infrastructure and shipping — and Brent [settled at $104.72 on Friday](https://www.marketscreener.com/news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-ce785ddfdf8af722). In Europe, an energy truce between Moscow and Kyiv would push the other way, but Trump's announcement came without details and was quickly tested. Meanwhile, stocks sit near record highs even with the 10-year Treasury yield at 5.24%. That combination leaves little room for an inflation surprise. In the short term, watch Monday's oil open and Wednesday's CPI. Over the longer run, the key question is whether high energy prices keep pushing the Fed toward more hikes.
 
 ## Markets
 
-As of Friday's close (Oct. 9), the [S&P 500 rose 0.6% to 7,811.54 and the Dow gained 423.31 points to 51,654.95](https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/), with the Nasdaq up 0.6% at 27,366.17. The 10-year Treasury yield rose to 5.24%. Brent held above $102 while WTI was knocked lower by an emergency reserve release. In Tokyo, the Nikkei slipped [11.19 yen to 69,030.92](https://www.nikkei.com/article/DGXZQOFL095TA0Z01C26A0000000/); Japanese markets are closed Monday for Sports Day. The dollar stood at [158.25 yen](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference rate, Oct. 9).
+As of Friday's close (Oct. 9), the [S&P 500 rose 0.6% to 7,811.54 and the Dow gained 423.31 points to 51,654.95](https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70), with the Nasdaq up 172.83 points, or 0.6%, at 27,366.17. The [10-year Treasury yield rose to 5.24%](https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9). [Brent settled at $104.72 and WTI at $91.85](https://www.marketscreener.com/news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-ce785ddfdf8af722); those closes preceded the weekend airport attack. In Tokyo, the Nikkei slipped [11.19 yen to 69,030.92](https://www.nikkei.com/article/DGXZQOFL095TA0Z01C26A0000000/); Japanese markets are closed Monday for Sports Day. The dollar stood at [158.25 yen](https://api.frankfurter.app/2026-10-09?from=USD&to=JPY) (ECB reference rate, Oct. 9).
 
 ## Stocks in Focus
 
@@ -39,13 +39,17 @@ As of Friday's close (Oct. 9), the [S&P 500 rose 0.6% to 7,811.54 and the Dow ga
 - [CNN — Major Houthi attack on Saudi airport kills at least 12](https://edition.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl)
 - [CBS News — Passenger terminal in Riyadh airport hit again](https://www.cbsnews.com/news/houthis-threat-saudi-airspace-attack-riyadh-airport/)
 - [NBC News — Saudi airport struck again a day after deadly attack](https://www.nbcnews.com/world/middle-east/saudi-airport-attack-trump-us-join-fight-houthis-rcna602744)
+- [The Washington Post — Saudi airport attack disrupts hundreds of flights](https://www.washingtonpost.com/world/2026/10/11/saudi-yemen-houthi-riyadh-airport/bdf40cb2-c544-11f1-8170-681419af1cc9_story.html)
 - [CNN — Trump claims Ukraine and Russia have agreed to energy ceasefire](https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire)
 - [Al Jazeera — Zelenskyy says Russia violated energy truce](https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2)
 - [Axios — Trump bears down on Zelensky](https://www.axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky)
-- [AP via La Nación — How major US stock indexes fared Friday 10/9/2026](https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-1092026-nid09102026/)
-- [EnergyNow — Oil ends volatile week mixed](https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/)
+- [NBC News — Zelenskyy criticizes U.S. deal for Russian diesel](https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766)
+- [AP — How major US stock indexes fared Friday 10/9/2026](https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70)
+- [AP — Wall Street climbs as Treasury yields and oil prices rise](https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9)
+- [Reuters via MarketScreener — Oil rises as Middle East supply concerns persist](https://www.marketscreener.com/news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-ce785ddfdf8af722)
 - [Kitco/Reuters — Wall St Week Ahead](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)
-- Market data: [frankfurter API](https://api.frankfurter.app/) / Yahoo Finance
+- [Nikkei — Nikkei average closes down 11.19 points](https://www.nikkei.com/article/DGXZQOFL095TA0Z01C26A0000000/)
+- Market data: [Frankfurter API (Oct. 9, 2026)](https://api.frankfurter.app/2026-10-09?from=USD&to=JPY)
 
 </div>
 
