@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "フーシ派攻撃で原油高、ブレント106ドル台に｜10月13日のニュースとお金"
+title: "フーシ派攻撃で原油高、ブレント106ドル台に・米株はまちまち｜10月13日のニュースとお金"
 date: 2026-10-13 07:39:49 +0900
 categories: [ニュース, 経済]
-headline: "フーシ派攻撃で原油高、ブレント106ドル台に"
+headline: "フーシ派攻撃で原油高、ブレント106ドル台に・米株はまちまち"
 permalink: /2026/10/13/daily-briefing/
 ---
 
@@ -14,11 +14,11 @@ permalink: /2026/10/13/daily-briefing/
 
 ## 今日の羅針盤（Compass Insight）
 
-今朝の流れを一言でいえば、「エネルギー価格が、ニュースの見出しより先に家計へ向かってきている」です。原油は[ブレントが前日比1.8%高の106.65ドル](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html)で引けました。一方で、ハイテク株、とくに半導体メモリー株は売られ、S&P500は[ほぼ横ばい](https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-12-2026)でした。「油は上がる、ハイテクは一服」という組み合わせは、物価高が続きやすい局面の典型です。
+今朝の流れを一言でいえば、「エネルギー価格が、ニュースの見出しより先に家計へ向かってきている」です。原油は[ブレントが前日比1.8%高の106.65ドル](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html)で引けました。一方で、ハイテク株、とくに半導体メモリー株は売られ、S&P500は[ほぼ横ばい](https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235)でした。「油は上がる、ハイテクは一服」という組み合わせは、物価高が続きやすい局面の典型です。
 
-家計への影響で気をつけたいのは、原油高と円安が同時に進んでいる点です。ドル円は[1ドル＝158円台](https://api.frankfurter.app/latest?from=USD&to=JPY)で、ドル建ての原油が上がれば、円に換算した輸入コストはさらに膨らみます。ガソリン代や電気・ガス代、そして運送費を通じて食品の値段にもじわじわ効いてきます。また米国では[先月すでに利上げ](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)が行われ、長期金利も高止まりしています。日米の金利差が開いたままだと、円安が戻りにくい状態が続く可能性があります。
+家計への影響で気をつけたいのは、原油高と円安が同時に進んでいる点です。ドル円は[1ドル＝158円台](https://api.frankfurter.app/2026-10-12?from=USD&to=JPY)で、ドル建ての原油が上がれば、円に換算した輸入コストはさらに膨らみます。ガソリン代や電気・ガス代、そして運送費を通じて食品の値段にもじわじわ効いてきます。また米国では[先月すでに利上げ](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)が行われ、長期金利も高止まりしています。日米の金利差が開いたままだと、円安が戻りにくい状態が続く可能性があります。
 
-短期的には、今日から始まる米大手銀行の決算と、今週発表される米国の消費者物価（CPI）に注目です。物価が強ければ追加利上げ観測が再燃し、ドル高・円安が進む可能性があります。中長期では、米国がイエメンのフーシ派への攻撃に加わるかどうか、そしてエネルギー停戦が実際に守られるかが、原油価格の天井を左右する要因になりそうです。
+短期的には、今日から始まる米大手銀行の決算と、[14日発表の米国の消費者物価（CPI）](https://www.bls.gov/schedule/2026/home.htm)に注目です。物価が強ければ追加利上げ観測が再燃し、ドル高・円安が進む可能性があります。中長期では、米国がイエメンのフーシ派への攻撃に加わるかどうか、そしてエネルギー停戦が実際に守られるかが、原油価格の天井を左右する要因になりそうです。
 
 ## 今日のニュース
 
@@ -29,7 +29,7 @@ permalink: /2026/10/13/daily-briefing/
 
 ### 世界
 
-- サウジアラビアの首都リヤドの国際空港は、フーシ派の攻撃を受けて[10日から閉鎖が続いています](https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/)。11日にも再び攻撃を受けて死傷者が出ており、10日の攻撃では[少なくとも12人が死亡、300人以上が負傷](https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl)しています。
+- サウジアラビアの首都リヤドの国際空港は、フーシ派の攻撃を受けて[10日から閉鎖が続いています](https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/)。11日にも再び攻撃を受けて死傷者が出ており、週末の攻撃による死者は[少なくとも13人、負傷者は300人超](https://apnews.com/article/40c6ab822df376688ce1a0955a044488)となりました。
 - オマーン近海やホルムズ海峡付近ではタンカーへの攻撃も報告され、[原油の供給不安を強めています](https://energynow.com/2026/10/oil-prices-rise-as-attacks-on-saudi-arabia-and-middle-east-tankers-renew-global-supply-concerns/)。
 - 2026年のノーベル経済学賞は、米スタンフォード大のロバート・ホール氏と米コロンビア大のマイケル・ウッドフォード氏に決まりました。景気の波をならす[金融・財政政策の理論的な土台を築いた](https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/)ことが評価されました。
 
@@ -37,7 +37,7 @@ permalink: /2026/10/13/daily-briefing/
 
 - トランプ大統領は、フーシ派の空港攻撃を受けて[サウジのフーシ派攻撃に米国が加わる可能性がある](https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/)と述べています。12日時点で、攻撃に踏み切ったという発表は確認できていません。
 - トランプ氏は11日に発表したロシアとのディーゼル取引について、[11月の中間選挙を前に燃料価格を下げる狙い](https://ca.news.yahoo.com/zelenskyy-says-russia-ignored-trumps-093722683.html)があると伝えられており、ゼレンスキー大統領はこれを批判しています。
-- 米国株はダウが3日続伸した一方、ナスダックは下落と[まちまちの展開](https://www.washingtontimes.com/news/2026/oct/12/us-stocks-hovering-near-latest-record-mixed-trading-wall-street/)で、主要指数は最高値近くにとどまっています。
+- 米国株はダウが3日続伸した一方、ナスダックは下落と[まちまちの展開](https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d)で、主要指数は最高値近くにとどまっています。
 
 ### ヨーロッパ
 
@@ -50,14 +50,14 @@ permalink: /2026/10/13/daily-briefing/
 
 | 指標 | 水準（10月12日終値など） | 前日比 |
 |---|---|---|
-| NYダウ | [5万1850.55ドル](https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-12-2026) | <span class="chg-up">+195.60ドル（+0.4%）</span> |
-| S&P500 | [7807.24](https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-12-2026) | <span class="chg-down">-4.30（-0.1%）</span> |
-| ナスダック総合 | [2万7245.90](https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-12-2026) | <span class="chg-down">-120.27（-0.4%）</span> |
+| NYダウ | [5万1850.55ドル](https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235) | <span class="chg-up">+195.60ドル（+0.4%）</span> |
+| S&P500 | [7807.24](https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235) | <span class="chg-down">-4.30（-0.1%）</span> |
+| ナスダック総合 | [2万7245.90](https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235) | <span class="chg-down">-120.27（-0.4%）</span> |
 | 日経平均株価 | [6万9030円92銭](https://www.nikkei.com/article/DGXZQOFL095TA0Z01C26A0000000/)（10月9日終値、12日は休場） | — |
 | 日経225先物（夜間） | [6万8970円](https://tbladvisory.com/20261012nkam/) | <span class="chg-down">-500円</span> |
 | 北海ブレント原油 | [106.65ドル/バレル](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html) | <span class="chg-up">+1.93ドル（+1.8%）</span> |
 | WTI原油 | [93.74ドル/バレル](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html) | <span class="chg-up">+1.89ドル（+2.0%）</span> |
-| ドル円 | [158.60円](https://api.frankfurter.app/latest?from=USD&to=JPY)（ECB基準、10月12日） | <span class="chg-up">+0.35円（円安）</span> |
+| ドル円 | [158.60円](https://api.frankfurter.app/2026-10-12?from=USD&to=JPY)（ECB基準、10月12日） | <span class="chg-up">+0.35円（円安）</span> |
 
 ※ドル円の前日比は、前回のECB基準値（10月9日、158.25円）との比較です。Yahoo Financeの指数データが取得できなかったため、株価はAP通信の終値報道を使っています。
 
@@ -65,7 +65,7 @@ permalink: /2026/10/13/daily-briefing/
 
 ### アメリカの経済
 
-株式市場はダウが上昇した一方、ハイテク株が重く、S&P500とナスダックは小幅安でした。ナスダックは[マイクロン・テクノロジーの約4%安](https://coinpaper.com/37169/micron-stock-falls-nearly-4-as-chinas-memory-chip-progress-hits-ai-suppliers)が重荷になりました。今日13日は[JPモルガン、ゴールドマン・サックス、シティグループ、ウェルズ・ファーゴが決算を発表](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)し、翌日にはモルガン・スタンレーとバンク・オブ・アメリカが続きます。銀行株は金利上昇を背景に過去1カ月で約9%下落しており、高金利が企業の資金調達や個人消費にどう響いているかが焦点です。S&P500企業の7〜9月期利益は30%超の増益が見込まれており、期待のハードルは高めです。
+株式市場はダウが上昇した一方、ハイテク株が重く、S&P500とナスダックは小幅安でした。ナスダックは[マイクロン・テクノロジーの3.9%安](https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d)が重荷になりました。今日13日は[JPモルガン、ゴールドマン・サックス、シティグループ、ウェルズ・ファーゴが決算を発表](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)し、翌日にはモルガン・スタンレーとバンク・オブ・アメリカが続きます。銀行株は金利上昇を背景に過去1カ月で約9%下落しており、高金利が企業の資金調達や個人消費にどう響いているかが焦点です。S&P500企業の7〜9月期利益は30%超の増益が見込まれており、期待のハードルは高めです。
 
 ### 日本の経済
 
@@ -73,7 +73,7 @@ permalink: /2026/10/13/daily-briefing/
 
 ## 今日の注目銘柄・セクター
 
-- **マイクロン・テクノロジー（米・半導体メモリー）**：12日に約4%下落しました。中国の長鑫存儲技術（CXMT）が次世代メモリーの開発で前進したと伝わり、[AIブームで潤ってきたメモリー大手の価格支配力が揺らぐ](https://coinpaper.com/37169/micron-stock-falls-nearly-4-as-chinas-memory-chip-progress-hits-ai-suppliers)との懸念が広がりました。東京市場の半導体関連株にも影響が及ぶか注目です。
+- **マイクロン・テクノロジー（米・半導体メモリー）**：12日に[3.9%下落](https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d)し、AMDやブロードコム、エヌビディアなど他の大型半導体株も下げました。東京市場の半導体関連株にも影響が及ぶか注目です。
 - **エネルギー関連（石油・資源）**：[ブレントが9月15日以来の高値](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html)をつけ、原油高の恩恵を受けやすいセクターとして注目されています。中東情勢次第で値動きが大きくなりやすい点には注意が必要です。
 - **米大手銀行株**：今日から決算発表が本格化します。銀行株は[過去1カ月で約9%下落](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)しており、決算が見直しのきっかけになるかが焦点です。
 
@@ -90,16 +90,25 @@ permalink: /2026/10/13/daily-briefing/
 
 **出典：**
 - [Yahoo Finance/Reuters: Oil prices rise on Saudi Arabia attacks](https://finance.yahoo.com/energy/articles/oil-climbs-mideast-conflict-tanker-232559304.html)
-- [WTOP/AP: How major US stock indexes fared Monday 10/12/2026](https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-12-2026)
-- [Washington Times/AP: U.S. stocks hover near their latest record in mixed trading](https://www.washingtontimes.com/news/2026/oct/12/us-stocks-hovering-near-latest-record-mixed-trading-wall-street/)
+- [AP: How major US stock indexes fared Monday 10/12/2026](https://apnews.com/article/f07713e8b2e438ac5903b50f5ce97235)
+- [AP: U.S. stocks hover near their latest record in mixed trading](https://apnews.com/article/a9a26b9706963afe9bdeda1b2eb1f51d)
+- [AP: Saudis probe defenses after deadly Houthi attack](https://apnews.com/article/40c6ab822df376688ce1a0955a044488)
 - [CBS News: Iran War Updates — Deadly Houthi attacks keep Saudi airport closed](https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/)
+- [EnergyNow: Oil rises on Saudi attacks and tanker concerns](https://energynow.com/2026/10/oil-prices-rise-as-attacks-on-saudi-arabia-and-middle-east-tankers-renew-global-supply-concerns/)
+- [TIME: Trump says U.S. may join Saudi strikes on Houthis](https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/)
+- [Yahoo News: Zelenskyy criticizes Russian diesel deal](https://ca.news.yahoo.com/zelenskyy-says-russia-ignored-trumps-093722683.html)
 - [Al Jazeera: Ukraine's Zelenskyy accuses Russia of violating Trump's 'energy ceasefire'](https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire)
+- [Euronews: Kremlin says energy-ceasefire talks continue](https://www.euronews.com/2026/10/12/zelenskyy-says-russia-ignored-trumps-ceasefire-and-kept-attacking-ukraine)
 - [Euronews: Hundreds of French supermarkets hit by cyberattack](https://www.euronews.com/2026/10/12/hundreds-of-french-supermarkets-hit-by-cyberattack-on-refrigeration-systems)
 - [NobelPrize.org: Prize in Economic Sciences 2026 press release](https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/)
 - [NHK: 片山財務相が世界銀行・IMF合同開発委の次期議長に](https://news.web.nhk/newsweb/na/nd-20261013de58295)
+- [NHK: スポーツの日、各地で体験イベント](https://news.web.nhk/newsweb/na/nd-20261012de58119)
+- [日本経済新聞: 日経平均大引け 3日続落](https://www.nikkei.com/article/DGXZQOFL095TA0Z01C26A0000000/)
+- [株式投資顧問のトレーディング・ブレーン: 日経225先物](https://tbladvisory.com/20261012nkam/)
+- [米労働統計局: 2026年公表予定](https://www.bls.gov/schedule/2026/home.htm)
 - [Kitco/Reuters: Wall St Week Ahead — Bank earnings, CPI headline busy markets week](https://www.kitco.com/news/off-the-wire/2026-10-09/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ AP通信・Reuters ほか
+- 市場データ: [Frankfurter API（2026年10月12日）](https://api.frankfurter.app/2026-10-12?from=USD&to=JPY) ／ AP通信・Reuters ほか
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。*
 
 </div>
