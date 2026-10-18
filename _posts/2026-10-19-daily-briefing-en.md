@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-title: "Oil holds above $100 as Ukraine hits Russian fuel sites and Gulf tanker attacks continue — October 19, 2026"
+title: "Oil above $100 after Russia and Gulf attacks — October 19, 2026"
 date: 2026-10-19 07:41:29 +0900
-headline: "Oil holds above $100 as Ukraine hits Russian fuel sites and Gulf tanker attacks continue"
+headline: "Oil above $100 after Russia and Gulf attacks"
 permalink: /2026/10/19/daily-briefing/
 ---
 
@@ -20,15 +20,15 @@ permalink: /2026/10/19/daily-briefing/
 
 ## Compass Insight
 
-The weekend's news all points the same way: less oil getting to market. Ukraine struck Russian fuel terminals, Iran's campaign against Gulf shipping goes on, and crude is holding above $100 even as Washington says it wants lower fuel prices. That pressure feeds straight into inflation. September CPI ran at 3.7%, and higher inflation makes it harder for rates to come down, which is the main threat to debt-funded AI spending. Semiconductors have now fallen nine sessions in a row. In the short term, watch whether Netflix and Tesla earnings this week can calm the tech selloff. Over the longer run, the Fed's Oct. 27–28 decision and whether energy supply disruptions ease will set the tone into the Nov. 3 midterms.
+The weekend's news all points the same way: less oil getting to market. Ukraine struck Russian fuel terminals, attacks on Gulf shipping continued, and crude is holding above $100 even as Washington says it wants lower fuel prices. That pressure feeds straight into inflation. September CPI ran at 3.7%, and higher inflation makes it harder for rates to come down, which is the main threat to debt-funded AI spending. The Philadelphia Semiconductor Index has now fallen for eight sessions in a row. In the short term, watch whether Netflix and Tesla earnings this week can calm the tech selloff. Over the longer run, the Fed's Oct. 27–28 decision and whether energy supply disruptions ease will set the tone into the Nov. 3 midterms.
 
 ## Markets
 
-Friday, Oct. 16 closes: the Dow fell [0.34% to 52,002.41](https://www.cnbc.com/quotes/.DJI), the S&P 500 dropped [1.09% to 7,659.44](https://www.cnbc.com/quotes/.SPX), and the Nasdaq slid [2.15% to 26,140.03](https://www.cnbc.com/quotes/.IXIC). The Philadelphia Semiconductor Index lost [3.83%](https://www.cnbc.com/quotes/.SOX). In Tokyo, the Nikkei rose [1.39% to 65,324.29](https://news.yahoo.co.jp/articles/a3789ebd67c7eaa620e54de10113330447cd214a) before the U.S. chip selloff. The dollar was at [¥158.02](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference rate, Oct. 16).
+Friday, Oct. 16 closes: the Dow fell [0.34% to 52,002.41](https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056), the S&P 500 dropped [1.09% to 7,659.44](https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056), and the Nasdaq slid [2.15% to 26,140.03](https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056). The Philadelphia Semiconductor Index lost [3.83%](https://au.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4696403). In Tokyo, the Nikkei rose [1.39% to 65,324.29](https://news.yahoo.co.jp/articles/a3789ebd67c7eaa620e54de10113330447cd214a) before the U.S. chip selloff. The dollar was at [¥158.02](https://api.frankfurter.app/2026-10-16?from=USD&to=JPY) (ECB reference rate, Oct. 16).
 
 ## Stocks in Focus
 
-- **Semiconductors:** chip stocks fell for a [ninth straight day](https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html) as investors questioned the data-center spending boom.
+- **Semiconductors:** the Philadelphia Semiconductor Index fell for an [eighth straight session](https://au.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4696403) as investors questioned the data-center spending boom.
 - **CoreWeave:** credit default swaps on its debt hit [distress levels](https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html), making it a focal point for worries about AI debt.
 - **Berkshire Hathaway:** shares went against the selloff and reached their [highest level since Buffett announced he would step down as CEO](https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html).
 
@@ -43,7 +43,12 @@ Friday, Oct. 16 closes: the Dow fell [0.34% to 52,002.41](https://www.cnbc.com/q
 - [CNBC: Bessent warns Zelenskyy to 'be very careful' about Starlink claims](https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html)
 - [CNBC: Consumer prices rose 3.7% annually in September](https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html)
 - [NPR: Trump defers federal diesel taxes to help farmers, but states issue warnings](https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings)
-- Market data: [CNBC Quotes](https://www.cnbc.com/quotes/.DJI) / [frankfurter API](https://api.frankfurter.app/)
+- [AP: Wall Street closes lower on Oct. 16](https://apnews.com/article/c27809783ae3230b44c26e5ee4bea056)
+- [Investing.com: SOX index posts an eighth straight decline](https://au.investing.com/news/stock-market-news/chip-index-sox-posts-longest-losing-streak-since-2008-as-ai-worries-deepen-4696403)
+- [Yomiuri Shimbun via Yahoo! Japan: Nikkei rises 1.39%](https://news.yahoo.co.jp/articles/a3789ebd67c7eaa620e54de10113330447cd214a)
+- [CNBC: CoreWeave credit default swaps hit distress levels](https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html)
+- [CNBC: Berkshire rallies to highest since Buffett announcement](https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html)
+- Market data: [frankfurter API (Oct. 16)](https://api.frankfurter.app/2026-10-16?from=USD&to=JPY)
 
 *Auto-generated and AI-written. Not investment advice.*
 
