@@ -1,19 +1,19 @@
 ---
 layout: post
 lang: en
-title: "Iran vows to bar U.S. warships from the Gulf as Washington hints at weekend strikes — October 25, 2026"
+title: "Iran vows to bar U.S. warships; envoy warns — October 25, 2026"
 date: 2026-10-25 07:39:45 +0900
-headline: "Iran vows to bar U.S. warships from the Gulf as Washington hints at weekend strikes"
+headline: "Iran vows to bar U.S. warships; envoy warns"
 permalink: /2026/10/25/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
 - **Iran draws a line in the Gulf.** Iran's armed forces chief of staff said on state TV Saturday that [U.S. warships will not be allowed into the Persian Gulf "under any circumstances,"](https://www.tribuneindia.com/news/crude-oil/iran-warns-us-against-entering-persian-gulf-as-irgc-claims-2-supertankers-hit-naval-mines-near-strait-of-hormuz) while U.S. Ambassador to Turkey Tom Barrack warned Washington [could strike Iran as soon as this weekend](https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/). President Trump [distanced himself from the remark](https://www.koreatimes.co.kr/world/20261024/us-could-strike-iran-this-weekend-envoy-says), having earlier pledged no strikes before the midterms.
-  *Why it matters:* With Brent already at a six-month high, any weekend military action could set the tone for oil and stocks on Monday.
-- **Fed week ahead.** The Fed is widely expected to hold at its Oct. 27–28 meeting, but CME FedWatch shows a [78% chance of a December hike](https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html), as higher oil prices feed "higher for longer" expectations.
+  *Why it matters:* With Brent already at its highest since June 2022, any weekend military action could set the tone for oil and stocks on Monday.
+- **Fed week ahead.** The Fed is widely expected to hold at its [Oct. 27–28 meeting](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm), but CME FedWatch shows a [78% chance of a December hike](https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html), as higher oil prices feed "higher for longer" expectations.
   *Why it matters:* A hawkish tone would keep mortgage and borrowing costs elevated heading into the holidays.
-- **Big Tech earnings test.** Microsoft, Alphabet and Amazon report next week, after Meta [fell about 7% on heavy AI spending](https://www.mvariety.com/business/business_news/wall-street-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/article_d20d13cb-b629-4872-a4db-25650c437735.html) that pushed its free cash flow negative.
+- **Big Tech earnings test.** Microsoft, Alphabet and Amazon report next week, after Meta [fell 7% as heavy AI spending pushed quarterly free cash flow negative](https://www.axios.com/2026/10/23/ai-meta-data-center-spending).
   *Why it matters:* Investors want proof the AI capex boom is paying off.
 - **Midterm sprint.** With the Nov. 3 election nine days away, President Trump is [rallying in Georgia on Saturday and Michigan on Sunday](https://www.foxnews.com/live-news/trump-weekend-rallies-georgia-michigan-2026-midterm-elections).
 - **Gulf diplomacy on hold.** The EU-GCC summit planned for Oct. 24 in Riyadh was [postponed amid Houthi attacks on Saudi Arabia](https://www.thenationalnews.com/news/mena/2026/10/15/gulf-eu-summit-in-riyadh-postponed-amid-houthi-attacks-on-saudi-arabia/).
@@ -24,12 +24,12 @@ Markets closed last week weighed down by two forces: expensive oil and doubts ab
 
 ## Markets
 
-Friday closes: the Dow fell [652.82 points to 52,215.16](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html), the S&P 500 slipped 0.52% to 7,623.68 and the Nasdaq lost 0.21% to 25,955.34. Brent settled at [$116.72, a six-month high](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html). Gold slipped below $4,000 and headed for a [steep weekly loss](https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html) as rate-hike bets rose. USD/JPY stood at 156.80 (ECB reference rate, Oct. 23). In Japan, the Nikkei ended at [62,693.16](https://www.zaikei.co.jp/article/20261023/874716.html), and the Bank of Japan meets Oct. 29–30.
+Friday closes: the Dow fell [652.82 points to 52,215.16](https://apnews.com/article/7b47ef3b037bfba4e34f685329b9b963), the S&P 500 slipped 0.52% to 7,623.68 and the Nasdaq lost 0.21% to 25,955.34. Brent settled at [$116.72, its highest since June 2022](https://apnews.com/article/7b47ef3b037bfba4e34f685329b9b963). Gold slipped below $4,000 and headed for a [steep weekly loss](https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html) as rate-hike bets rose. USD/JPY stood at [156.80](https://api.frankfurter.app/2026-10-23?from=USD&to=JPY) (ECB reference rate, Oct. 23). In Japan, the Nikkei ended at [62,693.16](https://indexes.nikkei.co.jp/en/nkave/), and the Bank of Japan [meets Oct. 29–30](https://www.boj.or.jp/en/about/calendar/).
 
 ## Stocks in Focus
 
 - **Airlines** (United, Delta): [fell Friday on rising fuel costs](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html) — the sector most exposed to weekend Gulf headlines.
-- **Meta**: down about 7% after earnings as AI capex outran operating cash flow.
+- **Meta**: [down 7%](https://www.axios.com/2026/10/23/ai-meta-data-center-spending) after earnings as AI capex pushed quarterly free cash flow negative.
 - **Microsoft, Alphabet, Amazon**: reporting next week; capex guidance is the focus.
 
 ---
@@ -40,12 +40,16 @@ Friday closes: the Dow fell [652.82 points to 52,215.16](https://finance.yahoo.c
 - [The Tribune — Iran warns US against entering Persian Gulf](https://www.tribuneindia.com/news/crude-oil/iran-warns-us-against-entering-persian-gulf-as-irgc-claims-2-supertankers-hit-naval-mines-near-strait-of-hormuz)
 - [The Korea Times — US could strike Iran this weekend, envoy says](https://www.koreatimes.co.kr/world/20261024/us-could-strike-iran-this-weekend-envoy-says)
 - [CNBC — Gold set for steep weekly loss as oil bolsters Fed hike bets](https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html)
+- [Axios — Meta joins Big Tech's negative free cash flow club](https://www.axios.com/2026/10/23/ai-meta-data-center-spending)
 - [Reuters via Marianas Variety — Wall Street week ahead](https://www.mvariety.com/business/business_news/wall-street-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/article_d20d13cb-b629-4872-a4db-25650c437735.html)
 - [Fox News — Trump weekend rallies in Georgia, Michigan](https://www.foxnews.com/live-news/trump-weekend-rallies-georgia-michigan-2026-midterm-elections)
 - [The National — Gulf-EU summit postponed](https://www.thenationalnews.com/news/mena/2026/10/15/gulf-eu-summit-in-riyadh-postponed-amid-houthi-attacks-on-saudi-arabia/)
 - [Yahoo Finance — Stock market today, Oct. 23](https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html)
-- [Zaikei — Nikkei close, Oct. 23](https://www.zaikei.co.jp/article/20261023/874716.html)
-- Market data: [frankfurter API](https://api.frankfurter.app/) / Yahoo Finance
+- [AP — Wall Street falls as oil rises, Oct. 23](https://apnews.com/article/7b47ef3b037bfba4e34f685329b9b963)
+- [Nikkei Indexes — Nikkei close, Oct. 23](https://indexes.nikkei.co.jp/en/nkave/)
+- [Federal Reserve — 2026 FOMC calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)
+- [Bank of Japan — Release schedule](https://www.boj.or.jp/en/about/calendar/)
+- Market data: [Frankfurter API, Oct. 23](https://api.frankfurter.app/2026-10-23?from=USD&to=JPY)
 
 </div>
 
