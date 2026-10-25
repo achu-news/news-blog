@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Vucic concedes as Serbia's Student List wins projected vote; Brent hits $116 — October 26, 2026"
-date: 2026-10-26 07:50:00 +0900
+date: 2026-10-26 07:30:00 +0900
 headline: "Vucic concedes as Serbia's Student List wins projected vote; Brent hits $116"
 permalink: /2026/10/26/daily-briefing/
 ---
