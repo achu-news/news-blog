@@ -3,17 +3,17 @@ layout: post
 lang: en
 title: "Wall Street Rises on AI Rally as Nikkei Slides for a Third Day — October 27, 2026"
 date: 2026-10-27 07:40:00 +0900
-headline: "Wall Street Rises on AI Rally as Nikkei Slides for a Third Day"
+headline: "Wall Street Rises as Nikkei Extends Slide"
 permalink: /2026/10/27/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- Stocks closed higher Monday. The [S&P 500 rose 0.70% to 7,676.77, the Dow added 0.28% to 52,361.58 and the Nasdaq gained 0.82% to 26,169.38](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html), led by AI and chip names after Anthropic published its IPO prospectus.
+- Stocks closed higher Monday. The [S&P 500 rose 0.70% to 7,676.77, the Dow added 0.28% to 52,361.58 and the Nasdaq gained 0.82% to 26,169.38](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92), with Nvidia among the strongest contributors after Anthropic published its IPO prospectus.
 
-  *Why it matters:* The filing was read as proof that AI demand is still strong, which helped Nvidia, Broadcom and Micron. Investors had been worried about the cost of funding AI spending, so the rebound shows how quickly sentiment can swing.
+  *Why it matters:* Anthropic's filing showed rapid revenue growth, while Nvidia rose 2.4%. Investors remain worried about the cost of funding AI spending, so the session showed how quickly sentiment can swing.
 
-- The Federal Reserve begins a two-day meeting Tuesday, with a decision Wednesday. [Markets widely expect rates to hold](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html), though some analysts expect a hawkish tone after hotter inflation data.
+- The Federal Reserve begins a two-day meeting Tuesday, with a decision Wednesday. [Markets widely expect rates to hold](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92), and the dates are listed on the [Fed's official calendar](https://www.federalreserve.gov/newsevents/2026-october.htm?view=calendar), though some analysts expect a hawkish tone after hotter inflation data.
 
   *Why it matters:* With the 10-year Treasury yield near 5%, any hint that rates stay higher for longer would pressure mortgages, stocks and the dollar's exchange rate.
 
@@ -22,7 +22,7 @@ permalink: /2026/10/27/daily-briefing/
 
   *Why it matters:* The Iran conflict is keeping oil above $100 a barrel, which feeds into gasoline prices and inflation worldwide.
 
-- Delegations from Saudi Arabia, Pakistan and Turkey met Iranian leaders in Tehran in an effort to [head off renewed fighting](https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks); the meeting ended without concrete announcements.
+- Delegations from Saudi Arabia, Pakistan and Turkey met Iranian leaders in Tehran in an effort to [head off renewed fighting](https://apnews.com/article/36486edb61b3bf4e0df67e8a17123e44); the countries agreed to continue talks but announced no date or venue.
 
 ## Compass Insight
 
@@ -30,35 +30,36 @@ Monday's session was a tug-of-war between AI optimism and the weight of expensiv
 
 ## Markets
 
-- S&P 500: [7,676.77 (+0.70%)](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html); Dow: 52,361.58 (+0.28%); Nasdaq: 26,169.38 (+0.82%).
-- WTI crude: about $101.35 a barrel (-0.40%). [Brent settled at $110.74](https://bnnbloomberg.ca/markets/2026/10/26/world-shares-mostly-advance-after-a-decline-on-wall-street-and-oil-prices-fall-more-than-1), down 0.9%.
+- S&P 500: [7,676.77 (+0.70%)](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92); Dow: 52,361.58 (+0.28%); Nasdaq: 26,169.38 (+0.82%).
+- WTI crude: about $101.35 a barrel (-0.40%). [Brent settled at $110.74](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92), down 0.9%.
 - 10-year Treasury yield: about 4.99%.
 - Japan's Nikkei 225 [fell 0.80% to 62,189.65](https://www.nikkei.com/article/DGXZQOFL2618RTW6A021C2000000/), its lowest level since July 30.
-- USD/JPY: [157.45](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference rate, Oct. 26).
+- USD/JPY: [157.45](https://api.frankfurter.app/2026-10-26?from=USD&to=JPY) (ECB reference rate, Oct. 26).
 
 ## Stocks in Focus
 
-- **AI and semiconductors (Nvidia, Broadcom, Micron):** [Buying picked up](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html) after Anthropic's public filing showed about $16.3 billion in revenue for the first half of the year.
+- **AI stocks (including Nvidia):** [Nvidia rose 2.4%](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92) after Anthropic's public filing. The company's [SEC filing](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.htm) showed about $16.29 billion in revenue for the first half of the year, while volatility persisted across the sector.
 
 *Not investment advice; this is not a recommendation to buy or sell any security.*
 
 ## Also Abroad
 
-- In Europe, Serbian President Vučić [conceded defeat](https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won) to the student-led Student List, which appears set to win a majority; final counts are still provisional.
-- In Brazil, [Lula won a fourth term with 51.8% of the vote](https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge); Flávio Bolsonaro has not conceded.
+- In Europe, Serbian President Vučić [conceded defeat](https://apnews.com/article/fdf5def8a20aebc8ae139fd719478775) to the student-led Student List, which appears set to win a majority; final counts are still provisional.
+- In Brazil, [Lula won a fourth term with 51.8% of the vote](https://apnews.com/article/03308034b03be5e3dd1ee65b9fc9e90d); Flávio Bolsonaro has not conceded.
 
 ---
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Yahoo Finance: Stock market today, Monday October 26](https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html)
-- [BNN Bloomberg: Markets today, Oct 26](https://bnnbloomberg.ca/markets/2026/10/26/world-shares-mostly-advance-after-a-decline-on-wall-street-and-oil-prices-fall-more-than-1)
+- [AP: Wall Street rises as AI stocks keep swinging](https://apnews.com/article/be3a56f58a77c5be863f0289d280be92)
+- [SEC: Anthropic Form S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/0001628280-26-067168-index.htm)
+- [Federal Reserve: October 2026 official calendar](https://www.federalreserve.gov/newsevents/2026-october.htm?view=calendar)
 - [Nikkei: Nikkei average extends losses on oil and AI worries](https://www.nikkei.com/article/DGXZQOFL2618RTW6A021C2000000/)
 - [CNBC: Trump says he'll soon decide whether to make a deal with Iran](https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html)
-- [The New Arab: Saudi-led talks in Tehran](https://www.newarab.com/news/iran-meet-saudi-pakistan-turkey-security-talks)
-- [Euronews: Vučić concedes defeat](https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won)
-- [Fox News: Lula wins fourth term](https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge)
-- Market data: [frankfurter API](https://api.frankfurter.app/)
+- [AP: Delegations meet in Tehran to avert renewed fighting](https://apnews.com/article/36486edb61b3bf4e0df67e8a17123e44)
+- [AP: Vučić concedes defeat](https://apnews.com/article/fdf5def8a20aebc8ae139fd719478775)
+- [AP: Lula wins fourth term](https://apnews.com/article/03308034b03be5e3dd1ee65b9fc9e90d)
+- Market data: [frankfurter API](https://api.frankfurter.app/2026-10-26?from=USD&to=JPY)
 
 </div>
 
