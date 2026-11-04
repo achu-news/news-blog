@@ -10,11 +10,11 @@ permalink: /2026/11/05/daily-briefing/
 
 ## 今日のポイント
 
-アメリカの中間選挙で、野党・民主党が上院と下院の両方で多数派を握る流れになりました。この結果を受けて、イラン戦争が早く終わるのではという期待が広がり、原油が大きく下落。ニューヨーク株式市場ではダウ平均が[1,569ドル高](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)と、約1年半ぶりの大きな上げ幅になりました。一方、東京市場は前日にAI・半導体株が売られて続落。同じニュースでも、市場によって受け止め方が分かれた一日でした。
+アメリカの中間選挙で、野党・民主党が上院と下院の両方で多数派を握りました。一党支配の終了と原油安を市場が好感し、ニューヨーク株式市場ではダウ平均が[1,569.40ドル高](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)となりました。一方、東京市場はAI・半導体株が売られて続落。同じニュースでも、市場によって受け止め方が分かれた一日でした。
 
 ## 今日の羅針盤（Compass Insight）
 
-今回の値動きの面白いところは、「選挙結果＝株高」と単純には言えない点です。ダウ平均や欧州株が大きく上がったのは、民主党の勝利で政権がイラン戦争の出口を探りやすくなる、つまり原油とインフレの重しが軽くなると市場が読んだからです。実際、共和党側からも[戦争が敗因だったとの声](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)が出ています。
+今回の値動きの面白いところは、「選挙結果＝株高」と単純には言えない点です。米株が上がった背景には、ウォール街が政策の急変を抑えやすい「ねじれ議会」を好む傾向に加え、原油安でインフレ圧力が和らぐとの期待がありました。共和党側からも[戦争が敗因だったとの声](https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0)が出ています。
 
 一方で、民主党は[AI規制に前向きとみられている](https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/)ため、日本ではキオクシアやアドバンテストなどAI・半導体関連が売られました。「景気敏感株やインフラ以外の銘柄へ資金が移る」動きが、日米で同時に起きているわけです。
 
@@ -30,11 +30,11 @@ permalink: /2026/11/05/daily-briefing/
 
 ### 世界
 - イランとアメリカの停戦協議は続いていますが、合意には至っていません。イラン側は[停戦の前倒しを求めている](https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us)と報じられています。
-- トランプ大統領は選挙結果を受け入れる考えを示し、[「民主党とうまくやっていく」と発言](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)したと伝えられています。
+- トランプ大統領は選挙後、[民主党との協力に前向きな姿勢を示す一方、法案への拒否権行使にも言及](https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0)しました。
 
 ### アメリカ
-- 上院は民主党が[過半数を獲得すると報じられ](https://www.cbsnews.com/live-updates/senate-election-results-2026/)、与野党が入れ替わる見通し。下院も民主党が[250議席以上の勢い](https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html)と報じられました（集計は継続中のため、最終結果は今後変わる可能性があります）。
-- ヴァンス副大統領は、共和党の敗因について[イラン戦争を挙げた](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)と伝えられています。
+- 民主党は[上下両院の多数派を獲得](https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0)しました。上院では少なくとも54議席を確保し、下院でも過半数の218議席を大きく上回る見通しです（集計継続中）。
+- ヴァンス副大統領は、共和党の敗因について[イラン戦争を挙げました](https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0)。
 
 ### ヨーロッパ
 - 欧州株は大幅高。ドイツDAXが[3.31%高](https://en.ara.cat/economy/stock-markets-celebrate-with-gains-the-defeat-of-trump-and-energy-becomes-cheaper_1_5900378.html)、フランスCAC40が1.96%高、英FTSE100が1.79%高でした。
@@ -50,16 +50,16 @@ permalink: /2026/11/05/daily-briefing/
 | NYダウ（11/4終値） | 53,356.12ドル | <span class="chg-up">+1,569.40ドル（+3.03%）</span> |
 | S&P500（11/4終値） | 7,688.62 | <span class="chg-up">+1.58%</span> |
 | ナスダック総合（11/4終値） | 25,736.51 | <span class="chg-up">+1.44%</span> |
-| WTI原油（11/4終値、報道ベース） | 約88ドル/バレル | <span class="chg-down">約-8%</span> |
-| ブレント原油（11/4終値、報道ベース） | 約94.6ドル/バレル | <span class="chg-down">約-9%</span> |
+| WTI原油（11/4終値） | 88.08ドル/バレル | <span class="chg-down">-8.01ドル（-8.3%）</span> |
+| ブレント原油（11/4終値） | 94.62ドル/バレル | <span class="chg-down">-8.7%</span> |
 | ドル円（ECB基準 11/4） | 158.25円 | － |
 
-出典は[日経平均](https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/)、[米株](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)、[原油](https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448)、為替は[frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY)（基準日2026-11-04）。原油の水準は報道によって数字が少し異なるため、おおよその目安として見てください。
+出典は[日経平均](https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/)、[米株とブレント原油](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)、[WTI原油](https://piqmarkets.com/story/north-sea-crude-falls-as-traders-weigh-iran-de-escalation-after-trump-midterm-defeat)、為替は[frankfurter APIの11月4日分](https://api.frankfurter.app/2026-11-04?from=USD&to=JPY)（ECB参考レート）。
 
-選挙結果が「戦争終結への圧力」と受け止められ、原油が約1か月ぶりに[1バレル100ドルを割り込みました](https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448)。ただし90ドル前後はなお高水準で、ホルムズ海峡の再開など実際の進展待ちです。
+民主党の議会多数派獲得で、戦争縮小への圧力が強まるとの見方から、ブレント原油は[94.62ドルまで下落](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)しました。ただし90ドル台はなお高水準で、停戦交渉など実際の進展待ちです。
 
 ### アメリカの経済
-米10年国債の利回りは[約4.93%](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)と高い水準にあります。原油安がインフレ懸念を和らげるかどうかが、今後の金利観測を左右しそうです。景気に敏感な銘柄や生活必需品株に資金が向かい、消費関連の株が買われました。
+米10年国債の利回りは[4.88%へ低下](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)しました。原油安がインフレ懸念を和らげるかどうかが、今後の金利観測を左右しそうです。ヘルスケアや低価格小売りなどの株が買われました。
 
 ### 日本の経済
 ドル円は158円台で推移しています。民主党優勢の報道でドル売りが強まり、4日の東京市場では[円がやや上昇](https://www.bloomberg.com/jp/news/articles/2026-11-04/TNY7AOKK3NY800)したと伝えられました。市場では[日銀の12月追加利上げ](https://www.dlri.co.jp/report/macro/666804.html)を意識する見方もあり、円相場の方向感を探る展開が続いています。
@@ -67,7 +67,7 @@ permalink: /2026/11/05/daily-briefing/
 ## 今日の注目銘柄・セクター
 
 - **アップル**：[6%上昇し、過去最高値の354.33ドル](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)。データセンター建設の鈍化でメモリー半導体のコスト負担が軽くなるとの見方が材料とされました。
-- **エヌビディアやAIインフラ関連**：エヌビディアが[約3%下落](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)。データセンターへの規制強化への警戒から、新興AIクラウド企業も売られました。
+- **エヌビディアやAIインフラ関連**：エヌビディアが[3.2%下落し、CoreWeaveも9.9%安](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)。データセンターへの規制強化への警戒が重荷になりました。
 - **日本のAI・半導体株**：[キオクシア、アドバンテスト](https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/)などが売られました。
 - **再生可能エネルギー関連**：政策転換への期待から[上昇](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)しました。
 
@@ -83,17 +83,17 @@ permalink: /2026/11/05/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [CNBC: Dow soars 1,500 points on Democratic win, falling oil（市場まとめ）](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)
-- [CBS News: 2026 Senate midterm election results](https://www.cbsnews.com/live-updates/senate-election-results-2026/)
-- [CNBC: 2026 midterm election results live updates](https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html)
+- [AP：民主党が上下両院を獲得](https://apnews.com/article/congress-democratic-blue-wave-midterms-house-senate-9c5c4c5283f58b1ae0786e2f410c21a0)
+- [AP：米株高、ブレント原油安と市場の反応](https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182)
+- [CNBC：アップル株など個別銘柄の動き](https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html)
 - [読売新聞（Infoseek）: 日経平均終値は893円安の6万2188円](https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/)
-- [NBC News: Oil prices drop below $100 as midterms fuel hope for an end to the Iran war](https://www.nbcnews.com/business/energy/oil-prices-iran-war-midterms-rcna607448)
+- [Reuters：WTI原油は88.08ドル](https://piqmarkets.com/story/north-sea-crude-falls-as-traders-weigh-iran-de-escalation-after-trump-midterm-defeat)
 - [ARA: Stock markets celebrate with gains the defeat of Trump](https://en.ara.cat/economy/stock-markets-celebrate-with-gains-the-defeat-of-trump-and-energy-becomes-cheaper_1_5900378.html)
 - [Bloomberg: 円やや上昇、米中間選挙開票にらむ](https://www.bloomberg.com/jp/news/articles/2026-11-04/TNY7AOKK3NY800)
 - [Al Jazeera: Iran pushing accelerated plan for ceasefire talks with US](https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us)
 - [第一生命経済研究所: 158円を挟んで膠着するドル円相場](https://www.dlri.co.jp/report/macro/666804.html)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/latest?from=USD&to=JPY) ／ Yahoo Finance ほか
+- 市場データ: [frankfurter API（11月4日）](https://api.frankfurter.app/2026-11-04?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任でお願いします。*
 
 </div>
