@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "AI stocks crater after Democratic midterm sweep; jobs beat revives Fed hike bets — November 8, 2026"
-date: 2026-11-08 07:55:00 +0900
+date: 2026-11-08 07:40:00 +0900
 headline: "AI stocks crater after Democratic midterm sweep; jobs beat revives Fed hike bets"
 permalink: /2026/11/08/daily-briefing/
 ---
