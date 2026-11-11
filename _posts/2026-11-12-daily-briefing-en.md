@@ -1,17 +1,17 @@
 ---
 layout: post
 lang: en
-title: "Hot CPI Lifts Fed Hike Bets, Yen Hits 159 as AI Stocks Rally — November 12, 2026"
+title: "Hot CPI Lifts Hike Bets as AI Stocks Rally — November 12, 2026"
 date: 2026-11-12 07:38:00 +0900
-headline: "Hot CPI Lifts Fed Hike Bets, Yen Hits 159 as AI Stocks Rally"
+headline: "Hot CPI Lifts Hike Bets as AI Stocks Rally"
 permalink: /2026/11/12/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- A hotter-than-expected October CPI pushed markets to price in a [December Fed rate hike](https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html); the 10-year Treasury yield rose to near 5%.
+- A hotter-than-expected [October CPI reading](https://www.bls.gov/news.release/cpi.nr0.htm) pushed the [odds of a December Fed rate hike](https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457) higher. Governor Christopher Waller said a [half-point move should be considered](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm) if core inflation remained at 0.3% or more.
   *Why it matters:* Higher-for-longer rates raise borrowing costs for mortgages and corporate debt, and strengthen the dollar against the yen.
-- Wall Street [closed higher on Wednesday](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html), led by AI and chip stocks, with the Nasdaq up about 1.6%.
+- Wall Street [closed higher on Wednesday](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e), led by AI and chip stocks, with the Nasdaq up 1.6%.
   *Why it matters:* The rally shows investors still prize AI growth even as rate-hike fears build, so the market's next move hinges on earnings versus yields.
 - Qatar's prime minister met President Trump on Monday about a possible Iran deal to reopen the Strait of Hormuz; [no agreement has been announced](https://fortune.com/2026/11/11/qatar-signals-progress-on-iran-deal-but-gulf-fears-persist).
   *Why it matters:* The outcome swings oil prices, and with them gasoline and inflation.
@@ -24,9 +24,9 @@ Today's tape is a tug-of-war: rising rate expectations on one side, AI optimism 
 ## Markets
 
 - Nikkei 225 closed at [61,248.59](https://news.yahoo.co.jp/articles/3514f6eb2b4c88c0bf88351229494635504bc300), up 789.01 points.
-- S&P 500 finished near [7,619](https://cappnotes.substack.com/p/closing-look-wednesday-november-11), up roughly 1.3%; the Nasdaq rose about 1.6% to near [25,466](https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html).
-- USD/JPY was [159.23 on the ECB reference rate for Nov. 11](https://api.frankfurter.app/latest?from=USD&to=JPY).
-- WTI was in the mid-$80s intraday, after settling at [$86.04 on Tuesday](https://leprivatebanker.com/2026/11/11/oil-rebounds-from-two-month-lows-as-hormuz-shipping-attacks-cut-across-iran-truce-hopes/).
+- S&P 500 closed at 7,619.38 (+1.31%); the Nasdaq rose 1.60% to 25,466.19, and the Dow gained 0.49% to 52,486.49.
+- USD/JPY was [159.23 on the ECB reference rate for Nov. 11](https://api.frankfurter.app/2026-11-11?from=USD&to=JPY).
+- Brent crude settled at $92.76 a barrel, up 1.4%. The [U.S. bond market was closed](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026) for Veterans Day.
 
 ## Stocks in Focus
 
@@ -36,12 +36,16 @@ Today's tape is a tug-of-war: rising rate expectations on one side, AI optimism 
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [CNBC: Market spooked as Fed may need a supersized December hike](https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html)
+- [BLS: Consumer Price Index, October 2026](https://www.bls.gov/news.release/cpi.nr0.htm)
+- [AP: Inflation broadens as Fed officials consider faster hikes](https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457)
+- [Federal Reserve: Governor Waller speech, Nov. 10](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)
+- [AP: U.S. stocks and oil close, Nov. 11](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e)
+- [SIFMA: U.S. bond market closed Nov. 11](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026)
 - [Yahoo Finance: Stock market today, Nov. 11](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html)
 - [Fortune: Qatar signals progress on Iran deal](https://fortune.com/2026/11/11/qatar-signals-progress-on-iran-deal-but-gulf-fears-persist)
 - [Bloomberg: China extends pause on 24% U.S. tariffs](https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate)
-- [CNBC: Nasdaq gains as AI trade revives](https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html)
-- Market data: [frankfurter API](https://api.frankfurter.app/)
+- [Kyodo via Yahoo! Japan: Nikkei close, Nov. 11](https://news.yahoo.co.jp/articles/3514f6eb2b4c88c0bf88351229494635504bc300)
+- Market data: [Frankfurter API, Nov. 11](https://api.frankfurter.app/2026-11-11?from=USD&to=JPY)
 
 </div>
 

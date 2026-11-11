@@ -43,18 +43,16 @@ permalink: /2026/11/12/daily-briefing/
 | 指標 | 水準 | 前日比など |
 |---|---|---|
 | 日経平均株価（11日終値） | [61,248.59円](https://news.yahoo.co.jp/articles/3514f6eb2b4c88c0bf88351229494635504bc300) | <span class="chg-up">+789.01円</span> |
-| S&P500（11日終値） | [約7,619](https://cappnotes.substack.com/p/closing-look-wednesday-november-11) | <span class="chg-up">約+1.3%</span> |
-| ナスダック総合（11日終値） | [約25,466](https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html) | <span class="chg-up">約+1.6%</span> |
-| ダウ平均（11日終値） | [約52,500ドル](https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-048-5019892) | <span class="chg-up">約+0.5%</span> |
-| ドル円 | [159.23円（ECB基準日11月11日）](https://api.frankfurter.app/latest?from=USD&to=JPY) | 円安方向。NY時間には[159円台半ば](https://fx.minkabu.jp/news/384166)まで |
-| WTI原油 | 86ドル台（11日の取引中） | 10日の[終値86.04ドル](https://leprivatebanker.com/2026/11/11/oil-rebounds-from-two-month-lows-as-hormuz-shipping-attacks-cut-across-iran-truce-hopes/)から小幅反発 |
+| S&P500（11日終値） | [7,619.38](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e) | <span class="chg-up">+98.45（+1.31%）</span> |
+| ナスダック総合（11日終値） | 25,466.19 | <span class="chg-up">+400.31（+1.60%）</span> |
+| ダウ平均（11日終値） | 52,486.49 | <span class="chg-up">+254.60（+0.49%）</span> |
+| ドル円 | [159.23円（ECB基準日11月11日）](https://api.frankfurter.app/2026-11-11?from=USD&to=JPY) | 円安方向 |
+| ブレント原油（11日終値） | 1バレル92.76ドル | <span class="chg-up">+1.4%</span> |
 
-*※ダウとナスダックは媒体によって数字に差があります。上記は代表的な報道値です。*
-
-原油は、イラン情勢の和平期待で[ブレントが一時90ドルを割り込み](https://cnbc.com/2026/11/10/oil-prices-trump-iran.html)ましたが、11日はホルムズ海峡でのタンカー被害の報道で反発しました。和平が進めば下落、緊張が高まれば上昇、という振れやすい状態です。
+原油は、イラン情勢の和平期待で前日に下げましたが、11日は[ブレントが1.4%高の92.76ドル](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e)へ反発しました。和平が進めば下落、緊張が高まれば上昇、という振れやすい状態です。
 
 ### アメリカの経済
-10月のCPIは前月比0.4%上昇と、市場予想の0.3%を上回りました。FRBのウォラー理事が12月の利上げを支持する発言をしており、市場では25ベーシスポイント（0.25%）の利上げが有力視されています。一部には、より大きな利上げの可能性を指摘する声もあります（[Benzinga](https://www.benzinga.com/markets/macro-economic-events/26/11/63125711/fed-falling-behind-inflation-bank-of-america-half-point-hike-december)）。長期金利（米10年債）は5%に迫る水準まで上昇しました。
+10月のCPIは[前月比0.4%上昇](https://www.bls.gov/news.release/cpi.nr0.htm)と、市場予想の0.3%を上回りました。FRBのウォラー理事は12月の0.25%利上げを支持しつつ、コアCPIが0.3%以上なら[0.5%利上げも検討すべきだ](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)と述べました。11日は退役軍人の日で[米債券市場が休場](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026)だったため、新たな現物債の終値はありませんでした。
 
 ### 日本の経済
 日経平均は[AI投資への警戒感が和らいだことで](https://ryukyushimpo.jp/kyodo/entry-5597283.html)ハイテク株が買われ、続伸しました。為替は[円安が進行](https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261111/)しており、160円付近では為替介入への警戒感も意識されています。
@@ -79,14 +77,22 @@ permalink: /2026/11/12/daily-briefing/
 **出典：**
 - [CNBC：12月に大幅利上げの可能性で市場が動揺](https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html)
 - [Yahoo Finance：11月11日の米株式市場](https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html)
+- [AP：11月11日の米株・原油終値](https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e)
+- [米労働統計局：2026年10月CPI](https://www.bls.gov/news.release/cpi.nr0.htm)
+- [FRB：ウォラー理事講演（11月10日）](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)
+- [SIFMA：11月11日の米債券市場休場](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026)
 - [共同通信（Yahoo!ニュース）：東証終値789円高](https://news.yahoo.co.jp/articles/3514f6eb2b4c88c0bf88351229494635504bc300)
 - [OANDA：ドル円見通し（2026年11月11日）](https://www.oanda.jp/lab-education/market_news/report_usdjpy_20261111/)
 - [Fortune：カタールの米イラン仲介](https://fortune.com/2026/11/11/qatar-signals-progress-on-iran-deal-but-gulf-fears-persist)
 - [Euronews：EU予算とウクライナ支援をめぐる対立](https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid)
+- [Euronews：ウクライナ和平協議とEU予算](https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says)
 - [Bloomberg：中国が対米関税24%の停止を延長](https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate)
 - [nippon.com：消費減税法案、参院審議入り](https://www.nippon.com/ja/articles/-/57259)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- [東京新聞：消費減税法案の審議](https://www.tokyo-np.co.jp/article/527497)
+- [日刊スポーツ／Yahoo!ニュース：消費減税法案](https://news.yahoo.co.jp/articles/7503749c304c888e9a12b5167bbfafacac5d6794)
+- [共同通信（琉球新報）：日経平均続伸](https://ryukyushimpo.jp/kyodo/entry-5597283.html)
+- 市場データ: [Frankfurter API（11月11日）](https://api.frankfurter.app/2026-11-11?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事はAIによる自動生成です。公開情報をもとに作成しており、投資助言ではありません。*
 
 </div>
