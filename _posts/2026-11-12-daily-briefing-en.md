@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Hot CPI Lifts Fed Hike Bets, Yen Hits 159 as AI Stocks Rally — November 12, 2026"
-date: 2026-11-12 07:45:00 +0900
+date: 2026-11-12 07:38:00 +0900
 headline: "Hot CPI Lifts Fed Hike Bets, Yen Hits 159 as AI Stocks Rally"
 permalink: /2026/11/12/daily-briefing/
 ---
