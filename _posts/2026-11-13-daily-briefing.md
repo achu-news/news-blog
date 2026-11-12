@@ -1,16 +1,16 @@
 ---
 layout: post
 lang: ja
-title: "エヌビディアCEOが辞任、日経平均は6万819円に反落｜11月13日のニュースとお金"
+title: "エヌビディアCEO辞任でAI株動揺、日経平均は6万819円に反落｜11月13日のニュースとお金"
 date: 2026-11-13 07:38:00 +0900
 categories: [ニュース, 経済]
-headline: "エヌビディアCEOが辞任、日経平均は6万819円に反落"
+headline: "エヌビディアCEO辞任でAI株動揺、日経平均は6万819円に反落"
 permalink: /2026/11/13/daily-briefing/
 ---
 
 ## 今日のポイント
 
-AI相場の主役、エヌビディアのジェンスン・ファンCEOが[辞任を発表](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)し、日米の株式市場が揺れました。さらに米国では物価の強さから12月の利上げがほぼ織り込まれ、金利上昇が株の重しになっています。日本では食料品の消費税を下げる法案が参議院で本格的な議論に入りました。
+AI相場の主役、エヌビディアのジェンスン・ファンCEOが[辞任を発表](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)し、日米の株式市場が揺れました。さらに米国では物価の強さから12月の利上げ観測が強まり、金利上昇が株の重しになっています。日本では食料品の消費税を下げる法案が参議院で本格的な議論に入りました。
 
 ## 今日の羅針盤（Compass Insight）
 
@@ -32,7 +32,7 @@ AI相場の主役、エヌビディアのジェンスン・ファンCEOが[辞�
 - エヌビディアはファンCEOの辞任と、コレット・クレスCFOの暫定CEO就任を[発表](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)。取締役会は後任CEOの選定に入ります。
 
 ### アメリカ
-- ニューヨーク株式市場は[エヌビディア株の急落と原油の乱高下に揺れた](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/)ものの、寄り付きの下げの大半を戻して小幅安で終えました。
+- ニューヨーク株式市場は[エヌビディア株の急落と原油の乱高下に揺れた](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a)ものの、寄り付きの下げの大半を戻して小幅安で終えました。
 - 10月の消費者物価指数（CPI）が予想を上回り、[債券利回りが約19カ月ぶりの大きさで上昇](https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed)しました。
 
 ### ヨーロッパ
@@ -46,25 +46,26 @@ AI相場の主役、エヌビディアのジェンスン・ファンCEOが[辞�
 | 指標 | 水準 | 前日比 |
 |---|---|---|
 | 日経平均株価（12日終値） | [60,819.36円](https://www.daily.co.jp/society/economics/2026/11/12/0021026566.shtml) | <span class="chg-down">-429.23円（-0.70%）</span> |
-| NYダウ（12日終値） | [52,297.09ドル](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/) | <span class="chg-down">-189.40ドル</span> |
-| S&P500（12日終値） | [7,592.40](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/) | <span class="chg-down">-26.98</span> |
-| ナスダック総合（12日終値） | [25,366.09](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/) | <span class="chg-down">-100.10</span> |
-| ドル円（11月12日、ECB基準） | [159.70円](https://api.frankfurter.app/latest?from=USD&to=JPY) | 160円目前で推移 |
+| NYダウ（12日終値） | [52,297.09](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a) | <span class="chg-down">-189.40ポイント（-0.4%）</span> |
+| S&P500（12日終値） | [7,592.40](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a) | <span class="chg-down">-26.98ポイント（-0.4%）</span> |
+| ナスダック総合（12日終値） | [25,366.09](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a) | <span class="chg-down">-100.10ポイント（-0.4%）</span> |
+| ドル円（11月12日、ECB基準） | [159.70円](https://api.frankfurter.app/2026-11-12?from=USD&to=JPY) | 160円目前で推移 |
+| 北海ブレント原油（12日終値） | [95.82ドル](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a) | <span class="chg-up">+3.3%</span> |
 
-原油（WTI）は[報道により85〜89ドル台と幅があり](https://arbiterz.com/oil-prices-today-brent-falls-0-95-to-91-88-wti-drops-below-86/)、確定した終値は確認できていません。このため本稿では水準を断定しません。
+北海ブレント原油は、供給不安を背景に前日比3.3%高の95.82ドルで終えました。米10年債利回りも4.98%から5.12%へ上昇し、株式市場の重しになりました。
 
 日経平均は、前場にプラス圏だったものの後場に下落へ転じ、AI・半導体関連株への売りが広がりました。一方でTOPIXは上昇しており、全面安ではなく「AI関連の調整」の色合いが濃い日でした。
 
 ### アメリカの経済
-10月のCPIは前月比0.4%上昇、コア（食品・エネルギー除く）は0.3%上昇で、いずれも予想を上回りました。FRBのウォーラー理事は、コアCPIが0.3%程度以上なら12月に[0.5%の利上げも検討すべき](https://www.cnbc.com/2026/11/10/market-spooked-because-now-the-fed-may-need-a-supersized-hike-in-december.html)との見方を示しており、市場では12月の利上げがほぼ織り込まれています（確率は報道により9割弱〜ほぼ100%と幅あり）。
+10月のCPIは[前月比0.4%上昇、コア（食品・エネルギー除く）は0.3%上昇](https://www.bls.gov/news.release/cpi.nr0.htm)でした。FRBのウォーラー理事は、コアCPIが0.3%程度以上なら12月に[0.5%の利上げも検討すべき](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)との見方を示しており、市場では12月の利上げ観測が強まっています。
 
 ### 日本の経済
 円相場は[159円台後半](https://newspremier.com/news/20261112-1eae5d608286/)で、一時は160円に迫りました。財務官の牽制発言で介入への警戒感も強まっています。日銀の審議委員が追加利上げのペースに慎重な発言をしたことも、円売りの材料として受け止められました。
 
 ## 今日の注目銘柄・セクター
 
-- **エヌビディア（米）**：CEO辞任の発表を受け、寄り付きで1割超下げ、終値でも4%超安となりました。AI投資の象徴的存在のため、トップ交代が半導体・AI関連全体の心理に影響しています。
-- **石油関連株（米）**：原油の変動の中で、[マラソン・ペトロリアムが2.5%高、エクソンモービルが1.8%高](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/)と、相場の下支え役になりました。
+- **エヌビディア（米）**：CEO辞任の発表を受け、一時14%安となり、終値でも4.3%安となりました。AI投資の象徴的存在のため、トップ交代が半導体・AI関連全体の心理に影響しています。
+- **石油関連株（米）**：原油の上昇を受け、[マラソン・ペトロリアムが2.5%高、エクソンモービルが1.8%高](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a)と、相場の下支え役になりました。
 - **AI・半導体関連株（日本）**：日経平均を押し下げる要因となり、[後場に売りが広がりました](https://kabutan.jp/news/marketnews/?b=n202611121070)。
 
 *※特定銘柄の売買を推奨するものではありません。投資判断はご自身の責任で。*
@@ -80,16 +81,22 @@ AI相場の主役、エヌビディアのジェンスン・ファンCEOが[辞�
 
 **出典：**
 - [SEC：NVIDIA 8-K（CEO交代）](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)
-- [AP配信：ウォール街の終値報道](https://www.cmg-plus.com/2026/11/12/wall-street-shakes-with-swings-for-nvidia-and-oil-prices-but-recovers-most-of-its-early-losses/)
+- [AP：ウォール街の終値・原油・米国債利回り](https://apnews.com/article/stock-markets-oil-ai-earnings-nvidia-8bf08407eafe1655ed73112f7494029a)
 - [デイリースポーツ：東証反落、終値6万819円](https://www.daily.co.jp/society/economics/2026/11/12/0021026566.shtml)
 - [株探：日経平均 大引け](https://kabutan.jp/news/marketnews/?b=n202611121070)
 - [日本経済新聞：消費税減税法案が参院審議入り](https://www.nikkei.com/article/DGXZQOUA110C40R11C26A1000000/)
 - [NHK：消費税減税法案 参院で審議入り](https://news.web.nhk/newsweb/na/nd-20261112de74498)
+- [nippon.com：消費減税法案をめぐる首相発言](https://www.nippon.com/ja/articles/-/57259)
 - [The Moscow Times：アブダビ協議](https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227)
 - [Euronews：EU予算をめぐる対立](https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid)
+- [Euronews：EU高官チームをアブダビ協議へ派遣](https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi)
 - [CNN：債券利回りの急上昇](https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- [米労働統計局：10月の消費者物価指数](https://www.bls.gov/news.release/cpi.nr0.htm)
+- [FRB：ウォーラー理事講演](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)
+- [OANDA：ドル円相場](https://www.oanda.jp/lab-education/market_news/mn_1043636_202611121539/)
+- [共同通信：ドル円相場と財務官発言](https://newspremier.com/news/20261112-1eae5d608286/)
+- [Frankfurter API：11月12日のドル円](https://api.frankfurter.app/2026-11-12?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。投資助言ではありません。*
 
 </div>
