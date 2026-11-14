@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米卸売物価が4年ぶり高水準、エヌビディアCEO辞任でハイテク株安｜11月15日のニュースとお金"
-date: 2026-11-15 07:50:00 +0900
+date: 2026-11-15 07:41:27 +0900
 categories: [ニュース, 経済]
 headline: "米卸売物価が4年ぶり高水準、エヌビディアCEO辞任でハイテク株安"
 permalink: /2026/11/15/daily-briefing/

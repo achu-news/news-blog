@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "U.S. Wholesale Inflation Hits a Four-Year High as Nvidia CEO Exit Rattles Tech — November 15, 2026"
-date: 2026-11-15 07:50:00 +0900
+date: 2026-11-15 07:41:27 +0900
 headline: "U.S. Wholesale Inflation Hits a Four-Year High as Nvidia CEO Exit Rattles Tech"
 permalink: /2026/11/15/daily-briefing/
 ---
