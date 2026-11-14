@@ -1,9 +1,9 @@
 ---
 layout: post
 lang: en
-title: "U.S. Wholesale Inflation Hits a Four-Year High as Nvidia CEO Exit Rattles Tech — November 15, 2026"
+title: "Wholesale Inflation Hits 6.5% as Tech Slips — November 15, 2026"
 date: 2026-11-15 07:41:27 +0900
-headline: "U.S. Wholesale Inflation Hits a Four-Year High as Nvidia CEO Exit Rattles Tech"
+headline: "Wholesale Inflation Hits 6.5% as Tech Slips"
 permalink: /2026/11/15/daily-briefing/
 ---
 
@@ -11,11 +11,11 @@ permalink: /2026/11/15/daily-briefing/
 
 ## Top U.S. Stories
 
-- U.S. producer prices rose 0.3% in October, a touch below the 0.4% economists expected, but the annual rate [hit 6.5%](https://www.detroitnews.com/story/business/2026/11/13/producer-prices-up-at-highest-annual-rate-in-four-years-in-october/92756973007/), the fastest since late 2022.
-  *Why it matters:* Prices businesses pay tend to filter through to shoppers, and food costs were a standout. Markets now see a quarter-point Fed hike in December as [very likely](https://www.tokenpost.com/news/investing/56743), which keeps borrowing costs elevated.
-- Nvidia CEO Jensen Huang [resigned](https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470) on Thursday; CFO Colette Kress was named interim chief. Reports tie the exit to personal conduct, and the details remain unconfirmed.
+- U.S. producer prices rose 0.3% in October, a touch below the 0.4% economists expected, but the annual rate [hit 6.5%](https://www.bls.gov/news.release/archives/ppi_11132026.htm), the fastest since late 2022.
+  *Why it matters:* Prices businesses pay tend to filter through to shoppers, and a December Fed hike is widely expected, which keeps borrowing costs elevated.
+- Nvidia CEO Jensen Huang [resigned](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm) on Thursday; CFO Colette Kress was named interim chief.
   *Why it matters:* Nvidia is the bellwether of the AI trade. Its shares closed more than 4% lower Thursday and fell again Friday, pushing its market value [below $4 trillion](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html) for the first time since July 2025.
-- The IEA says the oil market should swing into [surplus](https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-says-iea/) in the fourth quarter as Gulf exports recover, though Middle East security risks persist.
+- The IEA says the oil market should swing into [surplus](https://www.iea.org/reports/oil-market-report-november-2026) in the fourth quarter as Gulf exports recover, though Middle East security risks persist.
   *Why it matters:* A surplus could ease pressure on fuel prices, but any new disruption in the Gulf could quickly reverse that.
 - Ukraine–Russia talks in Abu Dhabi ended with a [prisoner-exchange agreement](https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu) but no breakthrough on a ceasefire or territory.
 
@@ -27,7 +27,7 @@ At the same time, the Nvidia leadership shock is a reminder that an AI-driven ra
 
 ## Markets
 
-Friday's close: the [Dow rose 0.1% to 52,347.55](https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html), while the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq slid 0.9% to 25,136.27. For the week, the S&P 500 gained about 2.5% and the Nasdaq about 2.3%. In Tokyo, the Nikkei rose 322.99 points, or 0.53%, to [61,142.35](https://kabutan.jp/news/marketnews/?b=n202611131287). WTI crude eased [0.2% to about $88.56](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/) a barrel, and the dollar was at [160.00 yen](https://api.frankfurter.app/latest?from=USD&to=JPY) (ECB reference rate, Nov. 13).
+Friday's close: the [Dow rose 0.1% to 52,347.55](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74), while the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq slid 0.9% to 25,136.27. For the week, the S&P 500 gained 2.5% and the Nasdaq 2.3%. In Tokyo, the Nikkei rose 322.99 points, or 0.53%, to [61,142.35](https://kabutan.jp/news/marketnews/?b=n202611131287). WTI crude eased [0.2% to $88.56](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/) a barrel, and the dollar was at [160.00 yen](https://api.frankfurter.app/2026-11-13?from=USD&to=JPY) (ECB reference rate, Nov. 13).
 
 ## Stocks in Focus
 
@@ -39,13 +39,15 @@ Friday's close: the [Dow rose 0.1% to 52,347.55](https://www.washingtonpost.com/
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Detroit News: Producer prices at highest annual rate in four years](https://www.detroitnews.com/story/business/2026/11/13/producer-prices-up-at-highest-annual-rate-in-four-years-in-october/92756973007/)
-- [Washington Post: How major US stock indexes fared Friday](https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html)
-- [ABC News: Nvidia founder Jensen Huang resigns](https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470)
+- [BLS: October Producer Price Index](https://www.bls.gov/news.release/archives/ppi_11132026.htm)
+- [AP: How major US stock indexes fared Friday](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74)
+- [SEC: NVIDIA Form 8-K](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)
 - [CNBC: Nvidia closes below $4T market cap](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)
-- [The National: IEA sees oil surplus](https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-says-iea/)
+- [IEA: Oil Market Report, November 2026](https://www.iea.org/reports/oil-market-report-november-2026)
 - [Euronews: Abu Dhabi talks end with prisoner exchange](https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu)
-- Market data: [frankfurter API](https://api.frankfurter.app/), [Kabutan](https://kabutan.jp/news/marketnews/?b=n202611131287)
+- [Frankfurter API: Nov. 13 USD/JPY](https://api.frankfurter.app/2026-11-13?from=USD&to=JPY)
+- [Kabutan: Nikkei close](https://kabutan.jp/news/marketnews/?b=n202611131287)
+- [OANDA: WTI close](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/)
 
 </div>
 

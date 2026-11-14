@@ -1,10 +1,10 @@
 ---
 layout: post
 lang: ja
-title: "米卸売物価が4年ぶり高水準、エヌビディアCEO辞任でハイテク株安｜11月15日のニュースとお金"
+title: "米卸売物価6.5%で利上げ観測、エヌビディア辞任後もハイテク株安｜11月15日のニュースとお金"
 date: 2026-11-15 07:41:27 +0900
 categories: [ニュース, 経済]
-headline: "米卸売物価が4年ぶり高水準、エヌビディアCEO辞任でハイテク株安"
+headline: "米卸売物価6.5%で利上げ観測、エヌビディア辞任後もハイテク株安"
 permalink: /2026/11/15/daily-briefing/
 ---
 
@@ -12,7 +12,7 @@ permalink: /2026/11/15/daily-briefing/
 
 ## 今日のポイント
 
-アメリカの卸売物価（企業間で取引されるモノやサービスの価格）が前年より[6.5%上昇](https://www.detroitnews.com/story/business/2026/11/13/producer-prices-up-at-highest-annual-rate-in-four-years-in-october/92756973007/)し、約4年ぶりの高い伸びになりました。物価の熱が冷めないなか、12月の追加利上げ観測が強まっています。さらにAI半導体大手エヌビディアのトップ辞任が重なり、米ハイテク株は重い一週間の終わりを迎えました。
+アメリカの卸売物価（企業間で取引されるモノやサービスの価格）が前年より[6.5%上昇](https://www.bls.gov/news.release/archives/ppi_11132026.htm)し、約4年ぶりの高い伸びになりました。物価の熱が冷めないなか、12月の追加利上げ観測が強まっています。さらにAI半導体大手エヌビディアのトップ辞任が重なり、米ハイテク株は重い一週間の終わりを迎えました。
 
 ## 今日の羅針盤（Compass Insight）
 
@@ -29,10 +29,10 @@ permalink: /2026/11/15/daily-briefing/
 - 日本政府が、APEC関連の会合に合わせて、高市首相とロシアのプーチン大統領との[会談を打診している](https://news.ksb.co.jp/ann/article/17051062)と報じられています。
 
 ### 世界
-- IEA（国際エネルギー機関）は11月の月報で、原油市場が今年10〜12月期に[供給過剰へ転じる](https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-says-iea/)との見通しを示しました。中東の輸出が回復していることが背景です。ただし、中東情勢の軍事的な緊張は続いています。
+- IEA（国際エネルギー機関）は11月の月報で、原油市場が今年10〜12月期に[供給過剰へ転じる](https://www.iea.org/reports/oil-market-report-november-2026)との見通しを示しました。中東の輸出が回復していることが背景です。ただし、中東情勢の軍事的な緊張は続いています。
 
 ### アメリカ
-- エヌビディアのジェンスン・フアンCEOが12日に辞任を発表し、後任が決まるまでコレット・クレスCFOが[暫定CEOを務める](https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470)と報じられました。辞任の理由は私的な問題をめぐる報道で、詳細は確認が取れていません。
+- エヌビディアのジェンスン・フアンCEOが12日に辞任し、後任が決まるまでコレット・クレスCFOが[暫定CEOを務める](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)と発表されました。
 - 10月の卸売物価は前月比0.3%上昇、前年比6.5%上昇でした。
 
 ### ヨーロッパ
@@ -44,24 +44,24 @@ permalink: /2026/11/15/daily-briefing/
 
 | 指標 | 水準 | 前日比など |
 |---|---|---|
-| 日経平均株価 | 61,142.35円 | <span class="chg-up">+322.99円（+0.53%）</span> |
-| ダウ平均 | 52,347.55ドル | <span class="chg-up">+50.46ドル（+0.1%）</span> |
-| S&P500 | 7,561.67 | <span class="chg-down">-30.73（-0.4%）</span> |
-| ナスダック総合 | 25,136.27 | <span class="chg-down">-229.82（-0.9%）</span> |
-| WTI原油（12月限） | 88.56ドル/バレル | <span class="chg-down">-0.18ドル（-0.2%）</span> |
-| ドル円 | 160.00円 | 欧州中央銀行の参考レート（13日基準） |
+| 日経平均株価 | [61,142.35円](https://kabutan.jp/news/marketnews/?b=n202611131287) | <span class="chg-up">+322.99円（+0.53%）</span> |
+| ダウ平均 | [52,347.55](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74) | <span class="chg-up">+50.46ポイント（+0.1%）</span> |
+| S&P500 | [7,561.67](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74) | <span class="chg-down">-30.73ポイント（-0.4%）</span> |
+| ナスダック総合 | [25,136.27](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74) | <span class="chg-down">-229.82ポイント（-0.9%）</span> |
+| WTI原油（12月限） | [88.56ドル/バレル](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/) | <span class="chg-down">-0.18ドル（-0.2%）</span> |
+| ドル円 | [160.00円](https://api.frankfurter.app/2026-11-13?from=USD&to=JPY) | 欧州中央銀行の参考レート（13日基準） |
 
 日経平均は、前日の米国市場でエヌビディアが大きく売られた流れを受けつつも、東京では半導体関連株に買い戻しが入り、[反発して引けました](https://kabutan.jp/news/marketnews/?b=n202611131287)。一時は1,000円超上昇しましたが、6万2,000円が近づくと戻り売りに押されています。
 
-アメリカでは、ダウだけが小幅に上昇し、S&P500とナスダックは[下落](https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html)しました。ただし週間では、S&P500が約2.5%、ナスダックが約2.3%上昇し、いずれも5週ぶりの週間上昇です。
+アメリカでは、ダウだけが小幅に上昇し、S&P500とナスダックは[下落](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74)しました。ただし週間では、S&P500が2.5%、ナスダックが2.3%上昇しました。
 
-原油は、IEAが供給過剰への転換を示したことなどから[小幅に反落](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/)しました。為替は[ドル円が160円](https://api.frankfurter.app/latest?from=USD&to=JPY)です。
+原油は、IEAが供給過剰への転換を示したことなどから[小幅に反落](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/)しました。為替は[ドル円が160円](https://api.frankfurter.app/2026-11-13?from=USD&to=JPY)です。
 
 ### アメリカの経済
 
-10月の卸売物価は前月比0.3%の上昇で、市場予想の0.4%をやや下回りました。しかし前年比は6.5%と、2022年11月以来の高い伸びです。[食料品の上昇](https://journalarta.com/en/2026/11/14/ppi-report-october-2026-wholesale-inflation-6-5-percent/)が目立ちました。
+10月の卸売物価は[前月比0.3%の上昇](https://www.bls.gov/news.release/archives/ppi_11132026.htm)で、市場予想の0.4%をやや下回りました。しかし前年比は6.5%と、2022年11月以来の高い伸びです。
 
-この結果を受け、市場では12月に0.25%の利上げが行われるとの見方が優勢で、CMEの観測では[その確率は約9割](https://www.tokenpost.com/news/investing/56743)とされています。現在の政策金利は3.75〜4.00%です。
+この結果を受け、市場では12月の追加利上げが広く予想されています。
 
 ### 日本の経済
 
@@ -85,16 +85,18 @@ permalink: /2026/11/15/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [Detroit News: 米卸売物価、4年ぶりの高い年間上昇率](https://www.detroitnews.com/story/business/2026/11/13/producer-prices-up-at-highest-annual-rate-in-four-years-in-october/92756973007/)
-- [Washington Post: 13日の米主要株価指数](https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html)
+- [米労働統計局：10月の生産者物価指数](https://www.bls.gov/news.release/archives/ppi_11132026.htm)
+- [AP：13日の米主要株価指数](https://apnews.com/article/wall-street-stocks-dow-nasdaq-12c1e8155fb85c3c7b09e058ed6d3c74)
 - [株探: 日経平均 大引け（11月13日）](https://kabutan.jp/news/marketnews/?b=n202611131287)
-- [ABC News: エヌビディアのフアンCEOが辞任](https://www.abc.net.au/news/2026-11-13/nvidia-founder-jensen-huang-resigns/107376470)
+- [SEC：NVIDIA 8-K（CEO交代）](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)
 - [CNBC: エヌビディアの時価総額が4兆ドルを下回る](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)
-- [The National: IEA、原油市場は供給過剰へ](https://www.thenationalnews.com/business/energy/2026/11/13/oil-market-to-return-to-surplus-for-first-time-since-start-of-iran-war-says-iea/)
+- [IEA：2026年11月の石油市場月報](https://www.iea.org/reports/oil-market-report-november-2026)
 - [Euronews: アブダビ和平協議は捕虜交換で合意](https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu)
 - [NHK: 消費税減税関連法案をめぐる首相発言](https://news.web.nhk/newsweb/na/nd-20261114de75743)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ [OANDA マーケットニュース（NY原油終値）](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/) ほか
+- [KSB：日ロ首脳会談を打診](https://news.ksb.co.jp/ann/article/17051062)
+- [Frankfurter API：11月13日のドル円](https://api.frankfurter.app/2026-11-13?from=USD&to=JPY)
+- [OANDA：NY原油終値](https://www.oanda.jp/lab-education/market_news/kn_2026111401000186/)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。投資助言ではありません。*
 
 </div>
