@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Tech selloff drags Wall Street lower as Nvidia earnings loom — November 17, 2026"
-date: 2026-11-17 07:55:00 +0900
+date: 2026-11-17 07:40:00 +0900
 headline: "Tech selloff drags Wall Street lower as Nvidia earnings loom"
 permalink: /2026/11/17/daily-briefing/
 ---

@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "ハイテク株が急落、日経平均は6万円割れ｜11月17日のニュースとお金"
-date: 2026-11-17 07:55:00 +0900
+date: 2026-11-17 07:40:00 +0900
 categories: [ニュース, 経済]
 headline: "ハイテク株が急落、日経平均は6万円割れ"
 permalink: /2026/11/17/daily-briefing/
