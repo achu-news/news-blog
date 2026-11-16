@@ -1,35 +1,35 @@
 ---
 layout: post
 lang: ja
-title: "ハイテク株が急落、日経平均は6万円割れ｜11月17日のニュースとお金"
+title: "エヌビディア決算前に日米AI関連株急落、日経平均は6万円割れ｜11月17日のニュースとお金"
 date: 2026-11-17 07:40:00 +0900
 categories: [ニュース, 経済]
-headline: "ハイテク株が急落、日経平均は6万円割れ"
+headline: "エヌビディア決算前に日米AI関連株急落、日経平均は6万円割れ"
 permalink: /2026/11/17/daily-briefing/
 ---
 
 ## 今日のポイント
 
-11月16日（月）は、エヌビディアを中心としたAI・半導体株が売られ、日本と米国の株価がそろって大きく下がりました。一方で原油も値下がりし、ドル円は160円の手前で足踏みしています。きょう17日（火）の米国市場の引け後にはエヌビディアの決算発表があり、世界の投資家がその中身を待っている状況です。
+11月16日（月）は、エヌビディアを中心としたAI・半導体株が売られ、日本と米国の株価がそろって大きく下がりました。一方で原油も値下がりし、ドル円は160円の手前で足踏みしています。きょう17日（火）の米国市場の引け後には[エヌビディアの決算発表](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873)があり、世界の投資家がその中身を待っている状況です。
 
 ## 今日の羅針盤（Compass Insight）
 
-きのうの下げは、日本の景気指標が弱かったことよりも、「AIの期待が一度に冷えやすい局面」にあることが大きいと読みます。日経平均は[2.4%安の5万9,662円](https://finance.yahoo.co.jp/news/detail/51026bee69890da5d51de568999427306fa352d7)で、アドバンテストと東京エレクトロンの2銘柄だけで[約1,071円分の押し下げ](https://kabutan.jp/news/marketnews/?b=n202611161056)でした。指数が一部の半導体株に引っ張られやすいことを示す動きです。
+きのうの下げは、日本の景気指標が弱かったことよりも、「AIの期待が一度に冷えやすい局面」にあることが大きいと読みます。日経平均は[2.42%安の5万9,662.02円](https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=20261116&idx=nk225)で、アドバンテストと東京エレクトロンの2銘柄だけで[約1,071円分の押し下げ](https://kabutan.jp/news/marketnews/?b=n202611161056)でした。指数が一部の半導体株に引っ張られやすいことを示す動きです。
 
-家計への影響で見ると、注目は為替と金利です。円安が160円近辺で続くと、輸入品や電気・ガスの負担が重くなりやすい一方、米国では[12月の追加利上げが織り込まれつつある](https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html)ため、米金利の高止まりが円安を支える可能性があります。日本でも日銀の12月会合での利上げ観測が強く、住宅ローン（特に変動金利）の動向に注意が必要な局面です。
+家計への影響で見ると、注目は為替と金利です。円安が160円近辺で続くと、輸入品や電気・ガスの負担が重くなりやすい一方、米連邦準備制度理事会（FRB）のウォーラー理事は[12月会合で0.25ポイントの追加利上げを支持する考え](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)を示しています。米金利の高止まりが円安を支える可能性があります。日本でも日銀の12月会合での利上げ観測が強く、住宅ローン（特に変動金利）の動向に注意が必要な局面です。
 
 短期では、エヌビディア決算の内容と、その後の米株の反応に注目です。中長期では、AI関連への投資が収益にどうつながるのか、そして日米の金利差がどこまで円相場を左右するのかを見ておきたいところです。値動きが大きい時期なので、慌てて動かず、自分の資産配分と生活費の余裕を確認する時間にするのも一案です。
 
 ## 今日のニュース
 
 ### 日本
-- 内閣府が発表した7〜9月期の実質GDP（1次速報）は、[年率換算で0.1%減](https://www.oanda.jp/lab-education/market_news/jpgdp-q3-2026-review/)と4四半期ぶりのマイナス成長でした。市場予想は年率0.2%増でした。
-- 日経平均は[前週末比1,480円安の5万9,662円](https://www.zaikei.co.jp/article/20261116/877819.html)で取引を終え、終値で6万円を割り込みました。
+- 内閣府が発表した7〜9月期の実質GDP（1次速報）は、[年率換算で0.1%減](https://www5.cao.go.jp/keizai1/danwa/1116_danwa.pdf)と4四半期ぶりのマイナス成長でした。市場予想は[年率0.2%増](https://www.oanda.jp/lab-education/market_news/jpgdp-q3-2026-review/)でした。
+- 日経平均は[前週末比1,480.33円安の5万9,662.02円](https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=20261116&idx=nk225)で取引を終え、終値で6万円を割り込みました。
 - ドル円は[一時160.18円まで上昇したあと159円台に戻り](https://www.gaitame.com/media/entry/2026/11/16/110625)、160円台では政府・日銀による為替介入への警戒感が意識されています。
 
 ### 世界
-- [エヌビディアは11月12日、ジェンスン・フアン氏が社長・CEO・取締役を辞任したと発表](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)しました。後任は暫定でコレット・クレスCFOです。株価はその後も下落が続いています。
-- 米AI企業アンソロピックは、ナスデックに上場する計画で、[11月18日の価格決定が予定されている](https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html)と報じられています。
+- [エヌビディアは11月12日、ジェンスン・フアン氏が社長・CEO・取締役を辞任したと発表](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)しました。後任は暫定でコレット・クレスCFOです。株価はその後も下落が続いています。
+- 米AI企業アンソロピックは、ナスダックへの上場を申請しており、[引受契約は11月18日の締結を予定](https://www.sec.gov/Archives/edgar/data/2130357/000162828026073040/anthropicpbc-fwpxeeaprospea.htm)しています。
 
 ### アメリカ
 - トランプ大統領は、移民政策について[「厳しすぎた」と認め、民主党とも協力する考えを示しました](https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064)。中間選挙後の政権運営の変化が注目されています。
@@ -47,19 +47,19 @@ permalink: /2026/11/17/daily-briefing/
 | 指標 | 水準 | 前日比 |
 |---|---|---|
 | 日経平均株価（11/16終値） | 59,662.02円 | <span class="chg-down">-1,480.33円（-2.42%）</span> |
-| ダウ平均（11/16終値） | 約51,608ドル | <span class="chg-down">約-739ドル（-1.41%）</span> |
-| S&P500（11/16終値） | 約7,417 | <span class="chg-down">約-1.9%</span> |
-| ナスダック総合（11/16終値） | 約24,510 | <span class="chg-down">約-2.5%</span> |
-| WTI原油（12月限） | 約85.72ドル/バレル | <span class="chg-down">約-3.2%</span> |
+| ダウ平均（11/16終値） | 51,608.17 | <span class="chg-down">-739.38ポイント（-1.4%）</span> |
+| S&P500（11/16終値） | 7,416.59 | <span class="chg-down">-145.08ポイント（-1.9%）</span> |
+| ナスダック総合（11/16終値） | 24,509.76 | <span class="chg-down">-626.52ポイント（-2.5%）</span> |
+| WTI原油（12月限） | 85.72ドル/バレル | <span class="chg-down">-2.84ドル（-3.2%）</span> |
 | ドル円（ECB基準日11/16） | 159.60円 | 160円手前で推移 |
 
-米国の指数は[ヤフー・ファイナンス](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html)の報道、WTI原油は[リグゾーン](https://www.rigzone.com/news/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article)の報道、ドル円は[フランクフルター API](https://api.frankfurter.app/latest?from=USD&to=JPY)の値を使っています。数値は媒体によって小数点以下に差があるため「約」と表記しました。
+米国の指数は[AP通信](https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7)、WTI原油は[リグゾーン](https://www.rigzone.com/news/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article)、ドル円は[11月16日付のフランクフルター API](https://api.frankfurter.app/2026-11-16?from=USD&to=JPY)の値を使っています。
 
 原油は、国際エネルギー機関（IEA）が供給過剰を見込んでいることや、中東からの輸出の回復を背景に下げました。[ブレント原油も3%台の下落](https://www.rigzone.com/news/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article)です。ガソリンや電気料金には時間差で影響しますが、家計には追い風になりうる動きです。
 
 ### アメリカの経済
 
-米国では、[10年国債の利回りが5%台前半](https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html)と高い水準にあります。FRB（米連邦準備制度理事会）は[9月に約3年ぶりの利上げを実施し、政策金利を3.75〜4.00%にしました](https://www.axios.com/2026/09/16/fed-rates-warsh-trump)。市場では12月にもう一度の利上げを見込む声が強まっています。ウォーシュ議長が「AIは期待外れになりうる」という趣旨の発言をしたことも、ハイテク株の重しになりました。きょうは10月の小売売上高とエヌビディア決算が注目点です。
+米国では、[10年国債利回りが5.15%から5.13%へ低下](https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7)しましたが、なお高い水準です。FRBは[9月に0.25ポイントの利上げを実施し、政策金利を3.75〜4.00%にしました](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)。ウォーラー理事は12月にもう一度0.25ポイント引き上げる考えを示しています。ウォーシュ議長が「AIは期待外れになりうる」という趣旨の発言をしたことも、ハイテク株の重しになりました。きょうは10月の小売売上高とエヌビディア決算が注目点です。
 
 ### 日本の経済
 
@@ -67,7 +67,7 @@ permalink: /2026/11/17/daily-briefing/
 
 ## 今日の注目銘柄・セクター
 
-- **エヌビディア**：フアンCEOの辞任発表後も売りが続き、きのうは[約4%下落](https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic)しました。きょうの決算で、暫定体制のもとの見通しがどう示されるかが焦点です。
+- **エヌビディア**：フアンCEOの辞任発表後も売りが続き、きのうは[4.1%下落](https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7)しました。きょうの決算で、暫定体制のもとの見通しがどう示されるかが焦点です。
 - **アドバンテスト・東京エレクトロン**：日本の半導体関連の代表格で、2銘柄だけで日経平均を[約1,071円押し下げ](https://kabutan.jp/news/marketnews/?b=n202611161056)ました。米半導体株安がそのまま波及しました。
 - **アマゾン**：新たなAI半導体の輸出規制と衛星打ち上げの失敗が重なり、[約3%下落](https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-amazon-falls-on-new-ai-chip-export-rule-and-leo-satellite-launch-failure/)しました。
 - **エネルギーセクター**：原油安で売られやすい地合いです。
@@ -84,17 +84,26 @@ permalink: /2026/11/17/daily-briefing/
 <div class="post-sources" markdown="1">
 
 **出典：**
-- [日経平均大引け（ウエルスアドバイザー／Yahoo!ファイナンス）](https://finance.yahoo.co.jp/news/detail/51026bee69890da5d51de568999427306fa352d7)
-- [日経平均大引け（財経新聞）](https://www.zaikei.co.jp/article/20261116/877819.html)
+- [NVIDIA 第3四半期決算発表予定](https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873)
+- [日経平均 11月16日終値（日経インデックス）](https://indexes.nikkei.co.jp/en/nkave/archives/summary?dt=20261116&idx=nk225)
 - [日経平均寄与度ランキング（株探）](https://kabutan.jp/news/marketnews/?b=n202611161056)
+- [FRBウォーラー理事講演](https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm)
+- [2026年7～9月期GDP（内閣府）](https://www5.cao.go.jp/keizai1/danwa/1116_danwa.pdf)
 - [日本GDP 7-9月期（OANDA）](https://www.oanda.jp/lab-education/market_news/jpgdp-q3-2026-review/)
-- [Stock market today, Nov. 16（Yahoo Finance）](https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html)
-- [Oil Retreats as Traders Weigh Supply Glut（Rigzone）](https://www.rigzone.com/news/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article)
-- [Treasury yields（CNBC）](https://www.cnbc.com/2026/11/16/treasury-yields-bonds-inflation.html)
-- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- [ドル円相場（外為どっとコム）](https://www.gaitame.com/media/entry/2026/11/16/110625)
+- [NVIDIA CEO移行（SEC）](https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm)
+- [Anthropic IPO目論見書（SEC）](https://www.sec.gov/Archives/edgar/data/2130357/000162828026073040/anthropicpbc-fwpxeeaprospea.htm)
+- [トランプ大統領発言（NBC News）](https://www.nbcnews.com/politics/politics-news/live-blog/trump-press-secretary-role-ufc-ceo-dana-white-stephen-miller-congress-rcna608064)
+- [米航空便の混乱（NPR）](https://npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday)
 - [Europe Tonight（Euronews）](https://euronews.com/2026/11/16/europe-tonight-five-eu-states-announce-rwanda-deportation-hubs-as-eu-warns-russia-is-weapo)
-- 市場データ: [frankfurter API](https://api.frankfurter.app/) ／ Yahoo Finance ほか
+- [EU制裁（RTÉ）](https://www.rte.ie/news/europe/2026/1116/1599321-eu-ukraine-politics/)
+- [EU・シリア関係（The National）](https://www.thenationalnews.com/news/mena/2026/11/16/stable-syria-in-europes-interest-eu-wins-backing-for-deal-with-damascus/)
+- [米国株とエヌビディア（AP通信）](https://apnews.com/article/stocks-markets-ai-nvidia-oil-us-35786b8f539ec95f16ae0500f71cfcc7)
+- [Oil Retreats as Traders Weigh Supply Glut（Rigzone）](https://www.rigzone.com/news/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article)
+- [9月FOMC声明（FRB）](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm)
+- [アマゾン株（Motley Fool）](https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-amazon-falls-on-new-ai-chip-export-rule-and-leo-satellite-launch-failure/)
+- [11月16日為替レート（Frankfurter API）](https://api.frankfurter.app/2026-11-16?from=USD&to=JPY)
 
-*本記事は公開情報をもとに作成しています。*
+*本記事は公開情報をもとにAIが作成しています。投資助言ではありません。*
 
 </div>
