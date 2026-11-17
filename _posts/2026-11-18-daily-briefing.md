@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米AI半導体規制強化で日経平均801円安、NVIDIA決算は市場予想上回る｜11月18日のニュースとお金"
-date: 2026-11-18 08:30:00 +0900
+date: 2026-11-18 08:14:08 +0900
 categories: [ニュース, 経済]
 headline: "米AI半導体規制強化で日経平均801円安、NVIDIA決算は市場予想上回る"
 permalink: /2026/11/18/daily-briefing/
