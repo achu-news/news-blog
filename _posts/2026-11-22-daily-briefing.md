@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "AI株の急落が世界に波及、S&P500は調整局面入り｜11月22日のニュースとお金"
-date: 2026-11-22 07:55:00 +0900
+date: 2026-11-22 07:41:00 +0900
 categories: [ニュース, 経済]
 headline: "AI株の急落が世界に波及、S&P500は調整局面入り"
 permalink: /2026/11/22/daily-briefing/

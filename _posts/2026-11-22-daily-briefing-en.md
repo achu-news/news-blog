@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "AI Selloff Pushes S&P 500 Into Correction, Nasdaq Posts Worst Week Since 2020 — November 22, 2026"
-date: 2026-11-22 07:55:00 +0900
+date: 2026-11-22 07:41:00 +0900
 headline: "AI Selloff Pushes S&P 500 Into Correction, Nasdaq Posts Worst Week Since 2020"
 permalink: /2026/11/22/daily-briefing/
 ---
