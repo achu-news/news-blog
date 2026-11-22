@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米ナスダック5%急落、日経平均は3000円安｜11月23日のニュースとお金"
-date: 2026-11-23 07:45:00 +0900
+date: 2026-11-23 07:20:00 +0900
 categories: [ニュース, 経済]
 headline: "米ナスダック5%急落、日経平均は3000円安"
 permalink: /2026/11/23/daily-briefing/

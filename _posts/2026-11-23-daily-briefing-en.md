@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Nasdaq plunges 5% as AI selloff hits Nvidia — November 23, 2026"
-date: 2026-11-23 07:45:00 +0900
+date: 2026-11-23 07:20:00 +0900
 headline: "Nasdaq plunges 5% as AI selloff hits Nvidia"
 permalink: /2026/11/23/daily-briefing/
 ---
