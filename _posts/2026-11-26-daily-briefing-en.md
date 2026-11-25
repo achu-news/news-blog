@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Hot PCE inflation and new tariff proposals rattle markets — November 26, 2026"
-date: 2026-11-26 07:50:00 +0900
+date: 2026-11-26 07:40:00 +0900
 headline: "Hot PCE inflation and new tariff proposals rattle markets"
 permalink: /2026/11/26/daily-briefing/
 ---

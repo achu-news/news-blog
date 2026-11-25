@@ -2,7 +2,7 @@
 layout: post
 lang: ja
 title: "米PCE 3.8%に加速、米新関税案で世界株安｜11月26日のニュースとお金"
-date: 2026-11-26 07:50:00 +0900
+date: 2026-11-26 07:40:00 +0900
 categories: [ニュース, 経済]
 headline: "米PCE 3.8%に加速、米新関税案で世界株安"
 permalink: /2026/11/26/daily-briefing/
