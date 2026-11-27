@@ -1,36 +1,36 @@
 ---
 layout: post
 lang: en
-title: "Wall Street Surges in Shortened Black Friday Session as Tech Rebounds — November 28, 2026"
+title: "Nasdaq Rises 2.3% in Black Friday Trading — November 28, 2026"
 date: 2026-11-28 07:38:00 +0900
-headline: "Wall Street Surges in Shortened Black Friday Session as Tech Rebounds"
+headline: "Nasdaq Rises 2.3% in Black Friday Trading"
 permalink: /2026/11/28/daily-briefing/
 ---
 
 ## Top U.S. Stories
 
-- U.S. stocks closed sharply higher in the shortened post-Thanksgiving session on Friday. The Dow rose [591.99 points to 50,774.94](https://www.jiji.com/jc/article?k=2026112800086&g=int&m=rss), its fourth straight gain.
-  *Why it matters:* Gains were led by tech and AI-linked shares, which had been under pressure. Thin, half-day trading can exaggerate moves, so Monday's session is the real test.
-- The Nasdaq Composite jumped [543.70 points to 24,129.50](https://www.jiji.com/jc/article?k=2026112800086&g=int&m=rss), outpacing the other major indexes.
-- Markets were closed Thursday for Thanksgiving and ended at 1 p.m. ET on Friday; regular trading resumes Monday, November 30.
-- President Trump said Friday that Vladimir Putin wants to end the war in Ukraine, even as talks remain [stuck on territory](https://ukrainetoday.org/kushner-accused-ukraine-of-delaying-negotiations-due-to-attack-on-putins-residence/) with no date set for the next round.
+- U.S. stocks closed sharply higher in the shortened post-Thanksgiving session on Friday. The Dow rose [591.99 points to 50,774.94](https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2), its fourth straight gain.
+  *Why it matters:* Gains were led by tech and AI-linked shares, which had been under pressure. Thin, half-day trading can exaggerate moves, so Monday’s full session will show whether gains hold.
+- The Nasdaq Composite jumped [543.70 points to 24,129.50](https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2), outpacing the other major indexes.
+- The NYSE was closed Thursday for Thanksgiving and [closed early at 1 p.m. ET on Friday](https://www.nyse.com/trade/hours-calendars); regular trading resumes Monday, November 30.
+- President Trump said Thursday that he [believes Vladimir Putin wants a deal to end the war in Ukraine](https://kathmandupost.com/world/2026/11/27/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe). U.S. envoy Jared Kushner said the talks remain [stalled over territory](https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e).
   *Why it matters:* Any breakthrough or breakdown in peace talks can move energy prices and European markets.
-- An extraordinary EU summit in Brussels [ended without a deal](https://www.intellinews.com/eu-summit-breaks-up-without-budget-deal-as-holdouts-stall-45bn-ukraine-loan-489028/) on the bloc's seven-year budget or a new €45 billion loan for Ukraine; leaders plan to try again on December 17.
+- An extraordinary EU summit in Brussels [ended without a deal](https://apnews.com/article/europe-budget-ukraine-2028-summit-costa-fd025046850b824b2e62def18408c6b6) on the bloc’s seven-year budget or a new Ukraine loan. The European Commission is proposing [up to €45 billion in additional support for 2027](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2454/IP_26_2454_EN.pdf). Talks are expected to resume at the [December 17–18 summit](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/).
 
 ## Compass Insight
 
-Friday's rally looks like a buy-back in AI and semiconductor names after a stretch of selling, and Tokyo's Nikkei 225 echoed it, rising 1,211.95 points to 58,711.11. Both moves are encouraging, but the U.S. session was short and thinly traded, so one day does not make a trend. Meanwhile the dollar sits near 159.6 yen and oil is above $83 a barrel, a combination that keeps pressure on energy and import costs for households. In the short term, watch Sunday's OPEC+ meeting and Monday's full U.S. session. Over the medium term, the question is whether the tech rebound is backed by earnings, and whether the EU budget fight spills into Ukraine funding and broader financial conditions.
+Friday’s rallies in Tokyo and New York came as buyers returned to technology shares. The Nikkei rose for a second straight session, gaining 1,211.95 yen to close at 58,711.11. Both moves are encouraging, but the U.S. session was short and thinly traded, so one day does not make a trend. Meanwhile the dollar was in the upper 159-yen range and WTI settled just above $83 a barrel. A weak yen and higher oil prices can put pressure on import and fuel costs. In the short term, watch [Sunday’s OPEC+ meeting](https://www.opec.org/pr-detail/605-7-june-2026.html) and Monday's full U.S. session. Over the medium term, the question is whether the tech rebound is backed by earnings, and whether the EU budget fight spills into Ukraine funding and broader financial conditions.
 
 ## Markets
 
-- **Dow:** 50,774.94, up 1.18%. **Nasdaq Composite:** 24,129.50, up 2.31%. The S&P 500 also gained roughly 1.6% (sources differ by a few points on the exact close).
-- **WTI crude (January):** [$83.08 a barrel](https://news.yahoo.co.jp/articles/a4a64e462620e33da83192687ca1deeae6dba6ff), down $0.60 from Wednesday's settle, as traders waited for the OPEC+ meeting scheduled for November 29. A projectile attack that [halted part of a Saudi refinery in Jizan](https://news.yahoo.co.jp/articles/70f383b533eeed54cbe00a3228e50dff96f69f7d) kept a floor under prices.
-- **USD/JPY:** about 159.6 yen in New York, with the ECB reference rate at [159.54 on November 27](https://api.frankfurter.app/latest?from=USD&to=JPY).
-- **Nikkei 225:** [58,711.11, up 1,211.95 points](https://www.nikkei.com/article/DGXZQOFL265XK0W6A121C2000000/) on Friday.
+- [U.S. closes, November 27](https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2): Dow 50,774.94 (+1.18%); S&P 500 7,297.49 (+114.71 points, +1.60%); Nasdaq Composite 24,129.50 (+2.31%). Changes are from Wednesday’s close.
+- **WTI crude (January):** [settled at $83.08 a barrel](https://fxplus.xmtrading.com/market-report/dzh261128047.html), down $0.60 from Wednesday’s settlement. A strike on Saudi Arabia’s [Jazan refinery temporarily halted some operations](https://spa.gov.sa/en/w2737172), adding to concerns about supplies ahead of the OPEC+ meeting.
+- **USD/JPY:** reached [159.60 in trading](https://jp.investing.com/currencies/usd-jpy-historical-data); the November 27 rate derived from the ECB’s reference rates was [159.54](https://api.frankfurter.app/2026-11-27?from=USD&to=JPY).
+- **Nikkei 225:** [58,711.11, up 1,211.95 yen (+2.11%)](https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20261127&idx=nk225) on Friday.
 
 ## Stocks in Focus
 
-- **Semiconductors and AI-linked tech:** The group led the rebound in both Tokyo and New York after weeks of selling. Moves in this area can be sharp in both directions.
+- **Semiconductors and AI-linked tech:** Technology shares helped drive the rebound in [New York](https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613) and [Tokyo](https://finance.matsui.co.jp/news/644185/index). Moves in this area can be sharp in both directions.
 - **Energy:** Crude held in the low $80s on Middle East supply worries ahead of the OPEC+ decision.
 
 *This is information only, not a recommendation to buy or sell any security.*
@@ -38,13 +38,21 @@ Friday's rally looks like a buy-back in AI and semiconductor names after a stret
 <div class="post-sources" markdown="1">
 
 **Sources:**
-- [Jiji Press: NY stocks rise for fourth day, Dow up 591 points](https://www.jiji.com/jc/article?k=2026112800086&g=int&m=rss)
-- [Nikkei: Tokyo close, Nikkei 225 rebounds](https://www.nikkei.com/article/DGXZQOFL265XK0W6A121C2000000/)
-- [Kyodo via Yahoo Japan: NY crude falls, settles in the $83 range](https://news.yahoo.co.jp/articles/a4a64e462620e33da83192687ca1deeae6dba6ff)
-- [Kyodo via Yahoo Japan: Attack on southern Saudi refinery](https://news.yahoo.co.jp/articles/70f383b533eeed54cbe00a3228e50dff96f69f7d)
-- [bne IntelliNews: EU summit breaks up without budget deal](https://www.intellinews.com/eu-summit-breaks-up-without-budget-deal-as-holdouts-stall-45bn-ukraine-loan-489028/)
-- [Ukraine Today: Kushner says talks hit territorial deadlock](https://ukrainetoday.org/kushner-accused-ukraine-of-delaying-negotiations-due-to-attack-on-putins-residence/)
-- Market data: [frankfurter API](https://api.frankfurter.app/)
+- [AP: November 27 U.S. index closes](https://apnews.com/article/wall-street-stocks-dow-nasdaq-04dab6079cf7f3dfe7285a3cc1f240a2)
+- [AP: November 27 equity and Treasury markets](https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613)
+- [NYSE: Holiday and trading hours](https://www.nyse.com/trade/hours-calendars)
+- [Nikkei Indexes: November 27 daily summary](https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20261127&idx=nk225)
+- [Kabutan: November 27 Tokyo market close](https://finance.matsui.co.jp/news/644185/index)
+- [Frankfurter: November 27 USD/JPY reference rate](https://api.frankfurter.app/2026-11-27?from=USD&to=JPY)
+- [Investing.com: November 27 USD/JPY daily data](https://jp.investing.com/currencies/usd-jpy-historical-data)
+- [DZH Financial Research: November 27 WTI settlement](https://fxplus.xmtrading.com/market-report/dzh261128047.html)
+- [OPEC: November 29 ministerial meeting](https://www.opec.org/pr-detail/605-7-june-2026.html)
+- [Saudi Press Agency: Energy Ministry statement on Jazan refinery](https://spa.gov.sa/en/w2737172)
+- [European Council: November 26–27 special summit](https://www.consilium.europa.eu/en/meetings/european-council/2026/11/26-27/)
+- [AP: EU budget and Ukraine loan talks](https://apnews.com/article/europe-budget-ukraine-2028-summit-costa-fd025046850b824b2e62def18408c6b6)
+- [European Commission: Additional Ukraine support proposal](https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_2454/IP_26_2454_EN.pdf)
+- [Reuters: Trump’s comments on Ukraine peace talks](https://kathmandupost.com/world/2026/11/27/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe)
+- [AP: Ukraine peace talks and the territorial dispute](https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e)
 
 </div>
 
