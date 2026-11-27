@@ -2,7 +2,7 @@
 layout: post
 lang: en
 title: "Wall Street Surges in Shortened Black Friday Session as Tech Rebounds — November 28, 2026"
-date: 2026-11-28 07:50:00 +0900
+date: 2026-11-28 07:38:00 +0900
 headline: "Wall Street Surges in Shortened Black Friday Session as Tech Rebounds"
 permalink: /2026/11/28/daily-briefing/
 ---
